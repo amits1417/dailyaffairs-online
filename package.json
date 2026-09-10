@@ -1,0 +1,19 @@
+{
+  "name": "indiabix-multilingual-clone",
+  "version": "1.0.0",
+  "description": "IndiaBIX Current Affairs clone with English, Hindi, and Gujarati support and automated daily scraping",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "scrape": "node scripts/manual-scrape.js"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0-rc.12",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3"
+  }
+}

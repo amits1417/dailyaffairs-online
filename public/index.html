@@ -1,0 +1,331 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DailyAffairs.online - Daily Multilingual Current Affairs (Gujarati, Hindi, English)</title>
+    <!-- Remix Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- INITIAL LANGUAGE SELECTION MODAL -->
+    <div class="modal-overlay" id="languageModal">
+        <div class="modal-card">
+            <div class="modal-title">Select Content Language</div>
+            <div class="modal-subtitle">Choose the language for Question, Options, and Explanations. You can change this anytime from the header.</div>
+            
+            <div class="lang-options-grid">
+                <div class="lang-card-option" onclick="selectInitialLanguage('gu')">
+                    <div class="lang-info">
+                        <div class="lang-name-native lang-content-gu">ગુજરાતી</div>
+                        <div class="lang-name-eng">Gujarati</div>
+                    </div>
+                    <i class="ri-arrow-right-line"></i>
+                </div>
+
+                <div class="lang-card-option" onclick="selectInitialLanguage('hi')">
+                    <div class="lang-info">
+                        <div class="lang-name-native lang-content-hi">हिंदी</div>
+                        <div class="lang-name-eng">Hindi</div>
+                    </div>
+                    <i class="ri-arrow-right-line"></i>
+                </div>
+
+                <div class="lang-card-option" onclick="selectInitialLanguage('en')">
+                    <div class="lang-info">
+                        <div class="lang-name-native">English</div>
+                        <div class="lang-name-eng">Default</div>
+                    </div>
+                    <i class="ri-arrow-right-line"></i>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- CUSTOM VISUAL CALENDAR MODAL -->
+    <div class="modal-overlay" id="dateModal" onclick="closeDateModal()">
+        <div class="modal-card" onclick="event.stopPropagation()">
+            <div class="modal-title">Select Date</div>
+            
+            <!-- Custom Calendar Grid Widget -->
+            <div class="custom-calendar-card">
+                <div class="calendar-header">
+                    <button class="btn-cal-arrow" onclick="changeCalendarMonth(-1)" title="Previous Month">
+                        <i class="ri-arrow-left-s-line"></i>
+                    </button>
+                    <div class="calendar-month-title" id="txtCalMonthYear">September 2026</div>
+                    <button class="btn-cal-arrow" onclick="changeCalendarMonth(1)" title="Next Month">
+                        <i class="ri-arrow-right-s-line"></i>
+                    </button>
+                </div>
+
+                <div class="calendar-weekdays">
+                    <div>Sun</div>
+                    <div>Mon</div>
+                    <div>Tue</div>
+                    <div>Wed</div>
+                    <div>Thu</div>
+                    <div>Fri</div>
+                    <div>Sat</div>
+                </div>
+
+                <div class="calendar-days-grid" id="calDaysGrid">
+                    <!-- Dynamically populated day cells -->
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- PDF EXPORT CONFIGURATION MODAL -->
+    <div class="modal-overlay" id="pdfExportModal" onclick="closePdfExportModal()">
+        <div class="modal-card" onclick="event.stopPropagation()" style="max-width: 520px;">
+            <div class="modal-title" style="display:flex; align-items:center; gap:8px;">
+                <i class="ri-file-pdf-2-line" style="color:var(--primary-color); font-size:1.6rem;"></i>
+                Export Current Affairs PDF
+            </div>
+            <div class="modal-subtitle">Download questions with options, correct answer & detailed explanations month-wise or by custom date range.</div>
+
+            <div style="margin-top: 20px;">
+                <div style="display:flex; gap:10px; margin-bottom:16px;">
+                    <label style="flex:1; padding:12px; border:1.5px solid var(--primary-border); border-radius:8px; cursor:pointer; font-weight:600; text-align:center; font-size:0.9rem;">
+                        <input type="radio" name="pdfExportType" value="month" checked onchange="togglePdfExportType('month')"> Month-Wise PDF
+                    </label>
+                    <label style="flex:1; padding:12px; border:1.5px solid var(--primary-border); border-radius:8px; cursor:pointer; font-weight:600; text-align:center; font-size:0.9rem;">
+                        <input type="radio" name="pdfExportType" value="custom" onchange="togglePdfExportType('custom')"> Custom Date Range
+                    </label>
+                </div>
+
+                <div id="pdfMonthSection">
+                    <label style="display:block; font-size:0.85rem; font-weight:700; margin-bottom:6px; color:var(--text-muted);">SELECT MONTH</label>
+                    <select id="pdfSelectMonth" class="font-dropdown-select" style="width:100%; padding:10px; margin-bottom:16px;">
+                        <option value="All">All Available Months</option>
+                        <option value="2026-09">September 2026</option>
+                        <option value="2026-08">August 2026</option>
+                    </select>
+                </div>
+
+                <div id="pdfCustomDateSection" style="display:none;">
+                    <div style="display:grid; grid-template-columns:1fr 1fr; gap:12px; margin-bottom:16px;">
+                        <div>
+                            <label style="display:block; font-size:0.85rem; font-weight:700; margin-bottom:6px; color:var(--text-muted);">FROM DATE</label>
+                            <input type="date" id="pdfStartDate" class="font-dropdown-select" style="width:100%; padding:9px;">
+                        </div>
+                        <div>
+                            <label style="display:block; font-size:0.85rem; font-weight:700; margin-bottom:6px; color:var(--text-muted);">TO DATE</label>
+                            <input type="date" id="pdfEndDate" class="font-dropdown-select" style="width:100%; padding:9px;">
+                        </div>
+                    </div>
+                </div>
+
+                <div style="margin-bottom:20px;">
+                    <label style="display:block; font-size:0.85rem; font-weight:700; margin-bottom:6px; color:var(--text-muted);">TOPIC / CATEGORY</label>
+                    <select id="pdfSelectCategory" class="font-dropdown-select" style="width:100%; padding:10px;">
+                        <option value="All">All Topics & Categories</option>
+                    </select>
+                </div>
+
+                <div style="display:flex; justify-content:flex-end; gap:10px;">
+                    <button class="btn-tool" onclick="closePdfExportModal()" style="padding:10px 18px;">Cancel</button>
+                    <button class="btn-tool" onclick="generatePdfExport()" style="background:var(--primary-color); color:white; padding:10px 20px;">
+                        <i class="ri-printer-line"></i> Generate & Export PDF
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- NAVIGATION HEADER -->
+    <header class="navbar">
+        <div class="container nav-container">
+            <a href="#" class="brand-logo">
+                <img src="logo.jpg" alt="DailyAffairs.online Logo" class="brand-logo-img">
+                <div class="brand-text-wrap">
+                    <span class="brand-main-text">DailyAffairs</span><span class="brand-tld-text">.online</span>
+                </div>
+            </a>
+
+            <div class="nav-actions">
+                <!-- Granular Font Size Stepper (- / +) (Desktop) -->
+                <div class="font-size-control desktop-only">
+                    <button class="font-size-btn" onclick="adjustFontSize(-2)" title="Decrease Font Size (Min 8px)">
+                        <i class="ri-subtract-line"></i>
+                    </button>
+                    <button class="font-size-btn" onclick="adjustFontSize(2)" title="Increase Font Size (Max 100px)">
+                        <i class="ri-add-line"></i>
+                    </button>
+                </div>
+
+                <!-- Secondary Content Language Switcher Pills (Desktop) -->
+                <div class="lang-selector-nav desktop-only">
+                    <button class="lang-btn-pill lang-content-gu" id="btnLangGu" onclick="switchLanguage('gu')">ગુજરાતી</button>
+                    <button class="lang-btn-pill lang-content-hi" id="btnLangHi" onclick="switchLanguage('hi')">हिंदी</button>
+                    <button class="lang-btn-pill" id="btnLangEn" onclick="switchLanguage('en')">English</button>
+                </div>
+
+                <!-- Date Picker Group with Left/Right Day Nav Arrows in Header -->
+                <div class="header-date-group" id="headerDateGroup">
+                    <button class="header-date-arrow-btn" onclick="navigateDay(-1)" title="Previous Day">
+                        <i class="ri-arrow-left-s-line"></i>
+                    </button>
+                    <button class="nav-date-btn" id="navDateBtn" title="Open Visual Calendar" onclick="openDateModal()">
+                        <i class="ri-calendar-event-line"></i>
+                        <span id="txtHeaderDate">Loading date...</span>
+                    </button>
+                    <button class="header-date-arrow-btn" onclick="navigateDay(1)" title="Next Day">
+                        <i class="ri-arrow-right-s-line"></i>
+                    </button>
+                </div>
+
+                <!-- Theme Toggle Button (Desktop) -->
+                <button class="btn-icon desktop-only" title="Toggle Dark/Light Theme" onclick="toggleTheme()">
+                    <i class="ri-moon-line" id="themeIcon"></i>
+                </button>
+
+                <!-- Hamburger 3-Line Menu Button (Positioned on extreme right!) -->
+                <button class="btn-icon" id="btnHamburger" onclick="toggleMenuDrawer()" title="Open Navigation Menu">
+                    <i class="ri-menu-line"></i>
+                </button>
+            </div>
+        </div>
+    </header>
+
+    <!-- SIDE MENU DRAWER (3-Line Menu Modal) -->
+    <div class="menu-drawer-overlay" id="menuDrawer" onclick="closeMenuDrawer()">
+        <div class="menu-drawer-card" onclick="event.stopPropagation()">
+            <div class="menu-drawer-header">
+                <div class="menu-drawer-title">Navigation Menu</div>
+                <button class="btn-icon" onclick="closeMenuDrawer()"><i class="ri-close-line"></i></button>
+            </div>
+            
+            <div class="menu-drawer-items">
+                <!-- Mobile Only Controls (Language, Theme, Font Stepper) -->
+                <div class="drawer-mobile-only" style="border-bottom: 1px solid var(--border-color); padding-bottom: 16px; margin-bottom: 12px;">
+                    <div style="font-size: 0.75rem; font-weight: 800; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px;">Content Language</div>
+                    <div class="lang-selector-nav" style="display:flex; width:100%; justify-content:space-between; margin-bottom: 14px;">
+                        <button class="lang-btn-pill lang-content-gu" style="flex:1; text-align:center;" id="btnLangGuMob" onclick="switchLanguage('gu')">ગુજરાતી</button>
+                        <button class="lang-btn-pill lang-content-hi" style="flex:1; text-align:center;" id="btnLangHiMob" onclick="switchLanguage('hi')">हिंदी</button>
+                        <button class="lang-btn-pill" style="flex:1; text-align:center;" id="btnLangEnMob" onclick="switchLanguage('en')">English</button>
+                    </div>
+
+                    <div style="display:flex; align-items:center; justify-content:space-between; gap:10px;">
+                        <div style="display:flex; align-items:center; gap:8px;">
+                            <span style="font-size:0.8rem; font-weight:700; color:var(--text-dark);">Text Size:</span>
+                            <div class="font-size-control">
+                                <button class="font-size-btn" onclick="adjustFontSize(-2)"><i class="ri-subtract-line"></i></button>
+                                <button class="font-size-btn" onclick="adjustFontSize(2)"><i class="ri-add-line"></i></button>
+                            </div>
+                        </div>
+
+                        <button class="btn-tool" onclick="toggleTheme()" style="padding: 6px 12px;">
+                            <i class="ri-moon-line"></i> Theme
+                        </button>
+                    </div>
+                </div>
+
+                <div class="drawer-item active" id="drawerItemDaily" onclick="switchViewMode('daily'); closeMenuDrawer();">
+                    <i class="ri-calendar-line"></i>
+                    <div>
+                        <div class="drawer-item-title">Daily Current Affairs</div>
+                        <div class="drawer-item-sub">Date-wise daily updates & analysis</div>
+                    </div>
+                </div>
+
+                <div class="drawer-item" id="drawerItemTopic" onclick="switchViewMode('topic'); closeMenuDrawer();">
+                    <i class="ri-price-tag-3-line"></i>
+                    <div>
+                        <div class="drawer-item-title">Topic-Wise Current Affairs</div>
+                        <div class="drawer-item-sub">Filter by Month & Topic</div>
+                    </div>
+                </div>
+
+                <div class="drawer-item" id="drawerItemPdf" onclick="openPdfExportModal(); closeMenuDrawer();">
+                    <i class="ri-file-pdf-2-line" style="color:#ef4444;"></i>
+                    <div>
+                        <div class="drawer-item-title">Export PDF Report</div>
+                        <div class="drawer-item-sub">Month-wise or Custom Date Range PDF</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- MAIN CONTENT -->
+    <main class="main-wrapper">
+        <div class="container">
+            
+            <!-- PAGE TITLE CARD -->
+            <div class="page-header">
+                <div class="page-title">
+                    <i class="ri-flashlight-line" id="pageTitleIcon"></i>
+                    <span id="pageTitleText">Daily Current Affairs & Analysis</span>
+                </div>
+
+                <!-- TOPIC-WISE CONTROLS BAR (ONLY VISIBLE IN TOPIC-WISE VIEW) -->
+                <div class="controls-bar" id="topicControlsBar" style="display: none;">
+                    <div class="topic-controls-grid">
+                        <!-- Month Selector -->
+                        <div class="topic-select-wrapper">
+                            <i class="ri-calendar-event-line topic-select-icon"></i>
+                            <select id="monthSelect" class="topic-dropdown-select" onchange="filterTopicWise()">
+                                <option value="All">All Months</option>
+                                <option value="2026-09">September 2026</option>
+                                <option value="2026-08">August 2026</option>
+                            </select>
+                            <i class="ri-arrow-down-s-line topic-arrow-icon"></i>
+                        </div>
+
+                        <!-- Topic Selector -->
+                        <div class="topic-select-wrapper">
+                            <i class="ri-price-tag-3-line topic-select-icon"></i>
+                            <select id="categorySelect" class="topic-dropdown-select" onchange="filterTopicWise()">
+                                <option value="All">All Topics & Categories</option>
+                            </select>
+                            <i class="ri-arrow-down-s-line topic-arrow-icon"></i>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- TOP DAY NAVIGATION (PREVIOUS DAY / NEXT DAY) -->
+            <div class="day-nav-bar" id="dayNavBarTop" style="display: none; margin-bottom: 20px;">
+                <button class="btn-day-nav" onclick="navigateDay(-1)">
+                    <i class="ri-arrow-left-line"></i>
+                    <span id="txtPrevDayBtnTop">Previous Day</span>
+                </button>
+                <div style="font-weight: 700; color: var(--text-muted); font-size: 0.9rem;" id="txtDayNavCurrentDateTop">
+                    Date: 2026-09-08
+                </div>
+                <button class="btn-day-nav" onclick="navigateDay(1)">
+                    <span id="txtNextDayBtnTop">Next Day</span>
+                    <i class="ri-arrow-right-line"></i>
+                </button>
+            </div>
+
+            <!-- QUESTIONS CONTAINER -->
+            <div id="questionsList">
+                <!-- Dynamically populated -->
+            </div>
+
+            <!-- DAY NAVIGATION (PREVIOUS DAY / NEXT DAY) -->
+            <div class="day-nav-bar" id="dayNavBar" style="display: none;">
+                <button class="btn-day-nav" onclick="navigateDay(-1)">
+                    <i class="ri-arrow-left-line"></i>
+                    <span id="txtPrevDayBtn">Previous Day</span>
+                </button>
+                <div style="font-weight: 700; color: var(--text-muted); font-size: 0.9rem;" id="txtDayNavCurrentDate">
+                    Date: 2026-09-08
+                </div>
+                <button class="btn-day-nav" onclick="navigateDay(1)">
+                    <span id="txtNextDayBtn">Next Day</span>
+                    <i class="ri-arrow-right-line"></i>
+                </button>
+            </div>
+
+        </div>
+    </main>
+
+    <script src="app.js"></script>
+</body>
+</html>
