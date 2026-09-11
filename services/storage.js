@@ -7,6 +7,8 @@ const COLLECTION_NAME = 'questions';
 let client = null;
 let db = null;
 let questionsCollection = null;
+let cachedDates = null;
+let datesCacheTime = 0;
 
 async function connectDB() {
     if (questionsCollection) return questionsCollection;
@@ -41,6 +43,9 @@ async function saveQuestionsForDate(dateStr, translatedQuestions) {
         await collection.insertMany(shuffled);
     }
 
+    // Refresh dates cache
+    cachedDates = null;
+
     console.log(`[MongoDB] Saved ${shuffled.length} questions for ${dateStr}`);
 }
 
@@ -64,10 +69,17 @@ function shuffleQuestions(questions, dateStr) {
     return list;
 }
 
-async function getAvailableDates() {
+async function getAvailableDates(forceRefresh = false) {
+    const now = Date.now();
+    if (!forceRefresh && cachedDates && (now - datesCacheTime < 60000)) {
+        return cachedDates;
+    }
+    
     const collection = await connectDB();
     const dates = await collection.distinct('date');
-    return dates.sort().reverse();
+    cachedDates = dates.sort().reverse();
+    datesCacheTime = now;
+    return cachedDates;
 }
 
 async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null) {
@@ -87,7 +99,7 @@ async function getQuestions(dateStr, lang = 'en', category = null, searchQuery =
         query.category = category;
     }
 
-    let list = await collection.find(query).sort({ qno: 1 }).toArray();
+    let list = await collection.find(query).project({ [lang]: 1, en: 1, id: 1, date: 1, qno: 1, category: 1, answer: 1 }).sort({ qno: 1 }).toArray();
 
     const formatted = list.map(q => {
         const langContent = q[lang] || q['en'];
