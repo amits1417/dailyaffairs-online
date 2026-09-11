@@ -449,6 +449,34 @@ img, canvas {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 8px;
+    position: sticky;
+    top: 0;
+    background: var(--card-bg);
+    z-index: 10;
+    padding-bottom: 4px;
+}
+
+.calendar-header-center {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+}
+
+.cal-dropdown {
+    border: 1px solid var(--primary-border);
+    background: var(--primary-light);
+    color: var(--primary-color);
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.82rem;
+    font-weight: 700;
+    cursor: pointer;
+    outline: none;
+    font-family: var(--font-ui) !important;
+}
+
+.cal-dropdown:focus {
+    border-color: var(--primary-color);
 }
 
 .calendar-month-title {
@@ -490,6 +518,22 @@ img, canvas {
     color: var(--text-muted);
     text-transform: uppercase;
     font-family: var(--font-ui) !important;
+}
+
+.calendar-days-scroll {
+    max-height: 280px;
+    overflow-y: auto;
+    scrollbar-width: thin;
+    scrollbar-color: var(--primary-border) transparent;
+}
+
+.calendar-days-scroll::-webkit-scrollbar {
+    width: 4px;
+}
+
+.calendar-days-scroll::-webkit-scrollbar-thumb {
+    background: var(--primary-border);
+    border-radius: 4px;
 }
 
 .calendar-days-grid {

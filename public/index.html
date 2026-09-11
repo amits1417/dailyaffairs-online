@@ -55,7 +55,24 @@
                     <button class="btn-cal-arrow" onclick="changeCalendarMonth(-1)" title="Previous Month">
                         <i class="ri-arrow-left-s-line"></i>
                     </button>
-                    <div class="calendar-month-title" id="txtCalMonthYear">September 2026</div>
+                    <div class="calendar-header-center">
+                        <select id="calMonthSelect" class="cal-dropdown" onchange="changeCalendarMonthDirect(this.value)">
+                            <option value="0">January</option>
+                            <option value="1">February</option>
+                            <option value="2">March</option>
+                            <option value="3">April</option>
+                            <option value="4">May</option>
+                            <option value="5">June</option>
+                            <option value="6">July</option>
+                            <option value="7">August</option>
+                            <option value="8">September</option>
+                            <option value="9">October</option>
+                            <option value="10">November</option>
+                            <option value="11">December</option>
+                        </select>
+                        <select id="calYearSelect" class="cal-dropdown" onchange="changeCalendarYearDirect(this.value)">
+                        </select>
+                    </div>
                     <button class="btn-cal-arrow" onclick="changeCalendarMonth(1)" title="Next Month">
                         <i class="ri-arrow-right-s-line"></i>
                     </button>
@@ -71,8 +88,10 @@
                     <div>Sat</div>
                 </div>
 
-                <div class="calendar-days-grid" id="calDaysGrid">
-                    <!-- Dynamically populated day cells -->
+                <div class="calendar-days-scroll">
+                    <div class="calendar-days-grid" id="calDaysGrid">
+                        <!-- Dynamically populated day cells -->
+                    </div>
                 </div>
             </div>
         </div>

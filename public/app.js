@@ -1282,12 +1282,30 @@ function openDateModal() {
     if (state.date) {
         initCalendarStateFromDate(state.date);
     }
+    initCalendarDropdowns();
     renderCalendarGrid();
     document.getElementById('dateModal').classList.add('show');
 }
 
 function closeDateModal() {
     document.getElementById('dateModal').classList.remove('show');
+}
+
+function initCalendarDropdowns() {
+    const monthSel = document.getElementById('calMonthSelect');
+    const yearSel = document.getElementById('calYearSelect');
+    if (monthSel) monthSel.value = calendarState.month;
+
+    if (yearSel) {
+        yearSel.innerHTML = '';
+        for (let y = 2026; y >= 2025; y--) {
+            const opt = document.createElement('option');
+            opt.value = y;
+            opt.textContent = y;
+            yearSel.appendChild(opt);
+        }
+        yearSel.value = calendarState.year;
+    }
 }
 
 function changeCalendarMonth(delta) {
@@ -1299,13 +1317,28 @@ function changeCalendarMonth(delta) {
         calendarState.month = 0;
         calendarState.year++;
     }
+    updateCalendarDropdowns();
     renderCalendarGrid();
 }
 
-function renderCalendarGrid() {
-    const monthTitle = document.getElementById('txtCalMonthYear');
-    monthTitle.innerText = `${MONTH_NAMES[calendarState.month]} ${calendarState.year}`;
+function changeCalendarMonthDirect(monthVal) {
+    calendarState.month = parseInt(monthVal);
+    renderCalendarGrid();
+}
 
+function changeCalendarYearDirect(yearVal) {
+    calendarState.year = parseInt(yearVal);
+    renderCalendarGrid();
+}
+
+function updateCalendarDropdowns() {
+    const monthSel = document.getElementById('calMonthSelect');
+    const yearSel = document.getElementById('calYearSelect');
+    if (monthSel) monthSel.value = calendarState.month;
+    if (yearSel) yearSel.value = calendarState.year;
+}
+
+function renderCalendarGrid() {
     const daysGrid = document.getElementById('calDaysGrid');
     daysGrid.innerHTML = '';
 
