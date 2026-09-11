@@ -496,10 +496,7 @@ function renderQuestions() {
                 <div class="ques-left-col">
                     <div class="ques-meta">
                         <span class="ques-num">Q${q.qno}.</span>
-                        <div class="ques-meta-right">
-                            <span class="source-tag source-${q.source || 'indiabix'}">${q.source === 'gktoday' ? 'GKToday' : 'IndiaBIX'}</span>
-                            <span class="category-tag">${q.category || 'General'}</span>
-                        </div>
+                        <span class="category-tag">${q.category || 'General'}</span>
                     </div>
                     
                     <div class="ques-text ${langClass}">${q.question}</div>
