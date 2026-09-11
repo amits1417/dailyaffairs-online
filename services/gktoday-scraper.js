@@ -8,23 +8,29 @@ const MONTH_NAME_TO_NUM = {
 };
 
 /**
- * Parse GKToday date slug (daymonthyear) into YYYY-MM-DD
- * e.g. "11092026" -> "2026-09-11"
+ * Parse GKToday date from quiz URL
+ * URL format: /daily-current-affairs-quiz-{month}-{day}{year}/
+ * e.g. "daily-current-affairs-quiz-september-82026" -> "2026-09-08"
  */
-function parseGktodaySlug(slug) {
-    const match = slug.match(/^(\d{2})(\d{2})(\d{4})$/);
+function parseGktodayUrl(href) {
+    const match = href.match(/daily-current-affairs-quiz-([a-z]+)-(\d{1,2})(\d{4})/);
     if (!match) return null;
-    const [, day, month, year] = match;
-    return `${year}-${month}-${day}`;
+    const [, monthName, day, year] = match;
+    const monthNum = MONTH_NAME_TO_NUM[monthName];
+    if (!monthNum) return null;
+    const dayPadded = day.padStart(2, '0');
+    return `${year}-${monthNum}-${dayPadded}`;
 }
 
 /**
  * Build GKToday URL slug from YYYY-MM-DD date string
- * e.g. "2026-09-11" -> "11092026"
+ * e.g. "2026-09-08" -> "82026" (day + year, no leading zeros, no month)
+ * GKToday URL format: /daily-current-affairs-quiz-{month}-{day}{year}/
  */
 function buildSlugFromDate(dateStr) {
     const [year, month, day] = dateStr.split('-');
-    return `${day}${month}${year}`;
+    const dayNoZero = parseInt(day).toString();
+    return `${dayNoZero}${year}`;
 }
 
 /**
@@ -96,24 +102,27 @@ async function scrapeGktodayDate(dateStr) {
 
             // Question number
             const qnoText = container.find('span.quesno').text().trim();
-            const qno = parseInt(qnoText) || (index + 1);
+            const qno = parseInt(qnoText.replace('.', '')) || (index + 1);
 
-            // Question text (everything except the options block)
+            // Question text
             const questionText = container.clone().children().remove().end().text()
                 .replace(/\[[A-D]\]/g, '')
                 .replace(/\s+/g, ' ')
                 .trim();
 
-            // Options from sibling div
+            // Options from next sibling div
             const optionsRaw = container.next('.wp_quiz_question_options').text();
             const options = parseOptions(optionsRaw);
 
-            // Answer from next sibling
-            const answerRaw = container.nextAll('.ques_answer').first().text().trim();
+            // Find the answer container (wp_basic_quiz_answer div)
+            const answerContainer = container.nextAll('.wp_basic_quiz_answer').first();
+
+            // Answer
+            const answerRaw = answerContainer.find('.ques_answer').first().text().trim();
             const answer = extractAnswerLetter(answerRaw) || 'A';
 
             // Explanation from answer_hint
-            const explanation = container.nextAll('.answer_hint').first().text().trim()
+            const explanation = answerContainer.find('.answer_hint').first().text().trim()
                 .replace(/\s+/g, ' ');
 
             if (!questionText) return;
@@ -159,12 +168,9 @@ async function getLatestDatesFromGktodayIndex() {
 
         $('a[href*="/daily-current-affairs-quiz-"]').each((i, el) => {
             const href = $(el).attr('href');
-            const match = href.match(/daily-current-affairs-quiz-[a-z]+-(\d{8})\/?/);
-            if (match) {
-                const dateStr = parseGktodaySlug(match[1]);
-                if (dateStr) {
-                    dates.add(dateStr);
-                }
+            const dateStr = parseGktodayUrl(href);
+            if (dateStr) {
+                dates.add(dateStr);
             }
         });
 
@@ -179,5 +185,5 @@ module.exports = {
     scrapeGktodayDate,
     getLatestDatesFromGktodayIndex,
     buildSlugFromDate,
-    parseGktodaySlug
+    parseGktodayUrl
 };
