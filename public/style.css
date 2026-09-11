@@ -749,10 +749,38 @@ img, canvas {
     font-family: var(--font-ui) !important;
 }
 
+.ques-meta-right {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
 .ques-num {
     font-weight: 800;
     color: var(--primary-color);
     font-size: 0.9rem;
+}
+
+.source-tag {
+    font-size: 0.68rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 10px;
+    font-family: var(--font-ui) !important;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+}
+
+.source-indiabix {
+    background: #dbeafe;
+    color: #1e40af;
+    border: 1px solid #93c5fd;
+}
+
+.source-gktoday {
+    background: #fef3c7;
+    color: #92400e;
+    border: 1px solid #fde047;
 }
 
 .category-tag {
@@ -1210,6 +1238,258 @@ img, canvas {
     font-size: 0.8rem;
     color: var(--text-muted);
     font-weight: 500;
+}
+
+/* ==========================================================================
+   PREMIUM LANDING PAGE STYLES
+   ========================================================================== */
+
+.landing-page {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px 0;
+    background: linear-gradient(135deg, var(--bg-page) 0%, var(--primary-light) 50%, var(--bg-page) 100%);
+}
+
+.landing-hero {
+    text-align: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.landing-badge {
+    display: inline-block;
+    background: linear-gradient(135deg, var(--primary-color), var(--primary-dark));
+    color: white;
+    padding: 6px 18px;
+    border-radius: 30px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+    box-shadow: 0 4px 15px rgba(37, 99, 235, 0.3);
+    font-family: var(--font-ui) !important;
+}
+
+.landing-title {
+    font-size: 2.8rem;
+    font-weight: 900;
+    color: var(--text-dark);
+    line-height: 1.15;
+    margin-bottom: 16px;
+    letter-spacing: -1px;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-highlight {
+    background: linear-gradient(135deg, var(--primary-color), #7c3aed);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.landing-subtitle {
+    font-size: 1.1rem;
+    color: var(--text-muted);
+    line-height: 1.6;
+    margin-bottom: 40px;
+    max-width: 560px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-cards-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    margin-bottom: 40px;
+}
+
+.landing-feature-card {
+    background: var(--card-bg);
+    border: 1.5px solid var(--border-color);
+    border-radius: 16px;
+    padding: 32px 24px;
+    text-align: left;
+    cursor: pointer;
+    transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    position: relative;
+    overflow: hidden;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-feature-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 4px;
+    background: linear-gradient(90deg, var(--primary-color), #7c3aed);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.landing-feature-card:hover {
+    border-color: var(--primary-color);
+    transform: translateY(-6px);
+    box-shadow: 0 20px 40px rgba(37, 99, 235, 0.15);
+}
+
+.landing-feature-card:hover::before {
+    opacity: 1;
+}
+
+.landing-card-icon {
+    width: 56px;
+    height: 56px;
+    border-radius: 14px;
+    background: linear-gradient(135deg, var(--primary-light), #dbeafe);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 18px;
+    font-size: 1.5rem;
+    color: var(--primary-color);
+}
+
+.landing-card-icon.topic-icon {
+    background: linear-gradient(135deg, #f0fdf4, #dcfce7);
+    color: #16a34a;
+}
+
+.landing-card-title {
+    font-size: 1.2rem;
+    font-weight: 800;
+    color: var(--text-dark);
+    margin-bottom: 8px;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-card-desc {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+    margin-bottom: 20px;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-card-action {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    color: var(--primary-color);
+    font-weight: 700;
+    font-size: 0.9rem;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-card-action i {
+    transition: transform 0.2s ease;
+}
+
+.landing-feature-card:hover .landing-card-action i {
+    transform: translateX(4px);
+}
+
+.landing-stats-row {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 24px;
+    margin-bottom: 32px;
+    padding: 20px 32px;
+    background: var(--card-bg);
+    border: 1px solid var(--border-color);
+    border-radius: 14px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.02);
+    font-family: var(--font-ui) !important;
+}
+
+.landing-stat {
+    text-align: center;
+}
+
+.landing-stat-num {
+    font-size: 1.4rem;
+    font-weight: 900;
+    color: var(--primary-color);
+    font-family: var(--font-ui) !important;
+}
+
+.landing-stat-label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-stat-divider {
+    width: 1px;
+    height: 36px;
+    background: var(--border-color);
+}
+
+.landing-sources {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-source-label {
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-weight: 600;
+    font-family: var(--font-ui) !important;
+}
+
+.landing-source-badge {
+    background: var(--primary-light);
+    color: var(--primary-color);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.78rem;
+    font-weight: 700;
+    border: 1px solid var(--primary-border);
+    font-family: var(--font-ui) !important;
+}
+
+.landing-source-badge.gktoday {
+    background: #fef3c7;
+    color: #92400e;
+    border-color: #fde047;
+}
+
+@media (max-width: 768px) {
+    .landing-title {
+        font-size: 1.9rem;
+    }
+    .landing-subtitle {
+        font-size: 0.95rem;
+    }
+    .landing-cards-grid {
+        grid-template-columns: 1fr;
+    }
+    .landing-feature-card {
+        padding: 24px 20px;
+    }
+    .landing-stats-row {
+        flex-wrap: wrap;
+        gap: 16px;
+        padding: 16px 20px;
+    }
+    .landing-stat-divider {
+        display: none;
+    }
 }
 
 /* ==========================================================================

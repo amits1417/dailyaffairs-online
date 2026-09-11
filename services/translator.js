@@ -137,6 +137,7 @@ async function translateQuestionItem(item) {
         qno: item.qno,
         answer: item.answer,
         category: item.category,
+        source: item.source || 'indiabix',
         en: {
             question: item.question,
             options: { ...item.options },

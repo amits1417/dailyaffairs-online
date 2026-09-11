@@ -1,3 +1,38 @@
+// Landing Page Functions
+function openSection(mode) {
+    const landing = document.getElementById('landingPage');
+    const main = document.getElementById('mainContent');
+    const btnHome = document.getElementById('btnHome');
+    if (landing) landing.style.display = 'none';
+    if (main) main.style.display = 'block';
+    if (btnHome) btnHome.style.display = 'flex';
+    switchViewMode(mode);
+    localStorage.setItem('landing_done', 'true');
+}
+
+function goHome() {
+    const landing = document.getElementById('landingPage');
+    const main = document.getElementById('mainContent');
+    const btnHome = document.getElementById('btnHome');
+    if (landing) landing.style.display = 'flex';
+    if (main) main.style.display = 'none';
+    if (btnHome) btnHome.style.display = 'none';
+    localStorage.removeItem('landing_done');
+}
+
+function checkLandingPage() {
+    const landing = document.getElementById('landingPage');
+    const main = document.getElementById('mainContent');
+    const btnHome = document.getElementById('btnHome');
+    if (!landing || !main) return;
+
+    if (localStorage.getItem('landing_done')) {
+        landing.style.display = 'none';
+        main.style.display = 'block';
+        if (btnHome) btnHome.style.display = 'flex';
+    }
+}
+
 // Initial Font Size Sanitization (Bound between 12px and 22px for mobile compatibility)
 let initialFontSize = parseInt(localStorage.getItem('user_font_size_px')) || 16;
 if (initialFontSize < 12 || initialFontSize > 22) {
@@ -169,6 +204,8 @@ function filterTopicWise() {
 
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
+    checkLandingPage();
+
     if (!localStorage.getItem('user_lang')) {
         document.getElementById('languageModal').classList.add('show');
     }
@@ -459,7 +496,10 @@ function renderQuestions() {
                 <div class="ques-left-col">
                     <div class="ques-meta">
                         <span class="ques-num">Q${q.qno}.</span>
-                        <span class="category-tag">${q.category || 'General'}</span>
+                        <div class="ques-meta-right">
+                            <span class="source-tag source-${q.source || 'indiabix'}">${q.source === 'gktoday' ? 'GKToday' : 'IndiaBIX'}</span>
+                            <span class="category-tag">${q.category || 'General'}</span>
+                        </div>
                     </div>
                     
                     <div class="ques-text ${langClass}">${q.question}</div>

@@ -1,23 +1,40 @@
 const cron = require('node-cron');
 const { scrapeIndiaBixDate, getLatestDatesFromIndex, formatDate } = require('./scraper');
+const { scrapeGktodayDate, getLatestDatesFromGktodayIndex } = require('./gktoday-scraper');
+const { deduplicateQuestions } = require('./deduplicator');
 const { translateQuestionItem } = require('./translator');
 const storage = require('./storage');
 
 /**
- * Sync current affairs for a specific date
+ * Sync current affairs for a specific date from BOTH sources with deduplication
  */
 async function syncDate(dateStr) {
-    console.log(`[Sync] Starting sync for date: ${dateStr}`);
-    const rawQuestions = await scrapeIndiaBixDate(dateStr);
-    
-    if (rawQuestions.length === 0) {
-        console.log(`[Sync] No questions found for ${dateStr}`);
+    console.log(`[Sync] Starting sync for date: ${dateStr} from IndiaBIX + GKToday`);
+
+    const [indiabixRaw, gktodayRaw] = await Promise.all([
+        scrapeIndiaBixDate(dateStr).catch(e => {
+            console.error(`[Sync] IndiaBIX error for ${dateStr}:`, e.message);
+            return [];
+        }),
+        scrapeGktodayDate(dateStr).catch(e => {
+            console.error(`[Sync] GKToday error for ${dateStr}:`, e.message);
+            return [];
+        })
+    ]);
+
+    console.log(`[Sync] IndiaBIX: ${indiabixRaw.length} questions, GKToday: ${gktodayRaw.length} questions`);
+
+    const mergedQuestions = deduplicateQuestions(indiabixRaw, gktodayRaw);
+
+    if (mergedQuestions.length === 0) {
+        console.log(`[Sync] No questions found for ${dateStr} from any source`);
         return 0;
     }
 
-    console.log(`[Sync] Translating ${rawQuestions.length} questions for ${dateStr}...`);
+    console.log(`[Sync] After dedup: ${mergedQuestions.length} unique questions for ${dateStr}`);
+    console.log(`[Sync] Translating ${mergedQuestions.length} questions for ${dateStr}...`);
     const translatedList = (await Promise.all(
-        rawQuestions.map(item => translateQuestionItem(item).catch(e => {
+        mergedQuestions.map(item => translateQuestionItem(item).catch(e => {
             console.error(`[Sync] Failed translating qno ${item.qno}:`, e.message);
             return null;
         }))
@@ -29,22 +46,25 @@ async function syncDate(dateStr) {
 }
 
 /**
- * Sync today and recent days automatically
+ * Sync today and recent days automatically from BOTH sources
  */
 async function autoSyncLatest() {
-    console.log('[AutoSync] Checking for latest daily updates...');
+    console.log('[AutoSync] Checking for latest daily updates from IndiaBIX + GKToday...');
     const todayStr = formatDate(new Date());
-    
-    // Scrape today
+
     await syncDate(todayStr);
 
-    // Check index page for recent dates
-    const indexDates = await getLatestDatesFromIndex();
+    const [indiabixDates, gktodayDates] = await Promise.all([
+        getLatestDatesFromIndex().catch(() => []),
+        getLatestDatesFromGktodayIndex().catch(() => [])
+    ]);
+
+    const allDates = [...new Set([...indiabixDates, ...gktodayDates])].sort().reverse();
     const availableDates = storage.getAvailableDates();
 
-    for (const d of indexDates.slice(0, 7)) {
+    for (const d of allDates.slice(0, 10)) {
         if (!availableDates.includes(d)) {
-            console.log(`[AutoSync] Found new date from index: ${d}`);
+            console.log(`[AutoSync] Found new date: ${d}`);
             await syncDate(d);
         }
     }
