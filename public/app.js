@@ -382,9 +382,9 @@ function renderEmptyStateWithAutoSync(dateStr) {
     <div class="ques-card" style="text-align:center; padding:50px;">
         <i class="ri-calendar-todo-line" style="font-size:3rem; color:var(--primary-color); margin-bottom:12px;"></i>
         <div style="font-size:1.2rem; font-weight:700; color:var(--text-dark); margin-bottom:8px;">No Current Affairs Cached for ${dateStr}</div>
-        <div style="color:var(--text-muted); font-size:0.95rem; margin-bottom:20px;">Click below to fetch & translate questions for this date live from IndiaBIX.</div>
+        <div style="color:var(--text-muted); font-size:0.95rem; margin-bottom:20px;">Click below to fetch questions for this date.</div>
         <button class="btn-tool" onclick="syncSpecificDate('${dateStr}')" style="margin: 0 auto; background:var(--primary-color); color:white; padding:10px 24px;">
-            <i class="ri-download-cloud-line"></i> Fetch & Translate ${dateStr}
+            <i class="ri-download-cloud-line"></i> Fetch Questions for ${formatDisplayDate(dateStr)}
         </button>
     </div>
     `;
