@@ -442,6 +442,7 @@ img, canvas {
     padding: 8px;
     border: 1px solid var(--border-color);
     font-family: var(--font-ui) !important;
+    width: 260px;
 }
 
 .calendar-header {
@@ -449,30 +450,30 @@ img, canvas {
     align-items: center;
     justify-content: space-between;
     margin-bottom: 8px;
-    position: sticky;
-    top: 0;
-    background: var(--card-bg);
-    z-index: 10;
     padding-bottom: 4px;
+    min-height: 36px;
 }
 
 .calendar-header-center {
     display: flex;
-    gap: 6px;
+    gap: 4px;
     align-items: center;
+    flex: 1;
+    justify-content: center;
 }
 
 .cal-dropdown {
     border: 1px solid var(--primary-border);
     background: var(--primary-light);
     color: var(--primary-color);
-    padding: 4px 8px;
+    padding: 4px 6px;
     border-radius: 6px;
-    font-size: 0.82rem;
+    font-size: 0.78rem;
     font-weight: 700;
     cursor: pointer;
     outline: none;
     font-family: var(--font-ui) !important;
+    min-width: 0;
 }
 
 .cal-dropdown:focus {
@@ -490,8 +491,10 @@ img, canvas {
     background: var(--primary-light);
     border: 1px solid var(--primary-border);
     color: var(--primary-color);
-    width: 26px;
-    height: 26px;
+    width: 28px;
+    height: 28px;
+    min-width: 28px;
+    min-height: 28px;
     border-radius: 6px;
     font-size: 0.9rem;
     font-weight: 700;
@@ -499,6 +502,7 @@ img, canvas {
     display: flex;
     align-items: center;
     justify-content: center;
+    flex-shrink: 0;
 }
 
 .btn-cal-arrow:hover {
@@ -521,7 +525,7 @@ img, canvas {
 }
 
 .calendar-days-scroll {
-    max-height: 280px;
+    height: 195px;
     overflow-y: auto;
     scrollbar-width: thin;
     scrollbar-color: var(--primary-border) transparent;
