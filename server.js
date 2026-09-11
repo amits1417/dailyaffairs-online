@@ -66,6 +66,21 @@ app.post('/api/sync', async (req, res) => {
     }
 });
 
+// API: Sync ALL available dates from both sources
+app.post('/api/sync-all', async (req, res) => {
+    try {
+        console.log('[API] Starting full sync from both sources...');
+        cronService.autoSyncLatest().then(() => {
+            console.log('[API] Full sync completed.');
+        }).catch(err => {
+            console.error('[API] Full sync error:', err);
+        });
+        res.json({ status: 'success', message: 'Full sync started. Check server logs for progress.' });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
 // API: System status
 app.get('/api/status', (req, res) => {
     res.json({
