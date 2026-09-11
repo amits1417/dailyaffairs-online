@@ -1,61 +1,57 @@
-const fs = require('fs');
-const path = require('path');
+const { MongoClient } = require('mongodb');
 
-const DATA_FILE = path.join(__dirname, '..', 'data', 'current_affairs.json');
+const MONGO_URI = process.env.MONGODB_URI || 'mongodb://localhost:27017';
+const DB_NAME = process.env.DB_NAME || 'dailyaffairs';
+const COLLECTION_NAME = 'questions';
 
-// Ensure data directory exists
-const dataDir = path.join(__dirname, '..', 'data');
-if (!fs.existsSync(dataDir)) {
-    fs.mkdirSync(dataDir, { recursive: true });
-}
+let client = null;
+let db = null;
+let questionsCollection = null;
 
-// Memory cache
-let dbData = {
-    dates: [],
-    questions: [] // Array of translated question items
-};
+async function connectDB() {
+    if (questionsCollection) return questionsCollection;
 
-function loadData() {
-    if (fs.existsSync(DATA_FILE)) {
-        try {
-            const fileContent = fs.readFileSync(DATA_FILE, 'utf8');
-            dbData = JSON.parse(fileContent);
-        } catch (e) {
-            console.error('Failed to parse current_affairs.json:', e.message);
-        }
-    }
-}
-
-function saveData() {
     try {
-        fs.writeFileSync(DATA_FILE, JSON.stringify(dbData, null, 2), 'utf8');
-    } catch (e) {
-        console.error('Failed to save current_affairs.json:', e.message);
+        client = new MongoClient(MONGO_URI);
+        await client.connect();
+        db = client.db(DB_NAME);
+        questionsCollection = db.collection(COLLECTION_NAME);
+
+        await questionsCollection.createIndex({ date: -1 });
+        await questionsCollection.createIndex({ date: 1, qno: 1 });
+
+        console.log('[MongoDB] Connected successfully');
+        return questionsCollection;
+    } catch (error) {
+        console.error('[MongoDB] Connection failed:', error.message);
+        throw error;
     }
 }
 
-// Initial load
-loadData();
+async function saveQuestionsForDate(dateStr, translatedQuestions) {
+    const collection = await connectDB();
 
-/**
- * Fisher-Yates Shuffle for questions list per date
- * Ensures IndiaBIX Q1 is never Q1 in our app if total questions > 1
- */
+    if (!translatedQuestions || translatedQuestions.length === 0) return;
+
+    await collection.deleteMany({ date: dateStr });
+
+    const shuffled = shuffleQuestions(translatedQuestions, dateStr);
+
+    if (shuffled.length > 0) {
+        await collection.insertMany(shuffled);
+    }
+
+    console.log(`[MongoDB] Saved ${shuffled.length} questions for ${dateStr}`);
+}
+
 function shuffleQuestions(questions, dateStr) {
     if (!questions || questions.length <= 1) return questions;
 
-    const originalFirstQuestion = questions[0]?.en?.question || questions[0]?.question;
     const list = [...questions];
 
     for (let i = list.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [list[i], list[j]] = [list[j], list[i]];
-    }
-
-    const currentFirstQuestion = list[0]?.en?.question || list[0]?.question;
-    if (list.length > 1 && originalFirstQuestion && currentFirstQuestion === originalFirstQuestion) {
-        const targetIdx = Math.floor(Math.random() * (list.length - 1)) + 1;
-        [list[0], list[targetIdx]] = [list[targetIdx], list[0]];
     }
 
     list.forEach((q, idx) => {
@@ -68,80 +64,31 @@ function shuffleQuestions(questions, dateStr) {
     return list;
 }
 
-/**
- * Save or update questions for a specific date (automatically shuffled)
- */
-function saveQuestionsForDate(dateStr, translatedQuestions) {
-    loadData(); // Re-sync from disk first
-
-    if (!translatedQuestions || translatedQuestions.length === 0) return;
-
-    // Filter out existing questions for this date
-    dbData.questions = dbData.questions.filter(q => q.date !== dateStr);
-
-    // Shuffle new questions before saving
-    const shuffled = shuffleQuestions(translatedQuestions, dateStr);
-
-    // Push new questions
-    dbData.questions.push(...shuffled);
-
-    // Update dates list (sorted descending)
-    if (!dbData.dates.includes(dateStr)) {
-        dbData.dates.push(dateStr);
-        dbData.dates.sort().reverse();
-    }
-
-    saveData();
+async function getAvailableDates() {
+    const collection = await connectDB();
+    const dates = await collection.distinct('date');
+    return dates.sort().reverse();
 }
 
-/**
- * Shuffle all existing questions in database for all dates
- */
-function shuffleAllExistingQuestions() {
-    loadData();
-    let updatedQuestions = [];
+async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null) {
+    const collection = await connectDB();
 
-    for (const dateStr of dbData.dates) {
-        const dateQuestions = dbData.questions.filter(q => q.date === dateStr);
-        if (dateQuestions.length > 0) {
-            const shuffled = shuffleQuestions(dateQuestions, dateStr);
-            updatedQuestions.push(...shuffled);
+    let query = {};
+    if (dateStr && dateStr !== 'all') {
+        query.date = dateStr;
+    } else if (!dateStr) {
+        const dates = await getAvailableDates();
+        if (dates.length > 0) {
+            query.date = dates[0];
         }
     }
 
-    dbData.questions = updatedQuestions;
-    saveData();
-    console.log(`✅ Shuffled existing questions for ${dbData.dates.length} dates in DB.`);
-}
-
-/**
- * Get available dates
- */
-function getAvailableDates() {
-    loadData(); // Re-read from disk to get latest changes
-    return dbData.dates || [];
-}
-
-/**
- * Get questions by date & language
- */
-function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null) {
-    loadData(); // Re-read from disk
-    let list = dbData.questions;
-
-    if (dateStr && dateStr !== 'all') {
-        list = list.filter(q => q.date === dateStr);
-    } else if (!dateStr && dbData.dates.length > 0) {
-        // Default to latest date if not specified
-        const latestDate = dbData.dates[0];
-        list = list.filter(q => q.date === latestDate);
-    }
-
     if (category && category !== 'All') {
-        list = list.filter(q => q.category && q.category.toLowerCase() === category.toLowerCase());
+        query.category = category;
     }
 
-    // Format output for requested language ('en', 'hi', 'gu')
+    let list = await collection.find(query).sort({ qno: 1 }).toArray();
+
     const formatted = list.map(q => {
         const langContent = q[lang] || q['en'];
         const fallbackEn = q['en'] || {};
@@ -160,7 +107,7 @@ function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null)
 
     if (searchQuery) {
         const qLower = searchQuery.toLowerCase();
-        return formatted.filter(item => 
+        return formatted.filter(item =>
             (item.question && item.question.toLowerCase().includes(qLower)) ||
             (item.explanation && item.explanation.toLowerCase().includes(qLower))
         );
@@ -169,25 +116,26 @@ function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null)
     return formatted;
 }
 
-/**
- * Get categories list
- */
-function getCategories() {
-    loadData();
-    const categoriesSet = new Set();
-    dbData.questions.forEach(q => {
-        if (q.category) categoriesSet.add(q.category);
-    });
-    return Array.from(categoriesSet);
+async function getCategories() {
+    const collection = await connectDB();
+    const categories = await collection.distinct('category');
+    return categories.filter(Boolean);
+}
+
+async function getQuestionCount(dateStr) {
+    const collection = await connectDB();
+    if (dateStr) {
+        return await collection.countDocuments({ date: dateStr });
+    }
+    return await collection.countDocuments();
 }
 
 module.exports = {
-    loadData,
-    saveData,
+    connectDB,
     saveQuestionsForDate,
     shuffleQuestions,
-    shuffleAllExistingQuestions,
     getAvailableDates,
     getQuestions,
-    getCategories
+    getCategories,
+    getQuestionCount
 };

@@ -14,11 +14,11 @@ app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
 
 // API: Get current affairs questions
-app.get('/api/current-affairs', (req, res) => {
+app.get('/api/current-affairs', async (req, res) => {
     try {
         const { date, lang = 'en', category, search } = req.query;
-        const questions = storage.getQuestions(date, lang, category, search);
-        const dates = storage.getAvailableDates();
+        const questions = await storage.getQuestions(date, lang, category, search);
+        const dates = await storage.getAvailableDates();
         const selectedDate = date || (dates.length > 0 ? dates[0] : null);
 
         res.json({
@@ -34,9 +34,9 @@ app.get('/api/current-affairs', (req, res) => {
 });
 
 // API: Get available dates
-app.get('/api/dates', (req, res) => {
+app.get('/api/dates', async (req, res) => {
     try {
-        const dates = storage.getAvailableDates();
+        const dates = await storage.getAvailableDates();
         res.json({ status: 'success', dates });
     } catch (error) {
         res.status(500).json({ status: 'error', message: error.message });
@@ -44,9 +44,9 @@ app.get('/api/dates', (req, res) => {
 });
 
 // API: Get categories
-app.get('/api/categories', (req, res) => {
+app.get('/api/categories', async (req, res) => {
     try {
-        const categories = storage.getCategories();
+        const categories = await storage.getCategories();
         res.json({ status: 'success', categories });
     } catch (error) {
         res.status(500).json({ status: 'error', message: error.message });
@@ -58,7 +58,7 @@ app.post('/api/sync', async (req, res) => {
     try {
         const { date } = req.body;
         const targetDate = date || (cronService.formatDate ? cronService.formatDate(new Date()) : '2026-08-02');
-        
+
         const count = await cronService.syncDate(targetDate);
         res.json({ status: 'success', count, message: `Sync completed for date ${targetDate}` });
     } catch (error) {
@@ -82,24 +82,36 @@ app.post('/api/sync-all', async (req, res) => {
 });
 
 // API: System status
-app.get('/api/status', (req, res) => {
-    res.json({
-        status: 'online',
-        uptime: process.uptime(),
-        availableDates: storage.getAvailableDates().length,
-        latestDate: storage.getAvailableDates()[0] || null
-    });
+app.get('/api/status', async (req, res) => {
+    try {
+        const dates = await storage.getAvailableDates();
+        const totalQuestions = await storage.getQuestionCount();
+        res.json({
+            status: 'online',
+            uptime: process.uptime(),
+            totalQuestions,
+            availableDates: dates.length,
+            latestDate: dates[0] || null
+        });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
 });
 
 // Start Server and Cron if executed directly
 if (require.main === module) {
-    app.listen(PORT, () => {
-        console.log(`===================================================`);
-        console.log(`🚀 DailyAffairs.online Server Running`);
-        console.log(`🌐 URL: http://localhost:${PORT}`);
-        console.log(`===================================================`);
+    storage.connectDB().then(() => {
+        app.listen(PORT, () => {
+            console.log(`===================================================`);
+            console.log(`🚀 DailyAffairs.online Server Running`);
+            console.log(`🌐 URL: http://localhost:${PORT}`);
+            console.log(`===================================================`);
 
-        cronService.initCron();
+            cronService.initCron();
+        });
+    }).catch(err => {
+        console.error('Failed to connect to MongoDB:', err);
+        process.exit(1);
     });
 }
 
