@@ -49,7 +49,7 @@ async function syncDate(dateStr) {
  * Sync today and recent days automatically from BOTH sources
  */
 async function autoSyncLatest() {
-    console.log('[AutoSync] Checking for latest daily updates from IndiaBIX + GKToday...');
+    console.log('[AutoSync] Checking for latest daily updates from both sources...');
     const todayStr = formatDate(new Date());
 
     await syncDate(todayStr);
@@ -62,7 +62,7 @@ async function autoSyncLatest() {
     const allDates = [...new Set([...indiabixDates, ...gktodayDates])].sort().reverse();
     const availableDates = storage.getAvailableDates();
 
-    for (const d of allDates.slice(0, 10)) {
+    for (const d of allDates) {
         if (!availableDates.includes(d)) {
             console.log(`[AutoSync] Found new date: ${d}`);
             await syncDate(d);

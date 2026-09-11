@@ -152,7 +152,6 @@ function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null)
             qno: q.qno,
             category: q.category,
             answer: q.answer,
-            source: q.source || 'indiabix',
             question: langContent.question || fallbackEn.question,
             options: langContent.options || fallbackEn.options,
             explanation: langContent.explanation || fallbackEn.explanation
