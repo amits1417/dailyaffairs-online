@@ -2,7 +2,7 @@ const cron = require('node-cron');
 const { scrapeIndiaBixDate, getLatestDatesFromIndex, formatDate } = require('./scraper');
 const { scrapeGktodayDate, getLatestDatesFromGktodayIndex } = require('./gktoday-scraper');
 const { deduplicateQuestions } = require('./deduplicator');
-const { translateQuestionItem } = require('./translator');
+const { translateQuestionsBulk } = require('./translator');
 const storage = require('./storage');
 
 /**
@@ -34,15 +34,20 @@ async function syncDate(dateStr) {
     console.log(`[Sync] After dedup: ${mergedQuestions.length} unique questions for ${dateStr}`);
     console.log(`[Sync] Translating ${mergedQuestions.length} questions for ${dateStr}...`);
     const translatedList = (await Promise.all(
-        mergedQuestions.map(item => translateQuestionItem(item).catch(e => {
-            console.error(`[Sync] Failed translating qno ${item.qno}:`, e.message);
+        [translateQuestionsBulk(mergedQuestions).catch(e => {
+            console.error(`[Sync] Failed translating for ${dateStr}:`, e.message);
             return null;
-        }))
+        })]
     )).filter(Boolean);
 
-    storage.saveQuestionsForDate(dateStr, translatedList);
-    console.log(`[Sync] Completed sync for ${dateStr}. Total saved: ${translatedList.length}`);
-    return translatedList.length;
+    if (translatedList.length === 0) {
+        console.log(`[Sync] Translation failed for ${dateStr}, skipping save`);
+        return 0;
+    }
+
+    storage.saveQuestionsForDate(dateStr, translatedList[0]);
+    console.log(`[Sync] Completed sync for ${dateStr}. Total saved: ${translatedList[0].length}`);
+    return translatedList[0].length;
 }
 
 /**
