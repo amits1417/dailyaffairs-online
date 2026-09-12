@@ -65,7 +65,7 @@ async function autoSyncLatest() {
     ]);
 
     const allDates = [...new Set([...indiabixDates, ...gktodayDates])].sort().reverse();
-    const availableDates = storage.getAvailableDates();
+    const availableDates = await storage.getAvailableDates();
 
     for (const d of allDates) {
         if (!availableDates.includes(d)) {
@@ -79,7 +79,7 @@ async function autoSyncLatest() {
  * Seed initial sample date if database is empty
  */
 async function seedInitialData() {
-    const existingDates = storage.getAvailableDates();
+    const existingDates = await storage.getAvailableDates();
     if (existingDates.length === 0) {
         console.log('[Seed] Database empty. Seeding initial target date 2026-08-02...');
         await syncDate('2026-08-02');
