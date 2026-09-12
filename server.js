@@ -8,18 +8,33 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 app.use(cors());
-app.use(express.json());
+app.use(express.json({ limit: '10mb' }));
+
+// Ensure UTF-8 encoding for all JSON responses
+app.use((req, res, next) => {
+    res.setHeader('Content-Type', 'application/json; charset=utf-8');
+    next();
+});
 
 // Serve static frontend files from 'public'
-app.use(express.static(path.join(__dirname, 'public')));
+app.use(express.static(path.join(__dirname, 'public'), {
+    setHeaders: (res, path) => {
+        if (path.endsWith('.js')) {
+            res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
+        } else if (path.endsWith('.css')) {
+            res.setHeader('Content-Type', 'text/css; charset=utf-8');
+        } else if (path.endsWith('.html')) {
+            res.setHeader('Content-Type', 'text/html; charset=utf-8');
+        }
+    }
+}));
 
 // API: Get current affairs questions
 app.get('/api/current-affairs', async (req, res) => {
     try {
         const { date, lang = 'en', category, search } = req.query;
         const questions = await storage.getQuestions(date, lang, category, search);
-        const dates = await storage.getAvailableDates();
-        const selectedDate = date || (dates.length > 0 ? dates[0] : null);
+        const selectedDate = date || (await storage.getAvailableDates())[0] || null;
 
         res.json({
             status: 'success',

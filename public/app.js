@@ -205,6 +205,7 @@ function filterTopicWise() {
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
     checkLandingPage();
+    loadLandingStats();
 
     if (!localStorage.getItem('user_lang')) {
         document.getElementById('languageModal').classList.add('show');
@@ -216,6 +217,17 @@ document.addEventListener('DOMContentLoaded', async () => {
     await fetchDates();
     await fetchQuestions();
 });
+
+async function loadLandingStats() {
+    try {
+        const res = await fetch('/api/status');
+        const data = await res.json();
+        if (data.status === 'online') {
+            document.getElementById('landingTotalQ').textContent = data.totalQuestions.toLocaleString();
+            document.getElementById('landingTotalDays').textContent = data.availableDates;
+        }
+    } catch(e) {}
+}
 
 // Font Size Stepper Controller (Safe Range: 12px to 22px)
 function adjustFontSize(delta) {
