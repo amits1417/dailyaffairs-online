@@ -98,6 +98,17 @@ app.get('/api/status', async (req, res) => {
     }
 });
 
+// Vercel Cron endpoint
+app.get('/api/cron/sync', async (req, res) => {
+    try {
+        console.log('[Cron] Vercel cron triggered - syncing latest...');
+        await cronService.autoSyncLatest();
+        res.json({ status: 'success', message: 'Cron sync completed' });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
 // Start Server and Cron if executed directly
 if (require.main === module) {
     storage.connectDB().then(() => {
