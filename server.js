@@ -10,24 +10,14 @@ const PORT = process.env.PORT || 3000;
 app.use(cors());
 app.use(express.json({ limit: '10mb' }));
 
-// Ensure UTF-8 encoding for all JSON responses
-app.use((req, res, next) => {
+// API Routes only get JSON header
+app.use('/api', (req, res, next) => {
     res.setHeader('Content-Type', 'application/json; charset=utf-8');
     next();
 });
 
 // Serve static frontend files from 'public'
-app.use(express.static(path.join(__dirname, 'public'), {
-    setHeaders: (res, path) => {
-        if (path.endsWith('.js')) {
-            res.setHeader('Content-Type', 'application/javascript; charset=utf-8');
-        } else if (path.endsWith('.css')) {
-            res.setHeader('Content-Type', 'text/css; charset=utf-8');
-        } else if (path.endsWith('.html')) {
-            res.setHeader('Content-Type', 'text/html; charset=utf-8');
-        }
-    }
-}));
+app.use(express.static(path.join(__dirname, 'public')));
 
 // API: Get current affairs questions
 app.get('/api/current-affairs', async (req, res) => {
