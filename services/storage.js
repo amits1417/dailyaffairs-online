@@ -10,6 +10,23 @@ let questionsCollection = null;
 let cachedDates = null;
 let datesCacheTime = 0;
 
+// In-memory questions cache: key = date|lang|category|month|search -> { data, time }
+let questionsCache = new Map();
+const QUESTIONS_CACHE_TTL = 5 * 60 * 1000;
+const QUESTIONS_CACHE_MAX = 200;
+
+function getQuestionsCacheKey(dateStr, lang, category, month, searchQuery) {
+    return `${dateStr || ''}|${lang || 'en'}|${category || ''}|${month || ''}|${searchQuery || ''}`;
+}
+
+function setQuestionsCache(key, data) {
+    if (questionsCache.size >= QUESTIONS_CACHE_MAX) {
+        const oldest = questionsCache.keys().next().value;
+        questionsCache.delete(oldest);
+    }
+    questionsCache.set(key, { data, time: Date.now() });
+}
+
 async function connectDB() {
     if (questionsCollection) return questionsCollection;
 
@@ -43,8 +60,9 @@ async function saveQuestionsForDate(dateStr, translatedQuestions) {
         await collection.insertMany(shuffled);
     }
 
-    // Refresh dates cache
+    // Refresh dates cache + questions cache
     cachedDates = null;
+    questionsCache.clear();
 
     console.log(`[MongoDB] Saved ${shuffled.length} questions for ${dateStr}`);
 }
@@ -82,11 +100,25 @@ async function getAvailableDates(forceRefresh = false) {
     return cachedDates;
 }
 
-async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null) {
+async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null, month = null) {
+    const cacheKey = getQuestionsCacheKey(dateStr, lang, category, month, searchQuery);
+    const cached = questionsCache.get(cacheKey);
+    if (cached && (Date.now() - cached.time < QUESTIONS_CACHE_TTL)) {
+        return cached.data;
+    }
+
     const collection = await connectDB();
 
     let query = {};
-    if (dateStr && dateStr !== 'all') {
+    if (month && month !== 'All') {
+        // Month filter: YYYY-MM -> date range (much smaller payload than date=all)
+        const [y, m] = month.split('-').map(Number);
+        const nextM = m === 12 ? 1 : m + 1;
+        const nextY = m === 12 ? y + 1 : y;
+        const start = `${y}-${String(m).padStart(2, '0')}-01`;
+        const end = `${nextY}-${String(nextM).padStart(2, '0')}-01`;
+        query.date = { $gte: start, $lt: end };
+    } else if (dateStr && dateStr !== 'all') {
         query.date = dateStr;
     } else if (!dateStr) {
         const dates = await getAvailableDates();
@@ -119,12 +151,15 @@ async function getQuestions(dateStr, lang = 'en', category = null, searchQuery =
 
     if (searchQuery) {
         const qLower = searchQuery.toLowerCase();
-        return formatted.filter(item =>
+        const filtered = formatted.filter(item =>
             (item.question && item.question.toLowerCase().includes(qLower)) ||
             (item.explanation && item.explanation.toLowerCase().includes(qLower))
         );
+        setQuestionsCache(cacheKey, filtered);
+        return filtered;
     }
 
+    setQuestionsCache(cacheKey, formatted);
     return formatted;
 }
 

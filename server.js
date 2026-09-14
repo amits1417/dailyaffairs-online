@@ -22,10 +22,12 @@ app.use(express.static(path.join(__dirname, 'public')));
 // API: Get current affairs questions
 app.get('/api/current-affairs', async (req, res) => {
     try {
-        const { date, lang = 'en', category, search } = req.query;
-        const questions = await storage.getQuestions(date, lang, category, search);
+        const { date, lang = 'en', category, search, month } = req.query;
+        const questions = await storage.getQuestions(date, lang, category, search, month);
         const selectedDate = date || (await storage.getAvailableDates())[0] || null;
 
+        // Cacheable for 60s (browser + edge) — data changes only on sync
+        res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
         res.json({
             status: 'success',
             date: selectedDate,
@@ -42,6 +44,7 @@ app.get('/api/current-affairs', async (req, res) => {
 app.get('/api/dates', async (req, res) => {
     try {
         const dates = await storage.getAvailableDates();
+        res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
         res.json({ status: 'success', dates });
     } catch (error) {
         res.status(500).json({ status: 'error', message: error.message });
@@ -52,6 +55,7 @@ app.get('/api/dates', async (req, res) => {
 app.get('/api/categories', async (req, res) => {
     try {
         const categories = await storage.getCategories();
+        res.setHeader('Cache-Control', 'public, max-age=300, stale-while-revalidate=600');
         res.json({ status: 'success', categories });
     } catch (error) {
         res.status(500).json({ status: 'error', message: error.message });

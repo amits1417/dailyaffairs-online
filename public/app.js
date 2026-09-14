@@ -215,7 +215,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     applyFontSizePx(state.fontSizePx);
     applyEnglishFont(state.englishFont);
     await fetchDates();
-    await fetchQuestions();
+    // Questions + categories in parallel instead of waterfall
+    await Promise.all([fetchQuestions(), fetchCategories()]);
 });
 
 async function loadLandingStats() {
@@ -320,6 +321,13 @@ function initCalendarStateFromDate(dateStr) {
 }
 
 // Fetch Questions
+// Client-side prefetch cache: key = date|lang|category -> questions (instant day-nav)
+state.prefetchCache = state.prefetchCache || new Map();
+
+function getPrefetchKey(date, lang, category) {
+    return `${date || ''}|${lang || 'gu'}|${category || ''}`;
+}
+
 async function fetchQuestions() {
     // Reset option selections and revealed answers when changing date/mode/filters
     state.userAttempts = {};
@@ -327,8 +335,7 @@ async function fetchQuestions() {
     state.userAnswers = {};
 
     const questionsContainer = document.getElementById('questionsList');
-    questionsContainer.innerHTML = '<div style="text-align:center; padding: 40px;"><i class="ri-loader-4-line ri-spin" style="font-size:2rem; color:var(--primary-color);"></i></div>';
-    
+
     const dayNavBar = document.getElementById('dayNavBar');
     const dayNavBarTop = document.getElementById('dayNavBarTop');
     if (dayNavBar) dayNavBar.style.display = 'none';
@@ -337,9 +344,15 @@ async function fetchQuestions() {
     try {
         const langParam = state.lang || 'gu';
         let url = `/api/current-affairs?lang=${langParam}`;
-        
+
+        const isTopicMonth = state.viewMode === 'topic' && state.selectedMonth && state.selectedMonth !== 'All';
         if (state.viewMode === 'topic') {
-            url += '&date=all';
+            if (isTopicMonth) {
+                // Server-side month filter: downloads ~300 Q instead of 6600+
+                url += `&month=${state.selectedMonth}`;
+            } else {
+                url += '&date=all';
+            }
         } else if (state.date) {
             url += `&date=${state.date}`;
         }
@@ -348,13 +361,20 @@ async function fetchQuestions() {
             url += `&category=${encodeURIComponent(state.category)}`;
         }
 
-        const response = await fetch(url);
-        const data = await response.json();
+        // Instant render from prefetch cache (daily mode, no filters)
+        const prefetchKey = getPrefetchKey(state.date, langParam, state.category);
+        const usePrefetch = state.viewMode === 'daily' && (!state.category || state.category === 'All') && state.prefetchCache.has(prefetchKey);
+        if (!usePrefetch) {
+            questionsContainer.innerHTML = '<div style="text-align:center; padding: 40px;"><i class="ri-loader-4-line ri-spin" style="font-size:2rem; color:var(--primary-color);"></i></div>';
+        }
+
+        const response = usePrefetch ? null : await fetch(url);
+        const data = usePrefetch ? state.prefetchCache.get(prefetchKey) : await response.json();
 
         if (data.status === 'success') {
             let questions = data.questions;
 
-            if (state.viewMode === 'topic' && state.selectedMonth && state.selectedMonth !== 'All') {
+            if (state.viewMode === 'topic' && !isTopicMonth && state.selectedMonth && state.selectedMonth !== 'All') {
                 questions = questions.filter(q => q.date && q.date.startsWith(state.selectedMonth));
             }
 
@@ -377,6 +397,7 @@ async function fetchQuestions() {
                     if (dayNavBar) dayNavBar.style.display = 'flex';
                     if (dayNavBarTop) dayNavBarTop.style.display = 'flex';
                     updateDayNavButtons();
+                    prefetchNeighborDates();
                 }
             }
             fetchCategories();
@@ -385,6 +406,43 @@ async function fetchQuestions() {
         console.error('Error fetching questions:', e);
         questionsContainer.innerHTML = `<div style="text-align:center; padding: 40px; color:var(--error-text);">Failed to load current affairs. Please try syncing.</div>`;
     }
+}
+
+// Prefetch previous/next day in background so day navigation feels instant
+function prefetchNeighborDates() {
+    try {
+        if (!state.date || !state.availableDates || state.availableDates.length === 0) return;
+        const idx = state.availableDates.indexOf(state.date);
+        if (idx === -1) return;
+        const neighbors = [];
+        if (idx > 0) neighbors.push(state.availableDates[idx - 1]);
+        if (idx < state.availableDates.length - 1) neighbors.push(state.availableDates[idx + 1]);
+
+        const langParam = state.lang || 'gu';
+        const run = () => {
+            neighbors.forEach(d => {
+                const key = getPrefetchKey(d, langParam, state.category);
+                if (state.prefetchCache.has(key)) return;
+                fetch(`/api/current-affairs?lang=${langParam}&date=${d}`)
+                    .then(r => r.json())
+                    .then(data => {
+                        if (data && data.status === 'success') {
+                            if (state.prefetchCache.size > 30) {
+                                const oldest = state.prefetchCache.keys().next().value;
+                                state.prefetchCache.delete(oldest);
+                            }
+                            state.prefetchCache.set(key, data);
+                        }
+                    })
+                    .catch(() => {});
+            });
+        };
+        if ('requestIdleCallback' in window) {
+            requestIdleCallback(run, { timeout: 2000 });
+        } else {
+            setTimeout(run, 800);
+        }
+    } catch (e) {}
 }
 
 // Empty State Auto Sync
