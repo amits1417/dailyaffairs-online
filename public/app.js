@@ -793,7 +793,18 @@ async function generatePdfExport() {
     let questionsToExport = [];
 
     try {
-        const response = await fetch(`/api/current-affairs?lang=${lang}&date=all`);
+        // Server-side filters keep mobile downloads small (month ~300 Q instead of 6600+)
+        let fetchUrl = `/api/current-affairs?lang=${lang}`;
+        const monthVal = (exportType === 'month') ? (document.getElementById('pdfSelectMonth')?.value || 'All') : 'All';
+        if (monthVal !== 'All') {
+            fetchUrl += `&month=${monthVal}`;
+        } else {
+            fetchUrl += '&date=all';
+        }
+        if (selectedCategory !== 'All') {
+            fetchUrl += `&category=${encodeURIComponent(selectedCategory)}`;
+        }
+        const response = await fetch(fetchUrl);
         const data = await response.json();
 
         if (data.status !== 'success' || !data.questions || data.questions.length === 0) {
@@ -838,9 +849,26 @@ async function generatePdfExport() {
 
     closePdfExportModal();
 
-    const printWindow = window.open('', '_blank');
+    let printWindow = null;
+    try {
+        printWindow = window.open('', '_blank');
+    } catch (e) {
+        printWindow = null;
+    }
     if (!printWindow) {
-        alert('Pop-up blocker prevented opening the printable PDF window. Please allow pop-ups for this site.');
+        // Popup blocked (common on mobile) — download printable HTML file instead
+        try {
+            const blob = new Blob([pdfHtml], { type: 'text/html;charset=utf-8' });
+            const a = document.createElement('a');
+            a.href = URL.createObjectURL(blob);
+            a.download = `DailyAffairs-${Date.now()}.html`;
+            document.body.appendChild(a);
+            a.click();
+            setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 2000);
+            alert('Pop-up blocked, so the printable file was downloaded. Open it and use Print / Save as PDF.');
+        } catch (e2) {
+            alert('Pop-up blocker prevented opening the printable window. Please allow pop-ups for this site.');
+        }
         return;
     }
 
@@ -1030,8 +1058,21 @@ async function generatePdfExport() {
     </html>
     `;
 
-    printWindow.document.write(pdfHtml);
-    printWindow.document.close();
+    try {
+        printWindow.document.write(pdfHtml);
+        printWindow.document.close();
+    } catch (e) {
+        // Some mobile browsers block cross-window document.write — fall back to download
+        try { printWindow.close(); } catch (e2) {}
+        const blob = new Blob([pdfHtml], { type: 'text/html;charset=utf-8' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = `DailyAffairs-${Date.now()}.html`;
+        document.body.appendChild(a);
+        a.click();
+        setTimeout(() => { URL.revokeObjectURL(a.href); a.remove(); }, 2000);
+        alert('Direct print was blocked, so the printable file was downloaded. Open it and use Print / Save as PDF.');
+    }
 }
 
 function toggleWorkspace(qid) {
