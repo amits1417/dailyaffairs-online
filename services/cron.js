@@ -45,7 +45,7 @@ async function syncDate(dateStr) {
         return 0;
     }
 
-    storage.saveQuestionsForDate(dateStr, translatedList[0]);
+    await storage.saveQuestionsForDate(dateStr, translatedList[0]);
     console.log(`[Sync] Completed sync for ${dateStr}. Total saved: ${translatedList[0].length}`);
     return translatedList[0].length;
 }
