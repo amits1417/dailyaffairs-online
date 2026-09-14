@@ -1719,6 +1719,47 @@ img, canvas {
     background: transparent !important;
 }
 
+/* Mobile-only top language bar (hidden on desktop) */
+.mobile-lang-bar {
+    display: none;
+}
+
+@media (max-width: 768px) {
+    /* Center the date widget button in the mobile header */
+    .header-date-group {
+        margin: 0 auto;
+    }
+    /* Slim language strip pinned right below header on mobile */
+    .mobile-lang-bar {
+        display: block;
+        background: var(--card-bg);
+        border-bottom: 1px solid var(--border-color);
+        padding: 8px 0;
+        position: sticky;
+        top: 60px;
+        z-index: 90;
+    }
+    .mobile-lang-bar-inner {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 8px;
+    }
+    .mobile-lang-label {
+        font-size: 0.78rem;
+        font-weight: 700;
+        color: var(--text-muted);
+        display: flex;
+        align-items: center;
+        gap: 4px;
+        white-space: nowrap;
+    }
+    .mobile-lang-bar .lang-btn-pill {
+        padding: 5px 12px;
+        font-size: 0.8rem;
+    }
+}
+
 /* Explanation Markup Tools (Pen & Highlighter) */
 .exp-tools-bar {
     display: flex;

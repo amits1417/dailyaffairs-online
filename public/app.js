@@ -292,6 +292,13 @@ function applyLanguage(lang) {
     if (guBtnMob) guBtnMob.classList.toggle('active', lang === 'gu');
     if (hiBtnMob) hiBtnMob.classList.toggle('active', lang === 'hi');
     if (enBtnMob) enBtnMob.classList.toggle('active', lang === 'en');
+
+    const guBtnTop = document.getElementById('btnLangGuTop');
+    const hiBtnTop = document.getElementById('btnLangHiTop');
+    const enBtnTop = document.getElementById('btnLangEnTop');
+    if (guBtnTop) guBtnTop.classList.toggle('active', lang === 'gu');
+    if (hiBtnTop) hiBtnTop.classList.toggle('active', lang === 'hi');
+    if (enBtnTop) enBtnTop.classList.toggle('active', lang === 'en');
 }
 
 // Fetch available dates

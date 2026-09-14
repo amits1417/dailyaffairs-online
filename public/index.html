@@ -215,6 +215,16 @@
         </div>
     </header>
 
+    <!-- MOBILE-ONLY TOP LANGUAGE BAR (visible only on small screens) -->
+    <div class="mobile-lang-bar" id="mobileLangBar">
+        <div class="container mobile-lang-bar-inner">
+            <span class="mobile-lang-label"><i class="ri-translate-2"></i> Language:</span>
+            <button class="lang-btn-pill lang-content-gu" id="btnLangGuTop" onclick="switchLanguage('gu')">ગુજરાતી</button>
+            <button class="lang-btn-pill lang-content-hi" id="btnLangHiTop" onclick="switchLanguage('hi')">हिंदी</button>
+            <button class="lang-btn-pill" id="btnLangEnTop" onclick="switchLanguage('en')">English</button>
+        </div>
+    </div>
+
     <!-- SIDE MENU DRAWER (3-Line Menu Modal) -->
     <div class="menu-drawer-overlay" id="menuDrawer" onclick="closeMenuDrawer()">
         <div class="menu-drawer-card" onclick="event.stopPropagation()">
