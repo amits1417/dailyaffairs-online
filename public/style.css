@@ -689,6 +689,31 @@ img, canvas {
     padding: 10px;
 }
 
+/* Native dropdown popup must follow theme (fixes white popup in dark mode, esp. mobile) */
+.cal-dropdown option,
+.font-dropdown-select option,
+select option {
+    background-color: var(--card-bg);
+    color: var(--text-dark);
+}
+
+[data-theme="dark"] select,
+[data-theme="dark"] .cal-dropdown,
+[data-theme="dark"] .font-dropdown-select,
+[data-theme="dark"] .topic-dropdown-select {
+    background-color: #1e1e1e;
+    color: #f4f4f5;
+    color-scheme: dark;
+}
+
+[data-theme="dark"] select option,
+[data-theme="dark"] .cal-dropdown option,
+[data-theme="dark"] .font-dropdown-select option,
+[data-theme="dark"] .topic-dropdown-select option {
+    background-color: #1e1e1e;
+    color: #f4f4f5;
+}
+
 
 /* Navigation Menu Tabs */
 .nav-menu-tabs {
