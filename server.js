@@ -107,6 +107,28 @@ app.get('/api/status', async (req, res) => {
     }
 });
 
+// SEO: Dynamic sitemap (cached 1 hour) — homepage + one URL per date
+let sitemapCache = null;
+let sitemapCacheTime = 0;
+app.get('/sitemap.xml', async (req, res) => {
+    try {
+        if (!sitemapCache || (Date.now() - sitemapCacheTime > 3600000)) {
+            const base = 'https://dailyaffairs-online.vercel.app';
+            const dates = await storage.getAvailableDates();
+            const urls = [`<url><loc>${base}/</loc><changefreq>daily</changefreq><priority>1.0</priority></url>`];
+            for (const d of dates) {
+                urls.push(`<url><loc>${base}/?date=${d}</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>`);
+            }
+            sitemapCache = `<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.join('')}</urlset>`;
+            sitemapCacheTime = Date.now();
+        }
+        res.setHeader('Content-Type', 'application/xml; charset=utf-8');
+        res.send(sitemapCache);
+    } catch (error) {
+        res.status(500).send('sitemap error');
+    }
+});
+
 // Vercel Cron endpoint
 app.get('/api/cron/sync', async (req, res) => {
     try {
