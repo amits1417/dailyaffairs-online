@@ -623,12 +623,118 @@ async function getUserProfile(phone) {
     return { status: 'error', message: 'User not found' };
 }
 
+async function getAvailableYears() {
+    const dates = await getAvailableDates();
+    const yearSet = new Set();
+    dates.forEach(d => {
+        if (d && d.length >= 4) {
+            yearSet.add(d.substring(0, 4));
+        }
+    });
+    ['2026', '2025', '2024'].forEach(y => yearSet.add(y));
+    return Array.from(yearSet).sort().reverse();
+}
+
+async function searchAllQuestions(searchQuery = '', year = 'all', lang = 'en', category = null, limit = 250) {
+    if (!searchQuery || !searchQuery.trim()) {
+        return [];
+    }
+
+    const query = searchQuery.trim().toLowerCase();
+    const todayStr = getTodayIST();
+
+    let allQuestions = [];
+    try {
+        const collection = await connectDB();
+        if (collection) {
+            let mongoQuery = {};
+            if (year && year !== 'all') {
+                mongoQuery.date = { $regex: `^${year}-`, $lte: todayStr };
+            } else {
+                mongoQuery.date = { $lte: todayStr };
+            }
+            if (category && category !== 'All') {
+                mongoQuery.category = category;
+            }
+            allQuestions = await collection.find(mongoQuery).toArray();
+        }
+    } catch (e) {
+        console.warn('[Storage] searchAllQuestions Mongo fallback:', e.message);
+    }
+
+    const local = loadFileData();
+    let fileQuestions = (local.questions || []).filter(q => q.date && q.date <= todayStr);
+    if (year && year !== 'all') {
+        fileQuestions = fileQuestions.filter(q => q.date.startsWith(year));
+    }
+    if (category && category !== 'All') {
+        fileQuestions = fileQuestions.filter(q => q.category && q.category.toLowerCase() === category.toLowerCase());
+    }
+
+    if (!allQuestions || allQuestions.length < fileQuestions.length) {
+        allQuestions = fileQuestions;
+    }
+
+    const matched = [];
+    for (const q of allQuestions) {
+        const enQ = q.en || {};
+        const guQ = q.gu || {};
+        const hiQ = q.hi || {};
+
+        const enOpts = enQ.options ? Object.values(enQ.options).join(' ') : '';
+        const guOpts = guQ.options ? Object.values(guQ.options).join(' ') : '';
+        const hiOpts = hiQ.options ? Object.values(hiQ.options).join(' ') : '';
+
+        const fullSearchBlob = [
+            enQ.question || '',
+            enQ.explanation || '',
+            enOpts,
+            guQ.question || '',
+            guQ.explanation || '',
+            guOpts,
+            hiQ.question || '',
+            hiQ.explanation || '',
+            hiOpts,
+            q.answer || '',
+            q.category || '',
+            q.date || ''
+        ].join(' ').toLowerCase();
+
+        if (fullSearchBlob.includes(query)) {
+            const langContent = q[lang] || q['en'] || {};
+            const fallbackEn = q['en'] || {};
+
+            matched.push({
+                id: q.id,
+                date: q.date,
+                qno: q.qno,
+                category: q.category,
+                answer: q.answer,
+                question: langContent.question || fallbackEn.question || '',
+                options: langContent.options || fallbackEn.options || {},
+                explanation: langContent.explanation || fallbackEn.explanation || ''
+            });
+        }
+    }
+
+    matched.sort((a, b) => {
+        if (a.date !== b.date) {
+            return b.date.localeCompare(a.date);
+        }
+        return (a.qno || 0) - (b.qno || 0);
+    });
+
+    return matched.slice(0, limit);
+}
+
 module.exports = {
     connectDB,
     saveQuestionsForDate,
     shuffleQuestions,
     getAvailableDates,
+    getAvailableYears,
     getQuestions,
+    searchAllQuestions,
     getCategories,
     getQuestionCount,
     syncJsonToMongo,

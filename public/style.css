@@ -2420,30 +2420,56 @@ select option {
 }
 
 /* ==========================================================================
-   DRAWER SEARCH (MENU-ONLY KEYWORD FILTER)
+   DRAWER SEARCH CARD (WEBSITE-WIDE SEARCH WITH YEAR SELECTOR)
    ========================================================================== */
-.drawer-search-wrap {
-    margin-bottom: 14px;
+.drawer-search-card {
+    background: var(--bg-page);
+    border: 1.5px solid var(--border-color);
+    border-radius: 12px;
+    padding: 10px 12px 10px 12px;
+    margin-bottom: 10px;
+    flex-shrink: 0;
+    transition: border-color 0.2s, box-shadow 0.2s;
 }
 
-.drawer-search-box {
+.drawer-search-card:focus-within {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.1);
+}
+
+.drawer-search-card-header {
+    margin-bottom: 8px;
+}
+
+.drawer-search-title {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    font-size: 0.77rem;
+    font-weight: 800;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+}
+
+.drawer-search-input-box {
     display: flex;
     align-items: center;
     background: var(--card-bg);
     border: 1.5px solid var(--border-color);
-    border-radius: 10px;
-    padding: 8px 12px;
-    gap: 8px;
-    transition: border-color 0.2s, box-shadow 0.2s;
+    border-radius: 8px;
+    padding: 7px 10px;
+    gap: 7px;
+    margin-bottom: 8px;
+    transition: border-color 0.2s;
 }
 
-.drawer-search-box:focus-within {
+.drawer-search-input-box:focus-within {
     border-color: var(--primary-color);
-    box-shadow: 0 0 0 3px rgba(37, 99, 235, 0.12);
 }
 
 .drawer-search-icon {
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: var(--text-muted);
 }
 
@@ -2452,16 +2478,20 @@ select option {
     border: none;
     outline: none;
     background: transparent;
-    font-size: 0.88rem;
+    font-size: 0.86rem;
     font-family: inherit;
     color: var(--text-dark);
+}
+
+#menuSearchInput::placeholder {
+    color: var(--text-muted);
 }
 
 .drawer-search-clear {
     background: transparent;
     border: none;
     color: var(--text-muted);
-    font-size: 1.1rem;
+    font-size: 1rem;
     cursor: pointer;
     display: flex;
     align-items: center;
@@ -2472,17 +2502,347 @@ select option {
     color: var(--text-dark);
 }
 
-/* SEARCH RESULTS BANNER */
+.drawer-search-options-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.drawer-search-year-select-wrap {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    flex: 1;
+}
+
+.drawer-search-year-label {
+    font-size: 0.75rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.drawer-search-year-select {
+    flex: 1;
+    background: var(--card-bg);
+    border: 1.5px solid var(--border-color);
+    border-radius: 7px;
+    padding: 5px 8px;
+    font-size: 0.8rem;
+    font-family: inherit;
+    color: var(--text-dark);
+    font-weight: 600;
+    cursor: pointer;
+    outline: none;
+}
+
+.drawer-search-year-select:focus {
+    border-color: var(--primary-color);
+}
+
+.btn-drawer-search-submit {
+    background: var(--primary-color);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 6px 12px;
+    font-size: 0.8rem;
+    font-weight: 700;
+    font-family: inherit;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    transition: background 0.2s, transform 0.12s;
+    white-space: nowrap;
+}
+
+.btn-drawer-search-submit:hover {
+    background: var(--primary-hover, #1d4ed8);
+    transform: translateY(-1px);
+}
+
+.btn-drawer-search-submit:active {
+    transform: translateY(0);
+}
+
+/* ==========================================================================
+   SEARCH MODAL (WEBSITE-WIDE FULL-SCREEN SEARCH)
+   ========================================================================== */
+.search-modal-card {
+    max-width: 560px;
+    width: calc(100% - 40px);
+    padding: 0;
+    overflow: hidden;
+}
+
+.search-modal-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 22px 16px;
+    border-bottom: 1px solid var(--border-color);
+}
+
+.search-modal-title {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 1.05rem;
+    font-weight: 800;
+    color: var(--text-dark);
+}
+
+.search-modal-title i {
+    font-size: 1.3rem;
+    color: var(--primary-color);
+}
+
+.search-modal-subtitle {
+    padding: 12px 22px 0;
+    font-size: 0.82rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    line-height: 1.5;
+}
+
+.search-modal-body {
+    padding: 16px 22px 22px;
+}
+
+.search-modal-input-wrap {
+    display: flex;
+    align-items: center;
+    background: var(--bg-page);
+    border: 2px solid var(--border-color);
+    border-radius: 12px;
+    padding: 12px 14px;
+    gap: 10px;
+    margin-bottom: 14px;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.search-modal-input-wrap:focus-within {
+    border-color: var(--primary-color);
+    box-shadow: 0 0 0 4px rgba(37, 99, 235, 0.12);
+}
+
+.search-modal-input-icon {
+    font-size: 1.25rem;
+    color: var(--text-muted);
+}
+
+.search-modal-input {
+    flex: 1;
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 1rem;
+    font-family: inherit;
+    color: var(--text-dark);
+    font-weight: 500;
+}
+
+.search-modal-input::placeholder {
+    color: var(--text-muted);
+    font-weight: 400;
+}
+
+.search-modal-clear-btn {
+    background: var(--border-color);
+    border: none;
+    border-radius: 50%;
+    width: 22px;
+    height: 22px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--text-muted);
+    transition: background 0.15s;
+}
+
+.search-modal-clear-btn:hover {
+    background: var(--text-muted);
+    color: #fff;
+}
+
+.search-modal-controls-row {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 18px;
+}
+
+.search-modal-year-wrap {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.search-modal-year-label {
+    font-size: 0.82rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    white-space: nowrap;
+}
+
+.search-modal-select-styled {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--bg-page);
+    border: 1.5px solid var(--border-color);
+    border-radius: 9px;
+    padding: 7px 10px;
+    position: relative;
+}
+
+.search-modal-select-styled i:first-child {
+    font-size: 1rem;
+    color: var(--primary-color);
+}
+
+.search-modal-select-styled i:last-child {
+    font-size: 0.9rem;
+    color: var(--text-muted);
+    pointer-events: none;
+}
+
+.search-modal-year-select {
+    border: none;
+    outline: none;
+    background: transparent;
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    font-family: inherit;
+    cursor: pointer;
+    min-width: 90px;
+}
+
+.search-modal-submit-btn {
+    flex: 1;
+    justify-content: center;
+    padding: 10px 18px;
+    font-size: 0.92rem;
+    border-radius: 10px;
+    gap: 7px;
+}
+
+/* Popular search tag chips */
+.search-quick-tags-wrap {
+    display: flex;
+    align-items: flex-start;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+
+.search-quick-label {
+    font-size: 0.78rem;
+    font-weight: 700;
+    color: var(--text-muted);
+    white-space: nowrap;
+    padding-top: 4px;
+}
+
+.search-quick-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+}
+
+.search-tag-chip {
+    background: var(--bg-page);
+    border: 1.5px solid var(--border-color);
+    border-radius: 20px;
+    padding: 4px 12px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: var(--text-dark);
+    cursor: pointer;
+    font-family: inherit;
+    transition: all 0.18s;
+}
+
+.search-tag-chip:hover {
+    background: var(--primary-color);
+    color: #fff;
+    border-color: var(--primary-color);
+    transform: translateY(-1px);
+    box-shadow: 0 3px 10px rgba(37, 99, 235, 0.25);
+}
+
+/* ==========================================================================
+   SEARCH RESULTS BANNER (ACTIVE WHEN SEARCH IS APPLIED)
+   ========================================================================== */
 .search-results-banner {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background: var(--primary-light);
-    border: 1px solid var(--primary-border);
-    border-radius: 10px;
-    padding: 10px 16px;
+    background: linear-gradient(135deg, rgba(37, 99, 235, 0.07) 0%, rgba(37, 99, 235, 0.03) 100%);
+    border: 1.5px solid var(--primary-border);
+    border-radius: 12px;
+    padding: 12px 18px;
     margin-bottom: 20px;
     gap: 12px;
+    flex-wrap: wrap;
+}
+
+.search-banner-info {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    flex: 1;
+    min-width: 0;
+}
+
+.search-banner-icon {
+    font-size: 1.5rem;
+    color: var(--primary-color);
+    flex-shrink: 0;
+}
+
+.search-banner-text-group {
+    flex: 1;
+    min-width: 0;
+}
+
+.search-banner-heading {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text-dark);
+    margin-bottom: 2px;
+}
+
+.search-banner-sub {
+    font-size: 0.78rem;
+    color: var(--text-muted);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    flex-wrap: wrap;
+}
+
+.search-count-badge {
+    background: var(--primary-color);
+    color: #fff;
+    font-size: 0.72rem;
+    font-weight: 800;
+    padding: 1px 7px;
+    border-radius: 10px;
+}
+
+.search-year-badge {
+    background: var(--bg-page);
+    border: 1.5px solid var(--border-color);
+    color: var(--text-dark);
+    font-size: 0.72rem;
+    font-weight: 700;
+    padding: 1px 8px;
+    border-radius: 10px;
 }
 
 .search-banner-text {
@@ -2496,21 +2856,24 @@ select option {
 
 .btn-clear-search {
     background: var(--card-bg);
-    border: 1px solid var(--border-color);
+    border: 1.5px solid var(--border-color);
     color: var(--text-dark);
     font-size: 0.8rem;
     font-weight: 700;
-    padding: 4px 10px;
-    border-radius: 6px;
+    padding: 7px 13px;
+    border-radius: 8px;
     cursor: pointer;
     display: inline-flex;
     align-items: center;
-    gap: 4px;
+    gap: 5px;
     transition: all 0.15s;
+    flex-shrink: 0;
 }
 
 .btn-clear-search:hover {
-    background: rgba(0,0,0,0.06);
+    background: rgba(239, 68, 68, 0.08);
+    border-color: rgba(239, 68, 68, 0.5);
+    color: #ef4444;
 }
 
 /* ==========================================================================

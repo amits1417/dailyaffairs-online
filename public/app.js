@@ -2645,70 +2645,225 @@ function updateUserAuthUI() {
 }
 
 // ==========================================
-// 4. MENU-ONLY KEYWORD SEARCH
+// 4. WEBSITE-WIDE SEARCH (WITH YEAR SELECTOR)
 // ==========================================
-let searchDebounceTimeout = null;
-function handleMenuSearch(query) {
-    const clearBtn = document.getElementById('btnMenuSearchClear');
-    if (clearBtn) clearBtn.style.display = query ? 'flex' : 'none';
 
-    state.searchQuery = (query || '').trim();
+function openSearchModal() {
+    const modal = document.getElementById('searchModal');
+    if (modal) {
+        modal.style.display = 'flex';
+        modal.classList.add('active');
+        setTimeout(() => {
+            const inp = document.getElementById('searchModalInput');
+            if (inp) inp.focus();
+        }, 80);
+    }
+}
 
-    clearTimeout(searchDebounceTimeout);
-    searchDebounceTimeout = setTimeout(() => {
-        applyMenuSearchFilter();
-    }, 200);
+function closeSearchModal() {
+    const modal = document.getElementById('searchModal');
+    if (modal) {
+        modal.classList.remove('active');
+        modal.style.display = 'none';
+    }
+}
+
+function clearSearchModalInput() {
+    const inp = document.getElementById('searchModalInput');
+    const clrBtn = document.getElementById('btnSearchModalClear');
+    if (inp) { inp.value = ''; inp.focus(); }
+    if (clrBtn) clrBtn.style.display = 'none';
+}
+
+function quickSearchTag(keyword) {
+    // Fill modal input and drawer input with keyword then run search
+    const modalInp = document.getElementById('searchModalInput');
+    if (modalInp) modalInp.value = keyword;
+    const clearBtn = document.getElementById('btnSearchModalClear');
+    if (clearBtn) clearBtn.style.display = 'flex';
+    executeWebsiteSearch('modal');
+}
+
+async function executeWebsiteSearch(source) {
+    const query = source === 'modal'
+        ? (document.getElementById('searchModalInput') || {}).value || ''
+        : (document.getElementById('menuSearchInput') || {}).value || '';
+
+    const year = source === 'modal'
+        ? ((document.getElementById('searchModalYear') || {}).value || '2026')
+        : ((document.getElementById('menuSearchYear') || {}).value || '2026');
+
+    const trimmedQuery = (query || '').trim();
+    if (!trimmedQuery) return;
+
+    // Sync both inputs
+    const modalInp = document.getElementById('searchModalInput');
+    const drawerInp = document.getElementById('menuSearchInput');
+    if (modalInp) modalInp.value = trimmedQuery;
+    if (drawerInp) drawerInp.value = trimmedQuery;
+
+    // Show loading state
+    const submitBtn = document.getElementById('btnSearchModalSubmit');
+    if (submitBtn) {
+        submitBtn.disabled = true;
+        submitBtn.innerHTML = '<i class="ri-loader-4-line" style="animation:spin 0.8s linear infinite;"></i> Searching...';
+    }
+
+    try {
+        const lang = state.lang || 'en';
+        const url = `/api/search?q=${encodeURIComponent(trimmedQuery)}&year=${encodeURIComponent(year)}&lang=${lang}&limit=250`;
+        const resp = await fetch(url);
+        const data = await resp.json();
+
+        if (data.status !== 'success') throw new Error(data.message || 'Search failed');
+
+        closeSearchModal();
+        closeMenuDrawer();
+
+        // Make main content visible if on landing page
+        const landingPage = document.getElementById('landingPage');
+        const mainContent = document.getElementById('mainContent');
+        if (landingPage) landingPage.style.display = 'none';
+        if (mainContent) mainContent.style.display = 'block';
+
+        // Hide date-based nav bars since this is a search result view
+        const dayNavBar = document.getElementById('dayNavBar');
+        const dayNavBarTop = document.getElementById('dayNavBarTop');
+        if (dayNavBar) dayNavBar.style.display = 'none';
+        if (dayNavBarTop) dayNavBarTop.style.display = 'none';
+
+        // Update search results banner
+        const banner = document.getElementById('searchResultsBanner');
+        const queryText = document.getElementById('searchQueryText');
+        const countEl = document.getElementById('searchResultCount');
+        const yearBadge = document.getElementById('searchYearBadge');
+        if (banner) banner.style.display = 'flex';
+        if (queryText) queryText.textContent = trimmedQuery;
+        if (countEl) countEl.textContent = data.count;
+        if (yearBadge) yearBadge.textContent = year === 'all' ? 'All Years' : year;
+
+        // Render questions
+        const container = document.getElementById('questionsList');
+        if (!container) return;
+
+        if (!data.questions || data.questions.length === 0) {
+            container.innerHTML = `
+                <div class="ques-card" style="text-align:center; padding:60px 30px; color:var(--text-muted);">
+                    <div style="font-size:3rem; margin-bottom:14px;">🔍</div>
+                    <div style="font-size:1.1rem; font-weight:700; color:var(--text-dark); margin-bottom:8px;">No questions found</div>
+                    <div style="font-size:0.9rem;">No questions matched "<strong>${trimmedQuery}</strong>" in year <strong>${year === 'all' ? 'All Years' : year}</strong>.</div>
+                    <div style="font-size:0.82rem; margin-top:8px; color:var(--text-muted);">Try a different keyword or select a different year.</div>
+                </div>`;
+            return;
+        }
+
+        // Group by date for cleaner display
+        const byDate = {};
+        for (const q of data.questions) {
+            if (!byDate[q.date]) byDate[q.date] = [];
+            byDate[q.date].push(q);
+        }
+
+        const savedQuestions = state.questions;
+        const savedViewMode = state.viewMode;
+        state.viewMode = 'search';
+        state.questions = data.questions;
+        renderQuestions();
+        state.questions = savedQuestions;
+        state.viewMode = savedViewMode;
+
+        // Scroll to top
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+
+    } catch (err) {
+        alert('Search failed: ' + (err.message || 'Please try again.'));
+    } finally {
+        if (submitBtn) {
+            submitBtn.disabled = false;
+            submitBtn.innerHTML = '<i class="ri-search-line"></i> <span>Search Questions</span>';
+        }
+    }
+}
+
+function clearWebsiteSearch() {
+    // Clear all search inputs
+    const modalInp = document.getElementById('searchModalInput');
+    const drawerInp = document.getElementById('menuSearchInput');
+    const clrBtn = document.getElementById('btnMenuSearchClear');
+    if (modalInp) modalInp.value = '';
+    if (drawerInp) drawerInp.value = '';
+    if (clrBtn) clrBtn.style.display = 'none';
+
+    // Hide banner
+    const banner = document.getElementById('searchResultsBanner');
+    if (banner) banner.style.display = 'none';
+
+    // Restore normal view
+    renderQuestions();
 }
 
 function clearMenuSearch() {
-    const input = document.getElementById('menuSearchInput');
-    const clearBtn = document.getElementById('btnMenuSearchClear');
-    if (input) input.value = '';
-    if (clearBtn) clearBtn.style.display = 'none';
-    state.searchQuery = '';
-    applyMenuSearchFilter();
+    clearWebsiteSearch();
 }
 
-function applyMenuSearchFilter() {
-    const banner = document.getElementById('searchResultsBanner');
-    const query = (state.searchQuery || '').toLowerCase();
-
-    if (!query) {
-        if (banner) banner.style.display = 'none';
-        renderQuestions();
-        return;
+// Show/hide clear X in drawer search input
+document.addEventListener('DOMContentLoaded', () => {
+    const drawerInp = document.getElementById('menuSearchInput');
+    const clrBtn = document.getElementById('btnMenuSearchClear');
+    if (drawerInp && clrBtn) {
+        drawerInp.addEventListener('input', () => {
+            clrBtn.style.display = drawerInp.value ? 'flex' : 'none';
+        });
     }
 
-    if (banner) {
-        banner.style.display = 'flex';
-        const txt = document.getElementById('searchBannerText');
-        if (txt) txt.innerText = `Search results for "${state.searchQuery}"`;
+    const modalInp = document.getElementById('searchModalInput');
+    const modalClr = document.getElementById('btnSearchModalClear');
+    if (modalInp && modalClr) {
+        modalInp.addEventListener('input', () => {
+            modalClr.style.display = modalInp.value ? 'flex' : 'none';
+        });
     }
+});
 
-    const container = document.getElementById('questionsList');
-    if (!container) return;
-
-    // Filter questions by keyword matching across question, explanation, category, and options
-    const matches = (state.questions || []).filter(q => {
-        const inQ = (q.question || '').toLowerCase().includes(query);
-        const inExp = (q.explanation || '').toLowerCase().includes(query);
-        const inCat = (q.category || '').toLowerCase().includes(query);
-        const inOpts = q.options && (
-            (q.options.A || '').toLowerCase().includes(query) ||
-            (q.options.B || '').toLowerCase().includes(query) ||
-            (q.options.C || '').toLowerCase().includes(query) ||
-            (q.options.D || '').toLowerCase().includes(query)
-        );
-        return inQ || inExp || inCat || inOpts;
-    });
-
-    if (matches.length === 0) {
-        container.innerHTML = `<div class="ques-card" style="text-align:center; padding:50px; color:var(--text-muted);">No questions found matching "${state.searchQuery}".</div>`;
-        return;
+// Close search modal on Escape key
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        closeSearchModal();
     }
+});
 
-    const savedQuestions = state.questions;
-    state.questions = matches;
-    renderQuestions();
-    state.questions = savedQuestions;
+// Populate year selects dynamically from /api/years
+(async function loadYearsIntoSelects() {
+    try {
+        const resp = await fetch('/api/years');
+        const data = await resp.json();
+        if (data.status === 'success' && data.years && data.years.length > 0) {
+            const years = data.years;
+            ['searchModalYear', 'menuSearchYear'].forEach(id => {
+                const sel = document.getElementById(id);
+                if (!sel) return;
+                sel.innerHTML = '';
+                years.forEach(y => {
+                    const opt = document.createElement('option');
+                    opt.value = y;
+                    opt.textContent = y;
+                    if (y === new Date().getFullYear().toString()) opt.selected = true;
+                    sel.appendChild(opt);
+                });
+                const allOpt = document.createElement('option');
+                allOpt.value = 'all';
+                allOpt.textContent = 'All Years';
+                sel.appendChild(allOpt);
+            });
+        }
+    } catch (e) {
+        // fallback to hardcoded options already in HTML
+    }
+})();
+
+// Deprecated alias kept for safety
+function handleMenuSearch(query) {
+    const clrBtn = document.getElementById('btnMenuSearchClear');
+    if (clrBtn) clrBtn.style.display = query ? 'flex' : 'none';
 }
+

@@ -89,6 +89,50 @@ app.get('/api/categories', async (req, res) => {
     }
 });
 
+// API: Search questions across website / entire database with year selector
+app.get('/api/search', async (req, res) => {
+    try {
+        const { q, year = 'all', lang = 'en', category, limit = 250 } = req.query;
+        if (!q || !q.trim()) {
+            return res.json({
+                status: 'success',
+                query: '',
+                year,
+                lang,
+                count: 0,
+                questions: []
+            });
+        }
+
+        const questions = await storage.searchAllQuestions(q, year, lang, category, parseInt(limit, 10) || 250);
+        const availableYears = await storage.getAvailableYears();
+
+        res.setHeader('Cache-Control', 'public, max-age=30, stale-while-revalidate=120');
+        res.json({
+            status: 'success',
+            query: q.trim(),
+            year,
+            lang,
+            count: questions.length,
+            availableYears,
+            questions
+        });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
+// API: Get available years
+app.get('/api/years', async (req, res) => {
+    try {
+        const years = await storage.getAvailableYears();
+        res.setHeader('Cache-Control', 'public, max-age=300, stale-while-revalidate=600');
+        res.json({ status: 'success', years });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
 // API: Trigger manual sync/scrape for a date
 app.post('/api/sync', async (req, res) => {
     try {

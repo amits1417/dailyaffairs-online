@@ -315,6 +315,67 @@
         </div>
     </div>
 
+    <!-- SEARCH MODAL (WEBSITE-WIDE SEARCH WITH YEAR SELECTOR) -->
+    <div class="modal-overlay" id="searchModal" onclick="closeSearchModal()">
+        <div class="modal-card search-modal-card" onclick="event.stopPropagation()">
+            <div class="search-modal-header">
+                <div class="search-modal-title">
+                    <i class="ri-search-line"></i>
+                    <span>Search Questions & Answers</span>
+                </div>
+                <button class="btn-icon" onclick="closeSearchModal()" title="Close"><i class="ri-close-line"></i></button>
+            </div>
+            
+            <div class="search-modal-subtitle">
+                Search questions, options, and explanations across the entire website by keyword and year.
+            </div>
+
+            <div class="search-modal-body">
+                <div class="search-modal-input-wrap">
+                    <i class="ri-search-2-line search-modal-input-icon"></i>
+                    <input type="text" id="searchModalInput" class="search-modal-input" placeholder="Type keyword (e.g. Modi, ISRO, Budget)..." onkeydown="if(event.key==='Enter') executeWebsiteSearch('modal')" autocomplete="off">
+                    <button type="button" class="search-modal-clear-btn" id="btnSearchModalClear" onclick="clearSearchModalInput()" style="display:none;" title="Clear">
+                        <i class="ri-close-line"></i>
+                    </button>
+                </div>
+
+                <div class="search-modal-controls-row">
+                    <div class="search-modal-year-wrap">
+                        <label for="searchModalYear" class="search-modal-year-label">Select Year:</label>
+                        <div class="search-modal-select-styled">
+                            <i class="ri-calendar-line"></i>
+                            <select id="searchModalYear" class="search-modal-year-select">
+                                <option value="2026" selected>2026</option>
+                                <option value="2025">2025</option>
+                                <option value="2024">2024</option>
+                                <option value="all">All Years</option>
+                            </select>
+                            <i class="ri-arrow-down-s-line"></i>
+                        </div>
+                    </div>
+
+                    <button type="button" class="btn-primary-action search-modal-submit-btn" id="btnSearchModalSubmit" onclick="executeWebsiteSearch('modal')">
+                        <i class="ri-search-line"></i>
+                        <span>Search Questions</span>
+                    </button>
+                </div>
+
+                <!-- Popular Search Suggestions -->
+                <div class="search-quick-tags-wrap">
+                    <span class="search-quick-label">Popular Searches:</span>
+                    <div class="search-quick-tags">
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('Modi')">Modi</button>
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('ISRO')">ISRO</button>
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('Budget')">Budget</button>
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('Defence')">Defence</button>
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('Award')">Award</button>
+                        <button type="button" class="search-tag-chip" onclick="quickSearchTag('G20')">G20</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- NAVIGATION HEADER -->
     <header class="navbar">
         <div class="container nav-container">
@@ -379,6 +440,11 @@
                     <span class="bookmark-badge-counter" id="headerBookmarkCount" style="display:none;">0</span>
                 </button>
 
+                <!-- Search Header Button -->
+                <button class="btn-icon" title="Search Questions Across Website" onclick="openSearchModal()" id="btnHeaderSearch">
+                    <i class="ri-search-line"></i>
+                </button>
+
                 <!-- User Account / Profile Button -->
                 <button class="btn-icon" title="Sign In / Account" onclick="handleAuthClick()" id="btnHeaderAuth" style="position:relative;">
                     <i class="ri-user-3-line" id="headerAuthIcon"></i>
@@ -416,13 +482,33 @@
             </div>
             
             <div class="menu-drawer-items">
-                <!-- Drawer Search Box (Menu-Only Keyword Search) -->
-                <div class="drawer-search-wrap">
-                    <div class="drawer-search-box">
+                <!-- Drawer Search Box (Website-Wide Search with Year Selector) -->
+                <div class="drawer-search-card">
+                    <div class="drawer-search-card-header">
+                        <div class="drawer-search-title">
+                            <i class="ri-search-line"></i>
+                            <span>Search Questions</span>
+                        </div>
+                    </div>
+                    <div class="drawer-search-input-box">
                         <i class="ri-search-line drawer-search-icon"></i>
-                        <input type="text" id="menuSearchInput" placeholder="Search questions by keyword..." oninput="handleMenuSearch(this.value)" autocomplete="off">
-                        <button class="drawer-search-clear" id="btnMenuSearchClear" onclick="clearMenuSearch()" style="display:none;" title="Clear Search">
+                        <input type="text" id="menuSearchInput" placeholder="Enter keyword (e.g. Modi, ISRO)..." onkeydown="if(event.key==='Enter') executeWebsiteSearch('drawer')" autocomplete="off">
+                        <button type="button" class="drawer-search-clear" id="btnMenuSearchClear" onclick="clearMenuSearch()" style="display:none;" title="Clear Search">
                             <i class="ri-close-line"></i>
+                        </button>
+                    </div>
+                    <div class="drawer-search-options-row">
+                        <div class="drawer-search-year-select-wrap">
+                            <span class="drawer-search-year-label">Year:</span>
+                            <select id="menuSearchYear" class="drawer-search-year-select">
+                                <option value="2026" selected>2026</option>
+                                <option value="2025">2025</option>
+                                <option value="2024">2024</option>
+                                <option value="all">All Years</option>
+                            </select>
+                        </div>
+                        <button type="button" class="btn-drawer-search-submit" onclick="executeWebsiteSearch('drawer')">
+                            <i class="ri-search-line"></i> Search
                         </button>
                     </div>
                 </div>
@@ -643,12 +729,20 @@
 
             <!-- SEARCH RESULTS BANNER (ACTIVE WHEN KEYWORD SEARCH APPLIED) -->
             <div class="search-results-banner" id="searchResultsBanner" style="display: none;">
-                <div class="search-banner-text">
-                    <i class="ri-search-line"></i>
-                    <span>Showing results for "<strong id="searchQueryText"></strong>" (<span id="searchResultCount">0</span> found)</span>
+                <div class="search-banner-info">
+                    <div class="search-banner-icon"><i class="ri-search-eye-line"></i></div>
+                    <div class="search-banner-text-group">
+                        <div class="search-banner-heading">
+                            Search Results for "<strong id="searchQueryText"></strong>"
+                        </div>
+                        <div class="search-banner-sub">
+                            Found <span id="searchResultCount" class="search-count-badge">0</span> questions in <span id="searchYearBadge" class="search-year-badge">2026</span>
+                        </div>
+                    </div>
                 </div>
-                <button class="btn-clear-search" onclick="clearMenuSearch()">
-                    <i class="ri-close-line"></i> Clear Search
+                <button class="btn-clear-search" onclick="clearWebsiteSearch()" title="Clear search and return to date view">
+                    <i class="ri-close-line"></i>
+                    <span>Clear Search</span>
                 </button>
             </div>
 
