@@ -516,15 +516,32 @@ function applyLanguage(lang) {
     }
 }
 
+// Helper to get Today's Date in IST
+function getTodayIST() {
+    try {
+        return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(new Date());
+    } catch (e) {
+        return new Date().toISOString().split('T')[0];
+    }
+}
+
 // Fetch available dates
 async function fetchDates() {
     try {
         const response = await fetch('/api/dates');
         const data = await response.json();
         if (data.status === 'success' && data.dates.length > 0) {
-            state.availableDates = data.dates;
-            if (!state.date) {
-                state.date = data.dates[0]; // Default to latest date
+            const todayStr = getTodayIST();
+            // Strictly exclude any future dates
+            state.availableDates = data.dates.filter(d => d && d <= todayStr);
+            if (!state.date || state.date > todayStr) {
+                if (state.availableDates.includes(todayStr)) {
+                    state.date = todayStr;
+                } else if (state.availableDates.length > 0) {
+                    state.date = state.availableDates[0];
+                } else {
+                    state.date = todayStr;
+                }
             }
             initCalendarStateFromDate(state.date);
         }
@@ -1676,6 +1693,7 @@ function toggleWorkspace(qid) {
 function updateDayNavButtons() {
     if (!state.date) return;
 
+    const todayStr = getTodayIST();
     const currDate = new Date(state.date);
     
     const prevDateObj = new Date(currDate);
@@ -1685,9 +1703,10 @@ function updateDayNavButtons() {
     const nextDateObj = new Date(currDate);
     nextDateObj.setDate(nextDateObj.getDate() + 1);
     const nextStr = formatDateObj(nextDateObj);
+    const isNextFuture = (nextStr > todayStr);
 
     const prevLabel = `Previous Day (${formatDisplayDate(prevStr)})`;
-    const nextLabel = `Next Day (${formatDisplayDate(nextStr)})`;
+    const nextLabel = isNextFuture ? `Today (${formatDisplayDate(state.date)})` : `Next Day (${formatDisplayDate(nextStr)})`;
     const dateLabel = `Date: ${formatDisplayDate(state.date)}`;
 
     const txtPrevBtn = document.getElementById('txtPrevDayBtn');
@@ -1695,7 +1714,14 @@ function updateDayNavButtons() {
     const txtDateNav = document.getElementById('txtDayNavCurrentDate');
 
     if (txtPrevBtn) txtPrevBtn.innerText = prevLabel;
-    if (txtNextBtn) txtNextBtn.innerText = nextLabel;
+    if (txtNextBtn) {
+        txtNextBtn.innerText = nextLabel;
+        const parentBtn = txtNextBtn.closest('.btn-day-nav');
+        if (parentBtn) {
+            parentBtn.style.opacity = isNextFuture ? '0.4' : '1';
+            parentBtn.style.pointerEvents = isNextFuture ? 'none' : 'auto';
+        }
+    }
     if (txtDateNav) txtDateNav.innerText = dateLabel;
 
     const txtPrevBtnTop = document.getElementById('txtPrevDayBtnTop');
@@ -1703,8 +1729,25 @@ function updateDayNavButtons() {
     const txtDateNavTop = document.getElementById('txtDayNavCurrentDateTop');
 
     if (txtPrevBtnTop) txtPrevBtnTop.innerText = prevLabel;
-    if (txtNextBtnTop) txtNextBtnTop.innerText = nextLabel;
+    if (txtNextBtnTop) {
+        txtNextBtnTop.innerText = nextLabel;
+        const parentBtnTop = txtNextBtnTop.closest('.btn-day-nav');
+        if (parentBtnTop) {
+            parentBtnTop.style.opacity = isNextFuture ? '0.4' : '1';
+            parentBtnTop.style.pointerEvents = isNextFuture ? 'none' : 'auto';
+        }
+    }
     if (txtDateNavTop) txtDateNavTop.innerText = dateLabel;
+
+    // Also update sticky header next arrow button
+    const headerArrows = document.querySelectorAll('.header-date-arrow-btn');
+    if (headerArrows && headerArrows.length >= 2) {
+        const nextArrow = headerArrows[1];
+        if (nextArrow) {
+            nextArrow.style.opacity = isNextFuture ? '0.35' : '1';
+            nextArrow.style.pointerEvents = isNextFuture ? 'none' : 'auto';
+        }
+    }
 }
 
 function navigateDay(delta) {
@@ -1712,6 +1755,12 @@ function navigateDay(delta) {
     const currDate = new Date(state.date);
     currDate.setDate(currDate.getDate() + delta);
     const newDateStr = formatDateObj(currDate);
+    const todayStr = getTodayIST();
+    
+    // Strictly prevent navigating to future dates
+    if (delta > 0 && newDateStr > todayStr) {
+        return;
+    }
     
     state.date = newDateStr;
     fetchQuestions();
@@ -1872,6 +1921,8 @@ function setupCanvasDrawingEvents(qid, canvas) {
 
     let isDrawing = false;
     let points = [];
+    let startPos = null;
+    let lockedY = null;
     let savedImageData = null;
 
     function getPos(e) {
@@ -1884,13 +1935,41 @@ function setupCanvasDrawingEvents(qid, canvas) {
         };
     }
 
+    // Accurate calculation to snap highlighter directly to the centerline of the nearest text line
+    function calculateSnappedTextLineY(rawY) {
+        const expText = document.getElementById(`expText-${qid}`);
+        if (!expText) return rawY;
+
+        const textRect = expText.getBoundingClientRect();
+        const canvasRect = canvas.getBoundingClientRect();
+        const textTopInCanvas = textRect.top - canvasRect.top;
+        const textBottomInCanvas = textTopInCanvas + textRect.height;
+        const computedStyle = window.getComputedStyle(expText);
+        const lineHeight = parseFloat(computedStyle.lineHeight) || 26;
+
+        if (rawY >= textTopInCanvas - 6 && rawY <= textBottomInCanvas + 6) {
+            const offsetFromTextTop = Math.max(0, rawY - textTopInCanvas);
+            const lineIndex = Math.floor(offsetFromTextTop / lineHeight);
+            // Lock with 100% pinpoint accuracy to the vertical middle of that text line
+            return textTopInCanvas + (lineIndex * lineHeight) + (lineHeight * 0.52);
+        }
+        return rawY;
+    }
+
     function startDraw(e) {
         const tool = state.activeTools[qid];
         if (!tool) return;
 
         isDrawing = true;
         const pos = getPos(e);
+        startPos = pos;
         points = [pos];
+
+        if (tool === 'highlighter') {
+            lockedY = calculateSnappedTextLineY(pos.y);
+        } else {
+            lockedY = null;
+        }
 
         const ctx = canvas.getContext('2d');
         savedImageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
@@ -1924,34 +2003,43 @@ function setupCanvasDrawingEvents(qid, canvas) {
             ctx.putImageData(savedImageData, 0, 0);
         }
 
-        ctx.beginPath();
-        ctx.moveTo(points[0].x, points[0].y);
-
-        for (let i = 1; i < points.length; i++) {
-            ctx.lineTo(points[i].x, points[i].y);
-        }
-
         if (tool === 'pen') {
+            ctx.beginPath();
+            ctx.moveTo(points[0].x, points[0].y);
+            for (let i = 1; i < points.length; i++) {
+                ctx.lineTo(points[i].x, points[i].y);
+            }
             ctx.globalCompositeOperation = 'source-over';
             ctx.strokeStyle = '#ef4444';
             ctx.lineWidth = 3;
             ctx.lineCap = 'round';
             ctx.lineJoin = 'round';
+            ctx.stroke();
         } else if (tool === 'highlighter') {
-            ctx.globalCompositeOperation = 'source-over';
-            ctx.strokeStyle = 'rgba(74, 222, 128, 0.72)';
-            ctx.lineWidth = 22;
-            ctx.lineCap = 'square';
-            ctx.lineJoin = 'miter';
-        }
+            // ACCURATE STRAIGHT HORIZONTAL LINE OVER TEXT
+            const lineY = (lockedY !== null) ? lockedY : points[0].y;
+            const fromX = startPos ? startPos.x : points[0].x;
+            const toX = pos.x;
 
-        ctx.stroke();
+            ctx.beginPath();
+            ctx.moveTo(fromX, lineY);
+            ctx.lineTo(toX, lineY);
+
+            ctx.globalCompositeOperation = 'source-over';
+            ctx.strokeStyle = 'rgba(250, 204, 21, 0.45)'; // Fluorescent highlighter yellow
+            ctx.lineWidth = 20;
+            ctx.lineCap = 'round';
+            ctx.lineJoin = 'round';
+            ctx.stroke();
+        }
     }
 
     function stopDraw() {
         if (isDrawing) {
             isDrawing = false;
             points = [];
+            startPos = null;
+            lockedY = null;
             savedImageData = null;
             state.canvasDrawingData[qid] = canvas.toDataURL();
             localStorage.setItem('user_canvas_data', JSON.stringify(state.canvasDrawingData));
@@ -1987,10 +2075,8 @@ function formatDateObj(d) {
 
 // VISUAL CALENDAR WIDGET MODAL LOGIC
 function openDateModal() {
-    if (state.date) {
-        initCalendarStateFromDate(state.date);
-    }
     initCalendarDropdowns();
+    updateCalendarDropdowns();
     renderCalendarGrid();
     document.getElementById('dateModal').classList.add('show');
 }
@@ -2053,7 +2139,7 @@ function renderCalendarGrid() {
     const firstDayIndex = new Date(calendarState.year, calendarState.month, 1).getDay();
     const totalDaysInMonth = new Date(calendarState.year, calendarState.month + 1, 0).getDate();
 
-    const todayStr = formatDateObj(new Date());
+    const todayStr = getTodayIST();
 
     for (let i = 0; i < firstDayIndex; i++) {
         const emptyCell = document.createElement('div');
@@ -2079,11 +2165,16 @@ function renderCalendarGrid() {
             dayCell.classList.add('selected');
         }
 
-        dayCell.onclick = () => {
-            state.date = cellDateStr;
-            closeDateModal();
-            fetchQuestions();
-        };
+        if (cellDateStr > todayStr) {
+            dayCell.classList.add('disabled-future');
+            dayCell.title = 'Future date (not available yet)';
+        } else {
+            dayCell.onclick = () => {
+                state.date = cellDateStr;
+                closeDateModal();
+                fetchQuestions();
+            };
+        }
 
         daysGrid.appendChild(dayCell);
     }

@@ -91,23 +91,40 @@ function setQuestionsCache(key, data) {
     questionsCache.set(key, { data, time: Date.now() });
 }
 
-async function connectDB() {
-    if (questionsCollection) return questionsCollection;
-    if (!MongoClient || !MONGO_URI) {
-        console.log('[Storage] Running in Local JSON file mode.');
-        return null;
+function getTodayIST() {
+    try {
+        return new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(new Date());
+    } catch (e) {
+        return new Date().toISOString().split('T')[0];
     }
+}
+
+async function connectDB() {
+    if (questionsCollection && usersCollection) return questionsCollection;
 
     try {
-        client = new MongoClient(MONGO_URI);
-        await client.connect();
-        db = client.db(DB_NAME);
-        questionsCollection = db.collection(COLLECTION_NAME);
-        usersCollection = db.collection(USERS_COLLECTION_NAME);
+        if (!MongoClient || !MONGO_URI) {
+            return null;
+        }
 
-        await questionsCollection.createIndex({ date: -1 });
-        await questionsCollection.createIndex({ date: 1, qno: 1 });
+        if (!client) {
+            client = new MongoClient(MONGO_URI);
+            await client.connect();
+            db = client.db(DB_NAME);
+            questionsCollection = db.collection(COLLECTION_NAME);
+            usersCollection = db.collection(USERS_COLLECTION_NAME);
+        } else {
+            questionsCollection = db.collection(COLLECTION_NAME);
+            usersCollection = db.collection(USERS_COLLECTION_NAME);
+        }
+
+        await questionsCollection.createIndex({ date: 1 }).catch(() => {});
+        await questionsCollection.createIndex({ category: 1 }).catch(() => {});
         await usersCollection.createIndex({ phone: 1 }, { unique: true }).catch(() => {});
+
+        // Auto-purge any rogue future dated questions
+        const todayStr = getTodayIST();
+        await questionsCollection.deleteMany({ date: { $gt: todayStr } }).catch(() => {});
 
         console.log('[MongoDB] Connected successfully');
 
@@ -159,6 +176,12 @@ function shuffleQuestions(questions, dateStr) {
 async function saveQuestionsForDate(dateStr, translatedQuestions) {
     if (!translatedQuestions || translatedQuestions.length === 0) return;
 
+    const todayStr = getTodayIST();
+    if (dateStr > todayStr) {
+        console.warn(`[Storage] Rejected saving questions for future date ${dateStr} (today is ${todayStr})`);
+        return;
+    }
+
     const shuffled = shuffleQuestions(translatedQuestions, dateStr);
 
     const collection = await connectDB();
@@ -172,12 +195,12 @@ async function saveQuestionsForDate(dateStr, translatedQuestions) {
 
     // Always update local file as well
     loadFileData();
-    fileDbData.questions = (fileDbData.questions || []).filter(q => q.date !== dateStr);
+    fileDbData.questions = (fileDbData.questions || []).filter(q => q.date !== dateStr && q.date <= todayStr);
     fileDbData.questions.push(...shuffled);
-    if (!fileDbData.dates.includes(dateStr)) {
+    if (!fileDbData.dates.includes(dateStr) && dateStr <= todayStr) {
         fileDbData.dates.push(dateStr);
-        fileDbData.dates.sort().reverse();
     }
+    fileDbData.dates = fileDbData.dates.filter(d => d <= todayStr).sort().reverse();
     saveFileData();
 
     cachedDates = null;
@@ -186,15 +209,16 @@ async function saveQuestionsForDate(dateStr, translatedQuestions) {
 
 async function getAvailableDates(forceRefresh = false) {
     const now = Date.now();
+    const todayStr = getTodayIST();
     if (!forceRefresh && cachedDates && (now - datesCacheTime < 60000)) {
-        return cachedDates;
+        return cachedDates.filter(d => d <= todayStr);
     }
 
     try {
         const collection = await connectDB();
         if (collection) {
             const dates = await collection.distinct('date');
-            cachedDates = dates.sort().reverse();
+            cachedDates = dates.filter(d => d && d <= todayStr).sort().reverse();
             datesCacheTime = now;
             return cachedDates;
         }
@@ -203,7 +227,7 @@ async function getAvailableDates(forceRefresh = false) {
     }
 
     const local = loadFileData();
-    cachedDates = (local.dates || []).sort().reverse();
+    cachedDates = (local.dates || []).filter(d => d && d <= todayStr).sort().reverse();
     datesCacheTime = now;
     return cachedDates;
 }
@@ -248,6 +272,11 @@ async function syncJsonToMongo() {
 }
 
 async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = '', month = null) {
+    const todayStr = getTodayIST();
+    if (dateStr && dateStr !== 'all' && dateStr > todayStr) {
+        return [];
+    }
+
     const cacheKey = getQuestionsCacheKey(dateStr, lang, category, month, searchQuery);
     const cached = questionsCache.get(cacheKey);
     if (cached && (Date.now() - cached.time < QUESTIONS_CACHE_TTL)) {
@@ -287,12 +316,13 @@ async function getQuestions(dateStr, lang = 'en', category = null, searchQuery =
     const local = loadFileData();
     let fileList = local.questions || [];
 
+    const availableLocalDates = (local.dates || []).filter(d => d <= todayStr);
     if (month && month !== 'All') {
         fileList = fileList.filter(q => q.date && q.date.startsWith(month));
     } else if (dateStr && dateStr !== 'all') {
         fileList = fileList.filter(q => q.date === dateStr);
-    } else if (!dateStr && local.dates && local.dates.length > 0) {
-        fileList = fileList.filter(q => q.date === local.dates[0]);
+    } else if (!dateStr && availableLocalDates.length > 0) {
+        fileList = fileList.filter(q => q.date === availableLocalDates[0]);
     }
 
     if (category && category !== 'All') {
@@ -607,5 +637,6 @@ module.exports = {
     loginUser,
     saveUserActivity,
     syncUserBookmarks,
-    getUserProfile
+    getUserProfile,
+    getTodayIST
 };

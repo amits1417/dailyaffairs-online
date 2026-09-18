@@ -23,8 +23,20 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/api/current-affairs', async (req, res) => {
     try {
         const { date, lang = 'en', category, search, month } = req.query;
-        const todayStr = cronService.formatDate ? cronService.formatDate(new Date()) : new Date().toISOString().split('T')[0];
+        const todayStr = storage.getTodayIST ? storage.getTodayIST() : new Date().toISOString().split('T')[0];
         let dates = await storage.getAvailableDates();
+        dates = (dates || []).filter(d => d && d <= todayStr);
+
+        // Disallow future date requests
+        if (date && date !== 'all' && date > todayStr) {
+            return res.json({
+                status: 'success',
+                date: todayStr,
+                lang,
+                count: 0,
+                questions: []
+            });
+        }
 
         // Background auto-fetch if today is missing (non-blocking)
         if (date !== 'all' && (!date || date === todayStr) && !dates.includes(todayStr)) {
@@ -32,7 +44,7 @@ app.get('/api/current-affairs', async (req, res) => {
         }
 
         let questions = await storage.getQuestions(date, lang, category, search, month);
-        const selectedDate = date || (dates.length > 0 ? dates[0] : todayStr);
+        const selectedDate = (date && date !== 'all') ? date : (dates.length > 0 ? dates[0] : todayStr);
 
         // Cacheable for 60s (browser + edge) — data changes only on sync
         res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
@@ -51,8 +63,9 @@ app.get('/api/current-affairs', async (req, res) => {
 // API: Get available dates
 app.get('/api/dates', async (req, res) => {
     try {
-        const todayStr = cronService.formatDate ? cronService.formatDate(new Date()) : new Date().toISOString().split('T')[0];
+        const todayStr = storage.getTodayIST ? storage.getTodayIST() : new Date().toISOString().split('T')[0];
         let dates = await storage.getAvailableDates();
+        dates = (dates || []).filter(d => d && d <= todayStr);
 
         if (!dates.includes(todayStr)) {
             cronService.syncDate(todayStr).catch(() => {});

@@ -1,8 +1,5 @@
 {
   "dates": [
-    "2026-09-25",
-    "2026-09-21",
-    "2026-09-19",
     "2026-09-18",
     "2026-09-17",
     "2026-09-16",
@@ -39803,43 +39800,6 @@
       }
     },
     {
-      "id": "2026-09-19-10",
-      "date": "2026-09-19",
-      "qno": 10,
-      "answer": "C",
-      "category": "Important Days",
-      "en": {
-        "question": "Skyscraper Day is observed annually on which day?",
-        "options": {
-          "A": "September 1",
-          "B": "September 2",
-          "C": "September 3",
-          "D": "September 4"
-        },
-        "explanation": "Skyscraper Day is observed annually on 3 September to celebrate the engineering and architectural achievements behind tall buildings. The date marks the birth anniversary of Louis Sullivan, born on 3 September 1856, who is often called the “Father of Modern Skyscrapers.” Sullivan popularised the architectural principle “form follows function.” The rise of skyscrapers was enabled by innovations such as steel-frame construction and the passenger elevator."
-      },
-      "hi": {
-        "question": "Skyscraper Day is observed annually on which day?",
-        "options": {
-          "A": "September 1",
-          "B": "September 2",
-          "C": "September 3",
-          "D": "September 4"
-        },
-        "explanation": "Skyscraper Day is observed annually on 3 September to celebrate the engineering and architectural achievements behind tall buildings. The date marks the birth anniversary of Louis Sullivan, born on 3 September 1856, who is often called the “Father of Modern Skyscrapers.” Sullivan popularised the architectural principle “form follows function.” The rise of skyscrapers was enabled by innovations such as steel-frame construction and the passenger elevator."
-      },
-      "gu": {
-        "question": "Skyscraper Day is observed annually on which day?",
-        "options": {
-          "A": "September 1",
-          "B": "September 2",
-          "C": "September 3",
-          "D": "September 4"
-        },
-        "explanation": "Skyscraper Day is observed annually on 3 September to celebrate the engineering and architectural achievements behind tall buildings. The date marks the birth anniversary of Louis Sullivan, born on 3 September 1856, who is often called the “Father of Modern Skyscrapers.” Sullivan popularised the architectural principle “form follows function.” The rise of skyscrapers was enabled by innovations such as steel-frame construction and the passenger elevator."
-      }
-    },
-    {
       "id": "2026-09-07-11",
       "date": "2026-09-07",
       "qno": 11,
@@ -39874,117 +39834,6 @@
           "D": "Viksit Bharat – Global Gujarat"
         },
         "explanation": "The 11th Vibrant Gujarat Global Summit 2027 will be held from 10–12 January 2027 in Gandhinagar, Gujarat. The theme of the summit is “Viksit Gujarat – Shaping Global Future.” The summit aims to position Gujarat not merely as an investment destination, but as a growth engine for India. Gujarat is promoting sectors such as green hydrogen, green energy, semiconductors, technology and innovation through sector-specific policies. The summit will also provide impetus to sectors identified under ‘Saptdhara’ (seven streams of development), including agriculture and food processing."
-      }
-    },
-    {
-      "id": "2026-09-19-16",
-      "date": "2026-09-19",
-      "qno": 16,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Super Garuda Shield 2026 is a major annual multinational joint military exercise held in which country?",
-        "options": {
-          "A": "India",
-          "B": "Indonesia",
-          "C": "Japan",
-          "D": "Australia"
-        },
-        "explanation": "Recently, Indonesia and the United States launched the annual “Super Garuda Shield” military exercise on 31 August 2026. The exercise is held in Indonesia. It involves more than 4,700 personnel from Indonesia, the US and 13 other countries. Participating countries include Japan, South Korea, Australia and Canada. The exercise covers airborne operations, missile firing, jungle warfare, naval manoeuvres, infiltration drills and cyber defence."
-      },
-      "hi": {
-        "question": "Super Garuda Shield 2026 is a major annual multinational joint military exercise held in which country?",
-        "options": {
-          "A": "India",
-          "B": "Indonesia",
-          "C": "Japan",
-          "D": "Australia"
-        },
-        "explanation": "Recently, Indonesia and the United States launched the annual “Super Garuda Shield” military exercise on 31 August 2026. The exercise is held in Indonesia. It involves more than 4,700 personnel from Indonesia, the US and 13 other countries. Participating countries include Japan, South Korea, Australia and Canada. The exercise covers airborne operations, missile firing, jungle warfare, naval manoeuvres, infiltration drills and cyber defence."
-      },
-      "gu": {
-        "question": "Super Garuda Shield 2026 is a major annual multinational joint military exercise held in which country?",
-        "options": {
-          "A": "India",
-          "B": "Indonesia",
-          "C": "Japan",
-          "D": "Australia"
-        },
-        "explanation": "Recently, Indonesia and the United States launched the annual “Super Garuda Shield” military exercise on 31 August 2026. The exercise is held in Indonesia. It involves more than 4,700 personnel from Indonesia, the US and 13 other countries. Participating countries include Japan, South Korea, Australia and Canada. The exercise covers airborne operations, missile firing, jungle warfare, naval manoeuvres, infiltration drills and cyber defence."
-      }
-    },
-    {
-      "id": "2026-09-21-17",
-      "date": "2026-09-21",
-      "qno": 17,
-      "answer": "B",
-      "category": "Science & Technology",
-      "en": {
-        "question": "What is ‘Agni Kawach’, recently launched in India?",
-        "options": {
-          "A": "AI-based defence system",
-          "B": "AI-integrated industrial process-safety platform",
-          "C": "AI-powered agricultural platform",
-          "D": "AI-based disaster warning satellite"
-        },
-        "explanation": "Agnikawach Safety Solutions Pvt. Ltd. launched Agnikawach, described as India’s first indigenous AI-integrated process-safety and consequence-modelling platform. The platform combines Artificial Intelligence (AI), GPU-native computing, adaptive-mesh CFD, cloud technology and risk modelling. It covers eight industrial hazards, including jet fire, pool fire, explosions, BLEVE/fireball, toxic dispersion and cryogenic releases. It is built on 100% Indian intellectual property and aims to reduce dependence on expensive imported safety software."
-      },
-      "hi": {
-        "question": "What is ‘Agni Kawach’, recently launched in India?",
-        "options": {
-          "A": "AI-based defence system",
-          "B": "AI-integrated industrial process-safety platform",
-          "C": "AI-powered agricultural platform",
-          "D": "AI-based disaster warning satellite"
-        },
-        "explanation": "Agnikawach Safety Solutions Pvt. Ltd. launched Agnikawach, described as India’s first indigenous AI-integrated process-safety and consequence-modelling platform. The platform combines Artificial Intelligence (AI), GPU-native computing, adaptive-mesh CFD, cloud technology and risk modelling. It covers eight industrial hazards, including jet fire, pool fire, explosions, BLEVE/fireball, toxic dispersion and cryogenic releases. It is built on 100% Indian intellectual property and aims to reduce dependence on expensive imported safety software."
-      },
-      "gu": {
-        "question": "What is ‘Agni Kawach’, recently launched in India?",
-        "options": {
-          "A": "AI-based defence system",
-          "B": "AI-integrated industrial process-safety platform",
-          "C": "AI-powered agricultural platform",
-          "D": "AI-based disaster warning satellite"
-        },
-        "explanation": "Agnikawach Safety Solutions Pvt. Ltd. launched Agnikawach, described as India’s first indigenous AI-integrated process-safety and consequence-modelling platform. The platform combines Artificial Intelligence (AI), GPU-native computing, adaptive-mesh CFD, cloud technology and risk modelling. It covers eight industrial hazards, including jet fire, pool fire, explosions, BLEVE/fireball, toxic dispersion and cryogenic releases. It is built on 100% Indian intellectual property and aims to reduce dependence on expensive imported safety software."
-      }
-    },
-    {
-      "id": "2026-09-25-18",
-      "date": "2026-09-25",
-      "qno": 18,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "The Khagantak-243 long-range glide bomb was first flight-tested from which fighter aircraft?",
-        "options": {
-          "A": "Rafale",
-          "B": "Su-30MKI",
-          "C": "Tejas",
-          "D": "MiG-29K"
-        },
-        "explanation": "The Indian Air Force (IAF) conducted the first flight trial of the indigenous Khagantak-243 long-range glide bomb at the Pokhran Field Firing Range, Jaisalmer, Rajasthan, after releasing it from a Su-30MKI fighter aircraft. The trial successfully met its objectives and is aimed at strengthening India’s indigenous long-range strike capability and reducing dependence on imported precision-guided munitions. The glide bomb is designed to strike targets from considerable distances while allowing the launching aircraft to remain outside the effective range of enemy air-defence systems. It can reportedly cover 144–180 km when released from around 12 km altitude at Mach 0.8."
-      },
-      "hi": {
-        "question": "The Khagantak-243 long-range glide bomb was first flight-tested from which fighter aircraft?",
-        "options": {
-          "A": "Rafale",
-          "B": "Su-30MKI",
-          "C": "Tejas",
-          "D": "MiG-29K"
-        },
-        "explanation": "The Indian Air Force (IAF) conducted the first flight trial of the indigenous Khagantak-243 long-range glide bomb at the Pokhran Field Firing Range, Jaisalmer, Rajasthan, after releasing it from a Su-30MKI fighter aircraft. The trial successfully met its objectives and is aimed at strengthening India’s indigenous long-range strike capability and reducing dependence on imported precision-guided munitions. The glide bomb is designed to strike targets from considerable distances while allowing the launching aircraft to remain outside the effective range of enemy air-defence systems. It can reportedly cover 144–180 km when released from around 12 km altitude at Mach 0.8."
-      },
-      "gu": {
-        "question": "The Khagantak-243 long-range glide bomb was first flight-tested from which fighter aircraft?",
-        "options": {
-          "A": "Rafale",
-          "B": "Su-30MKI",
-          "C": "Tejas",
-          "D": "MiG-29K"
-        },
-        "explanation": "The Indian Air Force (IAF) conducted the first flight trial of the indigenous Khagantak-243 long-range glide bomb at the Pokhran Field Firing Range, Jaisalmer, Rajasthan, after releasing it from a Su-30MKI fighter aircraft. The trial successfully met its objectives and is aimed at strengthening India’s indigenous long-range strike capability and reducing dependence on imported precision-guided munitions. The glide bomb is designed to strike targets from considerable distances while allowing the launching aircraft to remain outside the effective range of enemy air-defence systems. It can reportedly cover 144–180 km when released from around 12 km altitude at Mach 0.8."
       }
     },
     {
