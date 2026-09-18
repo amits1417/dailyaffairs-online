@@ -195,12 +195,23 @@
     <!-- NAVIGATION HEADER -->
     <header class="navbar">
         <div class="container nav-container">
-            <a href="#" class="brand-logo" onclick="goHome(); return false;" title="Back to Home">
-                <img src="logo.jpg" alt="DailyAffairs.online Logo" class="brand-logo-img">
-                <div class="brand-text-wrap">
-                    <span class="brand-main-text">DailyAffairs</span><span class="brand-tld-text">.online</span>
+            <div class="brand-group">
+                <a href="#" class="brand-logo" onclick="goHome(); return false;" title="Back to Home">
+                    <img src="logo.jpg" alt="DailyAffairs.online Logo" class="brand-logo-img">
+                    <div class="brand-text-wrap">
+                        <span class="brand-main-text">DailyAffairs</span><span class="brand-tld-text">.online</span>
+                    </div>
+                </a>
+
+                <!-- Live Current Date, Day & Time (Compact Badge) -->
+                <div class="header-live-datetime" id="headerLiveDateTime" title="Current Day, Date & Live Time">
+                    <i class="ri-time-line datetime-icon"></i>
+                    <span id="liveDayText">Fri</span>,
+                    <span id="liveDateText">18 Sep 2026</span>
+                    <span class="datetime-dot">•</span>
+                    <span id="liveTimeText" class="datetime-time">08:05:00 PM</span>
                 </div>
-            </a>
+            </div>
 
             <div class="nav-actions">
                 <!-- Home Button -->

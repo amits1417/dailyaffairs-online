@@ -225,8 +225,42 @@ function filterTopicWise() {
     fetchQuestions();
 }
 
+// Header Live Current Date, Day & Time (Ticks every second)
+function initLiveDateTime() {
+    function updateClock() {
+        const now = new Date();
+        const days = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+        const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
+
+        const dayName = days[now.getDay()];
+        const dayNum = String(now.getDate()).padStart(2, '0');
+        const monthName = months[now.getMonth()];
+        const year = now.getFullYear();
+
+        let hours = now.getHours();
+        const minutes = String(now.getMinutes()).padStart(2, '0');
+        const seconds = String(now.getSeconds()).padStart(2, '0');
+        const ampm = hours >= 12 ? 'PM' : 'AM';
+        hours = hours % 12;
+        hours = hours ? hours : 12;
+        const hoursPadded = String(hours).padStart(2, '0');
+
+        const liveDay = document.getElementById('liveDayText');
+        const liveDate = document.getElementById('liveDateText');
+        const liveTime = document.getElementById('liveTimeText');
+
+        if (liveDay) liveDay.innerText = dayName;
+        if (liveDate) liveDate.innerText = `${dayNum} ${monthName} ${year}`;
+        if (liveTime) liveTime.innerText = `${hoursPadded}:${minutes}:${seconds} ${ampm}`;
+    }
+
+    updateClock();
+    setInterval(updateClock, 1000);
+}
+
 // Initialize App
 document.addEventListener('DOMContentLoaded', async () => {
+    initLiveDateTime();
     checkLandingPage();
     loadLandingStats();
 

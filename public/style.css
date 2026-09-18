@@ -214,6 +214,66 @@ img, canvas {
     color: var(--text-muted);
     margin-left: 1px;
 }
+
+.brand-group {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+}
+
+.header-live-datetime {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    background: var(--primary-light, rgba(37, 99, 235, 0.08));
+    color: var(--text-dark);
+    border: 1px solid var(--border-color);
+    padding: 4px 12px;
+    border-radius: 20px;
+    font-size: 0.76rem;
+    font-weight: 600;
+    font-family: var(--font-ui) !important;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.03);
+}
+
+.datetime-icon {
+    color: var(--primary-color);
+    font-size: 0.88rem;
+}
+
+.datetime-dot {
+    color: var(--text-muted);
+    margin: 0 1px;
+    opacity: 0.6;
+}
+
+.datetime-time {
+    color: var(--primary-color);
+    font-variant-numeric: tabular-nums;
+    font-weight: 700;
+}
+
+@media (max-width: 768px) {
+    .brand-group {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 1px;
+    }
+    .header-live-datetime {
+        font-size: 0.66rem;
+        padding: 0;
+        background: transparent;
+        border: none;
+        box-shadow: none;
+        color: var(--text-muted);
+        margin-left: 46px; /* align below brand text */
+        margin-top: -4px;
+    }
+    .header-live-datetime .datetime-icon {
+        display: none;
+    }
 }
 
 .brand-badge {
