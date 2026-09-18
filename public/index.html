@@ -43,7 +43,7 @@
     </script>
     <!-- Remix Icons -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=2.2">
+    <link rel="stylesheet" href="style.css?v=2.3">
 </head>
 <body>
 
@@ -250,6 +250,12 @@
                     </button>
                 </div>
 
+                <!-- Bookmarks Quick Access Button -->
+                <button class="btn-icon" title="Bookmarked Questions" onclick="switchViewMode('bookmarks')" id="btnHeaderBookmarks" style="position:relative;">
+                    <i class="ri-bookmark-3-line" id="headerBookmarkIcon"></i>
+                    <span class="bookmark-badge-counter" id="headerBookmarkCount" style="display:none;">0</span>
+                </button>
+
                 <!-- Theme Toggle Button (Desktop) -->
                 <button class="btn-icon desktop-only" title="Toggle Dark/Light Theme" onclick="toggleTheme()">
                     <i class="ri-moon-line" id="themeIcon"></i>
@@ -319,6 +325,17 @@
                     <div>
                         <div class="drawer-item-title">Topic-Wise Current Affairs</div>
                         <div class="drawer-item-sub">Filter by Month & Topic</div>
+                    </div>
+                </div>
+
+                <div class="drawer-item" id="drawerItemBookmarks" onclick="switchViewMode('bookmarks'); closeMenuDrawer();">
+                    <i class="ri-bookmark-3-line" style="color:#f59e0b;"></i>
+                    <div style="flex:1;">
+                        <div class="drawer-item-title" style="display:flex; justify-content:space-between; align-items:center;">
+                            <span>Bookmarked Questions</span>
+                            <span class="badge-bookmark-count" id="drawerBookmarkCount">0</span>
+                        </div>
+                        <div class="drawer-item-sub">Saved questions organized by topic</div>
                     </div>
                 </div>
 
@@ -407,7 +424,7 @@
                         <!-- Month Selector -->
                         <div class="topic-select-wrapper">
                             <i class="ri-calendar-event-line topic-select-icon"></i>
-                            <select id="monthSelect" class="topic-dropdown-select" onchange="filterTopicWise()">
+                            <select id="monthSelect" class="topic-dropdown-select">
                                 <option value="">-- Select Month --</option>
                                 <option value="2026-09">September 2026</option>
                                 <option value="2026-08">August 2026</option>
@@ -425,8 +442,32 @@
                         <!-- Topic Selector -->
                         <div class="topic-select-wrapper">
                             <i class="ri-price-tag-3-line topic-select-icon"></i>
-                            <select id="categorySelect" class="topic-dropdown-select" onchange="filterTopicWise()">
+                            <select id="categorySelect" class="topic-dropdown-select">
                                 <option value="">-- Select Topic / Category --</option>
+                            </select>
+                            <i class="ri-arrow-down-s-line topic-arrow-icon"></i>
+                        </div>
+
+                        <!-- Explicit Show Questions Button -->
+                        <button class="btn-primary-action btn-show-topic-q" id="btnShowTopicQuestions" onclick="submitTopicFilter()">
+                            <i class="ri-search-eye-line"></i>
+                            <span id="txtShowTopicQuestions">Show Questions</span>
+                        </button>
+                    </div>
+                </div>
+
+                <!-- BOOKMARKS CONTROLS BAR (ONLY VISIBLE IN BOOKMARKS VIEW) -->
+                <div class="controls-bar" id="bookmarksControlsBar" style="display: none;">
+                    <div class="bookmarks-bar-inner">
+                        <div class="bookmarks-info-wrap">
+                            <i class="ri-bookmark-3-fill" style="color:#f59e0b; font-size:1.3rem;"></i>
+                            <span class="bookmarks-bar-title">Bookmarked Questions</span>
+                            <span class="bookmarks-total-badge" id="bookmarksTotalBadge">0 Saved</span>
+                        </div>
+                        <div class="topic-select-wrapper" style="min-width: 250px;">
+                            <i class="ri-price-tag-3-line topic-select-icon"></i>
+                            <select id="bookmarksTopicSelect" class="topic-dropdown-select" onchange="filterBookmarksByTopic(this.value)">
+                                <option value="All">-- All Topics / Categories --</option>
                             </select>
                             <i class="ri-arrow-down-s-line topic-arrow-icon"></i>
                         </div>
@@ -472,6 +513,6 @@
         </div>
     </main>
 
-    <script src="app.js?v=2.2"></script>
+    <script src="app.js?v=2.3"></script>
 </body>
 </html>

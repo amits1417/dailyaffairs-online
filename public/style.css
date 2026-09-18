@@ -2131,3 +2131,149 @@ select option {
     color: white !important;
     border-color: #374151 !important;
 }
+
+/* Header Bookmark Counter Badge */
+.bookmark-badge-counter {
+    position: absolute;
+    top: -4px;
+    right: -4px;
+    background: #f59e0b;
+    color: white;
+    font-size: 0.65rem;
+    font-weight: 800;
+    width: 17px;
+    height: 17px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.5px solid var(--card-bg);
+}
+
+.badge-bookmark-count {
+    background: rgba(245, 158, 11, 0.15);
+    color: #d97706;
+    font-size: 0.75rem;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 12px;
+}
+
+/* Show Questions Primary Button */
+.btn-show-topic-q {
+    background: var(--primary-color) !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 10px !important;
+    padding: 10px 22px !important;
+    font-weight: 700 !important;
+    font-size: 0.95rem !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    cursor: pointer !important;
+    transition: all 0.2s ease !important;
+    box-shadow: 0 4px 12px rgba(37, 99, 235, 0.25) !important;
+    white-space: nowrap !important;
+}
+
+.btn-show-topic-q:hover {
+    background: var(--primary-dark) !important;
+    transform: translateY(-1px) !important;
+    box-shadow: 0 6px 16px rgba(37, 99, 235, 0.35) !important;
+}
+
+/* Card Bookmark Button */
+.btn-card-bookmark {
+    background: transparent;
+    border: none;
+    color: var(--text-muted);
+    font-size: 1.25rem;
+    cursor: pointer;
+    padding: 4px;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: color 0.15s, transform 0.15s;
+    margin-left: auto;
+}
+
+.btn-card-bookmark:hover {
+    color: #f59e0b;
+    transform: scale(1.15);
+}
+
+.btn-card-bookmark.bookmarked {
+    color: #f59e0b !important;
+}
+
+/* Card Toolbar Bookmark Button */
+.btn-bookmark-tool.active-bookmark {
+    color: #d97706 !important;
+    border-color: #f59e0b !important;
+    background: rgba(245, 158, 11, 0.1) !important;
+}
+
+/* Bookmarks Controls Bar */
+.bookmarks-bar-inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+}
+
+.bookmarks-info-wrap {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.bookmarks-bar-title {
+    font-size: 1.1rem;
+    font-weight: 700;
+    color: var(--text-dark);
+}
+
+.bookmarks-total-badge {
+    background: rgba(245, 158, 11, 0.15);
+    color: #d97706;
+    font-size: 0.8rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 14px;
+}
+
+/* Topic Bookmark Group Section Banner */
+.topic-bookmark-group-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: var(--card-bg);
+    border: 1.5px solid var(--border-color);
+    border-left: 4px solid var(--primary-color);
+    border-radius: 12px;
+    padding: 12px 18px;
+    margin-top: 30px;
+    margin-bottom: 16px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.topic-bookmark-group-title {
+    font-size: 1.08rem;
+    font-weight: 800;
+    color: var(--text-dark);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.topic-bookmark-count-pill {
+    background: var(--primary-light, rgba(37,99,235,0.1));
+    color: var(--primary-color);
+    font-size: 0.78rem;
+    font-weight: 700;
+    padding: 3px 10px;
+    border-radius: 20px;
+}

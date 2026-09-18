@@ -45,12 +45,15 @@ let state = {
     lang: localStorage.getItem('user_lang') || 'gu',
     fontSizePx: initialFontSize,
     englishFont: 'Inter',
-    viewMode: 'daily', // 'daily' or 'topic'
+    viewMode: 'daily', // 'daily', 'topic', or 'bookmarks'
     selectedMonth: 'All', // 'All', '2026-09', '2026-08'
     date: null,
     category: 'All',
     availableDates: [],
     questions: [],
+    bookmarks: JSON.parse(localStorage.getItem('dailyaffairs_bookmarks') || '{}'), // qid -> question object
+    bookmarksCategoryFilter: 'All',
+    topicQuestionsLoaded: false,
     userAttempts: {}, // qid -> Array of attempted options ['A', 'C']
     revealedAnswers: {}, // qid -> boolean (true if right answer selected or View Explanation clicked)
     userComments: JSON.parse(localStorage.getItem('user_comments') || '{}'), // qid -> Array of {text, time}
@@ -97,7 +100,13 @@ const UI_STRINGS_MAP = {
         selectMonthFirst: 'કૃપા કરીને મહિનો પસંદ કરો',
         selectTopicFirst: 'કૃપા કરીને વિષય / કેટેગરી પસંદ કરો',
         selectMonthLabel: 'મહિનો પસંદ કરો',
-        selectTopicLabel: 'વિષય / કેટેગરી પસંદ કરો'
+        selectTopicLabel: 'વિષય / કેટેગરી પસંદ કરો',
+        bookmark: 'બુકમાર્ક',
+        bookmarked: 'સેવ કરેલ',
+        removeBookmark: 'બુકમાર્ક હટાવો',
+        bookmarksTitle: 'બુકમાર્ક કરેલા પ્રશ્નો',
+        noBookmarks: 'હજુ સુધી કોઈ પ્રશ્ન બુકમાર્ક કરેલ નથી. પ્રશ્નોને સાચવવા માટે પ્રશ્ન કાર્ડ પર બુકમાર્ક આયકન પર ક્લિક કરો.',
+        showQuestions: 'પ્રશ્નો જુઓ'
     },
     hi: {
         noQuestions: 'चयनित मानदंड के लिए कोई प्रश्न नहीं मिले।',
@@ -124,7 +133,13 @@ const UI_STRINGS_MAP = {
         selectMonthFirst: 'कृपया महीना चुनें',
         selectTopicFirst: 'कृपया विषय / श्रेणी चुनें',
         selectMonthLabel: 'महीना चुनें',
-        selectTopicLabel: 'विषय / श्रेणी चुनें'
+        selectTopicLabel: 'विषय / श्रेणी चुनें',
+        bookmark: 'बुकमार्क',
+        bookmarked: 'सहेजा गया',
+        removeBookmark: 'बुकमार्क हटाएं',
+        bookmarksTitle: 'बुकमार्क किए गए प्रश्न',
+        noBookmarks: 'अभी तक कोई प्रश्न बुकमार्क नहीं किया गया है। प्रश्नों को सहेजने के लिए प्रश्न कार्ड पर बुकमार्क आइकन पर क्लिक करें।',
+        showQuestions: 'प्रश्न देखें'
     },
     en: {
         noQuestions: 'No questions found for the selected criteria.',
@@ -151,7 +166,13 @@ const UI_STRINGS_MAP = {
         selectMonthFirst: 'Please select a Month',
         selectTopicFirst: 'Please select a Topic / Category',
         selectMonthLabel: 'Select Month',
-        selectTopicLabel: 'Select Topic / Category'
+        selectTopicLabel: 'Select Topic / Category',
+        bookmark: 'Bookmark',
+        bookmarked: 'Saved',
+        removeBookmark: 'Remove Bookmark',
+        bookmarksTitle: 'Bookmarked Questions',
+        noBookmarks: 'No bookmarked questions yet. Click the bookmark icon on any question card to save it here.',
+        showQuestions: 'Show Questions'
     }
 };
 
@@ -178,51 +199,111 @@ function applyEnglishFont() {
     document.documentElement.style.setProperty('--user-font-english', fontStack);
 }
 
-// Switch View Mode (Daily vs Topic-Wise)
+// Update Bookmark Counter Badges (Header & Drawer)
+function updateBookmarkBadges() {
+    const count = Object.keys(state.bookmarks || {}).length;
+    const headerBadge = document.getElementById('headerBookmarkCount');
+    const drawerBadge = document.getElementById('drawerBookmarkCount');
+    const totalBadge = document.getElementById('bookmarksTotalBadge');
+
+    if (headerBadge) {
+        headerBadge.innerText = count;
+        headerBadge.style.display = count > 0 ? 'inline-flex' : 'none';
+    }
+    if (drawerBadge) {
+        drawerBadge.innerText = count;
+    }
+    if (totalBadge) {
+        totalBadge.innerText = `${count} Saved`;
+    }
+}
+
+// Switch View Mode (Daily vs Topic-Wise vs Bookmarks)
 function switchViewMode(mode) {
     state.viewMode = mode;
 
     const drawerItemDaily = document.getElementById('drawerItemDaily');
     const drawerItemTopic = document.getElementById('drawerItemTopic');
+    const drawerItemBookmarks = document.getElementById('drawerItemBookmarks');
     if (drawerItemDaily) drawerItemDaily.classList.toggle('active', mode === 'daily');
     if (drawerItemTopic) drawerItemTopic.classList.toggle('active', mode === 'topic');
+    if (drawerItemBookmarks) drawerItemBookmarks.classList.toggle('active', mode === 'bookmarks');
 
     const topicControlsBar = document.getElementById('topicControlsBar');
+    const bookmarksControlsBar = document.getElementById('bookmarksControlsBar');
     const headerDateGroup = document.getElementById('headerDateGroup');
+    const dayNavBar = document.getElementById('dayNavBar');
+    const dayNavBarTop = document.getElementById('dayNavBarTop');
     const pageTitleIcon = document.getElementById('pageTitleIcon');
     const pageTitleText = document.getElementById('pageTitleText');
 
     if (mode === 'daily') {
         if (topicControlsBar) topicControlsBar.style.display = 'none';
+        if (bookmarksControlsBar) bookmarksControlsBar.style.display = 'none';
         if (headerDateGroup) headerDateGroup.style.display = 'flex';
         if (pageTitleIcon) pageTitleIcon.className = 'ri-flashlight-line';
         if (pageTitleText) pageTitleText.innerText = 'Daily Current Affairs & Analysis';
         state.category = 'All';
         state.selectedMonth = 'All';
-    } else {
+        fetchQuestions();
+    } else if (mode === 'topic') {
         if (topicControlsBar) topicControlsBar.style.display = 'block';
+        if (bookmarksControlsBar) bookmarksControlsBar.style.display = 'none';
         if (headerDateGroup) headerDateGroup.style.display = 'none';
+        if (dayNavBar) dayNavBar.style.display = 'none';
+        if (dayNavBarTop) dayNavBarTop.style.display = 'none';
         if (pageTitleIcon) pageTitleIcon.className = 'ri-price-tag-3-line';
         if (pageTitleText) pageTitleText.innerText = 'Topic-Wise Current Affairs & Practice';
 
-        // Topic-wise view requires both Month and Topic selection: reset to unselected
+        // Topic-wise view requires both Month and Topic selection: reset to unselected & gate closed
         state.selectedMonth = '';
         state.category = '';
+        state.topicQuestionsLoaded = false;
         const monthSel = document.getElementById('monthSelect');
         const catSel = document.getElementById('categorySelect');
         if (monthSel) monthSel.value = '';
         if (catSel) catSel.value = '';
+        fetchQuestions();
+    } else if (mode === 'bookmarks') {
+        if (topicControlsBar) topicControlsBar.style.display = 'none';
+        if (bookmarksControlsBar) bookmarksControlsBar.style.display = 'block';
+        if (headerDateGroup) headerDateGroup.style.display = 'none';
+        if (dayNavBar) dayNavBar.style.display = 'none';
+        if (dayNavBarTop) dayNavBarTop.style.display = 'none';
+        if (pageTitleIcon) pageTitleIcon.className = 'ri-bookmark-3-line';
+        const titleText = state.lang === 'gu'
+            ? 'બુકમાર્ક કરેલા પ્રશ્નો'
+            : (state.lang === 'hi' ? 'बुकमार्क किए गए प्रश्न' : 'Bookmarked Questions');
+        if (pageTitleText) pageTitleText.innerText = titleText;
+        renderBookmarks();
+    }
+}
+
+// Topic-Wise Explicit Search Trigger
+function submitTopicFilter() {
+    const monthSel = document.getElementById('monthSelect');
+    const catSel = document.getElementById('categorySelect');
+    const monthVal = monthSel ? monthSel.value : '';
+    const catVal = catSel ? catSel.value : '';
+
+    if (!monthVal || !catVal) {
+        renderTopicSelectionPrompt(!monthVal, !catVal);
+        return;
     }
 
+    state.selectedMonth = monthVal;
+    state.category = catVal;
+    state.topicQuestionsLoaded = true;
     fetchQuestions();
 }
 
 function filterTopicWise() {
-    const monthSel = document.getElementById('monthSelect');
-    const catSel = document.getElementById('categorySelect');
-    state.selectedMonth = monthSel ? monthSel.value : '';
-    state.category = catSel ? catSel.value : '';
-    fetchQuestions();
+    submitTopicFilter();
+}
+
+function filterBookmarksByTopic(category) {
+    state.bookmarksCategoryFilter = category || 'All';
+    renderBookmarks();
 }
 
 // Header Live Current Date, Day & Time (Ticks every second)
@@ -263,6 +344,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     initLiveDateTime();
     checkLandingPage();
     loadLandingStats();
+    updateBookmarkBadges();
 
     if (!localStorage.getItem('user_lang')) {
         document.getElementById('languageModal').classList.add('show');
@@ -362,6 +444,17 @@ function applyLanguage(lang) {
     if (monthSel && monthSel.options && monthSel.options[0]) {
         monthSel.options[0].text = `-- ${strings.selectMonthLabel || 'Select Month'} --`;
     }
+
+    const txtShowTopicQ = document.getElementById('txtShowTopicQuestions');
+    if (txtShowTopicQ) {
+        txtShowTopicQ.innerText = strings.showQuestions || 'Show Questions';
+    }
+
+    if (state.viewMode === 'bookmarks') {
+        const pageTitleText = document.getElementById('pageTitleText');
+        if (pageTitleText) pageTitleText.innerText = strings.bookmarksTitle || 'Bookmarked Questions';
+        renderBookmarks();
+    }
 }
 
 // Fetch available dates
@@ -411,12 +504,17 @@ async function fetchQuestions() {
     if (dayNavBar) dayNavBar.style.display = 'none';
     if (dayNavBarTop) dayNavBarTop.style.display = 'none';
 
-    // TOPIC-WISE GATE: Do NOT show questions until BOTH month and topic are selected!
+    if (state.viewMode === 'bookmarks') {
+        renderBookmarks();
+        return;
+    }
+
+    // TOPIC-WISE GATE: Do NOT show questions until BOTH month and topic are selected AND Show Questions clicked!
     if (state.viewMode === 'topic') {
         const hasMonth = Boolean(state.selectedMonth && state.selectedMonth !== 'All' && state.selectedMonth !== '');
         const hasTopic = Boolean(state.category && state.category !== 'All' && state.category !== '');
 
-        if (!hasMonth || !hasTopic) {
+        if (!state.topicQuestionsLoaded || !hasMonth || !hasTopic) {
             state.questions = [];
             renderTopicSelectionPrompt(!hasMonth, !hasTopic);
             fetchCategories();
@@ -671,6 +769,11 @@ function highlightImportantTerms(text) {
 
 // Render Question Cards
 function renderQuestions() {
+    if (state.viewMode === 'bookmarks') {
+        renderBookmarks();
+        return;
+    }
+
     const container = document.getElementById('questionsList');
     const langClass = `lang-content-${state.lang}`;
 
@@ -682,6 +785,7 @@ function renderQuestions() {
     let html = '';
     state.questions.forEach((q, idx) => {
         const isRevealed = Boolean(state.revealedAnswers[q.id]);
+        const isBookmarked = Boolean(state.bookmarks && state.bookmarks[q.id]);
         const topicImageUrl = getRelevantTopicImage(q);
         const highlightedExplanation = highlightImportantTerms(q.explanation);
         const isCommentsOpen = Boolean(state.openComments[q.id]);
@@ -696,6 +800,9 @@ function renderQuestions() {
                     <div class="ques-meta">
                         <span class="ques-num">Q${q.qno}.</span>
                         <span class="category-tag">${q.category || 'General'}</span>
+                        <button class="btn-card-bookmark ${isBookmarked ? 'bookmarked' : ''}" onclick="toggleBookmark('${q.id}', event)" title="${isBookmarked ? (UI_STRINGS.removeBookmark || 'Remove Bookmark') : (UI_STRINGS.bookmark || 'Bookmark Question')}">
+                            <i class="${isBookmarked ? 'ri-bookmark-3-fill' : 'ri-bookmark-3-line'}"></i>
+                        </button>
                     </div>
                     
                     <div class="ques-text ${langClass}">${q.question}</div>
@@ -711,6 +818,11 @@ function renderQuestions() {
                         <button class="btn-tool ${isRevealed ? 'active' : ''}" onclick="toggleAnswer('${q.id}')">
                             <i class="ri-book-open-line"></i>
                             <span id="btnAnsText-${q.id}">${isRevealed ? UI_STRINGS.hideAnswer : UI_STRINGS.viewAnswer}</span>
+                        </button>
+
+                        <button class="btn-tool btn-bookmark-tool ${isBookmarked ? 'active-bookmark' : ''}" onclick="toggleBookmark('${q.id}')">
+                            <i class="${isBookmarked ? 'ri-bookmark-3-fill' : 'ri-bookmark-3-line'}"></i>
+                            <span id="btnBmkText-${q.id}">${isBookmarked ? (UI_STRINGS.bookmarked || 'Saved') : (UI_STRINGS.bookmark || 'Bookmark')}</span>
                         </button>
 
                         <button class="btn-tool" onclick="toggleWorkspace('${q.id}')">
@@ -861,6 +973,287 @@ function handleOptionClick(qid, selectedOpt) {
 function toggleAnswer(qid) {
     state.revealedAnswers[qid] = !Boolean(state.revealedAnswers[qid]);
     renderQuestions();
+}
+
+// Toggle Bookmark for a Question
+function toggleBookmark(qid, event) {
+    if (event) {
+        event.stopPropagation();
+    }
+
+    if (!state.bookmarks) state.bookmarks = {};
+
+    if (state.bookmarks[qid]) {
+        delete state.bookmarks[qid];
+    } else {
+        const q = (state.questions || []).find(item => item.id === qid);
+        if (q) {
+            state.bookmarks[qid] = {
+                id: q.id,
+                qno: q.qno,
+                date: q.date || '',
+                category: q.category || 'General',
+                question: q.question,
+                options: q.options,
+                answer: q.answer,
+                explanation: q.explanation,
+                savedAt: Date.now()
+            };
+        }
+    }
+
+    try {
+        localStorage.setItem('dailyaffairs_bookmarks', JSON.stringify(state.bookmarks));
+    } catch (e) {
+        console.error('Failed to save bookmarks to localStorage', e);
+    }
+
+    updateBookmarkBadges();
+
+    if (state.viewMode === 'bookmarks') {
+        renderBookmarks();
+        return;
+    }
+
+    // In daily or topic view, update the specific card's bookmark button in place
+    const cardEl = document.getElementById(`card-${qid}`);
+    if (cardEl) {
+        const cardBmkBtn = cardEl.querySelector('.btn-card-bookmark');
+        const toolBmkBtn = cardEl.querySelector('.btn-bookmark-tool');
+        const toolBmkTxt = document.getElementById(`btnBmkText-${qid}`);
+        const isNowBookmarked = Boolean(state.bookmarks[qid]);
+
+        if (cardBmkBtn) {
+            cardBmkBtn.classList.toggle('bookmarked', isNowBookmarked);
+            cardBmkBtn.innerHTML = `<i class="${isNowBookmarked ? 'ri-bookmark-3-fill' : 'ri-bookmark-3-line'}"></i>`;
+            cardBmkBtn.title = isNowBookmarked ? (UI_STRINGS.removeBookmark || 'Remove Bookmark') : (UI_STRINGS.bookmark || 'Bookmark Question');
+        }
+
+        if (toolBmkBtn) {
+            toolBmkBtn.classList.toggle('active-bookmark', isNowBookmarked);
+            const icon = toolBmkBtn.querySelector('i');
+            if (icon) icon.className = isNowBookmarked ? 'ri-bookmark-3-fill' : 'ri-bookmark-3-line';
+            if (toolBmkTxt) {
+                toolBmkTxt.innerText = isNowBookmarked ? (UI_STRINGS.bookmarked || 'Saved') : (UI_STRINGS.bookmark || 'Bookmark');
+            }
+        }
+    }
+}
+
+// Render Bookmarked Questions Organised Topic-Wise
+function renderBookmarks() {
+    const container = document.getElementById('questionsList');
+    if (!container) return;
+
+    const allBookmarks = Object.values(state.bookmarks || {});
+    updateBookmarkBadges();
+
+    // Populate the topic filter dropdown in #bookmarksTopicSelect
+    const topicSelect = document.getElementById('bookmarksTopicSelect');
+    if (topicSelect) {
+        const catMap = {};
+        allBookmarks.forEach(b => {
+            const cat = b.category || 'General';
+            catMap[cat] = (catMap[cat] || 0) + 1;
+        });
+
+        const currentSelected = state.bookmarksCategoryFilter || 'All';
+        let optionsHtml = `<option value="All">-- All Topics (${allBookmarks.length}) --</option>`;
+        Object.keys(catMap).sort().forEach(cat => {
+            optionsHtml += `<option value="${cat}">${cat} (${catMap[cat]})</option>`;
+        });
+        topicSelect.innerHTML = optionsHtml;
+        topicSelect.value = (Object.keys(catMap).includes(currentSelected) || currentSelected === 'All') ? currentSelected : 'All';
+    }
+
+    // If no bookmarks saved at all
+    if (allBookmarks.length === 0) {
+        const title = state.lang === 'gu'
+            ? 'હજુ સુધી કોઈ બુકમાર્ક નથી'
+            : (state.lang === 'hi' ? 'अभी तक कोई बुकमार्क नहीं है' : 'No Bookmarked Questions Yet');
+        const desc = state.lang === 'gu'
+            ? 'મહત્વપૂર્ણ પ્રશ્નોને સેવ કરવા માટે પ્રશ્ન કાર્ડ પર બુકમાર્ક આઇકન પર ક્લિક કરો. અહીં બધા પ્રશ્નો વિષય મુજબ સંગ્રહિત થશે.'
+            : (state.lang === 'hi'
+                ? 'महत्वपूर्ण प्रश्नों को सहेजने के लिए प्रश्न कार्ड पर बुकमार्क आइकन पर क्लिक करें। यहाँ सभी प्रश्न विषयवार सहेजे जाएंगे।'
+                : 'Save important questions while studying by clicking the bookmark icon on any card. They will be neatly organized by topic here.');
+        const btnTxt = state.lang === 'gu'
+            ? 'આજના પ્રશ્નો જુઓ'
+            : (state.lang === 'hi' ? 'आज के प्रश्न देखें' : 'Explore Today\'s MCQs');
+
+        container.innerHTML = `
+        <div class="ques-card" style="text-align:center; padding: 60px 24px; max-width: 600px; margin: 40px auto; border-radius: 16px; border: 1.5px dashed var(--border-color); background: var(--bg-card); box-shadow: 0 8px 24px rgba(0,0,0,0.04);">
+            <div style="width: 72px; height: 72px; margin: 0 auto 16px; background: rgba(245, 158, 11, 0.12); border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+                <i class="ri-bookmark-3-line" style="font-size: 2.5rem; color: #f59e0b;"></i>
+            </div>
+            <div style="font-size: 1.35rem; font-weight: 700; color: var(--text-dark); margin-bottom: 10px;">
+                ${title}
+            </div>
+            <div style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 24px;">
+                ${desc}
+            </div>
+            <button class="btn-primary-action btn-show-topic-q" onclick="switchViewMode('daily')">
+                <i class="ri-flashlight-line"></i>
+                <span>${btnTxt}</span>
+            </button>
+        </div>
+        `;
+        return;
+    }
+
+    // Filter by topic if selected
+    const filterCat = state.bookmarksCategoryFilter || 'All';
+    let filteredList = allBookmarks;
+    if (filterCat !== 'All') {
+        filteredList = allBookmarks.filter(b => (b.category || 'General') === filterCat);
+    }
+
+    // Expose filtered list to state.questions for interactive handlers (option clicks, tools)
+    state.questions = filteredList;
+
+    if (filteredList.length === 0) {
+        container.innerHTML = `
+        <div class="ques-card" style="text-align:center; padding: 50px 20px; color: var(--text-muted);">
+            No bookmarked questions under "<strong>${filterCat}</strong>".
+        </div>
+        `;
+        return;
+    }
+
+    // Group filtered bookmarks by category
+    const grouped = {};
+    filteredList.forEach(q => {
+        const cat = q.category || 'General';
+        if (!grouped[cat]) grouped[cat] = [];
+        grouped[cat].push(q);
+    });
+
+    const langClass = `lang-content-${state.lang}`;
+    let html = '';
+
+    Object.keys(grouped).sort().forEach(catName => {
+        const qList = grouped[catName];
+        html += `
+        <div class="topic-bookmark-group-header">
+            <div class="topic-bookmark-group-title">
+                <i class="ri-folder-star-line" style="color: #f59e0b; font-size: 1.3rem;"></i>
+                <span>${catName}</span>
+            </div>
+            <span class="topic-bookmark-count-pill">${qList.length} Question${qList.length > 1 ? 's' : ''}</span>
+        </div>
+        `;
+
+        qList.forEach((q, idx) => {
+            const isRevealed = Boolean(state.revealedAnswers[q.id]);
+            const topicImageUrl = getRelevantTopicImage(q);
+            const highlightedExplanation = highlightImportantTerms(q.explanation);
+            const isCommentsOpen = Boolean(state.openComments[q.id]);
+            const commentCount = getCommentCount(q.id);
+            const activeTool = state.activeTools[q.id];
+
+            html += `
+            <div class="ques-card" id="card-${q.id}">
+                <div class="ques-card-split">
+                    <!-- LEFT COLUMN: QUESTION & OPTIONS -->
+                    <div class="ques-left-col">
+                        <div class="ques-meta">
+                            <span class="ques-num">Q${idx + 1}.</span>
+                            <span class="category-tag">${q.category || 'General'}</span>
+                            ${q.date ? `<span class="category-tag" style="background: rgba(107, 114, 128, 0.1); color: var(--text-muted);"><i class="ri-calendar-line"></i> ${formatDisplayDate(q.date)}</span>` : ''}
+                            <button class="btn-card-bookmark bookmarked" onclick="toggleBookmark('${q.id}', event)" title="${UI_STRINGS.removeBookmark || 'Remove Bookmark'}">
+                                <i class="ri-bookmark-3-fill"></i>
+                            </button>
+                        </div>
+                        
+                        <div class="ques-text ${langClass}">${q.question}</div>
+
+                        <div class="options-list ${langClass}">
+                            ${renderOption(q, 'A')}
+                            ${renderOption(q, 'B')}
+                            ${renderOption(q, 'C')}
+                            ${renderOption(q, 'D')}
+                        </div>
+
+                        <div class="card-toolbar">
+                            <button class="btn-tool ${isRevealed ? 'active' : ''}" onclick="toggleAnswer('${q.id}')">
+                                <i class="ri-book-open-line"></i>
+                                <span id="btnAnsText-${q.id}">${isRevealed ? UI_STRINGS.hideAnswer : UI_STRINGS.viewAnswer}</span>
+                            </button>
+
+                            <button class="btn-tool btn-bookmark-tool active-bookmark" onclick="toggleBookmark('${q.id}')">
+                                <i class="ri-bookmark-3-fill"></i>
+                                <span id="btnBmkText-${q.id}">${UI_STRINGS.bookmarked || 'Saved'}</span>
+                            </button>
+
+                            <button class="btn-tool" onclick="toggleWorkspace('${q.id}')">
+                                <i class="ri-edit-line"></i>
+                                <span>${UI_STRINGS.workspace}</span>
+                            </button>
+
+                            <button class="btn-tool ${isCommentsOpen ? 'active' : ''}" onclick="toggleComments('${q.id}')">
+                                <i class="ri-chat-3-line"></i>
+                                <span>${UI_STRINGS.comments} <span id="commentCount-${q.id}">(${commentCount})</span></span>
+                            </button>
+                        </div>
+                    </div>
+
+                    <!-- RIGHT COLUMN: EXPLANATION & ANALYSIS -->
+                    <div class="ques-right-col">
+                        <div class="explanation-box ${isRevealed ? 'show' : ''}" id="expBox-${q.id}">
+                            <canvas class="exp-drawing-canvas ${activeTool ? 'active-canvas cursor-' + activeTool : ''}" id="canvas-${q.id}"></canvas>
+
+                            <div class="exp-header-row" style="position:relative; z-index:10; display:flex; justify-content:space-between; align-items:center; margin-bottom:12px; gap:10px;">
+                                <div class="ans-badge" style="margin-bottom:0;">${UI_STRINGS.answerPrefix} Option ${q.answer}</div>
+                                
+                                <div class="exp-tools-bar" style="margin-bottom:0; padding-bottom:0; border-bottom:none;">
+                                    <button class="btn-exp-tool btn-tool-icon ${activeTool === 'pen' ? 'active-pen' : ''}" id="btnPen-${q.id}" onclick="toggleExpTool('${q.id}', 'pen')" title="Red Pen (Draw Freehand)">
+                                        <i class="ri-edit-2-line"></i>
+                                    </button>
+                                    <button class="btn-exp-tool btn-tool-icon ${activeTool === 'highlighter' ? 'active-hl' : ''}" id="btnHL-${q.id}" onclick="toggleExpTool('${q.id}', 'highlighter')" title="Neon Green Highlighter">
+                                        <i class="ri-mark-pen-line"></i>
+                                    </button>
+                                    <button class="btn-exp-tool btn-tool-icon ${activeTool === 'eraser' ? 'active-eraser' : ''}" id="btnEraser-${q.id}" onclick="toggleExpTool('${q.id}', 'eraser')" title="Eraser (Erase Drawing)">
+                                        <i class="ri-eraser-line"></i>
+                                    </button>
+                                    <button class="btn-exp-tool btn-tool-icon" onclick="clearExpCanvas('${q.id}')" title="Reset / Clear All Drawings">
+                                        <i class="ri-refresh-line"></i>
+                                    </button>
+                                </div>
+                            </div>
+
+                            ${topicImageUrl ? `<img src="${topicImageUrl}" alt="Topic Image" class="explanation-side-img" loading="lazy" onerror="this.style.display='none'" style="position:relative; z-index:4;">` : ''}
+
+                            <div class="explanation-text ${langClass}" id="expText-${q.id}" style="position:relative; z-index:4;">${highlightedExplanation}</div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Workspace Scratchpad -->
+                <div class="workspace-box" id="workBox-${q.id}">
+                    <textarea placeholder="${UI_STRINGS.workspacePlaceholder}"></textarea>
+                </div>
+
+                <!-- User Comments Box -->
+                <div class="comments-box ${isCommentsOpen ? 'show' : ''}" id="commentsBox-${q.id}">
+                    <div class="comments-header">
+                        <div class="comments-title"><i class="ri-chat-3-line"></i> ${UI_STRINGS.comments}</div>
+                    </div>
+                    <div class="comments-list" id="commentsList-${q.id}">
+                        ${renderCommentsHtml(q.id)}
+                    </div>
+                    <div class="comment-input-group">
+                        <input type="text" id="commentInput-${q.id}" placeholder="${UI_STRINGS.commentPlaceholder}" onkeypress="if(event.key==='Enter') addComment('${q.id}')">
+                        <button class="btn-tool btn-add-comment" onclick="addComment('${q.id}')">
+                            <i class="ri-send-plane-fill"></i> ${UI_STRINGS.postComment}
+                        </button>
+                    </div>
+                </div>
+            </div>
+            `;
+        });
+    });
+
+    container.innerHTML = html;
+    initAllQuestionCanvases();
 }
 
 // PDF EXPORT CONTROLLERS & GENERATOR
