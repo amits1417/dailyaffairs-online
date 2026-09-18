@@ -170,7 +170,46 @@ async function getAvailableDates(forceRefresh = false) {
     return cachedDates;
 }
 
-async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = null, month = null) {
+async function syncJsonToMongo() {
+    try {
+        if (!MongoClient || !MONGO_URI) return { status: 'skipped', reason: 'no_mongo' };
+        const collection = await connectDB();
+        if (!collection) return { status: 'skipped', reason: 'db_not_connected' };
+
+        const local = loadFileData();
+        if (!local.questions || local.questions.length === 0) return { status: 'skipped', reason: 'empty_json' };
+
+        const byDate = {};
+        for (const q of local.questions) {
+            if (!q.date) continue;
+            if (!byDate[q.date]) byDate[q.date] = [];
+            byDate[q.date].push(q);
+        }
+
+        let updatedDates = 0;
+        let insertedQ = 0;
+
+        for (const [dateStr, qList] of Object.entries(byDate)) {
+            const mongoCount = await collection.countDocuments({ date: dateStr });
+            if (mongoCount < qList.length) {
+                await collection.deleteMany({ date: dateStr });
+                await collection.insertMany(qList);
+                updatedDates++;
+                insertedQ += qList.length;
+            }
+        }
+
+        console.log(`[Storage] Synced ${updatedDates} dates (${insertedQ} questions) from JSON into MongoDB.`);
+        cachedDates = null;
+        questionsCache.clear();
+        return { status: 'success', updatedDates, insertedQ };
+    } catch (err) {
+        console.error('[Storage] syncJsonToMongo error:', err.message);
+        return { status: 'error', error: err.message };
+    }
+}
+
+async function getQuestions(dateStr, lang = 'en', category = null, searchQuery = '', month = null) {
     const cacheKey = getQuestionsCacheKey(dateStr, lang, category, month, searchQuery);
     const cached = questionsCache.get(cacheKey);
     if (cached && (Date.now() - cached.time < QUESTIONS_CACHE_TTL)) {
@@ -206,24 +245,34 @@ async function getQuestions(dateStr, lang = 'en', category = null, searchQuery =
         console.warn('[Storage] getQuestions Mongo fallback:', e.message);
     }
 
-    // If MongoDB didn't return or isn't connected, read from local file
-    if (!list || list.length === 0) {
-        const local = loadFileData();
-        let fileList = local.questions || [];
+    // Always inspect local JSON data
+    const local = loadFileData();
+    let fileList = local.questions || [];
 
-        if (month && month !== 'All') {
-            fileList = fileList.filter(q => q.date && q.date.startsWith(month));
-        } else if (dateStr && dateStr !== 'all') {
-            fileList = fileList.filter(q => q.date === dateStr);
-        } else if (!dateStr && local.dates && local.dates.length > 0) {
-            fileList = fileList.filter(q => q.date === local.dates[0]);
-        }
+    if (month && month !== 'All') {
+        fileList = fileList.filter(q => q.date && q.date.startsWith(month));
+    } else if (dateStr && dateStr !== 'all') {
+        fileList = fileList.filter(q => q.date === dateStr);
+    } else if (!dateStr && local.dates && local.dates.length > 0) {
+        fileList = fileList.filter(q => q.date === local.dates[0]);
+    }
 
-        if (category && category !== 'All') {
-            fileList = fileList.filter(q => q.category && q.category.toLowerCase() === category.toLowerCase());
-        }
+    if (category && category !== 'All') {
+        fileList = fileList.filter(q => q.category && q.category.toLowerCase() === category.toLowerCase());
+    }
 
+    // If local JSON has MORE questions for this date/month than MongoDB, prefer local JSON!
+    if (!list || list.length < fileList.length) {
         list = fileList;
+        // Asynchronously update MongoDB in background
+        if (questionsCollection && dateStr && dateStr !== 'all') {
+            const fullDateQuestions = (local.questions || []).filter(q => q.date === dateStr);
+            if (fullDateQuestions.length > 0) {
+                questionsCollection.deleteMany({ date: dateStr })
+                    .then(() => questionsCollection.insertMany(fullDateQuestions))
+                    .catch(() => {});
+            }
+        }
     }
 
     const formatted = list.map(q => {
@@ -296,5 +345,6 @@ module.exports = {
     getAvailableDates,
     getQuestions,
     getCategories,
-    getQuestionCount
+    getQuestionCount,
+    syncJsonToMongo
 };

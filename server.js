@@ -121,6 +121,16 @@ app.get('/api/status', async (req, res) => {
     }
 });
 
+// API: Sync JSON to MongoDB
+app.get('/api/sync-mongo', async (req, res) => {
+    try {
+        const result = await storage.syncJsonToMongo();
+        res.json({ status: 'success', result });
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
 // SEO: Dynamic sitemap (cached 1 hour) — homepage + one URL per date
 let sitemapCache = null;
 let sitemapCacheTime = 0;
