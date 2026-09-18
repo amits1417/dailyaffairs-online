@@ -84,112 +84,50 @@ const MONTH_NAMES = [
     'July', 'August', 'September', 'October', 'November', 'December'
 ];
 
-// Multilingual UI Strings Dictionary
+// Software UI Strings Dictionary (Strictly English UI only across the application)
+const UI_STRINGS_EN = {
+    noQuestions: 'No questions found for the selected criteria.',
+    viewAnswer: 'View Explanation',
+    hideAnswer: 'Hide Explanation',
+    workspace: 'Scratchpad',
+    answerPrefix: 'Correct Answer:',
+    explanationTitle: 'Detailed Analysis & Explanation',
+    workspacePlaceholder: 'Type your rough notes or calculations here...',
+    comments: 'Comments',
+    postComment: 'Post',
+    commentPlaceholder: 'Write a comment or note...',
+    noCommentsYet: 'No comments yet.',
+    pen: 'Pen',
+    highlight: 'Highlighter',
+    eraser: 'Eraser',
+    clearMarkup: 'Reset',
+    optExcellent: 'excellent',
+    optCorrect: 'correct',
+    optWrong1: 'dont worry try hard',
+    optWrong2: 'be caution',
+    optWrong3: 'oops',
+    selectMonthTopicPrompt: 'Please select both a Month and a Topic above to view questions.',
+    selectMonthFirst: 'Please select a Month',
+    selectTopicFirst: 'Please select a Topic / Category',
+    selectMonthLabel: 'Select Month',
+    selectTopicLabel: 'Select Topic / Category',
+    bookmark: 'Bookmark',
+    bookmarked: 'Saved',
+    removeBookmark: 'Remove Bookmark',
+    bookmarksTitle: 'Bookmarked Questions',
+    noBookmarks: 'No bookmarked questions yet. Click the bookmark icon on any question card to save it here.',
+    showQuestions: 'Show Questions'
+};
+
 const UI_STRINGS_MAP = {
-    gu: {
-        noQuestions: 'પસંદ કરેલ માપદંડ માટે કોઈ પ્રશ્નો મળ્યા નથી.',
-        viewAnswer: 'સમજૂતી અને જવાબ જુઓ',
-        hideAnswer: 'સમજૂતી છુપાવો',
-        workspace: 'નોટપેડ',
-        answerPrefix: 'સાચો જવાબ:',
-        explanationTitle: 'વિગતવાર વિશ્લેષણ અને સમજૂતી',
-        workspacePlaceholder: 'અહીં તમારી ગણતરી અથવા નોંધ લખો...',
-        comments: 'ટિપ્પણીઓ',
-        postComment: 'પોસ્ટ કરો',
-        commentPlaceholder: 'અહીં તમારી ટિપ્પણી અથવા નોંધ લખો...',
-        noCommentsYet: 'હજુ સુધી કોઈ ટિપ્પણી નથી.',
-        pen: 'પેન',
-        highlight: 'હાઈલાઈટર',
-        eraser: 'ઈરેઝર',
-        clearMarkup: 'રીસેટ',
-        optExcellent: 'excellent',
-        optCorrect: 'correct',
-        optWrong1: 'dont worry try hard',
-        optWrong2: 'be caution',
-        optWrong3: 'oops',
-        selectMonthTopicPrompt: 'પ્રશ્નો જોવા માટે કૃપા કરીને ઉપરથી મહિનો અને વિષય બંને પસંદ કરો.',
-        selectMonthFirst: 'કૃપા કરીને મહિનો પસંદ કરો',
-        selectTopicFirst: 'કૃપા કરીને વિષય / કેટેગરી પસંદ કરો',
-        selectMonthLabel: 'મહિનો પસંદ કરો',
-        selectTopicLabel: 'વિષય / કેટેગરી પસંદ કરો',
-        bookmark: 'બુકમાર્ક',
-        bookmarked: 'સેવ કરેલ',
-        removeBookmark: 'બુકમાર્ક હટાવો',
-        bookmarksTitle: 'બુકમાર્ક કરેલા પ્રશ્નો',
-        noBookmarks: 'હજુ સુધી કોઈ પ્રશ્ન બુકમાર્ક કરેલ નથી. પ્રશ્નોને સાચવવા માટે પ્રશ્ન કાર્ડ પર બુકમાર્ક આયકન પર ક્લિક કરો.',
-        showQuestions: 'પ્રશ્નો જુઓ'
-    },
-    hi: {
-        noQuestions: 'चयनित मानदंड के लिए कोई प्रश्न नहीं मिले।',
-        viewAnswer: 'व्याख्या और उत्तर देखें',
-        hideAnswer: 'व्याख्या छिपाएं',
-        workspace: 'नोटपैड',
-        answerPrefix: 'सही उत्तर:',
-        explanationTitle: 'विस्तृत विश्लेषण और व्याख्या',
-        workspacePlaceholder: 'अपनी टिप्पणी या गणना यहाँ लिखें...',
-        comments: 'टिप्पणियाँ',
-        postComment: 'पोस्ट करें',
-        commentPlaceholder: 'अपनी टिप्पणी या नोट यहाँ लिखें...',
-        noCommentsYet: 'अभी तक कोई टिप्पणी नहीं।',
-        pen: 'पेन',
-        highlight: 'हाइलाइटर',
-        eraser: 'इरेज़र',
-        clearMarkup: 'रीसेट',
-        optExcellent: 'excellent',
-        optCorrect: 'correct',
-        optWrong1: 'dont worry try hard',
-        optWrong2: 'be caution',
-        optWrong3: 'oops',
-        selectMonthTopicPrompt: 'प्रश्नों को देखने के लिए कृपया ऊपर से महीना और विषय दोनों चुनें।',
-        selectMonthFirst: 'कृपया महीना चुनें',
-        selectTopicFirst: 'कृपया विषय / श्रेणी चुनें',
-        selectMonthLabel: 'महीना चुनें',
-        selectTopicLabel: 'विषय / श्रेणी चुनें',
-        bookmark: 'बुकमार्क',
-        bookmarked: 'सहेजा गया',
-        removeBookmark: 'बुकमार्क हटाएं',
-        bookmarksTitle: 'बुकमार्क किए गए प्रश्न',
-        noBookmarks: 'अभी तक कोई प्रश्न बुकमार्क नहीं किया गया है। प्रश्नों को सहेजने के लिए प्रश्न कार्ड पर बुकमार्क आइकन पर क्लिक करें।',
-        showQuestions: 'प्रश्न देखें'
-    },
-    en: {
-        noQuestions: 'No questions found for the selected criteria.',
-        viewAnswer: 'View Explanation',
-        hideAnswer: 'Hide Explanation',
-        workspace: 'Scratchpad',
-        answerPrefix: 'Correct Answer:',
-        explanationTitle: 'Detailed Analysis & Explanation',
-        workspacePlaceholder: 'Type your rough notes or calculations here...',
-        comments: 'Comments',
-        postComment: 'Post',
-        commentPlaceholder: 'Write a comment or note...',
-        noCommentsYet: 'No comments yet.',
-        pen: 'Pen',
-        highlight: 'Highlighter',
-        eraser: 'Eraser',
-        clearMarkup: 'Reset',
-        optExcellent: 'excellent',
-        optCorrect: 'correct',
-        optWrong1: 'dont worry try hard',
-        optWrong2: 'be caution',
-        optWrong3: 'oops',
-        selectMonthTopicPrompt: 'Please select both a Month and a Topic above to view questions.',
-        selectMonthFirst: 'Please select a Month',
-        selectTopicFirst: 'Please select a Topic / Category',
-        selectMonthLabel: 'Select Month',
-        selectTopicLabel: 'Select Topic / Category',
-        bookmark: 'Bookmark',
-        bookmarked: 'Saved',
-        removeBookmark: 'Remove Bookmark',
-        bookmarksTitle: 'Bookmarked Questions',
-        noBookmarks: 'No bookmarked questions yet. Click the bookmark icon on any question card to save it here.',
-        showQuestions: 'Show Questions'
-    }
+    gu: UI_STRINGS_EN,
+    hi: UI_STRINGS_EN,
+    en: UI_STRINGS_EN
 };
 
 Object.defineProperty(window, 'UI_STRINGS', {
     get: function() {
-        return UI_STRINGS_MAP[state.lang] || UI_STRINGS_MAP['gu'];
+        return UI_STRINGS_EN;
     }
 });
 
@@ -282,10 +220,7 @@ function switchViewMode(mode) {
         if (dayNavBar) dayNavBar.style.display = 'none';
         if (dayNavBarTop) dayNavBarTop.style.display = 'none';
         if (pageTitleIcon) pageTitleIcon.className = 'ri-bookmark-3-line';
-        const titleText = state.lang === 'gu'
-            ? 'બુકમાર્ક કરેલા પ્રશ્નો'
-            : (state.lang === 'hi' ? 'बुकमार्क किए गए प्रश्न' : 'Bookmarked Questions');
-        if (pageTitleText) pageTitleText.innerText = titleText;
+        if (pageTitleText) pageTitleText.innerText = 'Bookmarked Questions';
         renderBookmarks();
     }
 }
@@ -708,23 +643,15 @@ function renderTopicSelectionPrompt(missingMonth, missingTopic) {
     const questionsContainer = document.getElementById('questionsList');
     if (!questionsContainer) return;
 
-    const strings = UI_STRINGS_MAP[state.lang] || UI_STRINGS_MAP.gu;
-    let hintMsg = strings.selectMonthTopicPrompt;
+    let hintMsg = 'Please select both a Month and a Topic above to view questions.';
     if (missingMonth && !missingTopic) {
-        hintMsg = strings.selectMonthFirst;
+        hintMsg = 'Please select a Month';
     } else if (!missingMonth && missingTopic) {
-        hintMsg = strings.selectTopicFirst;
+        hintMsg = 'Please select a Topic / Category';
     }
 
-    const titleText = state.lang === 'gu'
-        ? 'મહિનો અને વિષય પસંદ કરો'
-        : (state.lang === 'hi' ? 'महीना और विषय चुनें' : 'Select Month & Topic');
-
-    const badgeText = state.lang === 'gu'
-        ? 'પ્રશ્નો જોવા માટે મહિનો અને વિષય બંને પસંદ કરવા જરૂરી છે'
-        : (state.lang === 'hi'
-            ? 'प्रश्न देखने के लिए महीना और विषय दोनों चुनना आवश्यक है'
-            : 'Both Month and Topic are required to view questions');
+    const titleText = 'Select Month & Topic';
+    const badgeText = 'Both Month and Topic are required to view questions';
 
     questionsContainer.innerHTML = `
     <div class="ques-card" style="text-align:center; padding: 50px 24px; max-width: 620px; margin: 35px auto; border-radius: 16px; border: 1.5px dashed var(--border-color); background: var(--bg-card); box-shadow: 0 8px 24px rgba(0,0,0,0.04);">
@@ -1160,17 +1087,9 @@ function renderBookmarks() {
 
     // If no bookmarks saved at all
     if (allBookmarks.length === 0) {
-        const title = state.lang === 'gu'
-            ? 'હજુ સુધી કોઈ બુકમાર્ક નથી'
-            : (state.lang === 'hi' ? 'अभी तक कोई बुकमार्क नहीं है' : 'No Bookmarked Questions Yet');
-        const desc = state.lang === 'gu'
-            ? 'મહત્વપૂર્ણ પ્રશ્નોને સેવ કરવા માટે પ્રશ્ન કાર્ડ પર બુકમાર્ક આઇકન પર ક્લિક કરો. અહીં બધા પ્રશ્નો વિષય મુજબ સંગ્રહિત થશે.'
-            : (state.lang === 'hi'
-                ? 'महत्वपूर्ण प्रश्नों को सहेजने के लिए प्रश्न कार्ड पर बुकमार्क आइकन पर क्लिक करें। यहाँ सभी प्रश्न विषयवार सहेजे जाएंगे।'
-                : 'Save important questions while studying by clicking the bookmark icon on any card. They will be neatly organized by topic here.');
-        const btnTxt = state.lang === 'gu'
-            ? 'આજના પ્રશ્નો જુઓ'
-            : (state.lang === 'hi' ? 'आज के प्रश्न देखें' : 'Explore Today\'s MCQs');
+        const title = 'No Bookmarked Questions Yet';
+        const desc = 'Save important questions while studying by clicking the bookmark icon on any card. They will be neatly organized by topic here.';
+        const btnTxt = "Explore Today's MCQs";
 
         container.innerHTML = `
         <div class="ques-card" style="text-align:center; padding: 60px 24px; max-width: 600px; margin: 40px auto; border-radius: 16px; border: 1.5px dashed var(--border-color); background: var(--bg-card); box-shadow: 0 8px 24px rgba(0,0,0,0.04);">
@@ -1889,29 +1808,49 @@ function initAllQuestionCanvases() {
     }, 100);
 }
 
-function initCanvasForQuestion(qid) {
+function syncCanvasSize(qid) {
     const canvas = document.getElementById(`canvas-${qid}`);
     const box = document.getElementById(`expBox-${qid}`);
     if (!canvas || !box) return;
 
     const rect = box.getBoundingClientRect();
     if (rect.width > 0 && rect.height > 0) {
-        if (canvas.width !== Math.floor(rect.width) || canvas.height !== Math.floor(rect.height)) {
-            canvas.width = Math.floor(rect.width);
-            canvas.height = Math.floor(rect.height);
+        const targetW = Math.round(rect.width);
+        const targetH = Math.round(rect.height);
 
-            const savedData = state.canvasDrawingData[qid];
-            if (savedData) {
+        if (canvas.width !== targetW || canvas.height !== targetH) {
+            let tempCanvas = null;
+            if (canvas.width > 0 && canvas.height > 0) {
+                tempCanvas = document.createElement('canvas');
+                tempCanvas.width = canvas.width;
+                tempCanvas.height = canvas.height;
+                const tCtx = tempCanvas.getContext('2d');
+                tCtx.drawImage(canvas, 0, 0);
+            }
+
+            canvas.width = targetW;
+            canvas.height = targetH;
+
+            const ctx = canvas.getContext('2d');
+            if (tempCanvas) {
+                ctx.drawImage(tempCanvas, 0, 0);
+            } else if (state.canvasDrawingData[qid]) {
                 const img = new Image();
                 img.onload = () => {
-                    const ctx = canvas.getContext('2d');
                     ctx.drawImage(img, 0, 0);
                 };
-                img.src = savedData;
+                img.src = state.canvasDrawingData[qid];
             }
         }
     }
+}
 
+function initCanvasForQuestion(qid) {
+    const canvas = document.getElementById(`canvas-${qid}`);
+    const box = document.getElementById(`expBox-${qid}`);
+    if (!canvas || !box) return;
+
+    syncCanvasSize(qid);
     setupCanvasDrawingEvents(qid, canvas);
 }
 
@@ -1929,36 +1868,71 @@ function setupCanvasDrawingEvents(qid, canvas) {
         const rect = canvas.getBoundingClientRect();
         const clientX = (e.touches && e.touches.length > 0) ? e.touches[0].clientX : e.clientX;
         const clientY = (e.touches && e.touches.length > 0) ? e.touches[0].clientY : e.clientY;
+        const scaleX = rect.width > 0 ? (canvas.width / rect.width) : 1;
+        const scaleY = rect.height > 0 ? (canvas.height / rect.height) : 1;
         return {
-            x: clientX - rect.left,
-            y: clientY - rect.top
+            x: (clientX - rect.left) * scaleX,
+            y: (clientY - rect.top) * scaleY,
+            clientX: clientX,
+            clientY: clientY
         };
     }
 
     // Accurate calculation to snap highlighter directly to the centerline of the nearest text line
-    function calculateSnappedTextLineY(rawY) {
+    function calculateSnappedTextLineY(pos) {
         const expText = document.getElementById(`expText-${qid}`);
-        if (!expText) return rawY;
+        if (!expText) return pos.y;
 
-        const textRect = expText.getBoundingClientRect();
         const canvasRect = canvas.getBoundingClientRect();
-        const textTopInCanvas = textRect.top - canvasRect.top;
-        const textBottomInCanvas = textTopInCanvas + textRect.height;
-        const computedStyle = window.getComputedStyle(expText);
-        const lineHeight = parseFloat(computedStyle.lineHeight) || 26;
+        const scaleY = canvasRect.height > 0 ? (canvas.height / canvasRect.height) : 1;
 
-        if (rawY >= textTopInCanvas - 6 && rawY <= textBottomInCanvas + 6) {
-            const offsetFromTextTop = Math.max(0, rawY - textTopInCanvas);
+        // 1. First try browser DOM caretRange for exact text line bounding box
+        if (pos.clientX !== undefined && pos.clientY !== undefined) {
+            try {
+                if (document.caretRangeFromPoint) {
+                    const range = document.caretRangeFromPoint(pos.clientX, pos.clientY);
+                    if (range && (expText === range.startContainer || expText.contains(range.startContainer))) {
+                        const rRect = range.getBoundingClientRect();
+                        if (rRect && rRect.height > 2) {
+                            return ((rRect.top + rRect.height * 0.5) - canvasRect.top) * scaleY;
+                        }
+                    }
+                } else if (document.caretPositionFromPoint) {
+                    const cp = document.caretPositionFromPoint(pos.clientX, pos.clientY);
+                    if (cp && (expText === cp.offsetNode || expText.contains(cp.offsetNode))) {
+                        const r = document.createRange();
+                        r.setStart(cp.offsetNode, cp.offset);
+                        r.collapse(true);
+                        const rRect = r.getBoundingClientRect();
+                        if (rRect && rRect.height > 2) {
+                            return ((rRect.top + rRect.height * 0.5) - canvasRect.top) * scaleY;
+                        }
+                    }
+                }
+            } catch (err) {}
+        }
+
+        // 2. Mathematical snapping to nearest text line based on computed lineHeight
+        const textRect = expText.getBoundingClientRect();
+        const computedStyle = window.getComputedStyle(expText);
+        const lineHeight = (parseFloat(computedStyle.lineHeight) || 26) * scaleY;
+        const paddingTop = (parseFloat(computedStyle.paddingTop) || 0) * scaleY;
+        const textTopInCanvas = ((textRect.top - canvasRect.top) * scaleY) + paddingTop;
+        const textBottomInCanvas = (textRect.bottom - canvasRect.top) * scaleY;
+
+        if (pos.y >= textTopInCanvas - 10 && pos.y <= textBottomInCanvas + 10) {
+            const offsetFromTextTop = Math.max(0, pos.y - textTopInCanvas);
             const lineIndex = Math.floor(offsetFromTextTop / lineHeight);
-            // Lock with 100% pinpoint accuracy to the vertical middle of that text line
             return textTopInCanvas + (lineIndex * lineHeight) + (lineHeight * 0.52);
         }
-        return rawY;
+        return pos.y;
     }
 
     function startDraw(e) {
         const tool = state.activeTools[qid];
         if (!tool) return;
+
+        syncCanvasSize(qid);
 
         isDrawing = true;
         const pos = getPos(e);
@@ -1966,13 +1940,17 @@ function setupCanvasDrawingEvents(qid, canvas) {
         points = [pos];
 
         if (tool === 'highlighter') {
-            lockedY = calculateSnappedTextLineY(pos.y);
+            lockedY = calculateSnappedTextLineY(pos);
         } else {
             lockedY = null;
         }
 
         const ctx = canvas.getContext('2d');
-        savedImageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        try {
+            savedImageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+        } catch (err) {
+            savedImageData = null;
+        }
     }
 
     function draw(e) {
@@ -2000,7 +1978,9 @@ function setupCanvasDrawingEvents(qid, canvas) {
 
         // Restore clean snapshot before stroke for 100% uniform non-dotted spread!
         if (savedImageData) {
-            ctx.putImageData(savedImageData, 0, 0);
+            try {
+                ctx.putImageData(savedImageData, 0, 0);
+            } catch (err) {}
         }
 
         if (tool === 'pen') {
@@ -2017,8 +1997,8 @@ function setupCanvasDrawingEvents(qid, canvas) {
             ctx.stroke();
         } else if (tool === 'highlighter') {
             // ACCURATE STRAIGHT HORIZONTAL LINE OVER TEXT
-            const lineY = (lockedY !== null) ? lockedY : points[0].y;
-            const fromX = startPos ? startPos.x : points[0].x;
+            const lineY = (lockedY !== null) ? lockedY : startPos.y;
+            const fromX = startPos.x;
             const toX = pos.x;
 
             ctx.beginPath();
@@ -2041,8 +2021,10 @@ function setupCanvasDrawingEvents(qid, canvas) {
             startPos = null;
             lockedY = null;
             savedImageData = null;
-            state.canvasDrawingData[qid] = canvas.toDataURL();
-            localStorage.setItem('user_canvas_data', JSON.stringify(state.canvasDrawingData));
+            try {
+                state.canvasDrawingData[qid] = canvas.toDataURL();
+                localStorage.setItem('user_canvas_data', JSON.stringify(state.canvasDrawingData));
+            } catch (e) {}
         }
     }
 
@@ -2054,6 +2036,13 @@ function setupCanvasDrawingEvents(qid, canvas) {
     canvas.addEventListener('touchstart', startDraw, { passive: false });
     canvas.addEventListener('touchmove', draw, { passive: false });
     canvas.addEventListener('touchend', stopDraw);
+
+    window.addEventListener('mouseup', () => {
+        if (isDrawing) stopDraw();
+    });
+    window.addEventListener('touchend', () => {
+        if (isDrawing) stopDraw();
+    });
 }
 
 function clearExpCanvas(qid) {
@@ -2511,7 +2500,7 @@ function togglePasswordVisibility(inputId, btnEl) {
 function handleAuthClick() {
     closeMenuDrawer();
     if (state.user) {
-        const shouldLogout = confirm(`Signed in as +91 ${state.user.phone}\n\nDo you want to log out? / તમે લોગ આઉટ કરવા માંગો છો?`);
+        const shouldLogout = confirm(`Signed in as +91 ${state.user.phone}\n\nDo you want to log out?`);
         if (shouldLogout) {
             logoutUser();
         }
@@ -2543,7 +2532,7 @@ async function handleAuthSubmit(e) {
     const phoneRegex = /^[6-9]\d{9}$/;
     if (!phoneRegex.test(phone)) {
         if (errBox) {
-            errBox.innerText = 'કૃપા કરીને માન્ય 10-અંકનો મોબાઇલ નંબર દાખલ કરો (6, 7, 8, 9 થી શરૂ થતો). / Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9.';
+            errBox.innerText = 'Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9.';
             errBox.style.display = 'block';
         }
         return;
@@ -2551,7 +2540,7 @@ async function handleAuthSubmit(e) {
 
     if (!password || password.length < 4) {
         if (errBox) {
-            errBox.innerText = 'પાસવર્ડ ઓછામાં ઓછો 4 અક્ષરોનો હોવો જોઈએ. / Password must be at least 4 characters long.';
+            errBox.innerText = 'Password must be at least 4 characters long.';
             errBox.style.display = 'block';
         }
         return;
