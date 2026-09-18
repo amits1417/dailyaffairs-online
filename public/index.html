@@ -43,7 +43,7 @@
     </script>
     <!-- Remix Icons -->
     <link href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css" rel="stylesheet">
-    <link rel="stylesheet" href="style.css?v=2.4">
+    <link rel="stylesheet" href="style.css?v=2.5">
 </head>
 <body>
 
@@ -192,6 +192,129 @@
         </div>
     </div>
 
+    <!-- MOBILE AUTH MODAL (SIGN IN / SIGN UP) -->
+    <div class="modal-overlay" id="authModal" onclick="closeAuthModal()">
+        <div class="modal-card auth-modal-card" onclick="event.stopPropagation()">
+            <div class="auth-modal-header">
+                <div class="auth-tabs">
+                    <button class="auth-tab-btn active" id="tabBtnSignIn" onclick="switchAuthTab('signin')">Sign In</button>
+                    <button class="auth-tab-btn" id="tabBtnSignUp" onclick="switchAuthTab('signup')">Sign Up</button>
+                </div>
+                <button class="btn-icon" onclick="closeAuthModal()" title="Close"><i class="ri-close-line"></i></button>
+            </div>
+
+            <div class="auth-sub-desc" id="authSubDesc">
+                Sign in with your mobile number to unlock Bookmarks & Daily Target Tracker.
+            </div>
+
+            <form id="authForm" onsubmit="handleAuthSubmit(event)">
+                <div class="auth-form-group">
+                    <label class="auth-label">Mobile Number</label>
+                    <div class="auth-phone-input-wrap">
+                        <span class="auth-country-code">+91</span>
+                        <input type="tel" id="authPhone" class="auth-input auth-phone-input" placeholder="10-digit mobile number" maxlength="10" autocomplete="tel">
+                    </div>
+                    <div class="auth-input-hint">Must be 10 digits starting with 6, 7, 8, or 9</div>
+                </div>
+
+                <div class="auth-form-group">
+                    <label class="auth-label">Password</label>
+                    <div class="auth-password-wrap">
+                        <input type="password" id="authPassword" class="auth-input" placeholder="Enter password (min 4 chars)" autocomplete="current-password">
+                        <button type="button" class="btn-toggle-pwd" onclick="togglePasswordVisibility('authPassword', this)">
+                            <i class="ri-eye-line"></i>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="auth-error-box" id="authErrorBox" style="display: none;"></div>
+
+                <button type="submit" class="btn-primary-action auth-submit-btn" id="btnAuthSubmit">
+                    <span id="btnAuthSubmitText">Sign In</span>
+                    <i class="ri-arrow-right-line"></i>
+                </button>
+            </form>
+
+            <div class="auth-footer-prompt">
+                <span id="authSwitchPrompt">Don't have an account?</span>
+                <a href="#" id="authSwitchLink" onclick="toggleAuthTab(); return false;">Sign Up</a>
+            </div>
+        </div>
+    </div>
+
+    <!-- DAILY TARGET & ACTIVITY TRACKER MODAL -->
+    <div class="modal-overlay" id="targetTrackerModal" onclick="closeTargetTrackerModal()">
+        <div class="modal-card target-modal-card" onclick="event.stopPropagation()">
+            <div class="target-modal-header">
+                <div class="target-header-title">
+                    <i class="ri-focus-3-line" style="color:#10b981;"></i>
+                    <span>Daily Target & Tracker</span>
+                </div>
+                <button class="btn-icon" onclick="closeTargetTrackerModal()" title="Close"><i class="ri-close-line"></i></button>
+            </div>
+
+            <!-- Tracker Summary Cards -->
+            <div class="target-stats-grid">
+                <div class="target-stat-card card-streak">
+                    <div class="stat-icon">🔥</div>
+                    <div class="stat-val" id="trackerStreakVal">0</div>
+                    <div class="stat-label">Day Streak</div>
+                </div>
+                <div class="target-stat-card card-completed">
+                    <div class="stat-icon">🟢</div>
+                    <div class="stat-val" id="trackerCompletedVal">0</div>
+                    <div class="stat-label">Full Days</div>
+                </div>
+                <div class="target-stat-card card-half">
+                    <div class="stat-icon">🟡</div>
+                    <div class="stat-val" id="trackerHalfVal">0</div>
+                    <div class="stat-label">Half Days</div>
+                </div>
+                <div class="target-stat-card card-missed">
+                    <div class="stat-icon">🔴</div>
+                    <div class="stat-val" id="trackerMissedVal">0</div>
+                    <div class="stat-label">Missed Days</div>
+                </div>
+            </div>
+
+            <!-- Target Calendar Widget -->
+            <div class="target-calendar-wrap">
+                <div class="target-cal-nav">
+                    <button class="btn-cal-arrow" onclick="changeTrackerMonth(-1)" title="Previous Month">
+                        <i class="ri-arrow-left-s-line"></i>
+                    </button>
+                    <div class="target-cal-month-title" id="trackerMonthTitle">
+                        September 2026
+                    </div>
+                    <button class="btn-cal-arrow" onclick="changeTrackerMonth(1)" title="Next Month">
+                        <i class="ri-arrow-right-s-line"></i>
+                    </button>
+                </div>
+
+                <div class="calendar-weekdays">
+                    <div>Sun</div>
+                    <div>Mon</div>
+                    <div>Tue</div>
+                    <div>Wed</div>
+                    <div>Thu</div>
+                    <div>Fri</div>
+                    <div>Sat</div>
+                </div>
+
+                <div class="target-days-grid" id="trackerDaysGrid">
+                    <!-- Populated dynamically with status badges -->
+                </div>
+
+                <!-- Calendar Legend -->
+                <div class="target-legend">
+                    <div class="legend-item"><span class="legend-dot dot-completed"></span> Full Target</div>
+                    <div class="legend-item"><span class="legend-dot dot-half"></span> Half Done</div>
+                    <div class="legend-item"><span class="legend-dot dot-missed"></span> Missed</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <!-- NAVIGATION HEADER -->
     <header class="navbar">
         <div class="container nav-container">
@@ -251,9 +374,14 @@
                 </div>
 
                 <!-- Bookmarks Quick Access Button -->
-                <button class="btn-icon" title="Bookmarked Questions" onclick="switchViewMode('bookmarks')" id="btnHeaderBookmarks" style="position:relative;">
+                <button class="btn-icon" title="Bookmarked Questions" onclick="handleBookmarkMenuClick()" id="btnHeaderBookmarks" style="position:relative;">
                     <i class="ri-bookmark-3-line" id="headerBookmarkIcon"></i>
                     <span class="bookmark-badge-counter" id="headerBookmarkCount" style="display:none;">0</span>
+                </button>
+
+                <!-- User Account / Profile Button -->
+                <button class="btn-icon" title="Sign In / Account" onclick="handleAuthClick()" id="btnHeaderAuth" style="position:relative;">
+                    <i class="ri-user-3-line" id="headerAuthIcon"></i>
                 </button>
 
                 <!-- Theme Toggle Button (Desktop) -->
@@ -288,6 +416,17 @@
             </div>
             
             <div class="menu-drawer-items">
+                <!-- Drawer Search Box (Menu-Only Keyword Search) -->
+                <div class="drawer-search-wrap">
+                    <div class="drawer-search-box">
+                        <i class="ri-search-line drawer-search-icon"></i>
+                        <input type="text" id="menuSearchInput" placeholder="Search questions by keyword..." oninput="handleMenuSearch(this.value)" autocomplete="off">
+                        <button class="drawer-search-clear" id="btnMenuSearchClear" onclick="clearMenuSearch()" style="display:none;" title="Clear Search">
+                            <i class="ri-close-line"></i>
+                        </button>
+                    </div>
+                </div>
+
                 <!-- Mobile Only Controls (Language, Theme, Font Stepper) -->
                 <div class="drawer-mobile-only" style="border-bottom: 1px solid var(--border-color); padding-bottom: 16px; margin-bottom: 12px;">
                     <div style="font-size: 0.75rem; font-weight: 800; color: var(--text-muted); text-transform: uppercase; margin-bottom: 8px;">Content Language</div>
@@ -328,7 +467,7 @@
                     </div>
                 </div>
 
-                <div class="drawer-item" id="drawerItemBookmarks" onclick="switchViewMode('bookmarks'); closeMenuDrawer();">
+                <div class="drawer-item" id="drawerItemBookmarks" onclick="handleBookmarkMenuClick(); closeMenuDrawer();">
                     <i class="ri-bookmark-3-line" style="color:#f59e0b;"></i>
                     <div style="flex:1;">
                         <div class="drawer-item-title" style="display:flex; justify-content:space-between; align-items:center;">
@@ -339,11 +478,38 @@
                     </div>
                 </div>
 
+                <div class="drawer-item" id="drawerItemTarget" onclick="handleTargetTrackerClick(); closeMenuDrawer();">
+                    <i class="ri-focus-3-line" style="color:#10b981;"></i>
+                    <div style="flex:1;">
+                        <div class="drawer-item-title" style="display:flex; justify-content:space-between; align-items:center;">
+                            <span>Daily Target & Tracker</span>
+                            <span class="badge-streak-count" id="drawerStreakBadge">0🔥</span>
+                        </div>
+                        <div class="drawer-item-sub">Completed, Half & Missed days</div>
+                    </div>
+                </div>
+
                 <div class="drawer-item" id="drawerItemPdf" onclick="openPdfExportModal(); closeMenuDrawer();">
                     <i class="ri-file-pdf-2-line" style="color:#ef4444;"></i>
                     <div>
                         <div class="drawer-item-title">Export PDF Report</div>
                         <div class="drawer-item-sub">Month-wise or Custom Date Range PDF</div>
+                    </div>
+                </div>
+
+                <!-- Drawer User Profile / Auth Section -->
+                <div class="drawer-user-section">
+                    <div class="drawer-user-card" onclick="handleAuthClick()">
+                        <div class="drawer-user-avatar" id="drawerUserAvatar">
+                            <i class="ri-user-3-line"></i>
+                        </div>
+                        <div style="flex:1; overflow:hidden;">
+                            <div class="drawer-user-name" id="drawerUserName">Guest User</div>
+                            <div class="drawer-user-status" id="drawerUserStatus">Tap to Sign In / Sign Up</div>
+                        </div>
+                        <button class="drawer-auth-action-btn" id="drawerAuthBtn" title="Account Action">
+                            <i class="ri-login-box-line" id="drawerAuthIcon"></i>
+                        </button>
                     </div>
                 </div>
             </div>
@@ -475,6 +641,17 @@
                 </div>
             </div>
 
+            <!-- SEARCH RESULTS BANNER (ACTIVE WHEN KEYWORD SEARCH APPLIED) -->
+            <div class="search-results-banner" id="searchResultsBanner" style="display: none;">
+                <div class="search-banner-text">
+                    <i class="ri-search-line"></i>
+                    <span>Showing results for "<strong id="searchQueryText"></strong>" (<span id="searchResultCount">0</span> found)</span>
+                </div>
+                <button class="btn-clear-search" onclick="clearMenuSearch()">
+                    <i class="ri-close-line"></i> Clear Search
+                </button>
+            </div>
+
             <!-- TOP DAY NAVIGATION (PREVIOUS DAY / NEXT DAY) -->
             <div class="day-nav-bar" id="dayNavBarTop" style="display: none; margin-bottom: 20px;">
                 <button class="btn-day-nav" onclick="navigateDay(-1)">
@@ -513,6 +690,6 @@
         </div>
     </main>
 
-    <script src="app.js?v=2.4"></script>
+    <script src="app.js?v=2.5"></script>
 </body>
 </html>

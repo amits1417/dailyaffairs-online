@@ -54,6 +54,17 @@ let state = {
     bookmarks: JSON.parse(localStorage.getItem('dailyaffairs_bookmarks') || '{}'), // qid -> question object
     bookmarksCategoryFilter: 'All',
     topicQuestionsLoaded: false,
+    user: JSON.parse(localStorage.getItem('dailyaffairs_user') || 'null'),
+    userActivity: JSON.parse(localStorage.getItem('dailyaffairs_activity') || '{}'),
+    authTab: 'signin',
+    authPendingAction: null,
+    authPendingQid: null,
+    searchQuery: '',
+    scrollPreserveCardId: null,
+    trackerState: {
+        year: new Date().getFullYear(),
+        month: new Date().getMonth()
+    },
     userAttempts: {}, // qid -> Array of attempted options ['A', 'C']
     revealedAnswers: {}, // qid -> boolean (true if right answer selected or View Explanation clicked)
     userComments: JSON.parse(localStorage.getItem('user_comments') || '{}'), // qid -> Array of {text, time}
@@ -345,6 +356,8 @@ document.addEventListener('DOMContentLoaded', async () => {
     checkLandingPage();
     loadLandingStats();
     updateBookmarkBadges();
+    updateUserAuthUI();
+    updateStreakBadge();
 
     if (!localStorage.getItem('user_lang')) {
         document.getElementById('languageModal').classList.add('show');
@@ -400,6 +413,49 @@ function formatDisplayDate(dateStr) {
     return dateStr;
 }
 
+// Scroll Preservation on Language Change
+function findActiveViewportQuestionId() {
+    const cards = document.querySelectorAll('.ques-card');
+    if (!cards || cards.length === 0) return null;
+    let closestId = null;
+    let minDistance = Infinity;
+
+    cards.forEach(card => {
+        const rect = card.getBoundingClientRect();
+        // Look for card closest to top below the ~80px sticky header
+        const dist = Math.abs(rect.top - 85);
+        if (dist < minDistance) {
+            minDistance = dist;
+            closestId = card.id;
+        }
+    });
+    return closestId;
+}
+
+function restoreQuestionScrollPosition() {
+    if (!state.scrollPreserveCardId) return;
+    const targetId = state.scrollPreserveCardId;
+    state.scrollPreserveCardId = null;
+
+    let attempts = 0;
+    const tryScroll = () => {
+        const el = document.getElementById(targetId);
+        if (el) {
+            const rect = el.getBoundingClientRect();
+            const currentScrollTop = window.pageYOffset || document.documentElement.scrollTop;
+            const targetY = currentScrollTop + rect.top - 80;
+            window.scrollTo({
+                top: Math.max(0, targetY),
+                behavior: 'instant'
+            });
+        } else if (attempts < 6) {
+            attempts++;
+            setTimeout(tryScroll, 35);
+        }
+    };
+    setTimeout(tryScroll, 25);
+}
+
 // Language Selectors
 function selectInitialLanguage(selectedLang) {
     state.lang = selectedLang;
@@ -411,10 +467,13 @@ function selectInitialLanguage(selectedLang) {
 
 function switchLanguage(newLang) {
     if (state.lang === newLang) return;
+    state.scrollPreserveCardId = findActiveViewportQuestionId();
     state.lang = newLang;
     localStorage.setItem('user_lang', newLang);
     applyLanguage(newLang);
-    fetchQuestions();
+    fetchQuestions().then(() => {
+        restoreQuestionScrollPosition();
+    });
 }
 
 function applyLanguage(lang) {
@@ -580,6 +639,7 @@ async function fetchQuestions() {
                     updateDayNavButtons();
                     prefetchNeighborDates();
                 }
+                restoreQuestionScrollPosition();
             }
             fetchCategories();
         }
@@ -966,6 +1026,7 @@ function handleOptionClick(qid, selectedOpt) {
         state.revealedAnswers[qid] = true;
     }
 
+    recordQuestionAttempt(q);
     renderQuestions();
 }
 
@@ -979,6 +1040,11 @@ function toggleAnswer(qid) {
 function toggleBookmark(qid, event) {
     if (event) {
         event.stopPropagation();
+    }
+
+    if (!state.user) {
+        openAuthModal('bookmark', qid);
+        return;
     }
 
     if (!state.bookmarks) state.bookmarks = {};
@@ -1006,6 +1072,15 @@ function toggleBookmark(qid, event) {
         localStorage.setItem('dailyaffairs_bookmarks', JSON.stringify(state.bookmarks));
     } catch (e) {
         console.error('Failed to save bookmarks to localStorage', e);
+    }
+
+    // Sync bookmarks with cloud account if user is logged in
+    if (state.user && state.user.phone) {
+        fetch('/api/auth/bookmarks', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ phone: state.user.phone, bookmarks: state.bookmarks })
+        }).catch(err => console.error('Cloud bookmark sync error:', err));
     }
 
     updateBookmarkBadges();
@@ -2059,3 +2134,501 @@ document.addEventListener('dragstart', function(e) {
         return false;
     }
 });
+
+// ==========================================
+// 1. BOOKMARK MENU AUTH GATE
+// ==========================================
+function handleBookmarkMenuClick() {
+    closeMenuDrawer();
+    if (!state.user) {
+        openAuthModal('view_bookmarks');
+        return;
+    }
+    switchViewMode('bookmarks');
+}
+
+// ==========================================
+// 2. DAILY TARGET & ACTIVITY TRACKER
+// ==========================================
+function recordQuestionAttempt(q) {
+    if (!q) return;
+    const targetDate = q.date || state.date || new Date().toISOString().split('T')[0];
+    if (!targetDate) return;
+
+    if (!state.userActivity) state.userActivity = {};
+    if (!state.userActivity[targetDate]) {
+        state.userActivity[targetDate] = {
+            totalQuestions: 0,
+            attemptedQids: [],
+            status: 'half'
+        };
+    }
+
+    const dayAct = state.userActivity[targetDate];
+    if (!dayAct.attemptedQids) dayAct.attemptedQids = [];
+    if (!dayAct.attemptedQids.includes(q.id)) {
+        dayAct.attemptedQids.push(q.id);
+    }
+
+    const availableCount = (state.questions && state.questions.length > 0) ? state.questions.length : 10;
+    dayAct.totalQuestions = Math.max(dayAct.totalQuestions || 0, availableCount);
+
+    if (dayAct.attemptedQids.length >= dayAct.totalQuestions) {
+        dayAct.status = 'completed';
+    } else {
+        dayAct.status = 'half';
+    }
+
+    try {
+        localStorage.setItem('dailyaffairs_activity', JSON.stringify(state.userActivity));
+    } catch (e) {}
+
+    updateStreakBadge();
+
+    // Sync activity with cloud backend if logged in
+    if (state.user && state.user.phone) {
+        fetch('/api/auth/activity', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+                phone: state.user.phone,
+                date: targetDate,
+                status: dayAct.status,
+                count: dayAct.attemptedQids.length
+            })
+        }).catch(err => console.error('Cloud activity sync error:', err));
+    }
+}
+
+function calculateCurrentStreak() {
+    if (!state.userActivity) return 0;
+    let streak = 0;
+    const today = new Date();
+    const todayStr = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+    const todayAct = state.userActivity[todayStr];
+
+    if (todayAct && (todayAct.status === 'completed' || todayAct.status === 'half')) {
+        streak++;
+    }
+
+    for (let i = 1; i <= 365; i++) {
+        const d = new Date();
+        d.setDate(d.getDate() - i);
+        const dStr = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+        const act = state.userActivity[dStr];
+        if (act && (act.status === 'completed' || act.status === 'half')) {
+            streak++;
+        } else {
+            break;
+        }
+    }
+    return streak;
+}
+
+function updateStreakBadge() {
+    const streak = calculateCurrentStreak();
+    const drawerBadge = document.getElementById('drawerStreakBadge');
+    if (drawerBadge) {
+        drawerBadge.innerText = `${streak}🔥`;
+    }
+}
+
+function handleTargetTrackerClick() {
+    closeMenuDrawer();
+    if (!state.user) {
+        openAuthModal('tracker');
+        return;
+    }
+    openTargetTrackerModal();
+}
+
+function openTargetTrackerModal() {
+    const modal = document.getElementById('targetTrackerModal');
+    if (!modal) return;
+    renderTrackerCalendar();
+    modal.classList.add('show');
+}
+
+function closeTargetTrackerModal() {
+    const modal = document.getElementById('targetTrackerModal');
+    if (modal) modal.classList.remove('show');
+}
+
+function changeTrackerMonth(delta) {
+    state.trackerState.month += delta;
+    if (state.trackerState.month < 0) {
+        state.trackerState.month = 11;
+        state.trackerState.year -= 1;
+    } else if (state.trackerState.month > 11) {
+        state.trackerState.month = 0;
+        state.trackerState.year += 1;
+    }
+    renderTrackerCalendar();
+}
+
+function renderTrackerCalendar() {
+    const daysGrid = document.getElementById('trackerDaysGrid');
+    const titleEl = document.getElementById('trackerMonthTitle');
+    if (!daysGrid) return;
+
+    const streakVal = document.getElementById('trackerStreakVal');
+    const completedVal = document.getElementById('trackerCompletedVal');
+    const halfVal = document.getElementById('trackerHalfVal');
+    const missedVal = document.getElementById('trackerMissedVal');
+
+    const year = state.trackerState.year;
+    const month = state.trackerState.month;
+    if (titleEl) {
+        titleEl.innerText = `${MONTH_NAMES[month]} ${year}`;
+    }
+
+    let fullCount = 0;
+    let halfCount = 0;
+    let missedCount = 0;
+
+    const todayObj = new Date();
+    const todayStr = `${todayObj.getFullYear()}-${String(todayObj.getMonth() + 1).padStart(2, '0')}-${String(todayObj.getDate()).padStart(2, '0')}`;
+
+    daysGrid.innerHTML = '';
+    const firstDay = new Date(year, month, 1).getDay();
+    const totalDays = new Date(year, month + 1, 0).getDate();
+
+    for (let i = 0; i < firstDay; i++) {
+        const emptyCell = document.createElement('div');
+        emptyCell.className = 'target-day-cell empty';
+        daysGrid.appendChild(emptyCell);
+    }
+
+    for (let d = 1; d <= totalDays; d++) {
+        const dStr = String(d).padStart(2, '0');
+        const mStr = String(month + 1).padStart(2, '0');
+        const dateStr = `${year}-${mStr}-${dStr}`;
+
+        const cell = document.createElement('div');
+        cell.className = 'target-day-cell';
+
+        const dayNumSpan = document.createElement('span');
+        dayNumSpan.className = 'day-num';
+        dayNumSpan.innerText = d;
+        cell.appendChild(dayNumSpan);
+
+        const isAvailable = state.availableDates && state.availableDates.includes(dateStr);
+        const act = state.userActivity ? state.userActivity[dateStr] : null;
+
+        if (dateStr === todayStr) {
+            cell.classList.add('today');
+        }
+
+        if (act && act.status === 'completed') {
+            cell.classList.add('status-completed');
+            cell.title = `Full Target Solved (${act.attemptedQids ? act.attemptedQids.length : 0} questions)`;
+            fullCount++;
+        } else if (act && act.status === 'half') {
+            cell.classList.add('status-half');
+            cell.title = `Partially Solved (${act.attemptedQids ? act.attemptedQids.length : 0} questions)`;
+            halfCount++;
+        } else if (isAvailable && dateStr < todayStr) {
+            cell.classList.add('status-missed');
+            cell.title = 'Missed: No questions attempted';
+            missedCount++;
+        }
+
+        if (isAvailable) {
+            cell.classList.add('has-questions');
+            cell.onclick = () => {
+                state.date = dateStr;
+                closeTargetTrackerModal();
+                switchViewMode('daily');
+                fetchQuestions();
+            };
+        } else {
+            cell.classList.add('no-questions');
+        }
+
+        daysGrid.appendChild(cell);
+    }
+
+    if (streakVal) streakVal.innerText = calculateCurrentStreak();
+    if (completedVal) completedVal.innerText = fullCount;
+    if (halfVal) halfVal.innerText = halfCount;
+    if (missedVal) missedVal.innerText = missedCount;
+}
+
+// ==========================================
+// 3. AUTH MODAL & CONTROLLERS
+// ==========================================
+function openAuthModal(pendingAction = null, pendingQid = null) {
+    state.authPendingAction = pendingAction;
+    state.authPendingQid = pendingQid;
+    const modal = document.getElementById('authModal');
+    if (modal) modal.classList.add('show');
+    switchAuthTab(state.authTab || 'signin');
+    const errBox = document.getElementById('authErrorBox');
+    if (errBox) errBox.style.display = 'none';
+}
+
+function closeAuthModal() {
+    const modal = document.getElementById('authModal');
+    if (modal) modal.classList.remove('show');
+    state.authPendingAction = null;
+    state.authPendingQid = null;
+}
+
+function switchAuthTab(tab) {
+    state.authTab = tab;
+    const tabSignIn = document.getElementById('tabBtnSignIn');
+    const tabSignUp = document.getElementById('tabBtnSignUp');
+    const submitBtnTxt = document.getElementById('btnAuthSubmitText');
+    const subDesc = document.getElementById('authSubDesc');
+    const promptText = document.getElementById('authSwitchPrompt');
+    const switchLink = document.getElementById('authSwitchLink');
+    const errBox = document.getElementById('authErrorBox');
+    if (errBox) errBox.style.display = 'none';
+
+    if (tab === 'signup') {
+        if (tabSignIn) tabSignIn.classList.remove('active');
+        if (tabSignUp) tabSignUp.classList.add('active');
+        if (submitBtnTxt) submitBtnTxt.innerText = 'Sign Up';
+        if (subDesc) subDesc.innerText = 'Create a free account with your mobile number to track daily targets & save bookmarks.';
+        if (promptText) promptText.innerText = 'Already have an account?';
+        if (switchLink) switchLink.innerText = 'Sign In';
+    } else {
+        if (tabSignIn) tabSignIn.classList.add('active');
+        if (tabSignUp) tabSignUp.classList.remove('active');
+        if (submitBtnTxt) submitBtnTxt.innerText = 'Sign In';
+        if (subDesc) subDesc.innerText = 'Sign in with your mobile number to unlock Bookmarks & Daily Target Tracker.';
+        if (promptText) promptText.innerText = "Don't have an account?";
+        if (switchLink) switchLink.innerText = 'Sign Up';
+    }
+}
+
+function toggleAuthTab() {
+    switchAuthTab(state.authTab === 'signin' ? 'signup' : 'signin');
+}
+
+function togglePasswordVisibility(inputId, btnEl) {
+    const input = document.getElementById(inputId);
+    if (!input) return;
+    const isPwd = input.type === 'password';
+    input.type = isPwd ? 'text' : 'password';
+    const icon = btnEl ? btnEl.querySelector('i') : null;
+    if (icon) {
+        icon.className = isPwd ? 'ri-eye-off-line' : 'ri-eye-line';
+    }
+}
+
+function handleAuthClick() {
+    closeMenuDrawer();
+    if (state.user) {
+        const shouldLogout = confirm(`Signed in as +91 ${state.user.phone}\n\nDo you want to log out? / તમે લોગ આઉટ કરવા માંગો છો?`);
+        if (shouldLogout) {
+            logoutUser();
+        }
+    } else {
+        openAuthModal();
+    }
+}
+
+function logoutUser() {
+    state.user = null;
+    localStorage.removeItem('dailyaffairs_user');
+    updateUserAuthUI();
+    if (state.viewMode === 'bookmarks') {
+        switchViewMode('daily');
+    }
+}
+
+async function handleAuthSubmit(e) {
+    e.preventDefault();
+    const phoneInput = document.getElementById('authPhone');
+    const pwdInput = document.getElementById('authPassword');
+    const errBox = document.getElementById('authErrorBox');
+    const btnSubmit = document.getElementById('btnAuthSubmit');
+
+    const phone = (phoneInput ? phoneInput.value : '').trim();
+    const password = (pwdInput ? pwdInput.value : '').trim();
+
+    // Validate 10 digit Indian mobile number starting with 6, 7, 8, 9
+    const phoneRegex = /^[6-9]\d{9}$/;
+    if (!phoneRegex.test(phone)) {
+        if (errBox) {
+            errBox.innerText = 'કૃપા કરીને માન્ય 10-અંકનો મોબાઇલ નંબર દાખલ કરો (6, 7, 8, 9 થી શરૂ થતો). / Please enter a valid 10-digit mobile number starting with 6, 7, 8, or 9.';
+            errBox.style.display = 'block';
+        }
+        return;
+    }
+
+    if (!password || password.length < 4) {
+        if (errBox) {
+            errBox.innerText = 'પાસવર્ડ ઓછામાં ઓછો 4 અક્ષરોનો હોવો જોઈએ. / Password must be at least 4 characters long.';
+            errBox.style.display = 'block';
+        }
+        return;
+    }
+
+    if (errBox) errBox.style.display = 'none';
+    if (btnSubmit) btnSubmit.disabled = true;
+
+    const endpoint = state.authTab === 'signup' ? '/api/auth/register' : '/api/auth/login';
+
+    try {
+        const res = await fetch(endpoint, {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ phone, password })
+        });
+        const data = await res.json();
+
+        if (data.status === 'success') {
+            state.user = data.user;
+            localStorage.setItem('dailyaffairs_user', JSON.stringify(data.user));
+
+            // Merge cloud bookmarks & activity
+            if (data.user.bookmarks) {
+                state.bookmarks = { ...state.bookmarks, ...data.user.bookmarks };
+                localStorage.setItem('dailyaffairs_bookmarks', JSON.stringify(state.bookmarks));
+            }
+            if (data.user.activity) {
+                state.userActivity = { ...state.userActivity, ...data.userActivity };
+                localStorage.setItem('dailyaffairs_activity', JSON.stringify(state.userActivity));
+            }
+
+            updateUserAuthUI();
+            updateBookmarkBadges();
+            updateStreakBadge();
+
+            const pendingAction = state.authPendingAction;
+            const pendingQid = state.authPendingQid;
+            closeAuthModal();
+
+            if (pendingAction === 'bookmark' && pendingQid) {
+                toggleBookmark(pendingQid);
+            } else if (pendingAction === 'view_bookmarks') {
+                switchViewMode('bookmarks');
+            } else if (pendingAction === 'tracker') {
+                openTargetTrackerModal();
+            }
+        } else {
+            if (errBox) {
+                errBox.innerText = data.message || 'Authentication failed. Please check credentials.';
+                errBox.style.display = 'block';
+            }
+        }
+    } catch (err) {
+        console.error('Auth request failed:', err);
+        if (errBox) {
+            errBox.innerText = 'Server connection error. Please try again.';
+            errBox.style.display = 'block';
+        }
+    } finally {
+        if (btnSubmit) btnSubmit.disabled = false;
+    }
+}
+
+function updateUserAuthUI() {
+    const headerAuthIcon = document.getElementById('headerAuthIcon');
+    const drawerUserName = document.getElementById('drawerUserName');
+    const drawerUserStatus = document.getElementById('drawerUserStatus');
+    const drawerAuthBtn = document.getElementById('drawerAuthBtn');
+
+    if (state.user) {
+        if (headerAuthIcon) {
+            headerAuthIcon.className = 'ri-user-fill';
+            headerAuthIcon.style.color = '#10b981';
+        }
+        if (drawerUserName) {
+            drawerUserName.innerText = `+91 ${state.user.phone}`;
+        }
+        if (drawerUserStatus) {
+            drawerUserStatus.innerText = 'Active Member • Tap to Log Out';
+        }
+        if (drawerAuthBtn) {
+            drawerAuthBtn.innerHTML = '<i class="ri-logout-box-r-line"></i>';
+            drawerAuthBtn.title = 'Log Out';
+        }
+    } else {
+        if (headerAuthIcon) {
+            headerAuthIcon.className = 'ri-user-3-line';
+            headerAuthIcon.style.color = '';
+        }
+        if (drawerUserName) {
+            drawerUserName.innerText = 'Guest User';
+        }
+        if (drawerUserStatus) {
+            drawerUserStatus.innerText = 'Tap to Sign In / Sign Up';
+        }
+        if (drawerAuthBtn) {
+            drawerAuthBtn.innerHTML = '<i class="ri-login-box-line"></i>';
+            drawerAuthBtn.title = 'Sign In';
+        }
+    }
+}
+
+// ==========================================
+// 4. MENU-ONLY KEYWORD SEARCH
+// ==========================================
+let searchDebounceTimeout = null;
+function handleMenuSearch(query) {
+    const clearBtn = document.getElementById('btnMenuSearchClear');
+    if (clearBtn) clearBtn.style.display = query ? 'flex' : 'none';
+
+    state.searchQuery = (query || '').trim();
+
+    clearTimeout(searchDebounceTimeout);
+    searchDebounceTimeout = setTimeout(() => {
+        applyMenuSearchFilter();
+    }, 200);
+}
+
+function clearMenuSearch() {
+    const input = document.getElementById('menuSearchInput');
+    const clearBtn = document.getElementById('btnMenuSearchClear');
+    if (input) input.value = '';
+    if (clearBtn) clearBtn.style.display = 'none';
+    state.searchQuery = '';
+    applyMenuSearchFilter();
+}
+
+function applyMenuSearchFilter() {
+    const banner = document.getElementById('searchResultsBanner');
+    const query = (state.searchQuery || '').toLowerCase();
+
+    if (!query) {
+        if (banner) banner.style.display = 'none';
+        renderQuestions();
+        return;
+    }
+
+    if (banner) {
+        banner.style.display = 'flex';
+        const txt = document.getElementById('searchBannerText');
+        if (txt) txt.innerText = `Search results for "${state.searchQuery}"`;
+    }
+
+    const container = document.getElementById('questionsList');
+    if (!container) return;
+
+    // Filter questions by keyword matching across question, explanation, category, and options
+    const matches = (state.questions || []).filter(q => {
+        const inQ = (q.question || '').toLowerCase().includes(query);
+        const inExp = (q.explanation || '').toLowerCase().includes(query);
+        const inCat = (q.category || '').toLowerCase().includes(query);
+        const inOpts = q.options && (
+            (q.options.A || '').toLowerCase().includes(query) ||
+            (q.options.B || '').toLowerCase().includes(query) ||
+            (q.options.C || '').toLowerCase().includes(query) ||
+            (q.options.D || '').toLowerCase().includes(query)
+        );
+        return inQ || inExp || inCat || inOpts;
+    });
+
+    if (matches.length === 0) {
+        container.innerHTML = `<div class="ques-card" style="text-align:center; padding:50px; color:var(--text-muted);">No questions found matching "${state.searchQuery}".</div>`;
+        return;
+    }
+
+    const savedQuestions = state.questions;
+    state.questions = matches;
+    renderQuestions();
+    state.questions = savedQuestions;
+}

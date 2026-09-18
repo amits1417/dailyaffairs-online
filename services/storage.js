@@ -9,15 +9,44 @@ try {
 }
 
 const DATA_FILE = path.join(__dirname, '..', 'data', 'current_affairs.json');
+const USERS_FILE = path.join(__dirname, '..', 'data', 'users.json');
 const MONGO_URI = process.env.MONGODB_URI;
 const DB_NAME = process.env.DB_NAME || 'dailyaffairs';
 const COLLECTION_NAME = 'questions';
+const USERS_COLLECTION_NAME = 'users';
 
 let client = null;
 let db = null;
 let questionsCollection = null;
+let usersCollection = null;
 let cachedDates = null;
 let datesCacheTime = 0;
+
+// Local Users File Memory Cache
+let usersFileData = null;
+function loadUsersData() {
+    if (fs.existsSync(USERS_FILE)) {
+        try {
+            usersFileData = JSON.parse(fs.readFileSync(USERS_FILE, 'utf8'));
+        } catch (e) {
+            console.error('Failed to parse users.json:', e.message);
+        }
+    }
+    if (!usersFileData || !Array.isArray(usersFileData.users)) {
+        usersFileData = { users: [] };
+    }
+    return usersFileData;
+}
+
+function saveUsersData() {
+    try {
+        if (usersFileData) {
+            fs.writeFileSync(USERS_FILE, JSON.stringify(usersFileData, null, 2), 'utf8');
+        }
+    } catch (e) {
+        console.error('Failed to save users.json:', e.message);
+    }
+}
 
 // Local JSON File Memory Cache
 let fileDbData = null;
@@ -74,9 +103,11 @@ async function connectDB() {
         await client.connect();
         db = client.db(DB_NAME);
         questionsCollection = db.collection(COLLECTION_NAME);
+        usersCollection = db.collection(USERS_COLLECTION_NAME);
 
         await questionsCollection.createIndex({ date: -1 });
         await questionsCollection.createIndex({ date: 1, qno: 1 });
+        await usersCollection.createIndex({ phone: 1 }, { unique: true }).catch(() => {});
 
         console.log('[MongoDB] Connected successfully');
 
@@ -94,8 +125,15 @@ async function connectDB() {
     } catch (error) {
         console.warn('[MongoDB] Connection failed, falling back to JSON file:', error.message);
         questionsCollection = null;
+        usersCollection = null;
         return null;
     }
+}
+
+async function connectUsersDB() {
+    if (usersCollection) return usersCollection;
+    await connectDB();
+    return usersCollection;
 }
 
 function shuffleQuestions(questions, dateStr) {
@@ -338,6 +376,223 @@ async function getQuestionCount(dateStr) {
     return (local.questions || []).length;
 }
 
+function validatePhoneNumber(phone) {
+    if (!phone || typeof phone !== 'string') return false;
+    const clean = phone.replace(/\D/g, '');
+    return /^[6-9]\d{9}$/.test(clean);
+}
+
+async function registerUser(phone, password) {
+    const cleanPhone = (phone || '').replace(/\D/g, '');
+    if (!validatePhoneNumber(cleanPhone)) {
+        return { status: 'error', message: 'Please enter a valid 10-digit Indian mobile number starting with 6, 7, 8, or 9.' };
+    }
+    if (!password || password.length < 4) {
+        return { status: 'error', message: 'Password must be at least 4 characters.' };
+    }
+
+    try {
+        const uCol = await connectUsersDB();
+        if (uCol) {
+            const existing = await uCol.findOne({ phone: cleanPhone });
+            if (existing) {
+                return { status: 'error', message: 'Mobile number already registered. Please Sign In.' };
+            }
+            const newUser = {
+                phone: cleanPhone,
+                password: password,
+                bookmarks: {},
+                activity: {},
+                createdAt: new Date().toISOString()
+            };
+            await uCol.insertOne(newUser);
+            return {
+                status: 'success',
+                user: { phone: cleanPhone, bookmarks: {}, activity: {} }
+            };
+        }
+    } catch (e) {
+        console.warn('[Storage] Mongo registerUser fallback:', e.message);
+    }
+
+    const local = loadUsersData();
+    const existing = (local.users || []).find(u => u.phone === cleanPhone);
+    if (existing) {
+        return { status: 'error', message: 'Mobile number already registered. Please Sign In.' };
+    }
+    const newUser = {
+        phone: cleanPhone,
+        password: password,
+        bookmarks: {},
+        activity: {},
+        createdAt: new Date().toISOString()
+    };
+    local.users.push(newUser);
+    saveUsersData();
+    return {
+        status: 'success',
+        user: { phone: cleanPhone, bookmarks: {}, activity: {} }
+    };
+}
+
+async function loginUser(phone, password) {
+    const cleanPhone = (phone || '').replace(/\D/g, '');
+    if (!validatePhoneNumber(cleanPhone)) {
+        return { status: 'error', message: 'Please enter a valid 10-digit Indian mobile number starting with 6, 7, 8, or 9.' };
+    }
+    if (!password) {
+        return { status: 'error', message: 'Please enter your password.' };
+    }
+
+    try {
+        const uCol = await connectUsersDB();
+        if (uCol) {
+            const user = await uCol.findOne({ phone: cleanPhone });
+            if (!user) {
+                return { status: 'error', message: 'Mobile number not registered. Please Sign Up.' };
+            }
+            if (user.password !== password) {
+                return { status: 'error', message: 'Incorrect password. Please try again.' };
+            }
+            return {
+                status: 'success',
+                user: {
+                    phone: user.phone,
+                    bookmarks: user.bookmarks || {},
+                    activity: user.activity || {}
+                }
+            };
+        }
+    } catch (e) {
+        console.warn('[Storage] Mongo loginUser fallback:', e.message);
+    }
+
+    const local = loadUsersData();
+    const user = (local.users || []).find(u => u.phone === cleanPhone);
+    if (!user) {
+        return { status: 'error', message: 'Mobile number not registered. Please Sign Up.' };
+    }
+    if (user.password !== password) {
+        return { status: 'error', message: 'Incorrect password. Please try again.' };
+    }
+    return {
+        status: 'success',
+        user: {
+            phone: user.phone,
+            bookmarks: user.bookmarks || {},
+            activity: user.activity || {}
+        }
+    };
+}
+
+async function saveUserActivity(phone, date, total, attempted) {
+    const cleanPhone = (phone || '').replace(/\D/g, '');
+    if (!validatePhoneNumber(cleanPhone) || !date) {
+        return { status: 'error', message: 'Invalid data' };
+    }
+
+    const totalQ = Number(total) || 1;
+    const attemptedQ = Number(attempted) || 0;
+    const dayStatus = attemptedQ >= totalQ ? 'completed' : (attemptedQ > 0 ? 'half' : 'missed');
+    const activityItem = {
+        total: totalQ,
+        attempted: attemptedQ,
+        status: dayStatus,
+        updatedAt: new Date().toISOString()
+    };
+
+    try {
+        const uCol = await connectUsersDB();
+        if (uCol) {
+            await uCol.updateOne(
+                { phone: cleanPhone },
+                { $set: { [`activity.${date}`]: activityItem } }
+            );
+            const user = await uCol.findOne({ phone: cleanPhone });
+            return { status: 'success', activity: user ? user.activity : {} };
+        }
+    } catch (e) {
+        console.warn('[Storage] Mongo saveUserActivity fallback:', e.message);
+    }
+
+    const local = loadUsersData();
+    const user = (local.users || []).find(u => u.phone === cleanPhone);
+    if (user) {
+        if (!user.activity) user.activity = {};
+        user.activity[date] = activityItem;
+        saveUsersData();
+        return { status: 'success', activity: user.activity };
+    }
+    return { status: 'error', message: 'User not found' };
+}
+
+async function syncUserBookmarks(phone, bookmarks) {
+    const cleanPhone = (phone || '').replace(/\D/g, '');
+    if (!validatePhoneNumber(cleanPhone)) {
+        return { status: 'error', message: 'Invalid phone' };
+    }
+
+    try {
+        const uCol = await connectUsersDB();
+        if (uCol) {
+            await uCol.updateOne(
+                { phone: cleanPhone },
+                { $set: { bookmarks: bookmarks || {} } }
+            );
+            return { status: 'success' };
+        }
+    } catch (e) {
+        console.warn('[Storage] Mongo syncUserBookmarks fallback:', e.message);
+    }
+
+    const local = loadUsersData();
+    const user = (local.users || []).find(u => u.phone === cleanPhone);
+    if (user) {
+        user.bookmarks = bookmarks || {};
+        saveUsersData();
+        return { status: 'success' };
+    }
+    return { status: 'error', message: 'User not found' };
+}
+
+async function getUserProfile(phone) {
+    const cleanPhone = (phone || '').replace(/\D/g, '');
+    if (!validatePhoneNumber(cleanPhone)) {
+        return { status: 'error', message: 'Invalid phone' };
+    }
+
+    try {
+        const uCol = await connectUsersDB();
+        if (uCol) {
+            const user = await uCol.findOne({ phone: cleanPhone });
+            if (user) {
+                return {
+                    status: 'success',
+                    user: {
+                        phone: user.phone,
+                        bookmarks: user.bookmarks || {},
+                        activity: user.activity || {}
+                    }
+                };
+            }
+        }
+    } catch (e) {}
+
+    const local = loadUsersData();
+    const user = (local.users || []).find(u => u.phone === cleanPhone);
+    if (user) {
+        return {
+            status: 'success',
+            user: {
+                phone: user.phone,
+                bookmarks: user.bookmarks || {},
+                activity: user.activity || {}
+            }
+        };
+    }
+    return { status: 'error', message: 'User not found' };
+}
+
 module.exports = {
     connectDB,
     saveQuestionsForDate,
@@ -346,5 +601,11 @@ module.exports = {
     getQuestions,
     getCategories,
     getQuestionCount,
-    syncJsonToMongo
+    syncJsonToMongo,
+    validatePhoneNumber,
+    registerUser,
+    loginUser,
+    saveUserActivity,
+    syncUserBookmarks,
+    getUserProfile
 };

@@ -131,6 +131,67 @@ app.get('/api/sync-mongo', async (req, res) => {
     }
 });
 
+// API: Auth - Register
+app.post('/api/auth/register', async (req, res) => {
+    try {
+        const { phone, password } = req.body;
+        const result = await storage.registerUser(phone, password);
+        if (result.status === 'error') {
+            return res.status(400).json(result);
+        }
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
+// API: Auth - Login
+app.post('/api/auth/login', async (req, res) => {
+    try {
+        const { phone, password } = req.body;
+        const result = await storage.loginUser(phone, password);
+        if (result.status === 'error') {
+            return res.status(400).json(result);
+        }
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
+// API: Auth - Record Daily Activity / Target
+app.post('/api/auth/activity', async (req, res) => {
+    try {
+        const { phone, date, total, attempted } = req.body;
+        const result = await storage.saveUserActivity(phone, date, total, attempted);
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
+// API: Auth - Sync Bookmarks
+app.post('/api/auth/bookmarks', async (req, res) => {
+    try {
+        const { phone, bookmarks } = req.body;
+        const result = await storage.syncUserBookmarks(phone, bookmarks);
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
+// API: Auth - Profile
+app.get('/api/auth/profile', async (req, res) => {
+    try {
+        const { phone } = req.query;
+        const result = await storage.getUserProfile(phone);
+        res.json(result);
+    } catch (error) {
+        res.status(500).json({ status: 'error', message: error.message });
+    }
+});
+
 // SEO: Dynamic sitemap (cached 1 hour) — homepage + one URL per date
 let sitemapCache = null;
 let sitemapCacheTime = 0;

@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "phone": "9999999999",
+      "password": "secret123",
+      "bookmarks": {
+        "q1": {
+          "question": "Test Q"
+        }
+      },
+      "activity": {
+        "2026-09-18": {
+          "total": 1,
+          "attempted": 10,
+          "status": "completed",
+          "updatedAt": "2026-09-18T15:17:46.319Z"
+        }
+      },
+      "createdAt": "2026-09-18T15:17:46.312Z"
+    }
+  ]
+}
