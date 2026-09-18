@@ -26,15 +26,9 @@ app.get('/api/current-affairs', async (req, res) => {
         const todayStr = cronService.formatDate ? cronService.formatDate(new Date()) : new Date().toISOString().split('T')[0];
         let dates = await storage.getAvailableDates();
 
-        // Auto-fetch today if missing from DB
+        // Background auto-fetch if today is missing (non-blocking)
         if (date !== 'all' && (!date || date === todayStr) && !dates.includes(todayStr)) {
-            console.log(`[Auto-Sync] Today ${todayStr} not in DB. Automatically fetching from IndiaBIX...`);
-            try {
-                await cronService.syncDate(todayStr);
-                dates = await storage.getAvailableDates(true);
-            } catch (err) {
-                console.warn('[Auto-Sync] Live sync error:', err.message);
-            }
+            cronService.syncDate(todayStr).catch(err => console.warn('[Auto-Sync] Live sync warning:', err.message));
         }
 
         let questions = await storage.getQuestions(date, lang, category, search, month);
@@ -61,10 +55,7 @@ app.get('/api/dates', async (req, res) => {
         let dates = await storage.getAvailableDates();
 
         if (!dates.includes(todayStr)) {
-            try {
-                await cronService.syncDate(todayStr);
-                dates = await storage.getAvailableDates(true);
-            } catch (e) {}
+            cronService.syncDate(todayStr).catch(() => {});
         }
 
         res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');

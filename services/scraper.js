@@ -123,7 +123,7 @@ async function getLatestDatesFromIndex() {
             }
         });
 
-        return Array.from(dates);
+        return Array.from(dates).sort().reverse();
     } catch (e) {
         console.error('[Scraper] Failed to fetch index dates:', e.message);
         return [];

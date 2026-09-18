@@ -140,7 +140,54 @@ function postProcessTranslation(text, targetLang) {
     return result;
 }
 
-async function translateText(text, targetLang, retries = 3) {
+async function fetchTranslationFromEndpoints(tokenizedText, targetLang) {
+    const endpoints = [
+        {
+            url: `https://clients5.google.com/translate_a/t?client=dict-chrome-ex&sl=en&tl=${targetLang}&q=${encodeURIComponent(tokenizedText)}`,
+            parse: (data) => {
+                if (Array.isArray(data) && data.length > 0 && typeof data[0] === 'string') return data[0];
+                if (typeof data === 'string') return data;
+                return null;
+            }
+        },
+        {
+            url: `https://translate.googleapis.com/translate_a/single?client=it&dt=t&sl=en&tl=${targetLang}&q=${encodeURIComponent(tokenizedText)}`,
+            parse: (data) => {
+                if (data && data[0] && Array.isArray(data[0])) {
+                    return data[0].map(item => item[0]).filter(Boolean).join('');
+                }
+                return null;
+            }
+        },
+        {
+            url: `https://translate.googleapis.com/translate_a/single?client=gtx&dt=t&sl=en&tl=${targetLang}&q=${encodeURIComponent(tokenizedText)}`,
+            parse: (data) => {
+                if (data && data[0] && Array.isArray(data[0])) {
+                    return data[0].map(item => item[0]).filter(Boolean).join('');
+                }
+                return null;
+            }
+        }
+    ];
+
+    for (const ep of endpoints) {
+        try {
+            const res = await axios.get(ep.url, {
+                headers: {
+                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+                },
+                timeout: 8000
+            });
+            const text = ep.parse(res.data);
+            if (text && text.trim()) return text;
+        } catch (e) {
+            // Try next endpoint on error
+        }
+    }
+    return null;
+}
+
+async function translateText(text, targetLang, retries = 2) {
     if (!text || typeof text !== 'string' || !text.trim()) return text;
     if (targetLang === 'en') return text;
 
@@ -153,189 +200,98 @@ async function translateText(text, targetLang, retries = 3) {
 
     for (let attempt = 1; attempt <= retries; attempt++) {
         try {
-            const url = `https://translate.googleapis.com/translate_a/single?client=gtx&sl=en&tl=${targetLang}&dt=t&q=${encodeURIComponent(tokenizedText)}`;
-            const response = await axios.get(url, {
-                headers: {
-                    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36'
-                },
-                timeout: 10000
-            });
+            let translated = await fetchTranslationFromEndpoints(tokenizedText, targetLang);
+            if (translated) {
+                translated = restoreThemesAndMottos(translated, tokens);
 
-            if (response.data && response.data[0]) {
-                let translated = response.data[0].map(item => item[0]).filter(Boolean).join('');
-                if (translated) {
-                    translated = restoreThemesAndMottos(translated, tokens);
-
-                    // Post-process to replace remaining English words
-                    if (containsEnglish(translated) && targetLang !== 'en') {
-                        translated = postProcessTranslation(translated, targetLang);
-                    }
-
-                    translationCache[cacheKey] = translated;
-                    saveCache();
-                    return translated;
+                if (containsEnglish(translated) && targetLang !== 'en') {
+                    translated = postProcessTranslation(translated, targetLang);
                 }
+
+                translationCache[cacheKey] = translated;
+                saveCache();
+                return translated;
             }
         } catch (error) {
-            if (error.response && error.response.status === 429) {
-                await sleep(1500 * attempt);
-            } else {
-                await sleep(500);
-            }
+            await sleep(300);
         }
     }
 
     return text;
 }
 
-/**
- * Batch translate an array of English strings to targetLang using the multi-q endpoint.
- * Falls back to per-string translation if lengths mismatch.
- */
-const CHUNK_MAX_CHARS = 3500;
-const CHUNK_MAX_COUNT = 40;
+async function translateOptionsFast(optionsObj, targetLang) {
+    if (!optionsObj) return {};
+    const letters = ['A', 'B', 'C', 'D'].filter(l => optionsObj[l]);
+    if (letters.length === 0) return {};
 
-async function translateMany(texts, targetLang) {
-    const results = new Array(texts.length);
-    const todo = [];
-    const todoIdx = [];
-    for (let i = 0; i < texts.length; i++) {
-        const t = texts[i];
-        if (!t || typeof t !== 'string' || !t.trim()) { results[i] = t; continue; }
-        const cacheKey = `${targetLang}:${t.trim()}`;
-        if (translationCache[cacheKey]) { results[i] = translationCache[cacheKey]; continue; }
-        todo.push(t); todoIdx.push(i);
+    const joined = letters.map(l => optionsObj[l]).join(' \n###\n ');
+    try {
+        const translatedJoined = await translateText(joined, targetLang);
+        const parts = translatedJoined.split(/\s*###\s*/);
+        const result = {};
+        letters.forEach((l, i) => {
+            result[l] = parts[i] ? parts[i].trim() : optionsObj[l];
+        });
+        return result;
+    } catch (e) {
+        return { ...optionsObj };
     }
-    if (todo.length === 0) return results;
-
-    const chunks = [];
-    let cur = [], curLen = 0, curIdx = [];
-    for (let i = 0; i < todo.length; i++) {
-        const len = todo[i].length + 3;
-        if (cur.length >= CHUNK_MAX_COUNT || (curLen + len > CHUNK_MAX_CHARS && cur.length > 0)) {
-            chunks.push({ texts: cur, idxs: curIdx, chars: curLen }); cur = []; curIdx = []; curLen = 0;
-        }
-        cur.push(todo[i]); curIdx.push(todoIdx[i]); curLen += len;
-    }
-    if (cur.length) chunks.push({ texts: cur, idxs: curIdx, chars: curLen });
-
-    for (const chunk of chunks) {
-        let ok = false;
-        for (let attempt = 1; attempt <= 4 && !ok; attempt++) {
-            try {
-                const url = 'https://translate.googleapis.com/translate_a/t?client=gtx&sl=en&tl=' + targetLang +
-                    chunk.texts.map(t => '&q=' + encodeURIComponent(t.trim())).join('');
-                const response = await axios.get(url, {
-                    headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' },
-                    timeout: 30000
-                });
-                let data = response.data;
-                if (typeof data === 'string') data = [data];
-                else if (Array.isArray(data) && data.length && Array.isArray(data[0])) data = data.map(item => Array.isArray(item) ? item[0] : item);
-
-                if (Array.isArray(data) && data.length === chunk.texts.length) {
-                    chunk.texts.forEach((src, idx) => {
-                        const tr = data[idx];
-                        if (tr && typeof tr === 'string') {
-                            results[chunk.idxs[idx]] = tr;
-                            translationCache[`${targetLang}:${src.trim()}`] = tr;
-                        } else {
-                            results[chunk.idxs[idx]] = src;
-                        }
-                    });
-                    ok = true;
-                } else {
-                    throw new Error('length mismatch');
-                }
-            } catch (e) {
-                await sleep(600 * attempt);
-            }
-        }
-        if (!ok) {
-            // per-string fallback
-            for (let i = 0; i < chunk.texts.length; i++) {
-                const t = chunk.texts[i];
-                const translated = await translateText(t, targetLang);
-                results[chunk.idxs[i]] = translated;
-                if (translated && translated !== t) translationCache[`${targetLang}:${t.trim()}`] = translated;
-                await sleep(50);
-            }
-        }
-        saveCache();
-        await sleep(60);
-    }
-    return results;
 }
 
 async function translateQuestionItem(item) {
-    const fields = [item.question, item.options.A, item.options.B, item.options.C, item.options.D, item.explanation];
-    const hiRes = await translateMany(fields, 'hi');
-    const guRes = await translateMany(fields, 'gu');
+    try {
+        const [hiQ, hiOpts, hiExp, guQ, guOpts, guExp] = await Promise.all([
+            translateText(item.question, 'hi'),
+            translateOptionsFast(item.options, 'hi'),
+            translateText(item.explanation, 'hi'),
+            translateText(item.question, 'gu'),
+            translateOptionsFast(item.options, 'gu'),
+            translateText(item.explanation, 'gu')
+        ]);
 
-    return {
-        id: item.id,
-        date: item.date,
-        qno: item.qno,
-        answer: item.answer,
-        category: item.category,
-        en: {
-            question: item.question,
-            options: { ...item.options },
-            explanation: item.explanation
-        },
-        hi: {
-            question: hiRes[0],
-            options: { A: hiRes[1], B: hiRes[2], C: hiRes[3], D: hiRes[4] },
-            explanation: hiRes[5]
-        },
-        gu: {
-            question: guRes[0],
-            options: { A: guRes[1], B: guRes[2], C: guRes[3], D: guRes[4] },
-            explanation: guRes[5]
-        }
-    };
-}
-
-async function translateQuestionsBulk(items) {
-    const fields = [];
-    const map = [];
-    for (const item of items) {
-        const f = [item.question, item.options.A, item.options.B, item.options.C, item.options.D, item.explanation];
-        fields.push(f);
-        for (let i = 0; i < 6; i++) map.push({ item, fieldIdx: i });
-    }
-    const flat = [];
-    for (const f of fields) flat.push(...f);
-
-    const hiRes = await translateMany(flat, 'hi');
-    const guRes = await translateMany(flat, 'gu');
-
-    return items.map((item, idx) => {
-        const base = idx * 6;
         return {
             id: item.id,
             date: item.date,
             qno: item.qno,
             answer: item.answer,
             category: item.category,
-            en: { question: item.question, options: { ...item.options }, explanation: item.explanation },
+            en: {
+                question: item.question,
+                options: { ...item.options },
+                explanation: item.explanation
+            },
             hi: {
-                question: hiRes[base],
-                options: { A: hiRes[base + 1], B: hiRes[base + 2], C: hiRes[base + 3], D: hiRes[base + 4] },
-                explanation: hiRes[base + 5]
+                question: hiQ,
+                options: hiOpts,
+                explanation: hiExp
             },
             gu: {
-                question: guRes[base],
-                options: { A: guRes[base + 1], B: guRes[base + 2], C: guRes[base + 3], D: guRes[base + 4] },
-                explanation: guRes[base + 5]
+                question: guQ,
+                options: guOpts,
+                explanation: guExp
             }
         };
-    });
+    } catch (e) {
+        console.error(`[Translate] Error on question ${item.id}:`, e.message);
+        return null;
+    }
+}
+
+async function translateQuestionsBulk(items) {
+    if (!items || items.length === 0) return [];
+    const translatedList = [];
+    for (let i = 0; i < items.length; i++) {
+        const tr = await translateQuestionItem(items[i]);
+        if (tr) translatedList.push(tr);
+        await sleep(100);
+    }
+    return translatedList;
 }
 
 module.exports = {
     translateText,
-    translateMany,
+    translateOptionsFast,
     translateQuestionItem,
     translateQuestionsBulk,
     protectThemesAndMottos,

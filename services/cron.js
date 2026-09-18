@@ -24,30 +24,29 @@ async function syncDate(dateStr) {
 
     console.log(`[Sync] IndiaBIX: ${indiabixRaw.length} questions, GKToday: ${gktodayRaw.length} questions`);
 
-    const mergedQuestions = deduplicateQuestions(indiabixRaw, gktodayRaw);
-
-    if (mergedQuestions.length === 0) {
-        console.log(`[Sync] No questions found for ${dateStr} from any source`);
+    if (indiabixRaw.length === 0 && gktodayRaw.length === 0) {
+        console.log(`[Sync] No new questions found for ${dateStr} from any source`);
         return 0;
     }
 
-    console.log(`[Sync] After dedup: ${mergedQuestions.length} unique questions for ${dateStr}`);
-    console.log(`[Sync] Translating ${mergedQuestions.length} questions for ${dateStr}...`);
-    const translatedList = (await Promise.all(
-        [translateQuestionsBulk(mergedQuestions).catch(e => {
-            console.error(`[Sync] Failed translating for ${dateStr}:`, e.message);
-            return null;
-        })]
-    )).filter(Boolean);
+    const mergedQuestions = deduplicateQuestions(indiabixRaw, gktodayRaw);
 
-    if (translatedList.length === 0) {
+    if (mergedQuestions.length === 0) {
+        console.log(`[Sync] No questions left after deduplication for ${dateStr}`);
+        return 0;
+    }
+
+    console.log(`[Sync] Translating ${mergedQuestions.length} questions for ${dateStr}...`);
+    const translatedList = await translateQuestionsBulk(mergedQuestions);
+
+    if (!translatedList || translatedList.length === 0) {
         console.log(`[Sync] Translation failed for ${dateStr}, skipping save`);
         return 0;
     }
 
-    await storage.saveQuestionsForDate(dateStr, translatedList[0]);
-    console.log(`[Sync] Completed sync for ${dateStr}. Total saved: ${translatedList[0].length}`);
-    return translatedList[0].length;
+    await storage.saveQuestionsForDate(dateStr, translatedList);
+    console.log(`[Sync] Completed sync for ${dateStr}. Total saved: ${translatedList.length}`);
+    return translatedList.length;
 }
 
 /**
@@ -57,22 +56,31 @@ async function autoSyncLatest() {
     console.log('[AutoSync] Checking for latest daily updates from both sources...');
     const todayStr = formatDate(new Date());
 
-    await syncDate(todayStr);
-
     const [indiabixDates, gktodayDates] = await Promise.all([
         getLatestDatesFromIndex().catch(() => []),
         getLatestDatesFromGktodayIndex().catch(() => [])
     ]);
 
-    const allDates = [...new Set([...indiabixDates, ...gktodayDates])].sort().reverse();
-    const availableDates = await storage.getAvailableDates();
+    console.log(`[AutoSync] Discovered ${indiabixDates.length} IndiaBIX dates, ${gktodayDates.length} GKToday dates`);
 
-    for (const d of allDates) {
-        if (!availableDates.includes(d)) {
-            console.log(`[AutoSync] Found new date: ${d}`);
-            await syncDate(d);
+    const availableDates = await storage.getAvailableDates(true);
+    const candidateDates = [...new Set([todayStr, ...indiabixDates.slice(0, 20), ...gktodayDates.slice(0, 20)])].sort().reverse();
+
+    let syncedCount = 0;
+    for (const d of candidateDates) {
+        const count = await storage.getQuestionCount(d);
+        // Sync if missing, or if fewer than 8 questions, or if today
+        if (!availableDates.includes(d) || count < 8 || d === todayStr) {
+            console.log(`[AutoSync] Syncing active date: ${d} (Current in DB: ${count} questions)`);
+            try {
+                const added = await syncDate(d);
+                if (added > 0) syncedCount++;
+            } catch (err) {
+                console.error(`[AutoSync] Error syncing date ${d}:`, err.message);
+            }
         }
     }
+    console.log(`[AutoSync] Finished daily update check. Synced dates: ${syncedCount}`);
 }
 
 /**
