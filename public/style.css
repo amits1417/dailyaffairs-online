@@ -274,18 +274,7 @@ img, canvas {
         gap: 0px;
     }
     .header-live-datetime {
-        font-size: 0.62rem;
-        padding: 0;
-        background: transparent;
-        border: none;
-        box-shadow: none;
-        color: var(--text-muted);
-        margin-left: 46px; /* align below brand text */
-        margin-top: -3px;
-        opacity: 0.75;
-    }
-    .header-live-datetime .datetime-icon {
-        display: none;
+        display: none !important;
     }
 }
 
@@ -305,7 +294,7 @@ img, canvas {
 .nav-actions {
     display: flex;
     align-items: center;
-    gap: 12px;
+    gap: 8px;
 }
 
 .btn-icon {
@@ -1700,19 +1689,26 @@ select option {
     .nav-actions {
         display: flex;
         align-items: center;
-        gap: 5px;
+        gap: 4px;
         flex-shrink: 0;
     }
     .btn-icon {
-        width: 36px;
-        height: 36px;
-        font-size: 1.05rem;
+        width: 34px;
+        height: 34px;
+        font-size: 1rem;
         border-radius: 8px;
         flex-shrink: 0;
     }
     .header-date-group {
         margin: 0;
         border-radius: 6px;
+    }
+    /* On mobile, hide the date text label — show only the calendar icon + arrows */
+    .header-date-group #txtHeaderDate {
+        display: none !important;
+    }
+    .header-date-group .nav-date-btn {
+        padding: 6px 8px !important;
     }
     .header-date-arrow-btn {
         padding: 4px 6px;
@@ -1734,7 +1730,7 @@ select option {
         font-size: 0.76rem;
     }
     .nav-date-btn {
-        padding: 5px 9px;
+        padding: 5px 7px;
         font-size: 0.8rem;
     }
     .controls-bar {
@@ -1791,12 +1787,12 @@ select option {
         padding: 0;
     }
     .nav-container {
-        height: 54px;
+        height: 52px;
         padding: 0 4px;
         gap: 4px;
     }
     .brand-logo {
-        font-size: 1.05rem;
+        font-size: 1rem;
         gap: 5px;
     }
     .brand-logo-img {
@@ -1816,13 +1812,13 @@ select option {
         gap: 4px;
     }
     .btn-icon {
-        width: 33px;
-        height: 33px;
+        width: 32px;
+        height: 32px;
         font-size: 0.95rem;
         border-radius: 6px;
     }
     .header-date-arrow-btn {
-        padding: 3px 5px;
+        padding: 3px 4px;
         font-size: 0.85rem;
     }
     .header-date-pill {
