@@ -36,5 +36,6 @@ jobs:
             echo "No new current affairs to commit."
           else
             git commit -m "Auto-sync daily current affairs [skip ci]"
-            git push
+            git pull --rebase origin master
+            git push origin master
           fi
