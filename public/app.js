@@ -92,7 +92,12 @@ const UI_STRINGS_MAP = {
         optCorrect: 'correct',
         optWrong1: 'dont worry try hard',
         optWrong2: 'be caution',
-        optWrong3: 'oops'
+        optWrong3: 'oops',
+        selectMonthTopicPrompt: 'પ્રશ્નો જોવા માટે કૃપા કરીને ઉપરથી મહિનો અને વિષય બંને પસંદ કરો.',
+        selectMonthFirst: 'કૃપા કરીને મહિનો પસંદ કરો',
+        selectTopicFirst: 'કૃપા કરીને વિષય / કેટેગરી પસંદ કરો',
+        selectMonthLabel: 'મહિનો પસંદ કરો',
+        selectTopicLabel: 'વિષય / કેટેગરી પસંદ કરો'
     },
     hi: {
         noQuestions: 'चयनित मानदंड के लिए कोई प्रश्न नहीं मिले।',
@@ -114,7 +119,12 @@ const UI_STRINGS_MAP = {
         optCorrect: 'correct',
         optWrong1: 'dont worry try hard',
         optWrong2: 'be caution',
-        optWrong3: 'oops'
+        optWrong3: 'oops',
+        selectMonthTopicPrompt: 'प्रश्नों को देखने के लिए कृपया ऊपर से महीना और विषय दोनों चुनें।',
+        selectMonthFirst: 'कृपया महीना चुनें',
+        selectTopicFirst: 'कृपया विषय / श्रेणी चुनें',
+        selectMonthLabel: 'महीना चुनें',
+        selectTopicLabel: 'विषय / श्रेणी चुनें'
     },
     en: {
         noQuestions: 'No questions found for the selected criteria.',
@@ -136,7 +146,12 @@ const UI_STRINGS_MAP = {
         optCorrect: 'correct',
         optWrong1: 'dont worry try hard',
         optWrong2: 'be caution',
-        optWrong3: 'oops'
+        optWrong3: 'oops',
+        selectMonthTopicPrompt: 'Please select both a Month and a Topic above to view questions.',
+        selectMonthFirst: 'Please select a Month',
+        selectTopicFirst: 'Please select a Topic / Category',
+        selectMonthLabel: 'Select Month',
+        selectTopicLabel: 'Select Topic / Category'
     }
 };
 
@@ -189,6 +204,14 @@ function switchViewMode(mode) {
         if (headerDateGroup) headerDateGroup.style.display = 'none';
         if (pageTitleIcon) pageTitleIcon.className = 'ri-price-tag-3-line';
         if (pageTitleText) pageTitleText.innerText = 'Topic-Wise Current Affairs & Practice';
+
+        // Topic-wise view requires both Month and Topic selection: reset to unselected
+        state.selectedMonth = '';
+        state.category = '';
+        const monthSel = document.getElementById('monthSelect');
+        const catSel = document.getElementById('categorySelect');
+        if (monthSel) monthSel.value = '';
+        if (catSel) catSel.value = '';
     }
 
     fetchQuestions();
@@ -197,8 +220,8 @@ function switchViewMode(mode) {
 function filterTopicWise() {
     const monthSel = document.getElementById('monthSelect');
     const catSel = document.getElementById('categorySelect');
-    if (monthSel) state.selectedMonth = monthSel.value;
-    if (catSel) state.category = catSel.value;
+    state.selectedMonth = monthSel ? monthSel.value : '';
+    state.category = catSel ? catSel.value : '';
     fetchQuestions();
 }
 
@@ -299,6 +322,12 @@ function applyLanguage(lang) {
     if (guBtnTop) guBtnTop.classList.toggle('active', lang === 'gu');
     if (hiBtnTop) hiBtnTop.classList.toggle('active', lang === 'hi');
     if (enBtnTop) enBtnTop.classList.toggle('active', lang === 'en');
+
+    const strings = UI_STRINGS_MAP[lang] || UI_STRINGS_MAP['gu'];
+    const monthSel = document.getElementById('monthSelect');
+    if (monthSel && monthSel.options && monthSel.options[0]) {
+        monthSel.options[0].text = `-- ${strings.selectMonthLabel || 'Select Month'} --`;
+    }
 }
 
 // Fetch available dates
@@ -347,6 +376,19 @@ async function fetchQuestions() {
     const dayNavBarTop = document.getElementById('dayNavBarTop');
     if (dayNavBar) dayNavBar.style.display = 'none';
     if (dayNavBarTop) dayNavBarTop.style.display = 'none';
+
+    // TOPIC-WISE GATE: Do NOT show questions until BOTH month and topic are selected!
+    if (state.viewMode === 'topic') {
+        const hasMonth = Boolean(state.selectedMonth && state.selectedMonth !== 'All' && state.selectedMonth !== '');
+        const hasTopic = Boolean(state.category && state.category !== 'All' && state.category !== '');
+
+        if (!hasMonth || !hasTopic) {
+            state.questions = [];
+            renderTopicSelectionPrompt(!hasMonth, !hasTopic);
+            fetchCategories();
+            return;
+        }
+    }
 
     try {
         const langParam = state.lang || 'gu';
@@ -452,6 +494,48 @@ function prefetchNeighborDates() {
     } catch (e) {}
 }
 
+// Topic-Wise Selection Gate Prompt (No questions shown until both Month and Topic are selected)
+function renderTopicSelectionPrompt(missingMonth, missingTopic) {
+    const questionsContainer = document.getElementById('questionsList');
+    if (!questionsContainer) return;
+
+    const strings = UI_STRINGS_MAP[state.lang] || UI_STRINGS_MAP.gu;
+    let hintMsg = strings.selectMonthTopicPrompt;
+    if (missingMonth && !missingTopic) {
+        hintMsg = strings.selectMonthFirst;
+    } else if (!missingMonth && missingTopic) {
+        hintMsg = strings.selectTopicFirst;
+    }
+
+    const titleText = state.lang === 'gu'
+        ? 'મહિનો અને વિષય પસંદ કરો'
+        : (state.lang === 'hi' ? 'महीना और विषय चुनें' : 'Select Month & Topic');
+
+    const badgeText = state.lang === 'gu'
+        ? 'પ્રશ્નો જોવા માટે મહિનો અને વિષય બંને પસંદ કરવા જરૂરી છે'
+        : (state.lang === 'hi'
+            ? 'प्रश्न देखने के लिए महीना और विषय दोनों चुनना आवश्यक है'
+            : 'Both Month and Topic are required to view questions');
+
+    questionsContainer.innerHTML = `
+    <div class="ques-card" style="text-align:center; padding: 50px 24px; max-width: 620px; margin: 35px auto; border-radius: 16px; border: 1.5px dashed var(--border-color); background: var(--bg-card); box-shadow: 0 8px 24px rgba(0,0,0,0.04);">
+        <div style="width: 68px; height: 68px; margin: 0 auto 16px; background: rgba(37, 99, 235, 0.1); border-radius: 50%; display: flex; align-items: center; justify-content: center;">
+            <i class="ri-filter-3-line" style="font-size: 2.2rem; color: var(--primary-color);"></i>
+        </div>
+        <div style="font-size: 1.3rem; font-weight: 700; color: var(--text-dark); margin-bottom: 10px;">
+            ${titleText}
+        </div>
+        <div style="color: var(--text-muted); font-size: 0.95rem; line-height: 1.6; margin-bottom: 22px;">
+            ${hintMsg}
+        </div>
+        <div style="display: inline-flex; align-items: center; gap: 8px; font-size: 0.85rem; color: var(--primary-color); background: rgba(37, 99, 235, 0.08); padding: 8px 18px; border-radius: 20px; font-weight: 600;">
+            <i class="ri-information-line"></i>
+            <span>${badgeText}</span>
+        </div>
+    </div>
+    `;
+}
+
 // Empty State Auto Sync
 function renderEmptyStateWithAutoSync(dateStr) {
     const container = document.getElementById('questionsList');
@@ -505,10 +589,14 @@ function renderCategories(categories) {
     const selectEl = document.getElementById('categorySelect');
     if (!selectEl) return;
 
-    let html = `<option value="All" ${state.category === 'All' ? 'selected' : ''}>All Topics & Categories</option>`;
-    
-    categories.forEach(cat => {
-        const isSel = state.category.toLowerCase() === cat.toLowerCase() ? 'selected' : '';
+    const strings = UI_STRINGS_MAP[state.lang] || UI_STRINGS_MAP['gu'];
+    const placeholder = strings.selectTopicLabel || 'Select Topic / Category';
+    let html = `<option value="">-- ${placeholder} --</option>`;
+
+    // Sort categories alphabetically
+    const sorted = [...(categories || [])].sort();
+    sorted.forEach(cat => {
+        const isSel = (state.category && state.category.toLowerCase() === cat.toLowerCase()) ? 'selected' : '';
         html += `<option value="${cat}" ${isSel}>${cat}</option>`;
     });
 

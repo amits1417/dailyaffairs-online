@@ -23,8 +23,22 @@ app.use(express.static(path.join(__dirname, 'public')));
 app.get('/api/current-affairs', async (req, res) => {
     try {
         const { date, lang = 'en', category, search, month } = req.query;
-        const questions = await storage.getQuestions(date, lang, category, search, month);
-        const selectedDate = date || (await storage.getAvailableDates())[0] || null;
+        const todayStr = cronService.formatDate ? cronService.formatDate(new Date()) : new Date().toISOString().split('T')[0];
+        let dates = await storage.getAvailableDates();
+
+        // Auto-fetch today if missing from DB
+        if (date !== 'all' && (!date || date === todayStr) && !dates.includes(todayStr)) {
+            console.log(`[Auto-Sync] Today ${todayStr} not in DB. Automatically fetching from IndiaBIX...`);
+            try {
+                await cronService.syncDate(todayStr);
+                dates = await storage.getAvailableDates(true);
+            } catch (err) {
+                console.warn('[Auto-Sync] Live sync error:', err.message);
+            }
+        }
+
+        let questions = await storage.getQuestions(date, lang, category, search, month);
+        const selectedDate = date || (dates.length > 0 ? dates[0] : todayStr);
 
         // Cacheable for 60s (browser + edge) — data changes only on sync
         res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
@@ -43,7 +57,16 @@ app.get('/api/current-affairs', async (req, res) => {
 // API: Get available dates
 app.get('/api/dates', async (req, res) => {
     try {
-        const dates = await storage.getAvailableDates();
+        const todayStr = cronService.formatDate ? cronService.formatDate(new Date()) : new Date().toISOString().split('T')[0];
+        let dates = await storage.getAvailableDates();
+
+        if (!dates.includes(todayStr)) {
+            try {
+                await cronService.syncDate(todayStr);
+                dates = await storage.getAvailableDates(true);
+            } catch (e) {}
+        }
+
         res.setHeader('Cache-Control', 'public, max-age=60, stale-while-revalidate=300');
         res.json({ status: 'success', dates });
     } catch (error) {
