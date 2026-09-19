@@ -44687,6 +44687,43 @@
       "id": "2026-09-18-1",
       "date": "2026-09-18",
       "qno": 1,
+      "answer": "B",
+      "category": "General",
+      "en": {
+        "question": "Which scheme has been launched by the West Bengal Government to provide financial assistance to women for their empowerment and socio-economic upliftment?",
+        "options": {
+          "A": "Lakshmir Bhandar",
+          "B": "Annapurna Yojana",
+          "C": "Kanyashree Prakalpa",
+          "D": "Rupashree Prakalpa"
+        },
+        "explanation": "Notes:The fourth instalment of ₹3,000 under the Annapurna Yojana was transferred to the bank accounts of around 1.5 crore women beneficiaries in West Bengal. Annapurna Yojana is implemented by the Women and Child Development and Social Welfare Department, Government of West Bengal. The scheme aims to provide assured monthly financial assistance to eligible women residing in West Bengal. It focuses on women’s empowerment and socio-economic upliftment. Eligible women receive ₹3,000 per month through Direct Benefit Transfer (DBT). The assistance is credited directly to the beneficiary’s Aadhaar-linked bank account."
+      },
+      "hi": {
+        "question": "पश्चिम बंगाल सरकार द्वारा महिलाओं को उनके सशक्तिकरण और सामाजिक-आर्थिक उत्थान के लिए वित्तीय सहायता प्रदान करने के लिए कौन सी योजना शुरू की गई है?",
+        "options": {
+          "A": "लक्ष्मीर भंडार",
+          "B": "अन्नपूर्णा योजना",
+          "C": "कन्याश्री प्रकल्प",
+          "D": "रूपश्री प्रकल्प"
+        },
+        "explanation": "नोट:अन्नपूर्णा योजना के तहत ₹3,000 की चौथी किस्त पश्चिम बंगाल में लगभग 1.5 करोड़ महिला लाभार्थियों के बैंक खातों में स्थानांतरित कर दी गई। अन्नपूर्णा योजना महिला एवं बाल विकास और समाज कल्याण विभाग, पश्चिम बंगाल सरकार द्वारा कार्यान्वित की जाती है। इस योजना का उद्देश्य पश्चिम बंगाल में रहने वाली पात्र महिलाओं को सुनिश्चित मासिक वित्तीय सहायता प्रदान करना है। यह महिला सशक्तिकरण और सामाजिक-आर्थिक उत्थान पर केंद्रित है। पात्र महिलाओं को प्रत्यक्ष लाभ अंतरण (डीबीटी) के माध्यम से प्रति माह ₹3,000 मिलते हैं। सहायता सीधे लाभार्थी के आधार से जुड़े बैंक खाते में जमा की जाती है।"
+      },
+      "gu": {
+        "question": "પશ્ચિમ બંગાળ સરકાર દ્વારા મહિલાઓને તેમના સશક્તિકરણ અને સામાજિક-આર્થિક ઉત્થાન માટે નાણાકીય સહાય પૂરી પાડવા માટે કઈ યોજના શરૂ કરવામાં આવી છે?",
+        "options": {
+          "A": "લક્ષ્મી ભંડાર",
+          "B": "અન્નપૂર્ણા યોજના",
+          "C": "કન્યાશ્રી પ્રકલ્પ",
+          "D": "રૂપશ્રી પ્રકલ્પ"
+        },
+        "explanation": "નોંધ: અન્નપૂર્ણા યોજના હેઠળ ₹3,000 નો ચોથો હપ્તો પશ્ચિમ બંગાળમાં લગભગ 1.5 કરોડ મહિલા લાભાર્થીઓના બેંક ખાતામાં ટ્રાન્સફર કરવામાં આવ્યો હતો. અન્નપૂર્ણા યોજના પશ્ચિમ બંગાળ સરકારના મહિલા અને બાળ વિકાસ અને સમાજ કલ્યાણ વિભાગ દ્વારા લાગુ કરવામાં આવે છે. આ યોજનાનો ઉદ્દેશ્ય પશ્ચિમ બંગાળમાં રહેતી પાત્ર મહિલાઓને ખાતરીપૂર્વકની માસિક નાણાકીય સહાય પૂરી પાડવાનો છે. તે મહિલા સશક્તિકરણ અને સામાજિક-આર્થિક ઉત્થાન પર ધ્યાન કેન્દ્રિત કરે છે. પાત્ર મહિલાઓને ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર (DBT) દ્વારા દર મહિને ₹3,000 મળે છે. સહાય સીધી લાભાર્થીના આધાર-લિંક્ડ બેંક ખાતામાં જમા થાય છે."
+      }
+    },
+    {
+      "id": "2026-09-18-2",
+      "date": "2026-09-18",
+      "qno": 2,
       "answer": "D",
       "category": "General",
       "en": {
@@ -44718,43 +44755,6 @@
           "D": "ભરત વન"
         },
         "explanation": "નોંધો:કેન્દ્રીય નાણા પ્રધાન નિર્મલા સીતારમણે નવી દિલ્હીના લોધી કોલોની પાર્ક ખાતે ‘ભારત વન’ ગ્રીન પહેલનું ઉદ્ઘાટન કર્યું. આ પહેલનો હેતુ શહેરી પર્યાવરણીય પુનઃસ્થાપનને પ્રોત્સાહન આપવા અને દિલ્હીમાં ગ્રીન કવર વધારવાનો છે. તે નવી દિલ્હી મ્યુનિસિપલ કાઉન્સિલ (NDMC) ના સહયોગથી શરૂ કરવામાં આવ્યું હતું. સ્થાનિક પર્યાવરણને અનુરૂપ સ્વદેશી છોડનો ઉપયોગ કરીને ગાઢ લીલુંછમ વન વિસ્તાર વિકસાવવામાં આવશે. એક એકરની જગ્યામાં 10,000 થી વધુ છોડ રાખવાનું આયોજન છે. આ વિસ્તારમાં વૉકિંગ, મેડિટેશન અને યોગની સુવિધા પણ આપવામાં આવશે."
-      }
-    },
-    {
-      "id": "2026-09-18-2",
-      "date": "2026-09-18",
-      "qno": 2,
-      "answer": "C",
-      "category": "General",
-      "en": {
-        "question": "Where was the 3rd FICCI Conference on Digitalization, AI, Automation & Technology Integration in Mining & Metals held?",
-        "options": {
-          "A": "Bhopal",
-          "B": "Hyderabad",
-          "C": "New Delhi",
-          "D": "Chennai"
-        },
-        "explanation": "Notes:The 3rd FICCI (Federation of Indian Chambers of Commerce and Industry) Conference on Digitalization, AI, Automation & Technology Integration in Mining & Metals was held in New Delhi. The conference focused on enhancing competitiveness of India’s mining and metals sector. It brought together policymakers, industry leaders, technology providers, startups, researchers and international partners."
-      },
-      "hi": {
-        "question": "खनन और धातु में डिजिटलीकरण, एआई, स्वचालन और प्रौद्योगिकी एकीकरण पर तीसरा FICCI सम्मेलन कहाँ आयोजित किया गया था?",
-        "options": {
-          "A": "भोपाल",
-          "B": "हैदराबाद",
-          "C": "नई दिल्ली",
-          "D": "चेन्नई"
-        },
-        "explanation": "नोट: खनन और धातु में डिजिटलीकरण, एआई, स्वचालन और प्रौद्योगिकी एकीकरण पर तीसरा फिक्की (फेडरेशन ऑफ इंडियन चैंबर्स ऑफ कॉमर्स एंड इंडस्ट्री) सम्मेलन नई दिल्ली में आयोजित किया गया था। सम्मेलन भारत के खनन और धातु क्षेत्र की प्रतिस्पर्धात्मकता बढ़ाने पर केंद्रित था। यह नीति निर्माताओं, उद्योग जगत के नेताओं, प्रौद्योगिकी प्रदाताओं, स्टार्टअप, शोधकर्ताओं और अंतरराष्ट्रीय भागीदारों को एक साथ लाया।"
-      },
-      "gu": {
-        "question": "ડીજીટલાઇઝેશન, AI, ઓટોમેશન અને ટેકનોલોજી ઇન્ટીગ્રેશન ઇન માઇનિંગ એન્ડ મેટલ્સ પર 3જી FICCI કોન્ફરન્સ ક્યાં યોજાઇ હતી?",
-        "options": {
-          "A": "ભોપાલ",
-          "B": "હૈદરાબાદ",
-          "C": "નવી દિલ્હી",
-          "D": "ચેન્નાઈ"
-        },
-        "explanation": "નોંધ: 3જી FICCI (ફેડરેશન ઓફ ઈન્ડિયન ચેમ્બર્સ ઓફ કોમર્સ એન્ડ ઈન્ડસ્ટ્રી)ની ડીજીટલાઈઝેશન, AI, ઓટોમેશન અને ટેકનોલોજી ઈન્ટીગ્રેશન ઇન માઈનિંગ એન્ડ મેટલ્સ પરની કોન્ફરન્સ નવી દિલ્હીમાં યોજાઈ હતી. કોન્ફરન્સમાં ભારતના ખાણ અને ધાતુ ક્ષેત્રની સ્પર્ધાત્મકતા વધારવા પર ધ્યાન કેન્દ્રિત કરવામાં આવ્યું હતું. તે નીતિ નિર્માતાઓ, ઉદ્યોગના નેતાઓ, ટેક્નોલોજી પ્રદાતાઓ, સ્ટાર્ટઅપ્સ, સંશોધકો અને આંતરરાષ્ટ્રીય ભાગીદારોને એકસાથે લાવ્યા."
       }
     },
     {
@@ -44798,43 +44798,6 @@
       "id": "2026-09-18-4",
       "date": "2026-09-18",
       "qno": 4,
-      "answer": "B",
-      "category": "General",
-      "en": {
-        "question": "Which scheme has been launched by the West Bengal Government to provide financial assistance to women for their empowerment and socio-economic upliftment?",
-        "options": {
-          "A": "Lakshmir Bhandar",
-          "B": "Annapurna Yojana",
-          "C": "Kanyashree Prakalpa",
-          "D": "Rupashree Prakalpa"
-        },
-        "explanation": "Notes:The fourth instalment of ₹3,000 under the Annapurna Yojana was transferred to the bank accounts of around 1.5 crore women beneficiaries in West Bengal. Annapurna Yojana is implemented by the Women and Child Development and Social Welfare Department, Government of West Bengal. The scheme aims to provide assured monthly financial assistance to eligible women residing in West Bengal. It focuses on women’s empowerment and socio-economic upliftment. Eligible women receive ₹3,000 per month through Direct Benefit Transfer (DBT). The assistance is credited directly to the beneficiary’s Aadhaar-linked bank account."
-      },
-      "hi": {
-        "question": "पश्चिम बंगाल सरकार द्वारा महिलाओं को उनके सशक्तिकरण और सामाजिक-आर्थिक उत्थान के लिए वित्तीय सहायता प्रदान करने के लिए कौन सी योजना शुरू की गई है?",
-        "options": {
-          "A": "लक्ष्मीर भंडार",
-          "B": "अन्नपूर्णा योजना",
-          "C": "कन्याश्री प्रकल्प",
-          "D": "रूपश्री प्रकल्प"
-        },
-        "explanation": "नोट:अन्नपूर्णा योजना के तहत ₹3,000 की चौथी किस्त पश्चिम बंगाल में लगभग 1.5 करोड़ महिला लाभार्थियों के बैंक खातों में स्थानांतरित कर दी गई। अन्नपूर्णा योजना महिला एवं बाल विकास और समाज कल्याण विभाग, पश्चिम बंगाल सरकार द्वारा कार्यान्वित की जाती है। इस योजना का उद्देश्य पश्चिम बंगाल में रहने वाली पात्र महिलाओं को सुनिश्चित मासिक वित्तीय सहायता प्रदान करना है। यह महिला सशक्तिकरण और सामाजिक-आर्थिक उत्थान पर केंद्रित है। पात्र महिलाओं को प्रत्यक्ष लाभ अंतरण (डीबीटी) के माध्यम से प्रति माह ₹3,000 मिलते हैं। सहायता सीधे लाभार्थी के आधार से जुड़े बैंक खाते में जमा की जाती है।"
-      },
-      "gu": {
-        "question": "પશ્ચિમ બંગાળ સરકાર દ્વારા મહિલાઓને તેમના સશક્તિકરણ અને સામાજિક-આર્થિક ઉત્થાન માટે નાણાકીય સહાય પૂરી પાડવા માટે કઈ યોજના શરૂ કરવામાં આવી છે?",
-        "options": {
-          "A": "લક્ષ્મી ભંડાર",
-          "B": "અન્નપૂર્ણા યોજના",
-          "C": "કન્યાશ્રી પ્રકલ્પ",
-          "D": "રૂપશ્રી પ્રકલ્પ"
-        },
-        "explanation": "નોંધ: અન્નપૂર્ણા યોજના હેઠળ ₹3,000 નો ચોથો હપ્તો પશ્ચિમ બંગાળમાં લગભગ 1.5 કરોડ મહિલા લાભાર્થીઓના બેંક ખાતામાં ટ્રાન્સફર કરવામાં આવ્યો હતો. અન્નપૂર્ણા યોજના પશ્ચિમ બંગાળ સરકારના મહિલા અને બાળ વિકાસ અને સમાજ કલ્યાણ વિભાગ દ્વારા લાગુ કરવામાં આવે છે. આ યોજનાનો ઉદ્દેશ્ય પશ્ચિમ બંગાળમાં રહેતી પાત્ર મહિલાઓને ખાતરીપૂર્વકની માસિક નાણાકીય સહાય પૂરી પાડવાનો છે. તે મહિલા સશક્તિકરણ અને સામાજિક-આર્થિક ઉત્થાન પર ધ્યાન કેન્દ્રિત કરે છે. પાત્ર મહિલાઓને ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર (DBT) દ્વારા દર મહિને ₹3,000 મળે છે. સહાય સીધી લાભાર્થીના આધાર-લિંક્ડ બેંક ખાતામાં જમા થાય છે."
-      }
-    },
-    {
-      "id": "2026-09-18-5",
-      "date": "2026-09-18",
-      "qno": 5,
       "answer": "A",
       "category": "General",
       "en": {
@@ -44866,6 +44829,43 @@
           "D": "ગ્રીન કિસાન કાર્યક્રમ"
         },
         "explanation": "નોંધ: ભારતે સપ્ટેમ્બર 2026 માં તેની પ્રથમ સીધી માટી કાર્બન ચૂકવણી કરી હતી. પંજાબ અને હરિયાણાના 2,500 થી વધુ ખેડૂતો ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર (DBT) દ્વારા ₹2.9 કરોડથી વધુ પ્રાપ્ત કરવા માટે તૈયાર છે. ભારતીય કૃષિ સંશોધન પરિષદ (ICAR) ના ટેકનિકલ માર્ગદર્શન સાથે ગ્રો ઈન્ડિગો દ્વારા 2019 માં શરૂ કરાયેલા 'આદી' ખેડૂત કાર્બન પ્રોગ્રામ સાથે ચૂકવણીઓ જોડાયેલી છે. આડી કાર્યક્રમ હાલમાં સાત રાજ્યોમાં 2 મિલિયન એકર અને 1 લાખથી વધુ ખેડૂતોને આવરી લે છે."
+      }
+    },
+    {
+      "id": "2026-09-18-5",
+      "date": "2026-09-18",
+      "qno": 5,
+      "answer": "C",
+      "category": "General",
+      "en": {
+        "question": "Where was the 3rd FICCI Conference on Digitalization, AI, Automation & Technology Integration in Mining & Metals held?",
+        "options": {
+          "A": "Bhopal",
+          "B": "Hyderabad",
+          "C": "New Delhi",
+          "D": "Chennai"
+        },
+        "explanation": "Notes:The 3rd FICCI (Federation of Indian Chambers of Commerce and Industry) Conference on Digitalization, AI, Automation & Technology Integration in Mining & Metals was held in New Delhi. The conference focused on enhancing competitiveness of India’s mining and metals sector. It brought together policymakers, industry leaders, technology providers, startups, researchers and international partners."
+      },
+      "hi": {
+        "question": "खनन और धातु में डिजिटलीकरण, एआई, स्वचालन और प्रौद्योगिकी एकीकरण पर तीसरा FICCI सम्मेलन कहाँ आयोजित किया गया था?",
+        "options": {
+          "A": "भोपाल",
+          "B": "हैदराबाद",
+          "C": "नई दिल्ली",
+          "D": "चेन्नई"
+        },
+        "explanation": "नोट: खनन और धातु में डिजिटलीकरण, एआई, स्वचालन और प्रौद्योगिकी एकीकरण पर तीसरा फिक्की (फेडरेशन ऑफ इंडियन चैंबर्स ऑफ कॉमर्स एंड इंडस्ट्री) सम्मेलन नई दिल्ली में आयोजित किया गया था। सम्मेलन भारत के खनन और धातु क्षेत्र की प्रतिस्पर्धात्मकता बढ़ाने पर केंद्रित था। यह नीति निर्माताओं, उद्योग जगत के नेताओं, प्रौद्योगिकी प्रदाताओं, स्टार्टअप, शोधकर्ताओं और अंतरराष्ट्रीय भागीदारों को एक साथ लाया।"
+      },
+      "gu": {
+        "question": "ડીજીટલાઇઝેશન, AI, ઓટોમેશન અને ટેકનોલોજી ઇન્ટીગ્રેશન ઇન માઇનિંગ એન્ડ મેટલ્સ પર 3જી FICCI કોન્ફરન્સ ક્યાં યોજાઇ હતી?",
+        "options": {
+          "A": "ભોપાલ",
+          "B": "હૈદરાબાદ",
+          "C": "નવી દિલ્હી",
+          "D": "ચેન્નાઈ"
+        },
+        "explanation": "નોંધ: 3જી FICCI (ફેડરેશન ઓફ ઈન્ડિયન ચેમ્બર્સ ઓફ કોમર્સ એન્ડ ઈન્ડસ્ટ્રી)ની ડીજીટલાઈઝેશન, AI, ઓટોમેશન અને ટેકનોલોજી ઈન્ટીગ્રેશન ઇન માઈનિંગ એન્ડ મેટલ્સ પરની કોન્ફરન્સ નવી દિલ્હીમાં યોજાઈ હતી. કોન્ફરન્સમાં ભારતના ખાણ અને ધાતુ ક્ષેત્રની સ્પર્ધાત્મકતા વધારવા પર ધ્યાન કેન્દ્રિત કરવામાં આવ્યું હતું. તે નીતિ નિર્માતાઓ, ઉદ્યોગના નેતાઓ, ટેક્નોલોજી પ્રદાતાઓ, સ્ટાર્ટઅપ્સ, સંશોધકો અને આંતરરાષ્ટ્રીય ભાગીદારોને એકસાથે લાવ્યા."
       }
     }
   ]
