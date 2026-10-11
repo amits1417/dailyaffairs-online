@@ -53479,6 +53479,43 @@
       "date": "2026-10-10",
       "qno": 1,
       "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "options": {
+          "A": "Henri Kagan And Kenso Soai",
+          "B": "Susumu Kitagawa And Richard Robson",
+          "C": "Omar Yaghi And Frances Arnold",
+          "D": "David Baker And Demis Hassabis"
+        },
+        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+      },
+      "hi": {
+        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "options": {
+          "A": "हेनरी कगन और केन्सो सोई",
+          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
+          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
+          "D": "डेविड बेकर और डेमिस हसाबिस"
+        },
+        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+      },
+      "gu": {
+        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "options": {
+          "A": "હેનરી કાગન અને કેન્સો સોઇ",
+          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
+          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
+          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+        },
+        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-2",
+      "date": "2026-10-10",
+      "qno": 2,
+      "answer": "A",
       "category": "Banking",
       "en": {
         "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
@@ -53512,9 +53549,9 @@
       }
     },
     {
-      "id": "2026-10-10-2",
+      "id": "2026-10-10-3",
       "date": "2026-10-10",
-      "qno": 2,
+      "qno": 3,
       "answer": "C",
       "category": "Defence",
       "en": {
@@ -53546,43 +53583,6 @@
           "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
         "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
-      "answer": "A",
-      "category": "Awards and Honours",
-      "en": {
-        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
-        "options": {
-          "A": "Henri Kagan And Kenso Soai",
-          "B": "Susumu Kitagawa And Richard Robson",
-          "C": "Omar Yaghi And Frances Arnold",
-          "D": "David Baker And Demis Hassabis"
-        },
-        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
-      },
-      "hi": {
-        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
-        "options": {
-          "A": "हेनरी कगन और केन्सो सोई",
-          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
-          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
-          "D": "डेविड बेकर और डेमिस हसाबिस"
-        },
-        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
-      },
-      "gu": {
-        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
-        "options": {
-          "A": "હેનરી કાગન અને કેન્સો સોઇ",
-          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
-          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
-          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
-        },
-        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
       }
     },
     {
@@ -53627,43 +53627,6 @@
       "date": "2026-10-10",
       "qno": 5,
       "answer": "B",
-      "category": "National",
-      "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
-        "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
-        },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
-      },
-      "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
-        "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
-        },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
-      },
-      "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
-        },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
-      "answer": "B",
       "category": "Important Days",
       "en": {
         "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
@@ -53694,6 +53657,43 @@
           "D": "20 ઓક્ટોબર"
         },
         "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "options": {
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
+        },
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+      },
+      "hi": {
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "options": {
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
+        },
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+      },
+      "gu": {
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
+        },
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
       }
     },
     {
