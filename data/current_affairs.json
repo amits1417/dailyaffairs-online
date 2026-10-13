@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-12",
     "2026-10-11",
     "2026-10-10",
     "2026-10-09",
@@ -53476,9 +53477,416 @@
       }
     },
     {
+      "id": "2026-10-12-1",
+      "date": "2026-10-12",
+      "qno": 1,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been selected to receive France’s highest civilian honour, the Legion of Honour, in recognition of contributions to India-France economic and technological relations?",
+        "options": {
+          "A": "Sunil Bharti Mittal",
+          "B": "Mukesh Ambani",
+          "C": "Gautam Adani",
+          "D": "N. Chandrasekaran"
+        },
+        "explanation": "Sunil Bharti Mittal, founder and chairman of Bharti Enterprises, has been selected to receive the Knight of the National Order of the Legion of Honour, France’s highest civilian honour. French President Emmanuel Macron is scheduled to confer the distinction on him on October 28, 2026, at the French Embassy in New Delhi. The honour recognises Mittal’s contributions to strengthening economic relations between India and France, particularly in telecommunications and satellite communications. His association with France dates back to 1992, when he collaborated with the French company Compagnie Générale des Eaux to introduce mobile telephony in India. He is also the co-chairman of Paris-based satellite communications company Eutelsat."
+      },
+      "hi": {
+        "question": "भारत-फ्रांस आर्थिक और तकनीकी संबंधों में योगदान की मान्यता में फ्रांस के सर्वोच्च नागरिक सम्मान, लीजन ऑफ ऑनर प्राप्त करने के लिए किसे चुना गया है?",
+        "options": {
+          "A": "सुनील भारती मित्तल",
+          "B": "मुकेश अंबानी",
+          "C": "गौतम अडानी",
+          "D": "एन.चंद्रशेखरन"
+        },
+        "explanation": "भारती एंटरप्राइजेज के संस्थापक और अध्यक्ष सुनील भारती मित्तल को फ्रांस के सर्वोच्च नागरिक सम्मान, नाइट ऑफ द नेशनल ऑर्डर ऑफ द लीजन ऑफ ऑनर प्राप्त करने के लिए चुना गया है। फ्रांस के राष्ट्रपति इमैनुएल मैक्रॉन 28 अक्टूबर, 2026 को नई दिल्ली में फ्रांसीसी दूतावास में उन्हें यह सम्मान प्रदान करने वाले हैं। यह सम्मान भारत और फ्रांस के बीच विशेष रूप से दूरसंचार और उपग्रह संचार में आर्थिक संबंधों को मजबूत करने में मित्तल के योगदान को मान्यता देता है। फ्रांस के साथ उनका जुड़ाव 1992 से है, जब उन्होंने भारत में मोबाइल टेलीफोनी शुरू करने के लिए फ्रांसीसी कंपनी कॉम्पैनी जेनरल डेस एओक्स के साथ सहयोग किया था। वह पेरिस स्थित उपग्रह संचार कंपनी यूटेलसैट के सह-अध्यक्ष भी हैं।"
+      },
+      "gu": {
+        "question": "ભારત-ફ્રાંસના આર્થિક અને તકનીકી સંબંધોમાં યોગદાન બદલ ફ્રાન્સના સર્વોચ્ચ નાગરિક સન્માન, લીજન ઓફ ઓનર મેળવવા માટે કોની પસંદગી કરવામાં આવી છે?",
+        "options": {
+          "A": "સુનીલ ભારતી મિત્તલ",
+          "B": "મુકેશ અંબાણી",
+          "C": "ગૌતમ અદાણી",
+          "D": "એન. ચંદ્રશેખરન"
+        },
+        "explanation": "ભારતી એન્ટરપ્રાઈઝના સ્થાપક અને ચેરમેન સુનિલ ભારતી મિત્તલને ફ્રાન્સના સર્વોચ્ચ નાગરિક સન્માન, નાઈટ ઓફ ધ નેશનલ ઓર્ડર ઓફ લીજન ઓફ ઓનર પ્રાપ્ત કરવા માટે પસંદ કરવામાં આવ્યા છે. ફ્રાન્સના રાષ્ટ્રપતિ ઇમેન્યુઅલ મેક્રોન 28 ઓક્ટોબર, 2026ના રોજ નવી દિલ્હીમાં ફ્રેન્ચ દૂતાવાસમાં તેમને આ સન્માન આપવાના છે. આ સન્માન ભારત અને ફ્રાન્સ વચ્ચેના આર્થિક સંબંધોને મજબૂત બનાવવામાં મિત્તલના યોગદાનને ઓળખે છે, ખાસ કરીને ટેલિકોમ્યુનિકેશન અને સેટેલાઇટ કોમ્યુનિકેશન્સમાં. ફ્રાન્સ સાથેનું તેમનું જોડાણ 1992નું છે, જ્યારે તેમણે ભારતમાં મોબાઇલ ટેલિફોનીની રજૂઆત કરવા માટે ફ્રેન્ચ કંપની કોમ્પેગ્નિ ગેનેરેલે ડેસ ઇઓક્સ સાથે સહયોગ કર્યો હતો. તે પેરિસ સ્થિત સેટેલાઇટ કોમ્યુનિકેશન કંપની યુટેલસેટના કો-ચેરમેન પણ છે."
+      }
+    },
+    {
+      "id": "2026-10-12-2",
+      "date": "2026-10-12",
+      "qno": 2,
+      "answer": "A",
+      "category": "Technology",
+      "en": {
+        "question": "Which country is collaborating with India on the TRISHNA Earth-observation satellite mission to monitor Earth's surface temperature, water resources, and ecosystem dynamics?",
+        "options": {
+          "A": "France",
+          "B": "Germany",
+          "C": "Japan",
+          "D": "Russia"
+        },
+        "explanation": "France is collaborating with India on the TRISHNA (Thermal Infra-Red Imaging Satellite for High-resolution Natural Resource Assessment) mission. The project is jointly developed by the Indian Space Research Organisation (ISRO) and France’s National Centre for Space Studies (CNES). The satellite is designed to provide high-resolution data on Earth’s surface temperature, water resources, vegetation, and ecosystem conditions. France’s CNES is responsible for developing the Thermal Infra-Red (TIR) payload, while ISRO is developing the Visible-Near Infra-Red and Short-Wave Infra-Red (VNIR-SWIR) payload and the satellite bus. TRISHNA will support agricultural water management, drought monitoring, climate research, and sustainable use of natural resources."
+      },
+      "hi": {
+        "question": "पृथ्वी की सतह के तापमान, जल संसाधनों और पारिस्थितिकी तंत्र की गतिशीलता की निगरानी के लिए तृष्णा पृथ्वी-अवलोकन उपग्रह मिशन पर कौन सा देश भारत के साथ सहयोग कर रहा है?",
+        "options": {
+          "A": "फ़्रांस",
+          "B": "जर्मनी",
+          "C": "जापान",
+          "D": "रूस"
+        },
+        "explanation": "फ्रांस तृष्णा (उच्च-रिज़ॉल्यूशन प्राकृतिक संसाधन मूल्यांकन के लिए थर्मल इंफ्रा-रेड इमेजिंग सैटेलाइट) मिशन पर भारत के साथ सहयोग कर रहा है। यह परियोजना भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) और फ्रांस के राष्ट्रीय अंतरिक्ष अध्ययन केंद्र (सीएनईएस) द्वारा संयुक्त रूप से विकसित की गई है। उपग्रह को पृथ्वी के सतह के तापमान, जल संसाधनों, वनस्पति और पारिस्थितिकी तंत्र स्थितियों पर उच्च-रिज़ॉल्यूशन डेटा प्रदान करने के लिए डिज़ाइन किया गया है। फ्रांस की सीएनईएस थर्मल इंफ्रा-रेड (टीआईआर) पेलोड विकसित करने के लिए जिम्मेदार है, जबकि इसरो विजिबल-नियर इंफ्रा-रेड और शॉर्ट-वेव इंफ्रा-रेड (वीएनआईआर-एसडब्ल्यूआईआर) पेलोड और सैटेलाइट बस विकसित कर रहा है। तृष्णा कृषि जल प्रबंधन, सूखा निगरानी, ​​जलवायु अनुसंधान और प्राकृतिक संसाधनों के सतत उपयोग का समर्थन करेगी।"
+      },
+      "gu": {
+        "question": "પૃથ્વીની સપાટીના તાપમાન, જળ સંસાધનો અને ઇકોસિસ્ટમ ગતિશીલતાનું નિરીક્ષણ કરવા માટે કયો દેશ ત્રિષ્ણા અર્થ-નિરીક્ષણ ઉપગ્રહ મિશન પર ભારત સાથે સહયોગ કરી રહ્યો છે?",
+        "options": {
+          "A": "ફ્રાન્સ",
+          "B": "જર્મની",
+          "C": "જાપાન",
+          "D": "રશિયા"
+        },
+        "explanation": "ફ્રાન્સ TRISHNA (ઉચ્ચ-રીઝોલ્યુશન નેચરલ રિસોર્સ એસેસમેન્ટ માટે થર્મલ ઇન્ફ્રા-રેડ ઇમેજિંગ સેટેલાઇટ) મિશન પર ભારત સાથે સહયોગ કરી રહ્યું છે. આ પ્રોજેક્ટ ઈન્ડિયન સ્પેસ રિસર્ચ ઓર્ગેનાઈઝેશન (ISRO) અને ફ્રાન્સના નેશનલ સેન્ટર ફોર સ્પેસ સ્ટડીઝ (CNES) દ્વારા સંયુક્ત રીતે વિકસાવવામાં આવ્યો છે. ઉપગ્રહને પૃથ્વીની સપાટીના તાપમાન, જળ સંસાધનો, વનસ્પતિ અને ઇકોસિસ્ટમની સ્થિતિ પર ઉચ્ચ-રિઝોલ્યુશન ડેટા પ્રદાન કરવા માટે ડિઝાઇન કરવામાં આવ્યો છે. ફ્રાંસનું CNES થર્મલ ઇન્ફ્રા-રેડ (TIR) ​​પેલોડ વિકસાવવા માટે જવાબદાર છે, જ્યારે ISRO વિઝિબલ-નિયર ઇન્ફ્રા-રેડ અને શોર્ટ-વેવ ઇન્ફ્રા-રેડ (VNIR-SWIR) પેલોડ અને સેટેલાઇટ બસ વિકસાવી રહ્યું છે. TRISHNA કૃષિ જળ વ્યવસ્થાપન, દુષ્કાળની દેખરેખ, આબોહવા સંશોધન અને કુદરતી સંસાધનોના ટકાઉ ઉપયોગને સમર્થન આપશે."
+      }
+    },
+    {
+      "id": "2026-10-12-3",
+      "date": "2026-10-12",
+      "qno": 3,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Arthritis Day observed annually to raise awareness about arthritis and rheumatic and musculoskeletal diseases?",
+        "options": {
+          "A": "October 10",
+          "B": "October 12",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 12 is observed annually as World Arthritis Day to raise awareness about arthritis and other rheumatic and musculoskeletal diseases (RMDs). The observance was established in 1996 by Arthritis and Rheumatism International (ARI) to highlight the impact of these conditions on mobility, physical function, and quality of life. World Arthritis Day promotes early diagnosis, appropriate treatment, rehabilitation, and social inclusion for affected individuals. In 2026, the theme is ‘Achieve Your Dreams’, championed by the European Alliance of Associations for Rheumatology (EULAR). The campaign emphasises supporting people with RMDs in pursuing their personal, educational, and professional aspirations."
+      },
+      "hi": {
+        "question": "गठिया और गठिया और मस्कुलोस्केलेटल रोगों के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व गठिया दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "10 अक्टूबर",
+          "B": "12 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "गठिया और अन्य गठिया और मस्कुलोस्केलेटल रोगों (आरएमडी) के बारे में जागरूकता बढ़ाने के लिए 12 अक्टूबर को प्रतिवर्ष विश्व गठिया दिवस के रूप में मनाया जाता है। गतिशीलता, शारीरिक कार्य और जीवन की गुणवत्ता पर इन स्थितियों के प्रभाव को उजागर करने के लिए गठिया और गठिया इंटरनेशनल (एआरआई) द्वारा 1996 में इस अनुष्ठान की स्थापना की गई थी। विश्व गठिया दिवस प्रभावित व्यक्तियों के लिए शीघ्र निदान, उचित उपचार, पुनर्वास और सामाजिक समावेशन को बढ़ावा देता है। 2026 में, theme है ‘Achieve Your Dreams’, यूरोपीय एलायंस ऑफ एसोसिएशन फॉर रूमेटोलॉजी (EULAR) द्वारा समर्थित। यह अभियान आरएमडी से पीड़ित लोगों को उनकी व्यक्तिगत, शैक्षिक और व्यावसायिक आकांक्षाओं को पूरा करने में समर्थन देने पर जोर देता है।"
+      },
+      "gu": {
+        "question": "સંધિવા અને સંધિવા અને મસ્ક્યુલોસ્કેલેટલ રોગો વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ સંધિવા દિવસ ક્યારે ઉજવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર 10",
+          "B": "ઓક્ટોબર 12",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "સંધિવા અને અન્ય સંધિવા અને મસ્ક્યુલોસ્કેલેટલ રોગો (RMDs) વિશે જાગૃતિ લાવવા દર વર્ષે 12 ઓક્ટોબરને વિશ્વ સંધિવા દિવસ તરીકે મનાવવામાં આવે છે. આ અવલોકન 1996 માં સંધિવા અને સંધિવા ઇન્ટરનેશનલ (એઆરઆઈ) દ્વારા ગતિશીલતા, શારીરિક કાર્ય અને જીવનની ગુણવત્તા પર આ પરિસ્થિતિઓની અસરને પ્રકાશિત કરવા માટે સ્થાપિત કરવામાં આવ્યું હતું. વિશ્વ સંધિવા દિવસ અસરગ્રસ્ત વ્યક્તિઓ માટે પ્રારંભિક નિદાન, યોગ્ય સારવાર, પુનર્વસન અને સામાજિક સમાવેશને પ્રોત્સાહન આપે છે. 2026 માં, theme છે ‘Achieve Your Dreams’, યુરોપિયન એલાયન્સ ઓફ એસોસિએશન ફોર રુમેટોલોજી (EULAR) દ્વારા ચેમ્પિયન. આ ઝુંબેશ RMD ધરાવતા લોકોને તેમની વ્યક્તિગત, શૈક્ષણિક અને વ્યાવસાયિક આકાંક્ષાઓને અનુસરવામાં મદદ કરવા પર ભાર મૂકે છે."
+      }
+    },
+    {
+      "id": "2026-10-12-4",
+      "date": "2026-10-12",
+      "qno": 4,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "Which state launched the WOMN (Women on the Move and Menstrual Needs) scheme to improve menstrual hygiene at public transport hubs?",
+        "options": {
+          "A": "Tamil Nadu",
+          "B": "Kerala",
+          "C": "Karnataka",
+          "D": "Andhra Pradesh"
+        },
+        "explanation": "Kerala launched the WOMN (Women on the Move and Menstrual Needs) scheme on October 11, 2026, to improve menstrual hygiene and provide affordable sanitary napkins at public transport hubs. The scheme was inaugurated at the Thampanoor KSRTC bus terminal by the state’s Minister for Women and Child Development. Implemented by the Women and Child Development Department in association with HLL Lifecare, the initiative has an allocation of ₹16 lakh. Its initial phase covers 14 KSRTC terminals and depots, with plans for expansion to 93 additional depots and major tourist destinations. Each packet containing three sanitary napkins is priced at ₹10, and the scheme also provides eco-friendly disposal facilities."
+      },
+      "hi": {
+        "question": "किस राज्य ने सार्वजनिक परिवहन केंद्रों पर मासिक धर्म स्वच्छता में सुधार के लिए WOMN (वीमेन ऑन द मूव एंड मेंस्ट्रुअल नीड्स) योजना शुरू की?",
+        "options": {
+          "A": "तमिलनाडु",
+          "B": "केरल",
+          "C": "कर्नाटक",
+          "D": "आंध्र प्रदेश"
+        },
+        "explanation": "केरल ने मासिक धर्म स्वच्छता में सुधार और सार्वजनिक परिवहन केंद्रों पर किफायती सैनिटरी नैपकिन उपलब्ध कराने के लिए 11 अक्टूबर, 2026 को WOMN (वुमेन ऑन द मूव एंड मेंस्ट्रुअल नीड्स) योजना शुरू की। इस योजना का उद्घाटन राज्य की महिला एवं बाल विकास मंत्री द्वारा थंपनूर केएसआरटीसी बस टर्मिनल में किया गया। एचएलएल लाइफकेयर के सहयोग से महिला एवं बाल विकास विभाग द्वारा कार्यान्वित इस पहल के लिए ₹16 लाख का आवंटन है। इसके प्रारंभिक चरण में 14 केएसआरटीसी टर्मिनल और डिपो शामिल हैं, जिसमें 93 अतिरिक्त डिपो और प्रमुख पर्यटन स्थलों तक विस्तार की योजना है। तीन सैनिटरी नैपकिन वाले प्रत्येक पैकेट की कीमत ₹10 है, और यह योजना पर्यावरण-अनुकूल निपटान सुविधाएं भी प्रदान करती है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યએ જાહેર પરિવહન કેન્દ્રો પર માસિક સ્વચ્છતા સુધારવા માટે WOMN (વુમન ઓન ધ મૂવ એન્ડ મેન્સ્ટ્રુઅલ નીડ્સ) યોજના શરૂ કરી?",
+        "options": {
+          "A": "તમિલનાડુ",
+          "B": "કેરળ",
+          "C": "કર્ણાટક",
+          "D": "આંધ્ર પ્રદેશ"
+        },
+        "explanation": "કેરળએ 11 ઓક્ટોબર, 2026ના રોજ WOMN (વુમન ઓન ધ મૂવ એન્ડ મેન્સ્ટ્રુઅલ નીડ્સ) સ્કીમ શરૂ કરી હતી, જે માસિક સ્રાવની સ્વચ્છતામાં સુધારો કરવા અને સાર્વજનિક પરિવહન હબ પર સસ્તું સેનિટરી નેપકિન્સ પ્રદાન કરે છે. આ યોજનાનું ઉદ્ઘાટન રાજ્યના મહિલા અને બાળ વિકાસ મંત્રી દ્વારા થમ્પનૂર KSRTC બસ ટર્મિનલ ખાતે કરવામાં આવ્યું હતું. HLL Lifecare સાથે મળીને મહિલા અને બાળ વિકાસ વિભાગ દ્વારા અમલમાં મૂકાયેલ, પહેલ માટે ₹16 લાખની ફાળવણી છે. તેના પ્રારંભિક તબક્કામાં 14 KSRTC ટર્મિનલ અને ડેપો આવરી લેવામાં આવ્યા છે, જેમાં 93 વધારાના ડેપો અને મુખ્ય પ્રવાસન સ્થળો સુધી વિસ્તરણ કરવાની યોજના છે. ત્રણ સેનિટરી નેપકીન ધરાવતા દરેક પેકેટની કિંમત ₹10 છે, અને આ યોજના પર્યાવરણને અનુકૂળ નિકાલની સુવિધાઓ પણ પૂરી પાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-12-5",
+      "date": "2026-10-12",
+      "qno": 5,
+      "answer": "D",
+      "category": "Agriculture",
+      "en": {
+        "question": "Which agricultural crops are the primary focus of the Mission for Aatmanirbharta, launched to achieve self-sufficiency by 2030–31?",
+        "options": {
+          "A": "Wheat",
+          "B": "Rice",
+          "C": "Cotton",
+          "D": "Pulses"
+        },
+        "explanation": "Pulses are the main focus of the Mission for Aatmanirbharta in Pulses, launched on October 11, 2025, with a financial outlay of ₹11,440 crore for the period from 2025–26 to 2030–31. The mission aims to achieve domestic self-sufficiency, reduce import dependence, and improve farmers’ incomes. It targets annual production of 350 lakh tonnes, productivity of 1,130 kg per hectare, and cultivation across 310 lakh hectares by 2030–31. Tur, Urad, and Masur are the priority crops. Key measures include distributing improved seeds, assuring procurement at the Minimum Support Price (MSP), expanding cultivation, and establishing processing units to strengthen the agricultural value chain."
+      },
+      "hi": {
+        "question": "2030-31 तक आत्मनिर्भरता प्राप्त करने के लिए शुरू किए गए आत्मनिर्भरता मिशन का प्राथमिक फोकस कौन सी कृषि फसलें हैं?",
+        "options": {
+          "A": "गेहूँ",
+          "B": "चावल",
+          "C": "कपास",
+          "D": "दालें"
+        },
+        "explanation": "11 अक्टूबर 2025 को 2025-26 से 2030-31 की अवधि के लिए ₹11,440 करोड़ के वित्तीय परिव्यय के साथ लॉन्च किए गए दलहन में आत्मनिर्भरता मिशन का मुख्य फोकस दालें हैं। मिशन का लक्ष्य घरेलू आत्मनिर्भरता हासिल करना, आयात पर निर्भरता कम करना और किसानों की आय में सुधार करना है। इसका लक्ष्य 350 लाख टन का वार्षिक उत्पादन, 1,130 किलोग्राम प्रति हेक्टेयर उत्पादकता और 2030-31 तक 310 लाख हेक्टेयर में खेती का है। अरहर, उड़द और मसूर प्राथमिकता वाली फसलें हैं। प्रमुख उपायों में उन्नत बीज वितरित करना, न्यूनतम समर्थन मूल्य (एमएसपी) पर खरीद सुनिश्चित करना, खेती का विस्तार करना और कृषि मूल्य श्रृंखला को मजबूत करने के लिए प्रसंस्करण इकाइयों की स्थापना करना शामिल है।"
+      },
+      "gu": {
+        "question": "2030-31 સુધીમાં આત્મનિર્ભરતા હાંસલ કરવા માટે શરૂ કરાયેલ આત્મનિર્ભરતા મિશનનું પ્રાથમિક ધ્યાન કયા કૃષિ પાકો છે?",
+        "options": {
+          "A": "ઘઉં",
+          "B": "ચોખા",
+          "C": "કપાસ",
+          "D": "કઠોળ"
+        },
+        "explanation": "2025-26 થી 2030-31ના સમયગાળા માટે ₹11,440 કરોડના નાણાકીય ખર્ચ સાથે 11 ઓક્ટોબર, 2025 ના રોજ શરૂ કરાયેલ કઠોળમાં આત્મનિર્ભરતા માટેના મિશનનું મુખ્ય કેન્દ્ર કઠોળ છે. આ મિશનનો ઉદ્દેશ્ય સ્થાનિક સ્વ-નિર્ભરતા હાંસલ કરવાનો, આયાત પર નિર્ભરતા ઘટાડવાનો અને ખેડૂતોની આવકમાં સુધારો કરવાનો છે. તે 2030-31 સુધીમાં 350 લાખ ટનનું વાર્ષિક ઉત્પાદન, પ્રતિ હેક્ટર 1,130 કિગ્રા ઉત્પાદકતા અને 310 લાખ હેક્ટરમાં ખેતીનું લક્ષ્ય રાખે છે. તુવેર, અડદ અને મસુર એ પ્રાથમિકતાના પાક છે. મુખ્ય પગલાંઓમાં સુધારેલ બિયારણનું વિતરણ, લઘુત્તમ ટેકાના ભાવ (એમએસપી) પર પ્રાપ્તિની ખાતરી, ખેતી વિસ્તરણ અને કૃષિ મૂલ્ય સાંકળને મજબૂત કરવા માટે પ્રોસેસિંગ એકમોની સ્થાપનાનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-12-6",
+      "date": "2026-10-12",
+      "qno": 6,
+      "answer": "C",
+      "category": "Places",
+      "en": {
+        "question": "Where was the new Grainage Building and Cold Storage facility of the Central Silk Board inaugurated to strengthen silkworm seed production?",
+        "options": {
+          "A": "Guwahati",
+          "B": "Bengaluru",
+          "C": "Jorhat",
+          "D": "Shillong"
+        },
+        "explanation": "Jorhat, located in Assam, is the site of the newly inaugurated Grainage Building and Cold Storage facility at the Central Silk Board’s Silkworm Seed Production Centre in Rowriah. The facility was inaugurated by Union Minister of State for Textiles Pabitra Margherita on October 8, 2026, under the North-East Region Textile Promotion Scheme (NERTPS). The new infrastructure can produce 30 lakh Disease-Free Layings (DFLs) of mulberry hybrid silkworm seed annually and preserve up to one crore DFLs in cold storage. The project aims to strengthen silkworm seed production, support Assam’s sericulture industry, improve silk quality, and create employment opportunities in the region."
+      },
+      "hi": {
+        "question": "रेशमकीट बीज उत्पादन को मजबूत करने के लिए केंद्रीय रेशम बोर्ड की नई ग्रेनेज बिल्डिंग और कोल्ड स्टोरेज सुविधा का उद्घाटन कहाँ किया गया?",
+        "options": {
+          "A": "गुवाहाटी",
+          "B": "बेंगलुरु",
+          "C": "जोरहाट",
+          "D": "शिलांग"
+        },
+        "explanation": "जोरहाट, असम में स्थित, रोवरिया में केंद्रीय रेशम बोर्ड के रेशमकीट बीज उत्पादन केंद्र में नव उद्घाटन अनाज भवन और शीत भंडारण सुविधा का स्थल है। इस सुविधा का उद्घाटन केंद्रीय कपड़ा राज्य मंत्री पाबित्रा मार्गेरिटा ने 8 अक्टूबर, 2026 को उत्तर-पूर्व क्षेत्र कपड़ा संवर्धन योजना (एनईआरटीपीएस) के तहत किया था। नया बुनियादी ढांचा सालाना शहतूत संकर रेशमकीट बीज के 30 लाख रोग-मुक्त लेइंग (डीएफएल) का उत्पादन कर सकता है और कोल्ड स्टोरेज में एक करोड़ डीएफएल तक संरक्षित कर सकता है। परियोजना का उद्देश्य रेशमकीट बीज उत्पादन को मजबूत करना, असम के रेशम उद्योग को समर्थन देना, रेशम की गुणवत्ता में सुधार करना और क्षेत्र में रोजगार के अवसर पैदा करना है।"
+      },
+      "gu": {
+        "question": "રેશમના કીડાના બીજ ઉત્પાદનને મજબૂત કરવા માટે કેન્દ્રીય સિલ્ક બોર્ડની નવી ગ્રેનેજ બિલ્ડિંગ અને કોલ્ડ સ્ટોરેજ સુવિધાનું ક્યાં ઉદ્ઘાટન કરવામાં આવ્યું હતું?",
+        "options": {
+          "A": "ગુવાહાટી",
+          "B": "બેંગલુરુ",
+          "C": "જોરહાટ",
+          "D": "શિલોંગ"
+        },
+        "explanation": "આસામમાં સ્થિત જોરહાટ, રોવરિયામાં સેન્ટ્રલ સિલ્ક બોર્ડના સિલ્કવોર્મ સીડ પ્રોડક્શન સેન્ટરમાં નવા ઉદ્ઘાટન કરાયેલ ગ્રેનેજ બિલ્ડિંગ અને કોલ્ડ સ્ટોરેજ સુવિધાનું સ્થળ છે. નોર્થ-ઈસ્ટ રિજન ટેક્સટાઈલ પ્રમોશન સ્કીમ (NERTPS) હેઠળ 8 ઓક્ટોબર, 2026ના રોજ કેન્દ્રીય ટેક્સટાઈલ રાજ્ય મંત્રી પવિત્રા માર્ગેરિતા દ્વારા આ સુવિધાનું ઉદ્ઘાટન કરવામાં આવ્યું હતું. નવી ઈન્ફ્રાસ્ટ્રક્ચર વાર્ષિક 30 લાખ રોગ-મુક્ત લેઇંગ્સ (DFLs) શેતૂર હાઇબ્રિડ રેશમના કીડાના બીજનું ઉત્પાદન કરી શકે છે અને કોલ્ડ સ્ટોરેજમાં એક કરોડ સુધી DFL સાચવી શકે છે. આ પ્રોજેક્ટનો હેતુ રેશમના કીડાના બીજ ઉત્પાદનને મજબૂત કરવાનો, આસામના રેશમ ઉદ્યોગને ટેકો આપવા, રેશમની ગુણવત્તા સુધારવા અને પ્રદેશમાં રોજગારીની તકો ઊભી કરવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-12-7",
+      "date": "2026-10-12",
+      "qno": 7,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the Deputy Election Commissioner in the Election Commission of India, with a tenure until April 8, 2030?",
+        "options": {
+          "A": "Prakash Rajpurohit",
+          "B": "Vivek Khare",
+          "C": "Sanjay Kumar",
+          "D": "Varnali Deka"
+        },
+        "explanation": "Prakash Rajpurohit, a 2010-batch Indian Administrative Service (IAS) officer from the Rajasthan cadre, has been appointed as the Deputy Election Commissioner in the Election Commission of India (ECI). He succeeds Sanjay Kumar in this position and will serve until April 8, 2030, according to an order issued by the Ministry of Personnel. Before this appointment, Rajpurohit was serving as Joint Secretary in the Department of Defence Production under the Ministry of Defence. His appointment was part of a broader administrative reshuffle in which the Appointments Committee of the Cabinet approved 27 appointments to joint secretary-level positions and equivalent posts."
+      },
+      "hi": {
+        "question": "भारत के चुनाव आयोग में उप चुनाव आयुक्त के रूप में किसे नियुक्त किया गया है, जिसका कार्यकाल 8 अप्रैल, 2030 तक है?",
+        "options": {
+          "A": "प्रकाश राजपुरोहित",
+          "B": "विवेक खरे",
+          "C": "संजय कुमार",
+          "D": "वर्णाली डेका"
+        },
+        "explanation": "राजस्थान कैडर के 2010 बैच के भारतीय प्रशासनिक सेवा (आईएएस) अधिकारी प्रकाश राजपुरोहित को भारत के चुनाव आयोग (ईसीआई) में उप चुनाव आयुक्त के रूप में नियुक्त किया गया है। कार्मिक मंत्रालय द्वारा जारी एक आदेश के अनुसार, वह इस पद पर संजय कुमार का स्थान लेंगे और 8 अप्रैल, 2030 तक सेवा करेंगे। इस नियुक्ति से पहले, राजपुरोहित रक्षा मंत्रालय के तहत रक्षा उत्पादन विभाग में संयुक्त सचिव के रूप में कार्यरत थे। उनकी नियुक्ति एक व्यापक प्रशासनिक फेरबदल का हिस्सा थी जिसमें कैबिनेट की नियुक्ति समिति ने संयुक्त सचिव स्तर के पदों और समकक्ष पदों पर 27 नियुक्तियों को मंजूरी दी थी।"
+      },
+      "gu": {
+        "question": "8 એપ્રિલ, 2030 સુધીના કાર્યકાળ સાથે ભારતના ચૂંટણી પંચમાં નાયબ ચૂંટણી કમિશનર તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "પ્રકાશ રાજપુરોહિત",
+          "B": "વિવેક ખરે",
+          "C": "સંજય કુમાર",
+          "D": "વર્નાલી ડેકા"
+        },
+        "explanation": "રાજસ્થાન કેડરના 2010-બેચના ભારતીય વહીવટી સેવા (IAS) અધિકારી પ્રકાશ રાજપુરોહિતને ભારતીય ચૂંટણી પંચ (ECI)માં નાયબ ચૂંટણી કમિશનર તરીકે નિયુક્ત કરવામાં આવ્યા છે. તેઓ આ પદ પર સંજય કુમારનું સ્થાન લેશે અને 8 એપ્રિલ, 2030 સુધી ફરજ બજાવશે, એમ કર્મચારી મંત્રાલય દ્વારા જારી કરાયેલા આદેશ અનુસાર. આ નિમણૂક પહેલા, રાજપુરોહિત સંરક્ષણ મંત્રાલય હેઠળના સંરક્ષણ ઉત્પાદન વિભાગમાં સંયુક્ત સચિવ તરીકે સેવા આપી રહ્યા હતા. તેમની નિમણૂક વ્યાપક વહીવટી ફેરબદલનો એક ભાગ હતી જેમાં કેબિનેટની નિમણૂક સમિતિએ સંયુક્ત સચિવ-સ્તરના હોદ્દા અને સમકક્ષ હોદ્દા પર 27 નિમણૂકોને મંજૂરી આપી હતી."
+      }
+    },
+    {
+      "id": "2026-10-12-8",
+      "date": "2026-10-12",
+      "qno": 8,
+      "answer": "D",
+      "category": "National",
+      "en": {
+        "question": "Who was appointed as the secretary of the committee formed by the Maharashtra government to recommend reforms to the Maharashtra Public Service Commission (MPSC)?",
+        "options": {
+          "A": "Dilip Bhosale",
+          "B": "Laxmi Gautam",
+          "C": "Ganesh Patil",
+          "D": "Tukaram Mundhe"
+        },
+        "explanation": "Tukaram Mundhe, Maharashtra’s Food and Drugs Administration Commissioner, was appointed as the secretary of the committee constituted by the Maharashtra government to recommend reforms to the Maharashtra Public Service Commission (MPSC). The committee was formed on October 11, 2026, following a 10-day protest by MPSC aspirants in Pune. Retired judge Dilip Bhosale was appointed as the committee’s chairman. The five-member committee was tasked with examining recruitment-related concerns, examination irregularities, and allegations of question paper leaks. It was given a two-month period to investigate these issues and recommend measures to improve transparency and efficiency in the state’s recruitment process."
+      },
+      "hi": {
+        "question": "महाराष्ट्र लोक सेवा आयोग (एमपीएससी) में सुधारों की सिफारिश करने के लिए महाराष्ट्र सरकार द्वारा गठित समिति के सचिव के रूप में किसे नियुक्त किया गया था?",
+        "options": {
+          "A": "दिलीप भोसले",
+          "B": "लक्ष्मी गौतम",
+          "C": "गणेश पाटिल",
+          "D": "तुकाराम मुंढे"
+        },
+        "explanation": "महाराष्ट्र के खाद्य एवं औषधि प्रशासन आयुक्त तुकाराम मुंढे को महाराष्ट्र लोक सेवा आयोग (एमपीएससी) में सुधारों की सिफारिश करने के लिए महाराष्ट्र सरकार द्वारा गठित समिति के सचिव के रूप में नियुक्त किया गया था। पुणे में एमपीएससी अभ्यर्थियों के 10 दिवसीय विरोध प्रदर्शन के बाद 11 अक्टूबर, 2026 को समिति का गठन किया गया था। सेवानिवृत्त न्यायाधीश दिलीप भोसले को समिति का अध्यक्ष नियुक्त किया गया। पांच सदस्यीय समिति को भर्ती संबंधी चिंताओं, परीक्षा अनियमितताओं और प्रश्नपत्र लीक के आरोपों की जांच करने का काम सौंपा गया था। इन मुद्दों की जांच करने और राज्य की भर्ती प्रक्रिया में पारदर्शिता और दक्षता में सुधार के उपायों की सिफारिश करने के लिए इसे दो महीने की अवधि दी गई थी।"
+      },
+      "gu": {
+        "question": "મહારાષ્ટ્ર પબ્લિક સર્વિસ કમિશન (MPSC) માં સુધારાની ભલામણ કરવા માટે મહારાષ્ટ્ર સરકાર દ્વારા રચાયેલી સમિતિના સચિવ તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "દિલીપ ભોસલે",
+          "B": "લક્ષ્મી ગૌતમ",
+          "C": "ગણેશ પાટીલ",
+          "D": "તુકારામ મુંધે"
+        },
+        "explanation": "મહારાષ્ટ્રના ફૂડ એન્ડ ડ્રગ્સ એડમિનિસ્ટ્રેશન કમિશનર તુકારામ મુંધેને મહારાષ્ટ્ર સરકાર દ્વારા મહારાષ્ટ્ર પબ્લિક સર્વિસ કમિશન (MPSC) માં સુધારાની ભલામણ કરવા માટે રચવામાં આવેલી સમિતિના સચિવ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. પુણેમાં MPSC ઉમેદવારો દ્વારા 10 દિવસના વિરોધને પગલે 11 ઓક્ટોબર, 2026ના રોજ સમિતિની રચના કરવામાં આવી હતી. નિવૃત્ત ન્યાયાધીશ દિલીપ ભોસલેને સમિતિના અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. પાંચ સભ્યોની સમિતિને ભરતી સંબંધિત ચિંતાઓ, પરીક્ષાની અનિયમિતતાઓ અને પ્રશ્નપત્ર લીક થવાના આરોપોની તપાસ કરવાનું કામ સોંપવામાં આવ્યું હતું. આ મુદ્દાઓની તપાસ કરવા અને રાજ્યની ભરતી પ્રક્રિયામાં પારદર્શિતા અને કાર્યક્ષમતા વધારવાના પગલાંની ભલામણ કરવા માટે તેને બે મહિનાનો સમયગાળો આપવામાં આવ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-10-12-9",
+      "date": "2026-10-12",
+      "qno": 9,
+      "answer": "C",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Navy stealth frigate arrived in Vladivostok, Russia, to participate in the bilateral naval exercise INDRA-2026?",
+        "options": {
+          "A": "INS Kolkata",
+          "B": "INS Chennai",
+          "C": "INS Sahyadri",
+          "D": "INS Visakhapatnam"
+        },
+        "explanation": "INS Sahyadri is an indigenously constructed, stealth multi-role frigate of the Indian Navy belonging to the Shivalik class of guided-missile frigates. It arrived in Vladivostok, Russia, on October 10, 2026, to participate in the bilateral naval exercise INDRA-2026, scheduled from October 13 to 18, 2026. The exercise involves the Indian Navy and the Russian Federation Navy and aims to strengthen maritime cooperation, improve interoperability, and promote professional exchanges between the two navies. Its activities include shore-based interactions, maritime operations at sea, and cultural exchanges. The deployment also supports India's broader vision of regional maritime security and cooperation."
+      },
+      "hi": {
+        "question": "द्विपक्षीय नौसैनिक अभ्यास INDRA-2026 में भाग लेने के लिए कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट रूस के व्लादिवोस्तोक पहुंचा?",
+        "options": {
+          "A": "आईएनएस कोलकाता",
+          "B": "आईएनएस चेन्नई",
+          "C": "आईएनएस सह्याद्री",
+          "D": "आईएनएस विशाखापत्तनम"
+        },
+        "explanation": "आईएनएस सह्याद्रि भारतीय नौसेना का एक स्वदेश निर्मित, स्टील्थ मल्टी-रोल फ्रिगेट है, जो गाइडेड-मिसाइल फ्रिगेट्स के शिवालिक वर्ग से संबंधित है। यह 13 से 18 अक्टूबर, 2026 तक निर्धारित द्विपक्षीय नौसैनिक अभ्यास INDRA-2026 में भाग लेने के लिए 10 अक्टूबर, 2026 को व्लादिवोस्तोक, रूस पहुंचा। इस अभ्यास में भारतीय नौसेना और रूसी संघ की नौसेना शामिल है और इसका उद्देश्य समुद्री सहयोग को मजबूत करना, अंतरसंचालनीयता में सुधार करना और दोनों नौसेनाओं के बीच पेशेवर आदान-प्रदान को बढ़ावा देना है। इसकी गतिविधियों में तट-आधारित बातचीत, समुद्र में समुद्री संचालन और सांस्कृतिक आदान-प्रदान शामिल हैं। यह तैनाती क्षेत्रीय समुद्री सुरक्षा और सहयोग के भारत के व्यापक दृष्टिकोण का भी समर्थन करती है।"
+      },
+      "gu": {
+        "question": "દ્વિપક્ષીય નૌકા કવાયત INDRA-2026 માં ભાગ લેવા માટે કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ રશિયાના વ્લાદિવોસ્તોકમાં પહોંચ્યું?",
+        "options": {
+          "A": "INS કોલકાતા",
+          "B": "INS ચેન્નાઈ",
+          "C": "INS સહ્યાદ્રી",
+          "D": "INS વિશાખાપટ્ટનમ"
+        },
+        "explanation": "INS સહ્યાદ્રી એ ભારતીય નૌકાદળનું સ્વદેશી રીતે નિર્મિત, સ્ટીલ્થ મલ્ટિ-રોલ ફ્રિગેટ છે જે ગાઈડેડ-મિસાઈલ ફ્રિગેટ્સના શિવાલિક વર્ગનું છે. તે 13 થી 18 ઓક્ટોબર, 2026 દરમિયાન નિર્ધારિત દ્વિપક્ષીય નૌકાદળ કવાયત INDRA-2026 માં ભાગ લેવા માટે 10 ઓક્ટોબર, 2026 ના રોજ રશિયાના વ્લાદિવોસ્તોક ખાતે પહોંચ્યું હતું. આ કવાયતમાં ભારતીય નૌકાદળ અને રશિયન ફેડરેશન નૌકાદળનો સમાવેશ થાય છે અને તેનો ઉદ્દેશ્ય દરિયાઈ સહયોગને મજબૂત કરવાનો અને બે વ્યાવસાયિક આદાનપ્રદાનને પ્રોત્સાહન આપવાનો છે. તેની પ્રવૃત્તિઓમાં કિનારા-આધારિત ક્રિયાપ્રતિક્રિયાઓ, દરિયામાં દરિયાઈ કામગીરી અને સાંસ્કૃતિક વિનિમયનો સમાવેશ થાય છે. આ તૈનાતી પ્રાદેશિક દરિયાઈ સુરક્ષા અને સહયોગના ભારતના વ્યાપક વિઝનને પણ સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-12-10",
+      "date": "2026-10-12",
+      "qno": 10,
+      "answer": "B",
+      "category": "Places",
+      "en": {
+        "question": "Where was the 3rd International Bharat 6G Symposium 2026 inaugurated by the Union Minister for Communications?",
+        "options": {
+          "A": "Mumbai",
+          "B": "New Delhi",
+          "C": "Bengaluru",
+          "D": "Hyderabad"
+        },
+        "explanation": "New Delhi hosted the 3rd International Bharat 6G Symposium 2026, inaugurated by the Union Minister for Communications. The symposium was organised by the Bharat 6G Alliance (B6GA) to bring together government representatives, industry leaders, academic institutions, and global technology alliances to advance the development of 6G technology. During the event, B6GA signed five Memoranda of Understanding with GSMA, One6G Association, GTI Alliance, 6G Industry Forum, and VoICE. A joint report was also released to mark one year of progress since the New Delhi Declaration was adopted in 2025. India's Bharat 6G Vision, launched in 2023, aims to make the country a leading contributor to 6G design, development, and deployment by 2030."
+      },
+      "hi": {
+        "question": "केंद्रीय संचार मंत्री द्वारा तीसरे अंतर्राष्ट्रीय भारत 6G संगोष्ठी 2026 का उद्घाटन कहाँ किया गया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "नई दिल्ली",
+          "C": "बेंगलुरु",
+          "D": "हैदराबाद"
+        },
+        "explanation": "नई दिल्ली ने तीसरे अंतर्राष्ट्रीय भारत 6जी संगोष्ठी 2026 की मेजबानी की, जिसका उद्घाटन केंद्रीय संचार मंत्री ने किया। 6जी प्रौद्योगिकी के विकास को आगे बढ़ाने के लिए सरकारी प्रतिनिधियों, उद्योग जगत के नेताओं, शैक्षणिक संस्थानों और वैश्विक प्रौद्योगिकी गठबंधनों को एक साथ लाने के लिए भारत 6जी एलायंस (बी6जीए) द्वारा संगोष्ठी का आयोजन किया गया था। कार्यक्रम के दौरान, B6GA ने GSMA, One6G एसोसिएशन, GTI एलायंस, 6G इंडस्ट्री फोरम और VoICE के साथ पांच समझौता ज्ञापनों पर हस्ताक्षर किए। 2025 में नई दिल्ली घोषणा को अपनाए जाने के बाद से एक वर्ष की प्रगति को चिह्नित करने के लिए एक संयुक्त रिपोर्ट भी जारी की गई। 2023 में लॉन्च किए गए भारत के भारत 6जी विजन का लक्ष्य 2030 तक देश को 6जी डिजाइन, विकास और तैनाती में अग्रणी योगदानकर्ता बनाना है।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય સંચાર મંત્રી દ્વારા 3જી આંતરરાષ્ટ્રીય ભારત 6G સિમ્પોસિયમ 2026નું ઉદ્ઘાટન ક્યાં કરવામાં આવ્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "નવી દિલ્હી",
+          "C": "બેંગલુરુ",
+          "D": "હૈદરાબાદ"
+        },
+        "explanation": "નવી દિલ્હીએ 3જી આંતરરાષ્ટ્રીય ભારત 6G સિમ્પોસિયમ 2026નું આયોજન કર્યું હતું, જેનું ઉદ્ઘાટન કેન્દ્રીય સંચાર મંત્રી દ્વારા કરવામાં આવ્યું હતું. ભારત 6G એલાયન્સ (B6GA) દ્વારા 6G ટેક્નોલોજીના વિકાસને આગળ વધારવા માટે સરકારના પ્રતિનિધિઓ, ઉદ્યોગ અગ્રણીઓ, શૈક્ષણિક સંસ્થાઓ અને વૈશ્વિક ટેક્નોલોજી જોડાણોને એકસાથે લાવવા માટે આ સિમ્પોઝિયમનું આયોજન કરવામાં આવ્યું હતું. ઇવેન્ટ દરમિયાન, B6GA એ GSMA, One6G એસોસિએશન, GTI એલાયન્સ, 6G ઇન્ડસ્ટ્રી ફોરમ અને VoICE સાથે પાંચ સમજૂતી કરાર પર હસ્તાક્ષર કર્યા. નવી દિલ્હી ઘોષણા 2025 માં અપનાવવામાં આવી ત્યારથી પ્રગતિના એક વર્ષને ચિહ્નિત કરવા માટે એક સંયુક્ત અહેવાલ પણ બહાર પાડવામાં આવ્યો હતો. ભારતનું ભારત 6G વિઝન, 2023 માં લોન્ચ કરવામાં આવ્યું હતું, જેનો હેતુ 2030 સુધીમાં દેશને 6G ડિઝાઇન, વિકાસ અને જમાવટમાં અગ્રણી યોગદાન આપનાર બનાવવાનો છે."
+      }
+    },
+    {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-2",
+      "date": "2026-10-11",
+      "qno": 2,
       "answer": "A",
       "category": "Important Days",
       "en": {
@@ -53513,77 +53921,40 @@
       }
     },
     {
-      "id": "2026-10-11-2",
-      "date": "2026-10-11",
-      "qno": 2,
-      "answer": "D",
-      "category": "Technology",
-      "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
-        "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
-        },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
-      },
-      "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
-        "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
-        },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
-      },
-      "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
-        "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
-        },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
-      }
-    },
-    {
       "id": "2026-10-11-3",
       "date": "2026-10-11",
       "qno": 3,
-      "answer": "D",
-      "category": "Technology",
+      "answer": "B",
+      "category": "Defence",
       "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
         "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
         },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
       },
       "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
         "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
         },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
       },
       "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
         "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
         },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
       }
     },
     {
@@ -53698,231 +54069,9 @@
       }
     },
     {
-      "id": "2026-10-11-7",
-      "date": "2026-10-11",
-      "qno": 7,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
-        "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
-        },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
-      },
-      "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
-        "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
-        },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
-      },
-      "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
-        "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
-        },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
-      }
-    },
-    {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-2",
-      "date": "2026-10-10",
-      "qno": 2,
-      "answer": "C",
-      "category": "Environment",
-      "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
-        "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
-        },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
-      },
-      "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
-        "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
-        },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
-      },
-      "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
-        "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
-        },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
-      "answer": "A",
-      "category": "Banking",
-      "en": {
-        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
-      },
-      "hi": {
-        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
-      },
-      "gu": {
-        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
-      "answer": "D",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
-        "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
-        },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
-        "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
-        },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
-      },
-      "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
-        "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
-        },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
-      }
-    },
-    {
-      "id": "2026-10-10-5",
-      "date": "2026-10-10",
-      "qno": 5,
-      "answer": "B",
-      "category": "National",
-      "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
-        "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
-        },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
-      },
-      "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
-        "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
-        },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
-      },
-      "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
-        },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
       "answer": "C",
       "category": "Defence",
       "en": {
@@ -53957,9 +54106,46 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-2",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 2,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "options": {
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
+        },
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+      },
+      "hi": {
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "options": {
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
+        },
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+      },
+      "gu": {
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
+        },
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-3",
+      "date": "2026-10-10",
+      "qno": 3,
       "answer": "A",
       "category": "Awards and Honours",
       "en": {
@@ -53991,6 +54177,154 @@
           "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
         },
         "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "qno": 5,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
+      },
+      "gu": {
+        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "options": {
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
+        },
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "options": {
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "options": {
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
       }
     }
   ]
