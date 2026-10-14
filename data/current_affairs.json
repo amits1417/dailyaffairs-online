@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-13",
     "2026-10-12",
     "2026-10-11",
     "2026-10-10",
@@ -53847,194 +53848,379 @@
       }
     },
     {
-      "id": "2026-10-11-1",
-      "date": "2026-10-11",
+      "id": "2026-10-13-1",
+      "date": "2026-10-13",
       "qno": 1,
       "answer": "A",
       "category": "Defence",
       "en": {
-        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "question": "Which initiative was launched by the Indian Army to improve the quality and delivery of rice supplied to troops?",
         "options": {
-          "A": "Argentina",
-          "B": "Nepal",
-          "C": "Bhutan",
-          "D": "Chile"
+          "A": "Bharat Rice",
+          "B": "Anna Suraksha",
+          "C": "Sainik Food Scheme",
+          "D": "Army Nutrition Mission"
         },
-        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+        "explanation": "Bharat Rice is an initiative launched by the Indian Army on October 12, 2026, to improve the quality and delivery of rice supplied to soldiers. Undertaken by the Directorate General of Supplies and Transport, the initiative was developed in response to feedback from troops regarding ration quality. The rice will meet specified military standards and undergo quality control tests. It will be supplied in 10 kg and 30 kg bags to facilitate transportation, particularly in remote, hilly, and forward areas. The initiative also supports direct delivery to Army Supply Depots, including those in Ladakh and the Northeast."
       },
       "hi": {
-        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "question": "भारतीय सेना द्वारा सैनिकों को आपूर्ति किए जाने वाले चावल की गुणवत्ता और वितरण में सुधार के लिए कौन सी पहल शुरू की गई थी?",
         "options": {
-          "A": "अर्जेंटीना",
-          "B": "नेपाल",
-          "C": "भूटान",
-          "D": "चिली"
+          "A": "भरत चावल",
+          "B": "अन्न सुरक्षा",
+          "C": "सैनिक भोजन योजना",
+          "D": "सेना पोषण मिशन"
         },
-        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+        "explanation": "भारत चावल भारतीय सेना द्वारा सैनिकों को आपूर्ति किए जाने वाले चावल की गुणवत्ता और वितरण में सुधार के लिए 12 अक्टूबर, 2026 को शुरू की गई एक पहल है। आपूर्ति और परिवहन महानिदेशालय द्वारा शुरू की गई यह पहल राशन की गुणवत्ता के संबंध में सैनिकों से मिले फीडबैक के जवाब में विकसित की गई थी। चावल निर्दिष्ट सैन्य मानकों को पूरा करेगा और गुणवत्ता नियंत्रण परीक्षण से गुजरेगा। विशेष रूप से दूरदराज, पहाड़ी और आगे के क्षेत्रों में परिवहन की सुविधा के लिए इसकी आपूर्ति 10 किलोग्राम और 30 किलोग्राम बैग में की जाएगी। यह पहल लद्दाख और पूर्वोत्तर सहित सेना आपूर्ति डिपो तक सीधी डिलीवरी का भी समर्थन करती है।"
       },
       "gu": {
-        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "question": "ભારતીય સેના દ્વારા સૈનિકોને પૂરા પાડવામાં આવતા ચોખાની ગુણવત્તા અને ડિલિવરી સુધારવા માટે કઈ પહેલ શરૂ કરવામાં આવી હતી?",
         "options": {
-          "A": "આર્જેન્ટિના",
-          "B": "નેપાળ",
-          "C": "ભુતાન",
-          "D": "ચિલી"
+          "A": "ભરત ચોખા",
+          "B": "અન્ના સુરક્ષા",
+          "C": "સૈનિક ફૂડ સ્કીમ",
+          "D": "આર્મી ન્યુટ્રીશન મિશન"
         },
-        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+        "explanation": "ભારત ચોખા એ ભારતીય સેના દ્વારા 12 ઓક્ટોબર, 2026 ના રોજ સૈનિકોને પૂરા પાડવામાં આવતા ચોખાની ગુણવત્તા અને ડિલિવરી સુધારવા માટે શરૂ કરવામાં આવેલ પહેલ છે. ડિરેક્ટોરેટ જનરલ ઓફ સપ્લાય એન્ડ ટ્રાન્સપોર્ટ દ્વારા હાથ ધરવામાં આવેલ, આ પહેલ રેશનની ગુણવત્તા અંગે સૈનિકોના પ્રતિસાદના જવાબમાં વિકસાવવામાં આવી હતી. ચોખા ચોક્કસ લશ્કરી ધોરણોને પૂર્ણ કરશે અને ગુણવત્તા નિયંત્રણ પરીક્ષણોમાંથી પસાર થશે. પરિવહનની સુવિધા માટે, ખાસ કરીને દૂરના, ડુંગરાળ અને આગળના વિસ્તારોમાં તે 10 કિલો અને 30 કિલોની બેગમાં સપ્લાય કરવામાં આવશે. આ પહેલ લદ્દાખ અને પૂર્વોત્તર સહિત આર્મી સપ્લાય ડેપોને સીધી ડિલિવરીનું સમર્થન કરે છે."
       }
     },
     {
-      "id": "2026-10-11-2",
-      "date": "2026-10-11",
+      "id": "2026-10-13-2",
+      "date": "2026-10-13",
       "qno": 2,
       "answer": "C",
-      "category": "State",
+      "category": "Science",
       "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
+        "question": "Where will India’s first dedicated high-altitude health research centre, ICMR-CHAMP, be established?",
         "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
+          "A": "Shimla",
+          "B": "Leh",
+          "C": "Keylong",
+          "D": "Manali"
         },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
+        "explanation": "Keylong, located in the Lahaul and Spiti district of Himachal Pradesh, will host India’s first dedicated high-altitude health research centre, named the ICMR Centre for High Altitude Medicine and Public Health Research (ICMR-CHAMP). The centre is being established under the Department of Health Research, Ministry of Health and Family Welfare. It will focus on high-altitude physiology, acclimatisation, mountain medicine, climate-sensitive diseases, and disaster medicine. The facility will also integrate telemedicine, drone-enabled healthcare logistics, and real-time health surveillance. The Indian Council of Medical Research (ICMR) will collaborate with the Armed Forces Medical Services and the Himachal Pradesh government to strengthen research and healthcare in high-altitude and border regions."
       },
       "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
+        "question": "भारत का पहला समर्पित उच्च ऊंचाई वाला स्वास्थ्य अनुसंधान केंद्र, आईसीएमआर-सीएचएएमपी, कहाँ स्थापित किया जाएगा?",
         "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
+          "A": "शिमला",
+          "B": "लेह",
+          "C": "केलांग",
+          "D": "मनाली"
         },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
+        "explanation": "हिमाचल प्रदेश के लाहौल और स्पीति जिले में स्थित केलोंग, भारत के पहले समर्पित उच्च ऊंचाई वाले स्वास्थ्य अनुसंधान केंद्र की मेजबानी करेगा, जिसका नाम आईसीएमआर सेंटर फॉर हाई एल्टीट्यूड मेडिसिन एंड पब्लिक हेल्थ रिसर्च (आईसीएमआर-सीएचएएमपी) है। यह केंद्र स्वास्थ्य एवं परिवार कल्याण मंत्रालय के स्वास्थ्य अनुसंधान विभाग के तहत स्थापित किया जा रहा है। यह उच्च-ऊंचाई वाले शरीर विज्ञान, अनुकूलन, पर्वतीय चिकित्सा, जलवायु-संवेदनशील बीमारियों और आपदा चिकित्सा पर ध्यान केंद्रित करेगा। यह सुविधा टेलीमेडिसिन, ड्रोन-सक्षम हेल्थकेयर लॉजिस्टिक्स और वास्तविक समय स्वास्थ्य निगरानी को भी एकीकृत करेगी। भारतीय चिकित्सा अनुसंधान परिषद (आईसीएमआर) ऊंचाई वाले और सीमावर्ती क्षेत्रों में अनुसंधान और स्वास्थ्य सेवा को मजबूत करने के लिए सशस्त्र बल चिकित्सा सेवाओं और हिमाचल प्रदेश सरकार के साथ सहयोग करेगी।"
       },
       "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
+        "question": "ભારતનું પ્રથમ સમર્પિત ઉચ્ચ-ઊંચાઈ આરોગ્ય સંશોધન કેન્દ્ર, ICMR-CHAMP ક્યાં સ્થાપિત થશે?",
         "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
+          "A": "શિમલા",
+          "B": "લેહ",
+          "C": "કીલોંગ",
+          "D": "મનાલી"
         },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
+        "explanation": "હિમાચલ પ્રદેશના લાહૌલ અને સ્પીતિ જિલ્લામાં સ્થિત કીલોંગ ભારતના પ્રથમ સમર્પિત ઉચ્ચ-ઉંચાઈવાળા આરોગ્ય સંશોધન કેન્દ્રનું આયોજન કરશે, જેને ICMR સેન્ટર ફોર હાઈ એલ્ટિટ્યુડ મેડિસિન એન્ડ પબ્લિક હેલ્થ રિસર્ચ (ICMR-CHAMP) નામ આપવામાં આવ્યું છે. આ કેન્દ્ર આરોગ્ય અને પરિવાર કલ્યાણ મંત્રાલયના આરોગ્ય સંશોધન વિભાગ હેઠળ સ્થાપિત કરવામાં આવી રહ્યું છે. તે હાઈ-એલ્ટિટ્યુડ ફિઝિયોલોજી, અનુકૂલન, પર્વતીય દવા, આબોહવા-સંવેદનશીલ રોગો અને આપત્તિની દવા પર ધ્યાન કેન્દ્રિત કરશે. આ સુવિધા ટેલિમેડિસિન, ડ્રોન-સક્ષમ હેલ્થકેર લોજિસ્ટિક્સ અને રીઅલ-ટાઇમ હેલ્થ સર્વેલન્સને પણ એકીકૃત કરશે. ઈન્ડિયન કાઉન્સિલ ઑફ મેડિકલ રિસર્ચ (ICMR) સશસ્ત્ર દળો તબીબી સેવાઓ અને હિમાચલ પ્રદેશ સરકાર સાથે ઉચ્ચ ઊંચાઈ અને સરહદી વિસ્તારોમાં સંશોધન અને આરોગ્ય સંભાળને મજબૂત કરવા માટે સહયોગ કરશે."
       }
     },
     {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
+      "id": "2026-10-13-3",
+      "date": "2026-10-13",
       "qno": 3,
-      "answer": "B",
-      "category": "Defence",
+      "answer": "C",
+      "category": "Economy",
       "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "question": "What GDP growth rate did the International Monetary Fund (IMF) project for India in FY 2026–27 after revising its forecast?",
         "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
+          "A": "6.4%",
+          "B": "7.1%",
+          "C": "7%",
+          "D": "6.8%"
         },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+        "explanation": "7% is the revised GDP growth forecast for India in FY 2026–27 announced by the International Monetary Fund (IMF). The IMF raised its projection from 6.4% by 60 basis points in its latest World Economic Outlook. The upward revision reflects resilient domestic demand, strong services sector activity, favourable demographic conditions, a growing domestic market, and structural reforms. Despite global inflation, high oil prices, and geopolitical tensions, India continues to demonstrate strong economic momentum. Meanwhile, the Reserve Bank of India (RBI), World Bank, and OECD projected India’s FY27 economic growth at 7.1%, according to the figures provided."
       },
       "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "question": "अंतर्राष्ट्रीय मुद्रा कोष (आईएमएफ) ने अपने पूर्वानुमान को संशोधित करने के बाद वित्त वर्ष 2026-27 में भारत के लिए किस जीडीपी विकास दर का अनुमान लगाया है?",
         "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+          "A": "6.4%",
+          "B": "7.1%",
+          "C": "7%",
+          "D": "6.8%"
         },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+        "explanation": "अंतर्राष्ट्रीय मुद्रा कोष (आईएमएफ) द्वारा घोषित वित्त वर्ष 2026-27 में भारत के लिए संशोधित सकल घरेलू उत्पाद वृद्धि का पूर्वानुमान 7% है। आईएमएफ ने अपने नवीनतम विश्व आर्थिक आउटलुक में अपना अनुमान 6.4% से 60 आधार अंक बढ़ा दिया। ऊपर की ओर किया गया संशोधन लचीली घरेलू मांग, मजबूत सेवा क्षेत्र की गतिविधि, अनुकूल जनसांख्यिकीय स्थितियों, बढ़ते घरेलू बाजार और संरचनात्मक सुधारों को दर्शाता है। वैश्विक मुद्रास्फीति, उच्च तेल की कीमतें और भू-राजनीतिक तनाव के बावजूद, भारत लगातार मजबूत आर्थिक गति का प्रदर्शन कर रहा है। इस बीच, उपलब्ध आंकड़ों के अनुसार, भारतीय रिजर्व बैंक (RBI), विश्व बैंक और OECD ने भारत की FY27 आर्थिक वृद्धि 7.1% रहने का अनुमान लगाया है।"
       },
       "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "question": "ઇન્ટરનેશનલ મોનેટરી ફંડ (IMF) એ તેના અનુમાનમાં સુધારો કર્યા પછી નાણાકીય વર્ષ 2026-27માં ભારત માટે કેટલો GDP વૃદ્ધિ દર પ્રોજેક્ટ કર્યો?",
         "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+          "A": "6.4%",
+          "B": "7.1%",
+          "C": "7%",
+          "D": "6.8%"
         },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+        "explanation": "ઇન્ટરનેશનલ મોનેટરી ફંડ (IMF) દ્વારા જાહેર કરાયેલ નાણાકીય વર્ષ 2026-27માં ભારત માટે 7% એ સુધારેલ GDP વૃદ્ધિનું અનુમાન છે. IMFએ તેના તાજેતરના વર્લ્ડ ઇકોનોમિક આઉટલુકમાં તેનું અનુમાન 6.4% થી 60 બેસિસ પોઈન્ટ વધાર્યું છે. ઉપરનું પુનરાવર્તન સ્થિતિસ્થાપક સ્થાનિક માંગ, મજબૂત સેવા ક્ષેત્રની પ્રવૃત્તિ, અનુકૂળ વસ્તી વિષયક પરિસ્થિતિઓ, વધતું સ્થાનિક બજાર અને માળખાકીય સુધારાને પ્રતિબિંબિત કરે છે. વૈશ્વિક ફુગાવો, તેલની ઊંચી કિંમતો અને ભૌગોલિક રાજકીય તણાવ હોવા છતાં, ભારત મજબૂત આર્થિક ગતિનું પ્રદર્શન કરવાનું ચાલુ રાખે છે. દરમિયાન, રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI), વિશ્વ બેંક અને OECD એ પૂરા પાડવામાં આવેલ આંકડાઓ અનુસાર, ભારતની FY27 આર્થિક વૃદ્ધિ 7.1% રહેવાનો અંદાજ મૂક્યો હતો."
       }
     },
     {
-      "id": "2026-10-11-4",
-      "date": "2026-10-11",
+      "id": "2026-10-13-4",
+      "date": "2026-10-13",
       "qno": 4,
       "answer": "A",
-      "category": "Important Days",
-      "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
-        "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
-        },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
-      },
-      "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
-        "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
-        },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
-      },
-      "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
-        "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
-        },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-5",
-      "date": "2026-10-11",
-      "qno": 5,
-      "answer": "B",
       "category": "Sports",
       "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "question": "Who won the Ladies title at the IGU Bio-Gen Rotary Southern India Golf Championship in Bengaluru?",
         "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
+          "A": "Keya Kumar Badugu",
+          "B": "Anaahat Bindra",
+          "C": "Priya Kumari",
+          "D": "Avani Prashanth"
         },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+        "explanation": "Keya Kumar Badugu from Delhi won the Ladies title at the IGU Bio-Gen Rotary Southern India Golf Championship held at the Karnataka Golf Association (KGA) course in Bengaluru. She defeated Kolkata’s Anaahat Bindra in a playoff after both players finished the 54-hole championship at one-under-par 215. Keya produced an impressive performance in the final round by recording three consecutive birdies on the 15th, 16th, and 17th holes, overcoming a two-stroke deficit to secure the title. Anaahat Bindra finished second, while Priya Kumari secured third place with an aggregate score of 220. The championship is an important event on the Indian Golf Union’s national competition calendar."
       },
       "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "question": "बेंगलुरु में IGU बायो-जेन रोटरी सदर्न इंडिया गोल्फ चैंपियनशिप में महिला खिताब किसने जीता?",
         "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
+          "A": "केया कुमार बडुगु",
+          "B": "अनाहत बिंद्रा",
+          "C": "प्रिया कुमारी",
+          "D": "अवनी प्रशांत"
         },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+        "explanation": "दिल्ली की केया कुमार बडुगु ने बेंगलुरु में कर्नाटक गोल्फ एसोसिएशन (केजीए) कोर्स में आयोजित आईजीयू बायो-जेन रोटरी सदर्न इंडिया गोल्फ चैंपियनशिप में महिला खिताब जीता। दोनों खिलाड़ियों द्वारा 54-होल चैंपियनशिप को एक-अंडर-बराबर 215 पर समाप्त करने के बाद उसने प्लेऑफ में कोलकाता के अनाहत बिंद्रा को हराया। केया ने 15वें, 16वें और 17वें होल पर लगातार तीन बर्डी दर्ज करके अंतिम राउंड में प्रभावशाली प्रदर्शन किया, दो स्ट्रोक की कमी को पार करते हुए खिताब सुरक्षित किया। अनाहत बिंद्रा दूसरे स्थान पर रहे, जबकि प्रिया कुमारी ने 220 के कुल स्कोर के साथ तीसरा स्थान हासिल किया। चैंपियनशिप भारतीय गोल्फ संघ के राष्ट्रीय प्रतियोगिता कैलेंडर पर एक महत्वपूर्ण घटना है।"
       },
       "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "question": "બેંગલુરુમાં IGU બાયો-જનરલ રોટરી સધર્ન ઈન્ડિયા ગોલ્ફ ચેમ્પિયનશિપમાં લેડીઝ ટાઈટલ કોણે જીત્યું?",
         "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
+          "A": "કેયા કુમાર બડુગુ",
+          "B": "અનાહત બિન્દ્રા",
+          "C": "પ્રિયા કુમારી",
+          "D": "અવની પ્રશાંત"
         },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+        "explanation": "દિલ્હીના કેયા કુમાર બડુગુએ બેંગલુરુમાં કર્ણાટક ગોલ્ફ એસોસિએશન (KGA) કોર્સમાં આયોજિત IGU બાયો-જનરલ રોટરી સધર્ન ઈન્ડિયા ગોલ્ફ ચેમ્પિયનશિપમાં લેડીઝ ટાઇટલ જીત્યું. બંને ખેલાડીઓએ વન-અંડર-પાર 215માં 54-હોલ ચેમ્પિયનશિપ પૂરી કર્યા પછી તેણીએ પ્લેઓફમાં કોલકાતાના અનાહત બિન્દ્રાને હરાવ્યો. કેયાએ 15મી, 16મી અને 17મી તારીખે સતત ત્રણ બર્ડીઝ રેકોર્ડ કરીને ફાઈનલ રાઉન્ડમાં પ્રભાવશાળી પ્રદર્શન કર્યું, બે-સ્ટ્રોકથી ટાઈટલ પર વિજય મેળવ્યો. અનાહત બિન્દ્રા બીજા ક્રમે, જ્યારે પ્રિયા કુમારીએ 220ના કુલ સ્કોર સાથે ત્રીજું સ્થાન મેળવ્યું. ચેમ્પિયનશિપ એ ભારતીય ગોલ્ફ યુનિયનના રાષ્ટ્રીય સ્પર્ધાના કૅલેન્ડર પર એક મહત્વપૂર્ણ ઇવેન્ટ છે."
       }
     },
     {
-      "id": "2026-10-11-6",
-      "date": "2026-10-11",
+      "id": "2026-10-13-5",
+      "date": "2026-10-13",
+      "qno": 5,
+      "answer": "B",
+      "category": "Economy",
+      "en": {
+        "question": "What was India’s retail inflation rate in September 2026, according to the revised Consumer Price Index (CPI) data?",
+        "options": {
+          "A": "4.83%",
+          "B": "5.54%",
+          "C": "7.74%",
+          "D": "6.08%"
+        },
+        "explanation": "5.54% was India’s retail inflation rate in September 2026, up from 4.83% in August 2026. The revised figures were released on October 12, 2026, by the Ministry of Statistics and Programme Implementation (MoSPI), using the Consumer Price Index series with 2024 as the base year. The increase was mainly driven by rising food prices, particularly vegetables such as onions. Food inflation climbed to 7.74%, while rural retail inflation reached 6.08% and urban retail inflation stood at 4.88%. Although retail inflation exceeded the RBI’s 4% target, it remained within the permitted tolerance range of 2% to 6%."
+      },
+      "hi": {
+        "question": "संशोधित उपभोक्ता मूल्य सूचकांक (सीपीआई) डेटा के अनुसार, सितंबर 2026 में भारत की खुदरा मुद्रास्फीति दर क्या थी?",
+        "options": {
+          "A": "4.83%",
+          "B": "5.54%",
+          "C": "7.74%",
+          "D": "6.08%"
+        },
+        "explanation": "सितंबर 2026 में भारत की खुदरा मुद्रास्फीति दर 5.54% थी, जो अगस्त 2026 में 4.83% थी। संशोधित आंकड़े 12 अक्टूबर, 2026 को सांख्यिकी और कार्यक्रम कार्यान्वयन मंत्रालय (MoSPI) द्वारा आधार वर्ष के रूप में 2024 के साथ उपभोक्ता मूल्य सूचकांक श्रृंखला का उपयोग करते हुए जारी किए गए थे। यह वृद्धि मुख्य रूप से खाद्य पदार्थों, विशेषकर प्याज जैसी सब्जियों की बढ़ती कीमतों के कारण हुई। खाद्य मुद्रास्फीति बढ़कर 7.74% हो गई, जबकि ग्रामीण खुदरा मुद्रास्फीति 6.08% और शहरी खुदरा मुद्रास्फीति 4.88% पर पहुंच गई। हालाँकि खुदरा मुद्रास्फीति आरबीआई के 4% लक्ष्य से अधिक है, फिर भी यह 2% से 6% की अनुमत सहनशीलता सीमा के भीतर बनी हुई है।"
+      },
+      "gu": {
+        "question": "સંશોધિત કન્ઝ્યુમર પ્રાઇસ ઇન્ડેક્સ (CPI) ડેટા અનુસાર સપ્ટેમ્બર 2026માં ભારતનો છૂટક ફુગાવાનો દર કેટલો હતો?",
+        "options": {
+          "A": "4.83%",
+          "B": "5.54%",
+          "C": "7.74%",
+          "D": "6.08%"
+        },
+        "explanation": "સપ્ટેમ્બર 2026માં ભારતનો છૂટક ફુગાવાનો દર 5.54% હતો, જે ઓગસ્ટ 2026માં 4.83% હતો. આંકડાકીય અને કાર્યક્રમ અમલીકરણ મંત્રાલય (MoSPI) દ્વારા 2024ના આધાર વર્ષ તરીકે કન્ઝ્યુમર પ્રાઈસ ઈન્ડેક્સ શ્રેણીનો ઉપયોગ કરીને 12 ઓક્ટોબર, 2026ના રોજ સુધારેલા આંકડા બહાર પાડવામાં આવ્યા હતા. આ વધારો મુખ્યત્વે ખાદ્યપદાર્થોના ભાવમાં વધારો, ખાસ કરીને શાકભાજી જેવા કે ડુંગળીને કારણે થયો હતો. ખાદ્યપદાર્થોનો ફુગાવો વધીને 7.74% થયો, જ્યારે ગ્રામીણ છૂટક ફુગાવો 6.08% અને શહેરી છૂટક ફુગાવો 4.88% પર પહોંચ્યો. જોકે રિટેલ ફુગાવો આરબીઆઈના 4% ટાર્ગેટને વટાવી ગયો હતો, તે 2% થી 6% ની અનુમતિ સહનશીલતા રેન્જમાં રહ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-10-13-6",
+      "date": "2026-10-13",
       "qno": 6,
+      "answer": "A",
+      "category": "Persons",
+      "en": {
+        "question": "Who won the ICC Women’s Player of the Month Award for September 2026?",
+        "options": {
+          "A": "Shafali Verma",
+          "B": "Smriti Mandhana",
+          "C": "Harmanpreet Kaur",
+          "D": "Jemimah Rodrigues"
+        },
+        "explanation": "Shafali Verma won the ICC Women’s Player of the Month Award for September 2026 following her outstanding all-round performances in the Women’s Asia Cup and the 2026 Asian Games in Nagoya, Japan. She scored 360 runs in seven T20 International matches at an average of 72 and a strike rate of 184.61, while also taking six wickets. During the Women’s Asia Cup, she scored 236 runs, including 68 in the final against Sri Lanka. At the Asian Games, she scored 188 runs, including a century against Bangladesh in the semi-final, and helped India secure the gold medal. This was her second ICC monthly award."
+      },
+      "hi": {
+        "question": "सितंबर 2026 के लिए ICC महिला प्लेयर ऑफ़ द मंथ का पुरस्कार किसने जीता?",
+        "options": {
+          "A": "शैफाली वर्मा",
+          "B": "स्मृति मंधाना",
+          "C": "हरमनप्रीत कौर",
+          "D": "जेमिमा रोड्रिग्स"
+        },
+        "explanation": "शैफाली वर्मा ने महिला एशिया कप और नागोया, जापान में 2026 एशियाई खेलों में अपने उत्कृष्ट हरफनमौला प्रदर्शन के बाद सितंबर 2026 के लिए आईसीसी महिला खिलाड़ी ऑफ द मंथ का पुरस्कार जीता। उन्होंने सात टी20 इंटरनेशनल मैचों में 72 की औसत और 184.61 की स्ट्राइक रेट से 360 रन बनाए, जबकि छह विकेट भी लिए। महिला एशिया कप के दौरान, उन्होंने 236 रन बनाए, जिसमें श्रीलंका के खिलाफ फाइनल में 68 रन भी शामिल थे। एशियाई खेलों में, उन्होंने सेमीफाइनल में बांग्लादेश के खिलाफ शतक सहित 188 रन बनाए और भारत को स्वर्ण पदक दिलाने में मदद की। यह उनका दूसरा ICC मासिक पुरस्कार था।"
+      },
+      "gu": {
+        "question": "સપ્ટેમ્બર 2026 માટે ICC વિમેન્સ પ્લેયર ઓફ ધ મંથ એવોર્ડ કોણે જીત્યો?",
+        "options": {
+          "A": "શેફાલી વર્મા",
+          "B": "સ્મૃતિ મંધાના",
+          "C": "હરમનપ્રીત કૌર",
+          "D": "જેમિમાહ રોડ્રિગ્ઝ"
+        },
+        "explanation": "જાપાનના નાગોયામાં મહિલા એશિયા કપ અને 2026 એશિયન ગેમ્સમાં તેના ઉત્કૃષ્ટ ઓલરાઉન્ડ પ્રદર્શનને પગલે શફાલી વર્માએ સપ્ટેમ્બર 2026 માટે ICC વુમન્સ પ્લેયર ઓફ ધ મંથ એવોર્ડ જીત્યો હતો. તેણીએ સાત T20 આંતરરાષ્ટ્રીય મેચોમાં 72 ની સરેરાશ અને 184.61 ના સ્ટ્રાઈક રેટથી 360 રન બનાવ્યા, જ્યારે છ વિકેટ પણ લીધી. મહિલા એશિયા કપ દરમિયાન, તેણે શ્રીલંકા સામે ફાઇનલમાં 68 રન સહિત 236 રન બનાવ્યા હતા. એશિયન ગેમ્સમાં, તેણીએ સેમિફાઇનલમાં બાંગ્લાદેશ સામે સદી સહિત 188 રન બનાવ્યા અને ભારતને સુવર્ણ ચંદ્રક મેળવવામાં મદદ કરી. આ તેણીનો બીજો ICC માસિક પુરસ્કાર હતો."
+      }
+    },
+    {
+      "id": "2026-10-13-7",
+      "date": "2026-10-13",
+      "qno": 7,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "Which city is hosting the BRICS Traditional and Indigenous Sports Demonstration Games 2026?",
+        "options": {
+          "A": "New Delhi",
+          "B": "Ahmedabad",
+          "C": "Mumbai",
+          "D": "Bengaluru"
+        },
+        "explanation": "Ahmedabad, Gujarat, is hosting the BRICS Traditional and Indigenous Sports Demonstration Games 2026 at the Veer Savarkar Sports Complex under India’s BRICS Chairship. The event is organised by the Union Ministry of Youth Affairs and Sports in collaboration with the Government of Gujarat. It provides a non-competitive platform for demonstrating and documenting traditional and indigenous sporting practices and encouraging interaction among practitioners from participating countries. Indian sports featured include Mallakhamb, Yogasana, and Kalaripayattu. International demonstrations include Wushu from China, Gorodki from Russia and Belarus, Capoeira from Brazil, and traditional sports from Iran and Ethiopia. The initiative aims to strengthen cultural ties and promote international sports cooperation."
+      },
+      "hi": {
+        "question": "कौन सा शहर ब्रिक्स पारंपरिक और स्वदेशी खेल प्रदर्शन खेलों 2026 की मेजबानी कर रहा है?",
+        "options": {
+          "A": "नई दिल्ली",
+          "B": "अहमदाबाद",
+          "C": "मुंबई",
+          "D": "बेंगलुरु"
+        },
+        "explanation": "अहमदाबाद, गुजरात, भारत की ब्रिक्स अध्यक्षता के तहत वीर सावरकर स्पोर्ट्स कॉम्प्लेक्स में ब्रिक्स पारंपरिक और स्वदेशी खेल प्रदर्शन खेल 2026 की मेजबानी कर रहा है। यह आयोजन केंद्रीय युवा मामले और खेल मंत्रालय द्वारा गुजरात सरकार के सहयोग से आयोजित किया जाता है। यह पारंपरिक और स्वदेशी खेल प्रथाओं को प्रदर्शित करने और दस्तावेजीकरण करने और भाग लेने वाले देशों के अभ्यासकर्ताओं के बीच बातचीत को प्रोत्साहित करने के लिए एक गैर-प्रतिस्पर्धी मंच प्रदान करता है। भारतीय खेलों में मल्लखंभ, योगासन और कलारीपयट्टू शामिल हैं। अंतर्राष्ट्रीय प्रदर्शनों में चीन से वुशु, रूस और बेलारूस से गोरोडकी, ब्राजील से कैपोईरा और ईरान और इथियोपिया से पारंपरिक खेल शामिल हैं। इस पहल का उद्देश्य सांस्कृतिक संबंधों को मजबूत करना और अंतर्राष्ट्रीय खेल सहयोग को बढ़ावा देना है।"
+      },
+      "gu": {
+        "question": "કયું શહેર BRICS પરંપરાગત અને સ્વદેશી રમત પ્રદર્શન ગેમ્સ 2026 નું આયોજન કરી રહ્યું છે?",
+        "options": {
+          "A": "નવી દિલ્હી",
+          "B": "અમદાવાદ",
+          "C": "મુંબઈ",
+          "D": "બેંગલુરુ"
+        },
+        "explanation": "અમદાવાદ, ગુજરાત, ભારતના BRICS ચેરશીપ હેઠળ વીર સાવરકર સ્પોર્ટ્સ કોમ્પ્લેક્સ ખાતે BRICS પરંપરાગત અને સ્વદેશી રમત પ્રદર્શન ગેમ્સ 2026 નું આયોજન કરી રહ્યું છે. આ કાર્યક્રમનું આયોજન કેન્દ્રીય યુવા બાબતો અને રમતગમત મંત્રાલય દ્વારા ગુજરાત સરકારના સહયોગથી કરવામાં આવ્યું છે. તે પરંપરાગત અને સ્વદેશી રમત પ્રથાઓનું પ્રદર્શન અને દસ્તાવેજીકરણ કરવા અને સહભાગી દેશોના પ્રેક્ટિશનરો વચ્ચે ક્રિયાપ્રતિક્રિયાને પ્રોત્સાહિત કરવા માટે બિન-સ્પર્ધાત્મક પ્લેટફોર્મ પૂરું પાડે છે. ભારતીય રમતોમાં મલ્લખામ્બ, યોગાસન અને કલારીપયટ્ટુનો સમાવેશ થાય છે. આંતરરાષ્ટ્રીય પ્રદર્શનોમાં ચીનના વુશુ, રશિયા અને બેલારુસના ગોરોડકી, બ્રાઝિલના કેપોઇરા અને ઈરાન અને ઈથોપિયાની પરંપરાગત રમતોનો સમાવેશ થાય છે. આ પહેલનો ઉદ્દેશ સાંસ્કૃતિક સંબંધોને મજબૂત કરવાનો અને આંતરરાષ્ટ્રીય રમતગમત સહયોગને પ્રોત્સાહન આપવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-13-8",
+      "date": "2026-10-13",
+      "qno": 8,
+      "answer": "D",
+      "category": "Important Days",
+      "en": {
+        "question": "When is the International Day for Disaster Risk Reduction observed annually?",
+        "options": {
+          "A": "October 10",
+          "B": "October 12",
+          "C": "October 15",
+          "D": "October 13"
+        },
+        "explanation": "October 13 is observed annually as the International Day for Disaster Risk Reduction (IDDRR). The United Nations General Assembly established the observance in 1989 to promote global awareness of disaster risks and encourage measures to reduce their impact. In 2026, the theme is “Resilience Starts at Home,” emphasising safe and affordable housing, disaster preparedness, effective early warning systems, and community resilience. The observance encourages governments and communities to strengthen building standards, improve land-use planning, and invest in prevention. It also supports the objectives of the Sendai Framework for Disaster Risk Reduction 2015–2030, which focuses on reducing disaster risks and losses."
+      },
+      "hi": {
+        "question": "आपदा जोखिम न्यूनीकरण के लिए अंतर्राष्ट्रीय दिवस प्रतिवर्ष कब मनाया जाता है?",
+        "options": {
+          "A": "10 अक्टूबर",
+          "B": "12 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "13 अक्टूबर"
+        },
+        "explanation": "13 अक्टूबर को प्रतिवर्ष अंतर्राष्ट्रीय आपदा जोखिम न्यूनीकरण दिवस (IDDRR) के रूप में मनाया जाता है। संयुक्त राष्ट्र महासभा ने आपदा जोखिमों के बारे में वैश्विक जागरूकता को बढ़ावा देने और उनके प्रभाव को कम करने के उपायों को प्रोत्साहित करने के लिए 1989 में इस अनुष्ठान की स्थापना की। 2026 में, theme है “Resilience Starts पर Home, सुरक्षित और किफायती आवास, आपदा तैयारी, प्रभावी प्रारंभिक चेतावनी प्रणाली और सामुदायिक लचीलेपन पर जोर देता है। यह पालन सरकारों और समुदायों को भवन मानकों को मजबूत करने, भूमि-उपयोग योजना में सुधार करने और रोकथाम में निवेश करने के लिए प्रोत्साहित करता है। यह आपदा जोखिम न्यूनीकरण 2015-2030 के लिए सेंडाई फ्रेमवर्क के उद्देश्यों का भी समर्थन करता है, जो आपदा जोखिमों और नुकसान को कम करने पर केंद्रित है।"
+      },
+      "gu": {
+        "question": "આપત્તિ જોખમ ઘટાડવા માટેનો આંતરરાષ્ટ્રીય દિવસ દર વર્ષે ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર 10",
+          "B": "ઓક્ટોબર 12",
+          "C": "15 ઓક્ટોબર",
+          "D": "ઓક્ટોબર 13"
+        },
+        "explanation": "ઑક્ટોબર 13 દર વર્ષે આપત્તિ જોખમ ઘટાડવા માટેના આંતરરાષ્ટ્રીય દિવસ (IDDRR) તરીકે ઉજવવામાં આવે છે. યુનાઈટેડ નેશન્સ જનરલ એસેમ્બલીએ 1989 માં આપત્તિના જોખમોની વૈશ્વિક જાગૃતિને પ્રોત્સાહન આપવા અને તેમની અસર ઘટાડવાના પગલાંને પ્રોત્સાહિત કરવા માટે પાલનની સ્થાપના કરી. 2026 માં, theme છે “Resilience Starts પર Home,\" સલામત અને સસ્તું આવાસ, આપત્તિની સજ્જતા, અસરકારક પ્રારંભિક ચેતવણી પ્રણાલીઓ અને સામુદાયિક સ્થિતિસ્થાપકતા પર ભાર મૂકે છે. આ પાલન સરકારો અને સમુદાયોને મકાન ધોરણોને મજબૂત કરવા, જમીન-ઉપયોગના આયોજનમાં સુધારો કરવા અને નિવારણમાં રોકાણ કરવા પ્રોત્સાહિત કરે છે. તે રિસ્ક્યુના ઉદ્દેશ્યોને પણ સમર્થન આપે છે. 2015-2030, જે આપત્તિના જોખમો અને નુકસાન ઘટાડવા પર ધ્યાન કેન્દ્રિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-13-9",
+      "date": "2026-10-13",
+      "qno": 9,
+      "answer": "D",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Navy guided missile stealth frigate arrived at Plymouth, United Kingdom, to participate in Exercise KONKAN-26?",
+        "options": {
+          "A": "INS Tabar",
+          "B": "INS Talwar",
+          "C": "INS Teg",
+          "D": "INS Trishul"
+        },
+        "explanation": "INS Trishul is a Talwar-class guided-missile stealth frigate of the Indian Navy that arrived at Plymouth, United Kingdom, on October 11, 2026, to participate in the annual bilateral maritime exercise KONKAN-26. Built in Russia, the warship was commissioned into the Indian Navy in 2003 and is part of the Western Fleet based in Mumbai. Exercise KONKAN-26 is conducted jointly by the Indian Navy and the Royal Navy to enhance interoperability and strengthen maritime cooperation. The exercise includes harbour and sea phases, featuring air defence drills, anti-submarine warfare, cross-deck flying operations, firing exercises, and complex seamanship evolutions. It supports the India-UK Comprehensive Strategic Partnership under the Vision 2035 framework."
+      },
+      "hi": {
+        "question": "कौन सी भारतीय नौसेना निर्देशित मिसाइल स्टील्थ फ्रिगेट कोंकण-26 अभ्यास में भाग लेने के लिए यूनाइटेड किंगडम के प्लायमाउथ पहुंची?",
+        "options": {
+          "A": "आईएनएस ताबर",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस तेग",
+          "D": "आईएनएस त्रिशूल"
+        },
+        "explanation": "आईएनएस त्रिशूल भारतीय नौसेना का एक तलवार-श्रेणी निर्देशित मिसाइल स्टील्थ फ्रिगेट है जो वार्षिक द्विपक्षीय समुद्री अभ्यास कोंकण-26 में भाग लेने के लिए 11 अक्टूबर, 2026 को प्लायमाउथ, यूनाइटेड किंगडम पहुंचा। रूस में निर्मित, इस युद्धपोत को 2003 में भारतीय नौसेना में शामिल किया गया था और यह मुंबई स्थित पश्चिमी बेड़े का हिस्सा है। अंतरसंचालनीयता बढ़ाने और समुद्री सहयोग को मजबूत करने के लिए भारतीय नौसेना और रॉयल नेवी द्वारा संयुक्त रूप से कोंकण-26 अभ्यास आयोजित किया जाता है। अभ्यास में बंदरगाह और समुद्री चरण शामिल हैं, जिसमें वायु रक्षा अभ्यास, पनडुब्बी रोधी युद्ध, क्रॉस-डेक उड़ान संचालन, फायरिंग अभ्यास और जटिल नाविक विकास शामिल हैं। यह विजन 2035 ढांचे के तहत भारत-यूके व्यापक रणनीतिक साझेदारी का समर्थन करता है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય નૌકાદળ માર્ગદર્શિત મિસાઇલ સ્ટીલ્થ ફ્રિગેટ પ્લાયમાઉથ, યુનાઇટેડ કિંગડમ ખાતે કોંકણ-26 અભ્યાસમાં ભાગ લેવા પહોંચ્યું?",
+        "options": {
+          "A": "INS તબર",
+          "B": "INS તલવાર",
+          "C": "INS Teg",
+          "D": "INS ત્રિશુલ"
+        },
+        "explanation": "INS ત્રિશુલ એ ભારતીય નૌકાદળનું તલવાર-ક્લાસ ગાઇડેડ-મિસાઇલ સ્ટીલ્થ ફ્રિગેટ છે જે વાર્ષિક દ્વિપક્ષીય દરિયાઇ કવાયત કોંકણ-26માં ભાગ લેવા 11 ઓક્ટોબર, 2026ના રોજ યુનાઇટેડ કિંગડમના પ્લાયમાઉથ ખાતે પહોંચ્યું હતું. રશિયામાં બનેલ, યુદ્ધ જહાજને 2003માં ભારતીય નૌકાદળમાં સામેલ કરવામાં આવ્યું હતું અને તે મુંબઈ સ્થિત પશ્ચિમી ફ્લીટનો એક ભાગ છે. કોંકણ-26 વ્યાયામ ભારતીય નૌકાદળ અને રોયલ નેવી દ્વારા સંયુક્ત રીતે આંતરકાર્યક્ષમતા વધારવા અને દરિયાઈ સહયોગને મજબૂત કરવા માટે કરવામાં આવે છે. આ કવાયતમાં બંદર અને દરિયાઈ તબક્કાઓનો સમાવેશ થાય છે, જેમાં હવાઈ સંરક્ષણ કવાયત, સબમરીન વિરોધી યુદ્ધ, ક્રોસ-ડેક ફ્લાઈંગ ઓપરેશન્સ, ફાયરિંગ કસરતો અને જટિલ સીમેનશિપ ઉત્ક્રાંતિનો સમાવેશ થાય છે. તે વિઝન 2035 ફ્રેમવર્ક હેઠળ ભારત-યુકે વ્યાપક વ્યૂહાત્મક ભાગીદારીને સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-13-10",
+      "date": "2026-10-13",
+      "qno": 10,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "Which Union Territory became India’s first 100% literate Union Territory under the ULLAS programme?",
+        "options": {
+          "A": "Puducherry",
+          "B": "Lakshadweep",
+          "C": "Chandigarh",
+          "D": "Andaman and Nicobar Islands"
+        },
+        "explanation": "Lakshadweep became India’s first 100% literate Union Territory on October 11, 2026, under the ULLAS-Nav Bharat Saaksharta Karyakram, a centrally sponsored adult education programme. The achievement followed the successful completion of the Foundational Literacy and Numeracy Assessment Test (FLNAT) by all eligible learners. An initial survey identified 1,113 adult non-literate individuals in the territory. The Education Department organised teaching programmes and assessments to help learners acquire basic reading, writing, and numeracy skills. Teachers and supervisors also conducted assessments at learners’ homes when they could not visit examination centres. ULLAS promotes adult education and lifelong learning."
+      },
+      "hi": {
+        "question": "ULLAS कार्यक्रम के तहत कौन सा केंद्र शासित प्रदेश भारत का पहला 100% साक्षर केंद्र शासित प्रदेश बन गया?",
+        "options": {
+          "A": "पुडुचेरी",
+          "B": "लक्षद्वीप",
+          "C": "चंडीगढ़",
+          "D": "अंडमान और निकोबार द्वीप समूह"
+        },
+        "explanation": "केंद्र प्रायोजित वयस्क शिक्षा कार्यक्रम, उल्लस-नव भारत साक्षरता कार्यक्रम के तहत 11 अक्टूबर, 2026 को लक्षद्वीप भारत का पहला 100% साक्षर केंद्र शासित प्रदेश बन गया। यह उपलब्धि सभी योग्य शिक्षार्थियों द्वारा फाउंडेशनल लिटरेसी एंड न्यूमेरेसी असेसमेंट टेस्ट (FLNAT) को सफलतापूर्वक पूरा करने के बाद मिली। प्रारंभिक सर्वेक्षण में क्षेत्र में 1,113 वयस्क गैर-साक्षर व्यक्तियों की पहचान की गई। शिक्षा विभाग ने शिक्षार्थियों को बुनियादी पढ़ने, लिखने और संख्यात्मक कौशल हासिल करने में मदद करने के लिए शिक्षण कार्यक्रम और मूल्यांकन आयोजित किए। जब शिक्षक और पर्यवेक्षक परीक्षा केंद्रों पर नहीं जा सके तो उन्होंने विद्यार्थियों के घरों पर भी मूल्यांकन किया। ULLAS वयस्क शिक्षा और आजीवन सीखने को बढ़ावा देता है।"
+      },
+      "gu": {
+        "question": "ULLAS પ્રોગ્રામ હેઠળ કયો કેન્દ્રશાસિત પ્રદેશ ભારતનો પ્રથમ 100% સાક્ષર કેન્દ્રશાસિત પ્રદેશ બન્યો?",
+        "options": {
+          "A": "પુડુચેરી",
+          "B": "લક્ષદ્વીપ",
+          "C": "ચંડીગઢ",
+          "D": "આંદામાન અને નિકોબાર ટાપુઓ"
+        },
+        "explanation": "કેન્દ્રીય પ્રાયોજિત પુખ્ત શિક્ષણ કાર્યક્રમ ULLAS-Nav Bharat Saakharta Karyakram હેઠળ, 11 ઓક્ટોબર, 2026 ના રોજ લક્ષદ્વીપ ભારતનો પ્રથમ 100% સાક્ષર કેન્દ્રશાસિત પ્રદેશ બન્યો. તમામ પાત્રતા ધરાવતા વિદ્યાર્થીઓ દ્વારા ફાઉન્ડેશનલ લિટરેસી એન્ડ ન્યુમરસી એસેસમેન્ટ ટેસ્ટ (FLNAT) સફળતાપૂર્વક પૂર્ણ કર્યા બાદ આ સિદ્ધિ પ્રાપ્ત થઈ છે. પ્રારંભિક સર્વેક્ષણમાં પ્રદેશમાં 1,113 પુખ્ત બિન-સાક્ષર વ્યક્તિઓની ઓળખ કરવામાં આવી હતી. શિક્ષણ વિભાગે શીખનારાઓને મૂળભૂત વાંચન, લેખન અને સંખ્યાની કુશળતા પ્રાપ્ત કરવામાં મદદ કરવા માટે શિક્ષણ કાર્યક્રમો અને મૂલ્યાંકનોનું આયોજન કર્યું હતું. શિક્ષકો અને નિરીક્ષકોએ જ્યારે વિદ્યાર્થીઓ પરીક્ષા કેન્દ્રોની મુલાકાત લઈ શક્યા ન હતા ત્યારે તેમના ઘરે પણ મૂલ્યાંકન કર્યું હતું. ULLAS પુખ્ત શિક્ષણ અને આજીવન શિક્ષણને પ્રોત્સાહન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-1",
+      "date": "2026-10-11",
+      "qno": 1,
       "answer": "D",
       "category": "Technology",
       "en": {
@@ -54069,9 +54255,231 @@
       }
     },
     {
+      "id": "2026-10-11-2",
+      "date": "2026-10-11",
+      "qno": 2,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "options": {
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
+        },
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+      },
+      "hi": {
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "options": {
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "options": {
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+        },
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "qno": 3,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
+        "options": {
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
+        },
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
+      },
+      "hi": {
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
+        "options": {
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
+        },
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
+        },
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "qno": 4,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "options": {
+          "A": "Argentina",
+          "B": "Nepal",
+          "C": "Bhutan",
+          "D": "Chile"
+        },
+        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+      },
+      "hi": {
+        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "options": {
+          "A": "अर्जेंटीना",
+          "B": "नेपाल",
+          "C": "भूटान",
+          "D": "चिली"
+        },
+        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+      },
+      "gu": {
+        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "options": {
+          "A": "આર્જેન્ટિના",
+          "B": "નેપાળ",
+          "C": "ભુતાન",
+          "D": "ચિલી"
+        },
+        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "qno": 5,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
+        },
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
+      },
+      "hi": {
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
+        },
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
+      },
+      "gu": {
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
+        },
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "options": {
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
+        },
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+      },
+      "hi": {
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "options": {
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
+        },
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+      },
+      "gu": {
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "options": {
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
+        },
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+      }
+    },
+    {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "options": {
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
+        },
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "options": {
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "options": {
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
+      }
+    },
+    {
+      "id": "2026-10-10-2",
+      "date": "2026-10-10",
+      "qno": 2,
       "answer": "B",
       "category": "Important Days",
       "en": {
@@ -54103,43 +54511,6 @@
           "D": "20 ઓક્ટોબર"
         },
         "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-2",
-      "date": "2026-10-10",
-      "qno": 2,
-      "answer": "A",
-      "category": "Awards and Honours",
-      "en": {
-        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
-        "options": {
-          "A": "Henri Kagan And Kenso Soai",
-          "B": "Susumu Kitagawa And Richard Robson",
-          "C": "Omar Yaghi And Frances Arnold",
-          "D": "David Baker And Demis Hassabis"
-        },
-        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
-      },
-      "hi": {
-        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
-        "options": {
-          "A": "हेनरी कगन और केन्सो सोई",
-          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
-          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
-          "D": "डेविड बेकर और डेमिस हसाबिस"
-        },
-        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
-      },
-      "gu": {
-        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
-        "options": {
-          "A": "હેનરી કાગન અને કેન્સો સોઇ",
-          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
-          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
-          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
-        },
-        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
       }
     },
     {
@@ -54220,80 +54591,6 @@
       "id": "2026-10-10-5",
       "date": "2026-10-10",
       "qno": 5,
-      "answer": "D",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
-        "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
-        },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
-        "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
-        },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
-      },
-      "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
-        "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
-        },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
-      "answer": "A",
-      "category": "Banking",
-      "en": {
-        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
-      },
-      "hi": {
-        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
-      },
-      "gu": {
-        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-7",
-      "date": "2026-10-10",
-      "qno": 7,
       "answer": "C",
       "category": "Environment",
       "en": {
@@ -54325,6 +54622,80 @@
           "D": "મધ્યપ્રદેશ"
         },
         "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "options": {
+          "A": "Henri Kagan And Kenso Soai",
+          "B": "Susumu Kitagawa And Richard Robson",
+          "C": "Omar Yaghi And Frances Arnold",
+          "D": "David Baker And Demis Hassabis"
+        },
+        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+      },
+      "hi": {
+        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "options": {
+          "A": "हेनरी कगन और केन्सो सोई",
+          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
+          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
+          "D": "डेविड बेकर और डेमिस हसाबिस"
+        },
+        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+      },
+      "gu": {
+        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "options": {
+          "A": "હેનરી કાગન અને કેન્સો સોઇ",
+          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
+          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
+          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+        },
+        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
+      },
+      "gu": {
+        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
       }
     }
   ]
