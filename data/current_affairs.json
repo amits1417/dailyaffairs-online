@@ -54592,191 +54592,6 @@
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
-      "answer": "B",
-      "category": "Sports",
-      "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
-        "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
-        },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
-      },
-      "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
-        "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
-        },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
-      },
-      "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
-        "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
-        },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-2",
-      "date": "2026-10-11",
-      "qno": 2,
-      "answer": "A",
-      "category": "Important Days",
-      "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
-        "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
-        },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
-      },
-      "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
-        "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
-        },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
-      },
-      "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
-        "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
-        },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
-      "qno": 3,
-      "answer": "D",
-      "category": "Technology",
-      "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
-        "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
-        },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
-      },
-      "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
-        "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
-        },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
-      },
-      "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
-        "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
-        },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-4",
-      "date": "2026-10-11",
-      "qno": 4,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
-        "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
-        },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
-      },
-      "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
-        "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
-        },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
-      },
-      "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
-        "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
-        },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-5",
-      "date": "2026-10-11",
-      "qno": 5,
-      "answer": "A",
-      "category": "Defence",
-      "en": {
-        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
-        "options": {
-          "A": "Argentina",
-          "B": "Nepal",
-          "C": "Bhutan",
-          "D": "Chile"
-        },
-        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
-      },
-      "hi": {
-        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
-        "options": {
-          "A": "अर्जेंटीना",
-          "B": "नेपाल",
-          "C": "भूटान",
-          "D": "चिली"
-        },
-        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
-      },
-      "gu": {
-        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
-        "options": {
-          "A": "આર્જેન્ટિના",
-          "B": "નેપાળ",
-          "C": "ભુતાન",
-          "D": "ચિલી"
-        },
-        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-6",
-      "date": "2026-10-11",
-      "qno": 6,
       "answer": "C",
       "category": "State",
       "en": {
@@ -54811,46 +54626,194 @@
       }
     },
     {
-      "id": "2026-10-10-1",
-      "date": "2026-10-10",
-      "qno": 1,
+      "id": "2026-10-11-2",
+      "date": "2026-10-11",
+      "qno": 2,
       "answer": "B",
-      "category": "National",
+      "category": "Sports",
       "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
         "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
         },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
       },
       "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
         "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
         },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
       },
       "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
         "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
         },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
       }
     },
     {
-      "id": "2026-10-10-2",
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "qno": 3,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "options": {
+          "A": "Argentina",
+          "B": "Nepal",
+          "C": "Bhutan",
+          "D": "Chile"
+        },
+        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+      },
+      "hi": {
+        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "options": {
+          "A": "अर्जेंटीना",
+          "B": "नेपाल",
+          "C": "भूटान",
+          "D": "चिली"
+        },
+        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+      },
+      "gu": {
+        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "options": {
+          "A": "આર્જેન્ટિના",
+          "B": "નેપાળ",
+          "C": "ભુતાન",
+          "D": "ચિલી"
+        },
+        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "qno": 4,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
+        "options": {
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
+        },
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
+      },
+      "hi": {
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
+        "options": {
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
+        },
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
+        },
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "qno": 5,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "options": {
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
+        },
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+      },
+      "hi": {
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "options": {
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "options": {
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+        },
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-1",
       "date": "2026-10-10",
-      "qno": 2,
+      "qno": 1,
       "answer": "A",
       "category": "Banking",
       "en": {
@@ -54885,83 +54848,9 @@
       }
     },
     {
-      "id": "2026-10-10-3",
+      "id": "2026-10-10-2",
       "date": "2026-10-10",
-      "qno": 3,
-      "answer": "D",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
-        "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
-        },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
-        "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
-        },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
-      },
-      "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
-        "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
-        },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-5",
-      "date": "2026-10-10",
-      "qno": 5,
+      "qno": 2,
       "answer": "C",
       "category": "Defence",
       "en": {
@@ -54996,9 +54885,46 @@
       }
     },
     {
-      "id": "2026-10-10-6",
+      "id": "2026-10-10-3",
       "date": "2026-10-10",
-      "qno": 6,
+      "qno": 3,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
       "answer": "C",
       "category": "Environment",
       "en": {
@@ -55033,9 +54959,9 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-5",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 5,
       "answer": "A",
       "category": "Awards and Honours",
       "en": {
@@ -55067,6 +54993,80 @@
           "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
         },
         "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "options": {
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
+        },
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+      },
+      "hi": {
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "options": {
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
+        },
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+      },
+      "gu": {
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
+        },
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "options": {
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
+        },
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "options": {
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "options": {
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
       }
     }
   ]
