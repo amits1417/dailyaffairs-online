@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-10-14",
     "2026-10-13",
     "2026-10-12",
     "2026-10-11",
@@ -54218,6 +54219,376 @@
       }
     },
     {
+      "id": "2026-10-14-1",
+      "date": "2026-10-14",
+      "qno": 1,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which indigenous multi-purpose vessel is the Indian Navy scheduled to commission at Naval Base Karwar on October 16, 2026?",
+        "options": {
+          "A": "Samarthak",
+          "B": "Samudra",
+          "C": "Vikrant",
+          "D": "Arnala"
+        },
+        "explanation": "Samarthak is an indigenously built multi-purpose vessel scheduled to be commissioned into the Indian Navy at Naval Base Karwar, Karnataka, on October 16, 2026. Developed by Larsen & Toubro (L&T) Limited under the Government of India's Make in India programme, it is the first of four planned multi-purpose vessels. Samarthak is designed to perform several maritime roles, including surveillance and patrolling, low-intensity maritime operations, target deployment and testing, and support for unmanned and autonomous systems. It can also assist in humanitarian relief, firefighting, hospital support and salvage operations. Its induction will strengthen India's indigenous shipbuilding capabilities and reduce dependence on foreign defence systems."
+      },
+      "hi": {
+        "question": "भारतीय नौसेना किस स्वदेशी बहुउद्देश्यीय जहाज को 16 अक्टूबर, 2026 को नौसेना बेस कारवार में चालू करने वाली है?",
+        "options": {
+          "A": "समर्थ",
+          "B": "समुद्र",
+          "C": "विक्रांत",
+          "D": "अरनाला"
+        },
+        "explanation": "समर्थ एक स्वदेशी रूप से निर्मित बहुउद्देश्यीय पोत है जिसे 16 अक्टूबर, 2026 को कर्नाटक के नौसेना बेस कारवार में भारतीय नौसेना में शामिल किया जाना है। भारत सरकार की स्वदेशी जहाज निर्माण क्षमताओं और विदेशी रक्षा प्रणालियों पर निर्भरता को कम करने के तहत लार्सन एंड टुब्रो (एल एंड टी) लिमिटेड द्वारा विकसित किया गया है।"
+      },
+      "gu": {
+        "question": "ભારતીય નૌકાદળ 16 ઓક્ટોબર, 2026 ના રોજ કારવાર નેવલ બેઝ ખાતે કયું સ્વદેશી બહુહેતુક જહાજ શરૂ કરશે?",
+        "options": {
+          "A": "સમર્થક",
+          "B": "સમુદ્ર",
+          "C": "વિક્રાંત",
+          "D": "અર્નાલા"
+        },
+        "explanation": "સમર્થક એ સ્વદેશી રીતે નિર્મિત બહુહેતુક જહાજ છે જે 16 ઓક્ટોબર, 2026 ના રોજ કર્ણાટકના નેવલ બેઝ કારવાર ખાતે ભારતીય નૌકાદળમાં કાર્યરત થવાનું છે. ભારત સરકાર's Make માં India programme, it છે  પ્રથમ નું four planned multi-purpose vessels. Samarthak છે designed ને perform several maritime roles, including surveillance અને patrolling, low-intensity maritime operations, target deployment અને testing, અને support માટે unmanned અને autonomous systems. It શકે છે પણ assist માં humanitarian relief, firefighting, hospital support અને salvage operations. Its induction થશે strengthen India' સ્વદેશી સંરક્ષણ પ્રણાલી પર નિર્ભરતા અને વિદેશી ક્ષમતાઓ પર નિર્ભરતા ઘટાડવા લાર્સન એન્ડ ટુબ્રો (L&T) લિમિટેડ દ્વારા વિકસિત."
+      }
+    },
+    {
+      "id": "2026-10-14-2",
+      "date": "2026-10-14",
+      "qno": 2,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "What was India's Wholesale Price Index (WPI) inflation rate in September 2026?",
+        "options": {
+          "A": "9.92%",
+          "B": "10.28%",
+          "C": "11.39%",
+          "D": "12.85%"
+        },
+        "explanation": "India's Wholesale Price Index (WPI) inflation rose to 11.39% in September 2026, compared with 9.92% in August 2026, according to data released by the Ministry of Commerce and Industry on October 14. This was the highest inflation rate recorded under the current WPI series, which uses 2022–23 as its base year. The increase was driven by rising prices in food items, fuel and power, and manufactured goods. Fuel and power inflation climbed to 25.85%, while food inflation reached an eight-month comparison figure of 8.14% in the reported data. Inflation in manufactured goods also increased to 9.76%. WPI measures changes in the prices of goods in wholesale markets before they reach final consumers."
+      },
+      "hi": {
+        "question": "सितंबर 2026 में भारत की थोक मूल्य सूचकांक (WPI) मुद्रास्फीति दर क्या थी?",
+        "options": {
+          "A": "9.92%",
+          "B": "10.28%",
+          "C": "11.39%",
+          "D": "12.85%"
+        },
+        "explanation": "14 अक्टूबर को वाणिज्य और उद्योग मंत्रालय द्वारा जारी आंकड़ों के अनुसार, भारत की थोक मूल्य सूचकांक (डब्ल्यूपीआई) मुद्रास्फीति सितंबर 2026 में बढ़कर 11.39% हो गई, जबकि अगस्त 2026 में यह 9.92% थी। यह वर्तमान डब्ल्यूपीआई श्रृंखला के तहत दर्ज की गई उच्चतम मुद्रास्फीति दर थी, जो 2022-23 को अपने आधार वर्ष के रूप में उपयोग करती है। यह वृद्धि खाद्य पदार्थों, ईंधन और बिजली और विनिर्मित वस्तुओं की बढ़ती कीमतों के कारण हुई। रिपोर्ट किए गए आंकड़ों में ईंधन और बिजली मुद्रास्फीति बढ़कर 25.85% हो गई, जबकि खाद्य मुद्रास्फीति आठ महीने के तुलनात्मक आंकड़े 8.14% पर पहुंच गई। विनिर्मित वस्तुओं की मुद्रास्फीति भी बढ़कर 9.76% हो गई। WPI अंतिम उपभोक्ताओं तक पहुंचने से पहले थोक बाजारों में वस्तुओं की कीमतों में बदलाव को मापता है।"
+      },
+      "gu": {
+        "question": "સપ્ટેમ્બર 2026 માં ભારતનો જથ્થાબંધ ભાવ સૂચકાંક (WPI) ફુગાવાનો દર કેટલો હતો?",
+        "options": {
+          "A": "9.92%",
+          "B": "10.28%",
+          "C": "11.39%",
+          "D": "12.85%"
+        },
+        "explanation": "ભારતનો જથ્થાબંધ ભાવ સૂચકાંક (WPI) ફુગાવો સપ્ટેમ્બર 2026 માં વધીને 11.39% થયો હતો, જે ઓગસ્ટ 2026 માં 9.92% હતો, 14 ઓક્ટોબરના રોજ વાણિજ્ય અને ઉદ્યોગ મંત્રાલય દ્વારા બહાર પાડવામાં આવેલ ડેટા અનુસાર. વર્તમાન WPI શ્રેણી હેઠળ આ સૌથી વધુ ફુગાવાનો દર હતો, જે તેના આધાર વર્ષ 202-2022 નો ઉપયોગ કરે છે. આ વધારો ખાદ્ય ચીજવસ્તુઓ, બળતણ અને પાવર અને ઉત્પાદિત ચીજવસ્તુઓના ભાવમાં વધારો થવાને કારણે થયો હતો. ઈંધણ અને વીજ ફુગાવો વધીને 25.85% પર પહોંચી ગયો છે, જ્યારે ખાદ્યપદાર્થોનો ફુગાવો અહેવાલિત ડેટામાં 8.14% ના આઠ મહિનાના તુલનાત્મક આંકડા પર પહોંચ્યો છે. ઉત્પાદિત માલસામાનનો ફુગાવો પણ વધીને 9.76% થયો છે. WPI અંતિમ ગ્રાહકો સુધી પહોંચે તે પહેલા જથ્થાબંધ બજારોમાં માલના ભાવમાં ફેરફારને માપે છે."
+      }
+    },
+    {
+      "id": "2026-10-14-3",
+      "date": "2026-10-14",
+      "qno": 3,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "What was the total number of internet subscribers in India as of June 2026, according to the TRAI report?",
+        "options": {
+          "A": "1.05 Billion",
+          "B": "1.08 Billion",
+          "C": "1.09 Billion",
+          "D": "1.11 Billion"
+        },
+        "explanation": "India had approximately 1.11 billion internet subscribers as of June 2026, according to the Telecom Regulatory Authority of India (TRAI). The total number reached 1,114.17 million, increasing from 1,092.79 million in March 2026, which represents a growth of 1.96%. Wireless internet subscribers accounted for 1,066.43 million, while wired internet subscribers totalled 47.73 million. Broadband subscriptions increased by 2.03% to reach 1,087.50 million, whereas narrowband subscriptions declined by 0.89%. The report also highlighted differences in internet penetration between rural and urban areas, reflecting the continuing need to improve digital connectivity across the country."
+      },
+      "hi": {
+        "question": "TRAI की रिपोर्ट के अनुसार, जून 2026 तक भारत में इंटरनेट ग्राहकों की कुल संख्या कितनी थी?",
+        "options": {
+          "A": "1.05 अरब",
+          "B": "1.08 बिलियन",
+          "C": "1.09 अरब",
+          "D": "1.11 अरब"
+        },
+        "explanation": "भारतीय दूरसंचार नियामक प्राधिकरण (TRAI) के अनुसार, जून 2026 तक भारत में लगभग 1.11 बिलियन इंटरनेट ग्राहक थे। मार्च 2026 में 1,092.79 मिलियन से बढ़कर कुल संख्या 1,114.17 मिलियन तक पहुंच गई, जो 1.96% की वृद्धि दर्शाती है। वायरलेस इंटरनेट ग्राहकों की संख्या 1,066.43 मिलियन थी, जबकि वायर्ड इंटरनेट ग्राहकों की संख्या 47.73 मिलियन थी। ब्रॉडबैंड सब्सक्रिप्शन 2.03% बढ़कर 1,087.50 मिलियन तक पहुंच गया, जबकि नैरोबैंड सब्सक्रिप्शन में 0.89% की गिरावट आई। रिपोर्ट में ग्रामीण और शहरी क्षेत्रों के बीच इंटरनेट की पहुंच में अंतर को भी उजागर किया गया है, जो देश भर में डिजिटल कनेक्टिविटी में सुधार की निरंतर आवश्यकता को दर्शाता है।"
+      },
+      "gu": {
+        "question": "TRAIના અહેવાલ મુજબ, જૂન 2026 સુધીમાં ભારતમાં ઇન્ટરનેટ સબ્સ્ક્રાઇબર્સની કુલ સંખ્યા કેટલી હતી?",
+        "options": {
+          "A": "1.05 અબજ",
+          "B": "1.08 અબજ",
+          "C": "1.09 અબજ",
+          "D": "1.11 અબજ"
+        },
+        "explanation": "ટેલિકોમ રેગ્યુલેટરી ઓથોરિટી ઓફ ઈન્ડિયા (TRAI) અનુસાર જૂન 2026 સુધીમાં ભારતમાં આશરે 1.11 બિલિયન ઈન્ટરનેટ સબ્સ્ક્રાઈબર્સ હતા. માર્ચ 2026 માં 1,092.79 મિલિયનથી વધીને કુલ સંખ્યા 1,114.17 મિલિયન પર પહોંચી, જે 1.96% ની વૃદ્ધિ દર્શાવે છે. વાયરલેસ ઇન્ટરનેટ સબ્સ્ક્રાઇબર્સનો હિસ્સો 1,066.43 મિલિયન છે, જ્યારે વાયર્ડ ઇન્ટરનેટ સબ્સ્ક્રાઇબર્સ કુલ 47.73 મિલિયન છે. બ્રોડબેન્ડ સબ્સ્ક્રિપ્શન્સ 2.03% વધીને 1,087.50 મિલિયન સુધી પહોંચી ગયા, જ્યારે નેરોબેન્ડ સબ્સ્ક્રિપ્શન્સમાં 0.89% ઘટાડો થયો. રિપોર્ટમાં ગ્રામીણ અને શહેરી વિસ્તારો વચ્ચે ઈન્ટરનેટના પ્રવેશમાં તફાવતો પણ પ્રકાશિત કરવામાં આવ્યા છે, જે સમગ્ર દેશમાં ડિજિટલ કનેક્ટિવિટીને સુધારવાની સતત જરૂરિયાતને પ્રતિબિંબિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-14-4",
+      "date": "2026-10-14",
+      "qno": 4,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "In how many languages can users access scientific content through the redeveloped DST and MoST websites using the Bhashini platform?",
+        "options": {
+          "A": "22",
+          "B": "18",
+          "C": "15",
+          "D": "12"
+        },
+        "explanation": "The redeveloped websites of the Department of Science and Technology (DST) and the Ministry of Science and Technology (MoST) provide access to scientific content in 22 languages through integration with the Bhashini platform. Union Minister Dr Jitendra Singh launched these websites on October 9, 2026, to improve public access to scientific information and government services. The websites were jointly redeveloped by DST and the National Informatics Centre (NIC), following government website standards. They offer single-window access to research grants, fellowships and scientific schemes for students, researchers and start-ups. Accessibility features include screen-reader compatibility, adjustable font sizes and high-contrast modes, helping users access information across different devices."
+      },
+      "hi": {
+        "question": "भाषिनी प्लेटफॉर्म का उपयोग करके उपयोगकर्ता पुनर्विकसित डीएसटी और एमओएसटी वेबसाइटों के माध्यम से कितनी भाषाओं में वैज्ञानिक सामग्री तक पहुंच सकते हैं?",
+        "options": {
+          "A": "22",
+          "B": "18",
+          "C": "15",
+          "D": "12"
+        },
+        "explanation": "विज्ञान और प्रौद्योगिकी विभाग (डीएसटी) और विज्ञान और प्रौद्योगिकी मंत्रालय (एमओएसटी) की पुनर्विकसित वेबसाइटें भाषिनी प्लेटफॉर्म के साथ एकीकरण के माध्यम से 22 भाषाओं में वैज्ञानिक सामग्री तक पहुंच प्रदान करती हैं। केंद्रीय मंत्री डॉ. जितेंद्र सिंह ने वैज्ञानिक जानकारी और सरकारी सेवाओं तक सार्वजनिक पहुंच में सुधार के लिए 9 अक्टूबर, 2026 को इन वेबसाइटों को लॉन्च किया। सरकारी वेबसाइट मानकों का पालन करते हुए, वेबसाइटों को डीएसटी और राष्ट्रीय सूचना विज्ञान केंद्र (एनआईसी) द्वारा संयुक्त रूप से पुनर्विकास किया गया था। वे छात्रों, शोधकर्ताओं और स्टार्ट-अप के लिए अनुसंधान अनुदान, फ़ेलोशिप और वैज्ञानिक योजनाओं तक एकल-खिड़की पहुंच प्रदान करते हैं। एक्सेसिबिलिटी सुविधाओं में स्क्रीन-रीडर संगतता, समायोज्य फ़ॉन्ट आकार और उच्च-कंट्रास्ट मोड शामिल हैं, जो उपयोगकर्ताओं को विभिन्न उपकरणों पर जानकारी तक पहुंचने में मदद करते हैं।"
+      },
+      "gu": {
+        "question": "ભાશિની પ્લેટફોર્મનો ઉપયોગ કરીને પુનઃવિકાસિત DST અને સૌથી વેબસાઇટ્સ દ્વારા વપરાશકર્તાઓ કેટલી ભાષાઓમાં વૈજ્ઞાનિક સામગ્રીને ઍક્સેસ કરી શકે છે?",
+        "options": {
+          "A": "22",
+          "B": "18",
+          "C": "15",
+          "D": "12"
+        },
+        "explanation": "ડિપાર્ટમેન્ટ ઓફ સાયન્સ એન્ડ ટેક્નોલોજી (DST) અને મિનિસ્ટ્રી ઓફ સાયન્સ એન્ડ ટેક્નોલોજી (સૌથી) ની પુનઃવિકાસ કરેલી વેબસાઈટ ભાશિની પ્લેટફોર્મ સાથે એકીકરણ દ્વારા 22 ભાષાઓમાં વૈજ્ઞાનિક સામગ્રીની ઍક્સેસ પ્રદાન કરે છે. કેન્દ્રીય મંત્રી ડૉ. જીતેન્દ્ર સિંહે 9 ઑક્ટોબર, 2026ના રોજ વૈજ્ઞાનિક માહિતી અને સરકારી સેવાઓની જાહેર ઍક્સેસને બહેતર બનાવવા માટે આ વેબસાઈટ્સ શરૂ કરી. DST અને નેશનલ ઈન્ફોર્મેટિક્સ સેન્ટર (NIC) દ્વારા સરકારી વેબસાઈટના ધોરણોને અનુસરીને વેબસાઈટનો સંયુક્ત રીતે પુનઃવિકાસ કરવામાં આવ્યો હતો. તેઓ વિદ્યાર્થીઓ, સંશોધકો અને સ્ટાર્ટ-અપ્સ માટે સંશોધન અનુદાન, ફેલોશિપ અને વૈજ્ઞાનિક યોજનાઓ માટે સિંગલ-વિંડો ઍક્સેસ પ્રદાન કરે છે. ઍક્સેસિબિલિટી સુવિધાઓમાં સ્ક્રીન-રીડર સુસંગતતા, એડજસ્ટેબલ ફોન્ટ કદ અને ઉચ્ચ-કોન્ટ્રાસ્ટ મોડ્સનો સમાવેશ થાય છે, જે વપરાશકર્તાઓને વિવિધ ઉપકરણો પર માહિતીને ઍક્સેસ કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-14-5",
+      "date": "2026-10-14",
+      "qno": 5,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which organisation successfully tested a Quantum Key Distribution (QKD) system on the operational network of dynamic test ranges at Chandipur, Odisha?",
+        "options": {
+          "A": "DRDO",
+          "B": "ISRO",
+          "C": "BARC",
+          "D": "BEL"
+        },
+        "explanation": "The Defence Research and Development Organisation (DRDO) successfully integrated and demonstrated a Quantum Key Distribution (QKD) system on the operational network of dynamic test ranges at the Proof and Experimental Establishment (PXE), Chandipur, Odisha. The system is designed to strengthen secure defence communications, particularly for protecting sensitive telemetry data generated during artillery and armoured weapon trials. It was developed by DRDO’s Microelectronics Devices, Computational Systems, and Cyber Security (MCC) cluster in collaboration with industry partner Taqbit Labs. QKD uses principles of quantum mechanics to distribute cryptographic keys and can help detect eavesdropping attempts. This achievement supports India's efforts to develop indigenous quantum-secure communication technologies for critical defence applications."
+      },
+      "hi": {
+        "question": "किस संगठन ने ओडिशा के चांदीपुर में गतिशील परीक्षण रेंज के परिचालन नेटवर्क पर क्वांटम कुंजी वितरण (क्यूकेडी) प्रणाली का सफलतापूर्वक परीक्षण किया?",
+        "options": {
+          "A": "डीआरडीओ",
+          "B": "इसरो",
+          "C": "बीएआरसी",
+          "D": "बीईएल"
+        },
+        "explanation": "रक्षा अनुसंधान और विकास संगठन (डीआरडीओ) ने प्रूफ और प्रायोगिक प्रतिष्ठान (पीएक्सई), चांदीपुर, ओडिशा में गतिशील परीक्षण रेंज के परिचालन नेटवर्क पर क्वांटम कुंजी वितरण (क्यूकेडी) प्रणाली को सफलतापूर्वक एकीकृत और प्रदर्शित किया। सिस्टम को सुरक्षित रक्षा संचार को मजबूत करने के लिए डिज़ाइन किया गया है, विशेष रूप से तोपखाने और बख्तरबंद हथियार परीक्षणों के दौरान उत्पन्न संवेदनशील टेलीमेट्री डेटा की सुरक्षा के लिए। इसे डीआरडीओ के माइक्रोइलेक्ट्रॉनिक्स डिवाइसेस, कम्प्यूटेशनल सिस्टम्स और साइबर सिक्योरिटी (एमसीसी) क्लस्टर द्वारा उद्योग भागीदार टैकबिट लैब्स के सहयोग से विकसित किया गया था। QKD क्रिप्टोग्राफ़िक कुंजी वितरित करने के लिए क्वांटम यांत्रिकी के सिद्धांतों का उपयोग करता है और छिपकर बातें सुनने के प्रयासों का पता लगाने में मदद कर सकता है। यह उपलब्धि महत्वपूर्ण रक्षा अनुप्रयोगों के लिए स्वदेशी क्वांटम-सुरक्षित संचार प्रौद्योगिकियों को विकसित करने के भारत के प्रयासों का समर्थन करती है।"
+      },
+      "gu": {
+        "question": "કઈ સંસ્થાએ ચાંદીપુર, ઓડિશા ખાતે ડાયનેમિક ટેસ્ટ રેન્જના ઓપરેશનલ નેટવર્ક પર ક્વોન્ટમ કી ડિસ્ટ્રિબ્યુશન (QKD) સિસ્ટમનું સફળતાપૂર્વક પરીક્ષણ કર્યું?",
+        "options": {
+          "A": "ડીઆરડીઓ",
+          "B": "ઈસરો",
+          "C": "BARC",
+          "D": "BEL"
+        },
+        "explanation": "સંરક્ષણ સંશોધન અને વિકાસ સંગઠન (DRDO) એ પ્રૂફ એન્ડ એક્સપેરિમેન્ટલ એસ્ટાબ્લિશમેન્ટ (PXE), ચાંદીપુર, ઓડિશા ખાતે ડાયનેમિક ટેસ્ટ રેન્જના ઓપરેશનલ નેટવર્ક પર ક્વોન્ટમ કી ડિસ્ટ્રિબ્યુશન (QKD) સિસ્ટમ સફળતાપૂર્વક એકીકૃત અને નિદર્શન કર્યું. સિસ્ટમ સુરક્ષિત સંરક્ષણ સંચારને મજબૂત કરવા માટે બનાવવામાં આવી છે, ખાસ કરીને આર્ટિલરી અને આર્મર્ડ વેપન ટ્રાયલ દરમિયાન જનરેટ થયેલા સંવેદનશીલ ટેલિમેટ્રી ડેટાને સુરક્ષિત કરવા માટે. તે DRDOના માઇક્રોઇલેક્ટ્રોનિક્સ ઉપકરણો, કોમ્પ્યુટેશનલ સિસ્ટમ્સ અને સાયબર સિક્યુરિટી (MCC) ક્લસ્ટર દ્વારા ઉદ્યોગ ભાગીદાર તકબિટ લેબ્સના સહયોગથી વિકસાવવામાં આવ્યું હતું. QKD ક્રિપ્ટોગ્રાફિક કીના વિતરણ માટે ક્વોન્ટમ મિકેનિક્સના સિદ્ધાંતોનો ઉપયોગ કરે છે અને છળકપટના પ્રયાસોને શોધવામાં મદદ કરી શકે છે. આ સિદ્ધિ નિર્ણાયક સંરક્ષણ કાર્યક્રમો માટે સ્વદેશી ક્વોન્ટમ-સિક્યોર કોમ્યુનિકેશન ટેકનોલોજી વિકસાવવાના ભારતના પ્રયાસોને સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-14-6",
+      "date": "2026-10-14",
+      "qno": 6,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Who won the Young Wildlife Photographer of the Year 2026 award for the black-and-white photograph titled ‘Labour of Love’?",
+        "options": {
+          "A": "Jamie Smart",
+          "B": "Oscar Whitfield",
+          "C": "Thomas Vijayan",
+          "D": "Nima Sarikhani"
+        },
+        "explanation": "Oscar Whitfield, a 14-year-old British photographer, won the Young Wildlife Photographer of the Year 2026 award for his black-and-white photograph titled ‘Labour of Love’. The photograph, captured in Zimbabwe, shows a dung beetle carrying a ball of dung from a ground-level perspective. The competition is organised annually by the Natural History Museum in London, United Kingdom, to recognise outstanding wildlife photography and highlight animal behaviour and biodiversity. The 62nd edition received a record 65,403 entries from 121 countries and territories. The 2026 competition was notable because both the adult and young overall winners were recognised for black-and-white photographs."
+      },
+      "hi": {
+        "question": "'लेबर ऑफ लव' शीर्षक वाली श्वेत-श्याम तस्वीर के लिए यंग वाइल्डलाइफ फ़ोटोग्राफ़र ऑफ़ द ईयर 2026 का पुरस्कार किसने जीता?",
+        "options": {
+          "A": "जेमी स्मार्ट",
+          "B": "ऑस्कर व्हिटफ़ील्ड",
+          "C": "थॉमस विजयन",
+          "D": "नीमा सरीखानी"
+        },
+        "explanation": "14 वर्षीय ब्रिटिश फ़ोटोग्राफ़र ऑस्कर व्हिटफ़ील्ड ने 'लेबर ऑफ़ लव' शीर्षक वाली अपनी श्वेत-श्याम तस्वीर के लिए यंग वाइल्डलाइफ़ फ़ोटोग्राफ़र ऑफ़ द ईयर 2026 का पुरस्कार जीता। जिम्बाब्वे में खींची गई तस्वीर में जमीनी स्तर के नजरिए से एक गोबर भृंग को गोबर का एक गोला ले जाते हुए दिखाया गया है। उत्कृष्ट वन्यजीव फोटोग्राफी को पहचानने और पशु व्यवहार और जैव विविधता को उजागर करने के लिए लंदन, यूनाइटेड किंगडम में प्राकृतिक इतिहास संग्रहालय द्वारा प्रतिवर्ष प्रतियोगिता आयोजित की जाती है। 62वें संस्करण में 121 देशों और क्षेत्रों से रिकॉर्ड 65,403 प्रविष्टियाँ प्राप्त हुईं। 2026 की प्रतियोगिता उल्लेखनीय थी क्योंकि वयस्क और युवा दोनों समग्र विजेताओं को श्वेत-श्याम तस्वीरों के लिए पहचाना गया था।"
+      },
+      "gu": {
+        "question": "‘લેબર ઓફ લવ’ શીર્ષકવાળા બ્લેક એન્ડ વ્હાઇટ ફોટોગ્રાફ માટે યંગ વાઇલ્ડલાઇફ ફોટોગ્રાફર ઑફ ધ યર 2026નો પુરસ્કાર કોણે જીત્યો?",
+        "options": {
+          "A": "જેમી સ્માર્ટ",
+          "B": "ઓસ્કાર વ્હિટફિલ્ડ",
+          "C": "થોમસ વિજયન",
+          "D": "નીમા સરીખાની"
+        },
+        "explanation": "14 વર્ષીય બ્રિટિશ ફોટોગ્રાફર ઓસ્કર વ્હિટફિલ્ડે 'લેબર ઓફ લવ' શીર્ષક હેઠળના બ્લેક-એન્ડ-વ્હાઈટ ફોટોગ્રાફ માટે યંગ વાઈલ્ડલાઈફ ફોટોગ્રાફર ઑફ ધ યર 2026નો એવોર્ડ જીત્યો હતો. ઝિમ્બાબ્વેમાં કેપ્ચર કરાયેલ ફોટોગ્રાફ, જમીન-સ્તરના પરિપ્રેક્ષ્યમાં છાણનો દડો વહન કરતો એક ગોબર ભમરો દર્શાવે છે. ઉત્કૃષ્ટ વાઇલ્ડલાઇફ ફોટોગ્રાફીને ઓળખવા અને પ્રાણીઓની વર્તણૂક અને જૈવવિવિધતાને હાઇલાઇટ કરવા માટે લંડન, યુનાઇટેડ કિંગડમમાં નેચરલ હિસ્ટ્રી મ્યુઝિયમ દ્વારા દર વર્ષે સ્પર્ધાનું આયોજન કરવામાં આવે છે. 62મી આવૃત્તિને 121 દેશો અને પ્રદેશોમાંથી રેકોર્ડ 65,403 એન્ટ્રીઓ મળી હતી. 2026 ની સ્પર્ધા નોંધપાત્ર હતી કારણ કે પુખ્ત અને યુવાન બંને એકંદર વિજેતાઓને બ્લેક-એન્ડ-વ્હાઈટ ફોટોગ્રાફ્સ માટે ઓળખવામાં આવ્યા હતા."
+      }
+    },
+    {
+      "id": "2026-10-14-7",
+      "date": "2026-10-14",
+      "qno": 7,
+      "answer": "D",
+      "category": "Banking",
+      "en": {
+        "question": "Which bank is the subject of the Union Cabinet-approved strategic stake sale worth ₹52,878 crore to Fairfax-backed Canada Inc.?",
+        "options": {
+          "A": "Punjab National Bank",
+          "B": "Bank of Baroda",
+          "C": "Canara Bank",
+          "D": "IDBI Bank"
+        },
+        "explanation": "IDBI Bank is the bank involved in the strategic stake sale approved by the Union Cabinet for approximately ₹52,878 crore. The proposed transaction involves the sale of a 60.72% stake to 10955230 Canada Inc., backed by Fairfax Financial Holdings of Canada. The stake comprises 30.48% held by the Government of India and 30.24% held by the Life Insurance Corporation of India (LIC). Finance Minister Nirmala Sitharaman described the transaction as a strategic restructuring. Fairfax’s winning bid was ₹81 per share, above the benchmark price of ₹75.99. The deal remains subject to regulatory and statutory approvals, including the Reserve Bank of India’s assessment of Fairfax’s eligibility."
+      },
+      "hi": {
+        "question": "फेयरफैक्स समर्थित कनाडा इंक को ₹52,878 करोड़ की केंद्रीय कैबिनेट द्वारा अनुमोदित रणनीतिक हिस्सेदारी बिक्री का विषय कौन सा बैंक है?",
+        "options": {
+          "A": "पंजाब नेशनल बैंक",
+          "B": "बैंक ऑफ बड़ौदा",
+          "C": "केनरा बैंक",
+          "D": "आईडीबीआई बैंक"
+        },
+        "explanation": "आईडीबीआई बैंक केंद्रीय मंत्रिमंडल द्वारा लगभग ₹52,878 करोड़ की रणनीतिक हिस्सेदारी बिक्री में शामिल बैंक है। प्रस्तावित लेनदेन में कनाडा के फेयरफैक्स फाइनेंशियल होल्डिंग्स द्वारा समर्थित 10955230 कनाडा इंक को 60.72% हिस्सेदारी की बिक्री शामिल है। हिस्सेदारी में 30.48% भारत सरकार के पास और 30.24% भारतीय जीवन बीमा निगम (एलआईसी) के पास है। वित्त मंत्री निर्मला सीतारमण ने इस लेनदेन को रणनीतिक पुनर्गठन बताया। फेयरफैक्स की विजयी बोली ₹81 प्रति शेयर थी, जो बेंचमार्क कीमत ₹75.99 से अधिक थी। यह सौदा विनियामक और वैधानिक अनुमोदन के अधीन है, जिसमें भारतीय रिजर्व बैंक द्वारा फेयरफैक्स की पात्रता का आकलन भी शामिल है।"
+      },
+      "gu": {
+        "question": "ફેરફેક્સ સમર્થિત કેનેડા ઇન્ક.ને ₹52,878 કરોડના મૂલ્યના યુનિયન કેબિનેટ દ્વારા મંજૂર કરાયેલ વ્યૂહાત્મક હિસ્સાના વેચાણનો વિષય કઈ બેંક છે?",
+        "options": {
+          "A": "પંજાબ નેશનલ બેંક",
+          "B": "બેંક ઓફ બરોડા",
+          "C": "કેનેરા બેંક",
+          "D": "IDBI બેંક"
+        },
+        "explanation": "IDBI બેંક એ આશરે ₹52,878 કરોડમાં કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ વ્યૂહાત્મક હિસ્સાના વેચાણમાં સામેલ બેંક છે. સૂચિત ટ્રાન્ઝેક્શનમાં 10955230 કેનેડા ઇન્ક.ને 60.72% હિસ્સો વેચવાનો સમાવેશ થાય છે, જેને કેનેડાના ફેરફેક્સ ફાઇનાન્સિયલ હોલ્ડિંગ્સ દ્વારા સમર્થિત કરવામાં આવે છે. હિસ્સો 30.48% ભારત સરકાર પાસે અને 30.24% ભારતીય જીવન વીમા નિગમ (LIC) પાસે છે. નાણામંત્રી નિર્મલા સીતારમણે આ સોદાને વ્યૂહાત્મક પુનર્ગઠન ગણાવ્યું હતું. ફેરફેક્સની વિજેતા બિડ પ્રતિ શેર ₹81 હતી, જે ₹75.99ની બેન્ચમાર્ક કિંમતથી ઉપર હતી. આ સોદો નિયમનકારી અને વૈધાનિક મંજૂરીઓને આધીન રહે છે, જેમાં ફેરફેક્સની પાત્રતાના રિઝર્વ બેંક ઓફ ઈન્ડિયાના મૂલ્યાંકનનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-14-8",
+      "date": "2026-10-14",
+      "qno": 8,
+      "answer": "B",
+      "category": "International",
+      "en": {
+        "question": "Where was the first-ever BIMSTEC Home Ministers’ Meeting held on October 13, 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "New Delhi",
+          "C": "Dhaka",
+          "D": "Bangkok"
+        },
+        "explanation": "New Delhi hosted the first-ever BIMSTEC Home Ministers’ Meeting on October 13, 2026, under the leadership of Union Home Minister Amit Shah. Representatives from all seven member countries participated in the meeting, which concluded with the adoption of the Delhi Declaration. The participating nations also agreed to strengthen cooperation against major regional security threats, including terrorism, drug trafficking, human trafficking, cybercrime and illicit financial flows. BIMSTEC stands for the Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation. It promotes regional cooperation between South and Southeast Asian countries in areas such as security, trade, connectivity and economic development. The meeting highlighted the importance of collective action to address cross-border crimes and strengthen regional security."
+      },
+      "hi": {
+        "question": "13 अक्टूबर, 2026 को पहली बिम्सटेक गृह मंत्रियों की बैठक कहाँ आयोजित की गई थी?",
+        "options": {
+          "A": "मुंबई",
+          "B": "नई दिल्ली",
+          "C": "ढाका",
+          "D": "बैंकॉक"
+        },
+        "explanation": "नई दिल्ली ने केंद्रीय गृह मंत्री अमित शाह के नेतृत्व में 13 अक्टूबर, 2026 को पहली बार बिम्सटेक गृह मंत्रियों की बैठक की मेजबानी की। बैठक में सभी सात सदस्य देशों के प्रतिनिधियों ने भाग लिया, जो दिल्ली घोषणा को अपनाने के साथ समाप्त हुई। भाग लेने वाले राष्ट्र आतंकवाद, मादक पदार्थों की तस्करी, मानव तस्करी, साइबर अपराध और अवैध वित्तीय प्रवाह सहित प्रमुख क्षेत्रीय सुरक्षा खतरों के खिलाफ सहयोग को मजबूत करने पर भी सहमत हुए। बिम्सटेक का मतलब बहु-क्षेत्रीय तकनीकी और आर्थिक सहयोग के लिए बंगाल की खाड़ी पहल है। यह सुरक्षा, व्यापार, कनेक्टिविटी और आर्थिक विकास जैसे क्षेत्रों में दक्षिण और दक्षिण पूर्व एशियाई देशों के बीच क्षेत्रीय सहयोग को बढ़ावा देता है। बैठक में सीमा पार अपराधों से निपटने और क्षेत्रीय सुरक्षा को मजबूत करने के लिए सामूहिक कार्रवाई के महत्व पर प्रकाश डाला गया।"
+      },
+      "gu": {
+        "question": "13 ઓક્ટોબર, 2026 ના રોજ BIMSTEC ગૃહ મંત્રીઓની પ્રથમ બેઠક ક્યાં યોજાઈ હતી?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "નવી દિલ્હી",
+          "C": "ઢાકા",
+          "D": "બેંગકોક"
+        },
+        "explanation": "નવી દિલ્હીએ કેન્દ્રીય ગૃહ પ્રધાન અમિત શાહના નેતૃત્વ હેઠળ 13 ઓક્ટોબર, 2026ના રોજ પ્રથમવાર BIMSTEC ગૃહ પ્રધાનોની બેઠકનું આયોજન કર્યું હતું. આ બેઠકમાં તમામ સાત સભ્ય દેશોના પ્રતિનિધિઓએ ભાગ લીધો હતો, જેનું સમાપન દિલ્હી ઘોષણાપત્રને અપનાવવા સાથે થયું હતું. સહભાગી રાષ્ટ્રો આતંકવાદ, માદક દ્રવ્યોની હેરાફેરી, માનવ તસ્કરી, સાયબર ક્રાઈમ અને ગેરકાયદેસર નાણાકીય પ્રવાહ સહિતના મુખ્ય પ્રાદેશિક સુરક્ષા જોખમો સામે સહકારને મજબૂત કરવા પણ સંમત થયા હતા. BIMSTEC એટલે બહુ-ક્ષેત્રીય ટેકનિકલ અને આર્થિક સહકાર માટે બંગાળની ખાડી પહેલ. તે સુરક્ષા, વેપાર, જોડાણ અને આર્થિક વિકાસ જેવા ક્ષેત્રોમાં દક્ષિણ અને દક્ષિણપૂર્વ એશિયાના દેશો વચ્ચે પ્રાદેશિક સહયોગને પ્રોત્સાહન આપે છે. આ બેઠકે સીમા પારના ગુનાઓને સંબોધવા અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવા માટે સામૂહિક કાર્યવાહીના મહત્વ પર પ્રકાશ પાડ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-10-14-9",
+      "date": "2026-10-14",
+      "qno": 9,
+      "answer": "B",
+      "category": "Business",
+      "en": {
+        "question": "Which express logistics company signed a strategic partnership agreement with the Department of Posts on October 9, 2026, to enhance nationwide parcel delivery?",
+        "options": {
+          "A": "Delhivery",
+          "B": "Blue Dart",
+          "C": "DTDC",
+          "D": "Ecom Express"
+        },
+        "explanation": "Blue Dart Express Limited signed a strategic partnership agreement with the Department of Posts on October 9, 2026, in New Delhi to strengthen nationwide parcel delivery services. Under this partnership, Blue Dart will utilise India Post’s extensive network of 1.64 lakh post offices to expand its logistics reach across urban, semi-urban and rural regions, including remote and underserved areas. The services will include prepaid and Cash on Delivery (COD) parcels, OTP-based delivery authentication and real-time shipment tracking. The initiative operates under the Ministry of Communications and aims to improve last-mile delivery, strengthen logistics infrastructure and support the continued growth of India’s e-commerce sector."
+      },
+      "hi": {
+        "question": "किस एक्सप्रेस लॉजिस्टिक्स कंपनी ने राष्ट्रव्यापी पार्सल डिलीवरी को बढ़ाने के लिए 9 अक्टूबर, 2026 को डाक विभाग के साथ एक रणनीतिक साझेदारी समझौते पर हस्ताक्षर किए?",
+        "options": {
+          "A": "दिल्लीव्री",
+          "B": "ब्लू डार्ट",
+          "C": "डीटीडीसी",
+          "D": "ईकॉम एक्सप्रेस"
+        },
+        "explanation": "ब्लू डार्ट एक्सप्रेस लिमिटेड ने राष्ट्रव्यापी पार्सल वितरण सेवाओं को मजबूत करने के लिए 9 अक्टूबर, 2026 को नई दिल्ली में डाक विभाग के साथ एक रणनीतिक साझेदारी समझौते पर हस्ताक्षर किए। इस साझेदारी के तहत, ब्लू डार्ट सुदूर और कम सेवा वाले क्षेत्रों सहित शहरी, अर्ध-शहरी और ग्रामीण क्षेत्रों में अपनी लॉजिस्टिक्स पहुंच का विस्तार करने के लिए इंडिया पोस्ट के 1.64 लाख डाकघरों के व्यापक नेटवर्क का उपयोग करेगा। सेवाओं में प्रीपेड और कैश ऑन डिलीवरी (सीओडी) पार्सल, ओटीपी-आधारित डिलीवरी प्रमाणीकरण और वास्तविक समय शिपमेंट ट्रैकिंग शामिल होगी। यह पहल संचार मंत्रालय के तहत संचालित होती है और इसका उद्देश्य अंतिम-मील वितरण में सुधार करना, लॉजिस्टिक्स बुनियादी ढांचे को मजबूत करना और भारत के ई-कॉमर्स क्षेत्र की निरंतर वृद्धि का समर्थन करना है।"
+      },
+      "gu": {
+        "question": "કઈ એક્સપ્રેસ લોજિસ્ટિક્સ કંપનીએ રાષ્ટ્રવ્યાપી પાર્સલ ડિલિવરી વધારવા માટે 9 ઓક્ટોબર, 2026ના રોજ પોસ્ટ વિભાગ સાથે વ્યૂહાત્મક ભાગીદારી કરાર પર હસ્તાક્ષર કર્યા હતા?",
+        "options": {
+          "A": "દિલ્હીવેરી",
+          "B": "બ્લુ ડાર્ટ",
+          "C": "ડીટીડીસી",
+          "D": "ઇકોમ એક્સપ્રેસ"
+        },
+        "explanation": "બ્લુ ડાર્ટ એક્સપ્રેસ લિમિટેડે દેશવ્યાપી પાર્સલ ડિલિવરી સેવાઓને મજબૂત કરવા નવી દિલ્હીમાં 9 ઓક્ટોબર, 2026ના રોજ પોસ્ટ વિભાગ સાથે વ્યૂહાત્મક ભાગીદારી કરાર પર હસ્તાક્ષર કર્યા હતા. આ ભાગીદારી હેઠળ, બ્લુ ડાર્ટ, ઈન્ડિયા પોસ્ટના 1.64 લાખ પોસ્ટ ઓફિસના વ્યાપક નેટવર્કનો ઉપયોગ શહેરી, અર્ધ-શહેરી અને ગ્રામીણ વિસ્તારો સહિત દૂરસ્થ અને અન્ડરસર્વિડ વિસ્તારો સુધી તેની લોજિસ્ટિક્સ પહોંચને વિસ્તારવા માટે કરશે. સેવાઓમાં પ્રીપેડ અને કેશ ઓન ડિલિવરી (COD) પાર્સલ, OTP-આધારિત ડિલિવરી પ્રમાણીકરણ અને રીઅલ-ટાઇમ શિપમેન્ટ ટ્રેકિંગનો સમાવેશ થશે. આ પહેલ સંચાર મંત્રાલય હેઠળ કાર્ય કરે છે અને તેનો હેતુ છેલ્લી માઈલ ડિલિવરી સુધારવા, લોજિસ્ટિક્સ ઈન્ફ્રાસ્ટ્રક્ચરને મજબૂત બનાવવા અને ભારતના ઈ-કોમર્સ ક્ષેત્રના સતત વિકાસને સમર્થન આપવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-14-10",
+      "date": "2026-10-14",
+      "qno": 10,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "Which Mexican city topped the Friendliest Cities Index 2026 with a score of 95 out of 100?",
+        "options": {
+          "A": "Glasgow",
+          "B": "Bogota",
+          "C": "Merida",
+          "D": "Bodrum"
+        },
+        "explanation": "Merida, a city in Mexico, secured the first position in the Friendliest Cities Index 2026 with an impressive score of 95 out of 100. The index was developed by Fernwayer, a travel platform, based on an analysis of more than 1.2 million Reddit comments discussing 200 cities worldwide. Glasgow in Scotland ranked second with 94.9 points, followed by Bogotá in Colombia with 94.5 points. The study examined travellers’ descriptions of residents’ friendliness, hospitality and welcoming attitudes. Delhi, India, received 43.6 points and appeared among the ten lowest-ranked cities. The rankings reflect online perceptions and should not be considered a scientific assessment of the character of local residents."
+      },
+      "hi": {
+        "question": "कौन सा मैक्सिकन शहर 100 में से 95 अंक के साथ सबसे दोस्ताना शहर सूचकांक 2026 में शीर्ष पर रहा?",
+        "options": {
+          "A": "ग्लास्गो",
+          "B": "बोगोटा",
+          "C": "मेरिडा",
+          "D": "बोडरम"
+        },
+        "explanation": "मेक्सिको के एक शहर मेरिडा ने 100 में से 95 के प्रभावशाली स्कोर के साथ मैत्रीपूर्ण शहर सूचकांक 2026 में पहला स्थान हासिल किया। यह सूचकांक दुनिया भर के 200 शहरों पर चर्चा करने वाले 1.2 मिलियन से अधिक रेडिट टिप्पणियों के विश्लेषण के आधार पर, एक यात्रा मंच फर्नवेअर द्वारा विकसित किया गया था। स्कॉटलैंड का ग्लासगो 94.9 अंकों के साथ दूसरे स्थान पर है, उसके बाद कोलंबिया का बोगोटा 94.5 अंकों के साथ है। अध्ययन में यात्रियों के निवासियों की मित्रता, आतिथ्य और स्वागत करने वाले रवैये के विवरण की जांच की गई। दिल्ली, भारत को 43.6 अंक प्राप्त हुए और वह दस सबसे निचले रैंक वाले शहरों में शामिल हुआ। रैंकिंग ऑनलाइन धारणाओं को दर्शाती है और इसे स्थानीय निवासियों के चरित्र का वैज्ञानिक मूल्यांकन नहीं माना जाना चाहिए।"
+      },
+      "gu": {
+        "question": "કયું મેક્સીકન શહેર 100 માંથી 95 સ્કોર સાથે ફ્રેન્ડલીસ્ટ સિટીઝ ઈન્ડેક્સ 2026 માં ટોચ પર છે?",
+        "options": {
+          "A": "ગ્લાસગો",
+          "B": "બોગોટા",
+          "C": "મેરિડા",
+          "D": "બોડ્રમ"
+        },
+        "explanation": "મેક્સિકોના એક શહેર મેરિડાએ 100 માંથી 95 ના પ્રભાવશાળી સ્કોર સાથે ફ્રેન્ડલીસ્ટ સિટીઝ ઈન્ડેક્સ 2026 માં પ્રથમ સ્થાન મેળવ્યું છે. વિશ્વભરના 200 શહેરોની ચર્ચા કરતી 1.2 મિલિયનથી વધુ Reddit ટિપ્પણીઓના વિશ્લેષણના આધારે, ટ્રાવેલ પ્લેટફોર્મ ફર્નવેયર દ્વારા ઈન્ડેક્સ વિકસાવવામાં આવ્યો હતો. સ્કોટલેન્ડમાં ગ્લાસગો 94.9 પોઈન્ટ સાથે બીજા ક્રમે છે, ત્યારબાદ કોલંબિયાનું બોગોટા 94.5 પોઈન્ટ સાથે બીજા ક્રમે છે. અભ્યાસમાં રહેવાસીઓની મિત્રતા, આતિથ્ય અને સ્વાગત વલણના પ્રવાસીઓના વર્ણનની તપાસ કરવામાં આવી હતી. દિલ્હી, ભારતને 43.6 પોઈન્ટ મળ્યા અને દસ સૌથી નીચા ક્રમાંકિત શહેરોમાં દેખાયા. રેન્કિંગ ઓનલાઈન ધારણાઓને પ્રતિબિંબિત કરે છે અને તેને સ્થાનિક રહેવાસીઓના પાત્રનું વૈજ્ઞાનિક મૂલ્યાંકન ગણવું જોઈએ નહીં."
+      }
+    },
+    {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
@@ -54258,6 +54629,43 @@
       "id": "2026-10-11-2",
       "date": "2026-10-11",
       "qno": 2,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
+        "options": {
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
+        },
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
+      },
+      "hi": {
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
+        "options": {
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
+        },
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
+        },
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "qno": 3,
       "answer": "D",
       "category": "Technology",
       "en": {
@@ -54292,77 +54700,40 @@
       }
     },
     {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
-      "qno": 3,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
-        },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
-      },
-      "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
-        },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
-      },
-      "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
-        },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
-      }
-    },
-    {
       "id": "2026-10-11-4",
       "date": "2026-10-11",
       "qno": 4,
-      "answer": "A",
-      "category": "Important Days",
+      "answer": "B",
+      "category": "Defence",
       "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
         "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
         },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
       },
       "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
         "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
         },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
       },
       "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
         "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
         },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
       }
     },
     {
@@ -54406,74 +54777,74 @@
       "id": "2026-10-11-6",
       "date": "2026-10-11",
       "qno": 6,
-      "answer": "B",
-      "category": "Defence",
+      "answer": "C",
+      "category": "State",
       "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
         "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
         },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
       },
       "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
         "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
         },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
       },
       "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
         "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
         },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
       }
     },
     {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "A",
-      "category": "Awards and Honours",
+      "answer": "B",
+      "category": "National",
       "en": {
-        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
         "options": {
-          "A": "Henri Kagan And Kenso Soai",
-          "B": "Susumu Kitagawa And Richard Robson",
-          "C": "Omar Yaghi And Frances Arnold",
-          "D": "David Baker And Demis Hassabis"
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
         },
-        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
       },
       "hi": {
-        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
         "options": {
-          "A": "हेनरी कगन और केन्सो सोई",
-          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
-          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
-          "D": "डेविड बेकर और डेमिस हसाबिस"
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
         },
-        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
       },
       "gu": {
-        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
         "options": {
-          "A": "હેનરી કાગન અને કેન્સો સોઇ",
-          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
-          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
-          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
         },
-        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
       }
     },
     {
@@ -54517,117 +54888,6 @@
       "id": "2026-10-10-3",
       "date": "2026-10-10",
       "qno": 3,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
-      "answer": "B",
-      "category": "National",
-      "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
-        "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
-        },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
-      },
-      "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
-        "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
-        },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
-      },
-      "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
-        },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
-      }
-    },
-    {
-      "id": "2026-10-10-5",
-      "date": "2026-10-10",
-      "qno": 5,
-      "answer": "C",
-      "category": "Environment",
-      "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
-        "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
-        },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
-      },
-      "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
-        "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
-        },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
-      },
-      "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
-        "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
-        },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
       "answer": "D",
       "category": "State",
       "en": {
@@ -54662,9 +54922,46 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-4",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 4,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "qno": 5,
       "answer": "C",
       "category": "Defence",
       "en": {
@@ -54696,6 +54993,80 @@
           "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
         "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "options": {
+          "A": "Henri Kagan And Kenso Soai",
+          "B": "Susumu Kitagawa And Richard Robson",
+          "C": "Omar Yaghi And Frances Arnold",
+          "D": "David Baker And Demis Hassabis"
+        },
+        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+      },
+      "hi": {
+        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "options": {
+          "A": "हेनरी कगन और केन्सो सोई",
+          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
+          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
+          "D": "डेविड बेकर और डेमिस हसाबिस"
+        },
+        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+      },
+      "gu": {
+        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "options": {
+          "A": "હેનરી કાગન અને કેન્સો સોઇ",
+          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
+          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
+          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+        },
+        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
       }
     }
   ]
