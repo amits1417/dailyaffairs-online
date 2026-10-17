@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-10-16",
+    "2026-10-15",
     "2026-10-14",
     "2026-10-13",
     "2026-10-12",
@@ -54589,6 +54591,746 @@
       }
     },
     {
+      "id": "2026-10-16-1",
+      "date": "2026-10-16",
+      "qno": 1,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "Which technology company announced the Maia 300 AI inference platform designed to power Azure cloud services and emerging AI workloads?",
+        "options": {
+          "A": "Google",
+          "B": "Microsoft",
+          "C": "Amazon",
+          "D": "IBM"
+        },
+        "explanation": "Microsoft announced its next-generation Maia 300 AI inference platform on October 14, 2026, to support Azure cloud services and emerging artificial intelligence workloads. The platform is designed to deliver 40% more tokens per megawatt and up to seven times higher token throughput at rack scale compared with the previous Maia 200 system. It targets long-context reasoning, latency-sensitive conversations, and sustained multi-step AI agent tasks. Maia 300 is also intended to improve AI experiences across products such as Copilot and Teams, while supporting coding through GitHub and model deployment through Microsoft Foundry. Microsoft is headquartered in Redmond, Washington, USA, and its CEO is Satya Nadella."
+      },
+      "hi": {
+        "question": "किस प्रौद्योगिकी कंपनी ने Azure क्लाउड सेवाओं और उभरते AI वर्कलोड को सशक्त बनाने के लिए डिज़ाइन किए गए Maia 300 AI अनुमान प्लेटफ़ॉर्म की घोषणा की?",
+        "options": {
+          "A": "गूगल",
+          "B": "माइक्रोसॉफ्ट",
+          "C": "अमेज़न",
+          "D": "आईबीएम"
+        },
+        "explanation": "Microsoft ने Azure क्लाउड सेवाओं और उभरते कृत्रिम बुद्धिमत्ता वर्कलोड का समर्थन करने के लिए 14 अक्टूबर, 2026 को अपनी अगली पीढ़ी Maia 300 AI अनुमान प्लेटफ़ॉर्म की घोषणा की। प्लेटफ़ॉर्म को पिछली Maia 200 प्रणाली की तुलना में प्रति मेगावाट 40% अधिक टोकन और रैक स्केल पर सात गुना अधिक टोकन थ्रूपुट देने के लिए डिज़ाइन किया गया है। यह लंबे-संदर्भ तर्क, विलंबता-संवेदनशील वार्तालाप और निरंतर बहु-चरण एआई एजेंट कार्यों को लक्षित करता है। Maia 300 का उद्देश्य GitHub के माध्यम से कोडिंग और Microsoft फाउंड्री के माध्यम से मॉडल परिनियोजन का समर्थन करते हुए, Copilot और Teams जैसे उत्पादों में AI अनुभवों को बेहतर बनाना है। माइक्रोसॉफ्ट का मुख्यालय रेडमंड, वाशिंगटन, अमेरिका में है और इसके सीईओ सत्या नडेला हैं।"
+      },
+      "gu": {
+        "question": "કઈ ટેક્નોલોજી કંપનીએ Azure ક્લાઉડ સેવાઓ અને ઉભરતા AI વર્કલોડને પાવર આપવા માટે રચાયેલ Maia 300 AI અનુમાન પ્લેટફોર્મની જાહેરાત કરી?",
+        "options": {
+          "A": "Google",
+          "B": "માઈક્રોસોફ્ટ",
+          "C": "એમેઝોન",
+          "D": "IBM"
+        },
+        "explanation": "માઇક્રોસોફ્ટે એઝ્યુર ક્લાઉડ સેવાઓ અને ઉભરતા આર્ટિફિશિયલ ઇન્ટેલિજન્સ વર્કલોડને ટેકો આપવા માટે 14 ઓક્ટોબર, 2026 ના રોજ તેના નેક્સ્ટ જનરેશન Maia 300 AI અનુમાન પ્લેટફોર્મની જાહેરાત કરી હતી. પ્લેટફોર્મ અગાઉની Maia 200 સિસ્ટમની સરખામણીમાં મેગાવોટ દીઠ 40% વધુ ટોકન્સ અને રેક સ્કેલ પર સાત ગણા વધુ ટોકન થ્રુપુટ પહોંચાડવા માટે ડિઝાઇન કરવામાં આવ્યું છે. તે લાંબા-સંદર્ભ તર્ક, વિલંબ-સંવેદનશીલ વાર્તાલાપ અને સતત મલ્ટી-સ્ટેપ AI એજન્ટ કાર્યોને લક્ષ્ય બનાવે છે. Maia 300 એ કોપાયલોટ અને ટીમ્સ જેવા ઉત્પાદનોમાં AI અનુભવોને બહેતર બનાવવાનો પણ હેતુ છે, જ્યારે GitHub દ્વારા કોડિંગ અને માઈક્રોસોફ્ટ ફાઉન્ડ્રી દ્વારા મોડલ ડિપ્લોયમેન્ટને સપોર્ટ કરે છે. માઇક્રોસોફ્ટનું મુખ્ય મથક રેડમન્ડ, વોશિંગ્ટન, યુએસએમાં છે અને તેના સીઇઓ સત્ય નડેલા છે."
+      }
+    },
+    {
+      "id": "2026-10-16-2",
+      "date": "2026-10-16",
+      "qno": 2,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was selected for the 2026 Prof. M.G.S. Narayanan Memorial Award in recognition of contributions to linguistics, palaeography, and literary criticism?",
+        "options": {
+          "A": "K. N. Panikkar",
+          "B": "M.R. Raghava Varier",
+          "C": "Kesavan Veluthat",
+          "D": "M. G. S. Narayanan"
+        },
+        "explanation": "M.R. Raghava Varier, a renowned historian and former faculty member of the Department of History at the University of Calicut, was selected for the 2026 Prof. M.G.S. Narayanan Memorial Award. He was recognised for his significant contributions to linguistics, palaeography and literary criticism. The award is jointly instituted by the Kerala History Congress and the Calicut Heritage Forum. It carries a cash prize of ₹50,000 along with a citation. The award presentation is scheduled to take place during the 10th International Kerala History Conference at Government College, Malappuram, from November 27 to 29, 2026. Varier has also received the Kerala Sahitya Akademi Award and the Kairali Award."
+      },
+      "hi": {
+        "question": "2026 प्रोफेसर एमजीएस के लिए किसे चुना गया? भाषा विज्ञान, पुरालेख और साहित्यिक आलोचना में योगदान की मान्यता के लिए नारायणन मेमोरियल पुरस्कार?",
+        "options": {
+          "A": "के एन पणिक्कर",
+          "B": "एम.आर.राघव वारियर",
+          "C": "केसवन वेलुथाट",
+          "D": "एम. जी. एस. नारायणन"
+        },
+        "explanation": "प्रसिद्ध इतिहासकार और कालीकट विश्वविद्यालय में इतिहास विभाग के पूर्व संकाय सदस्य एम.आर. राघव वेरियर को 2026 प्रोफेसर एमजीएस के लिए चुना गया था। नारायणन मेमोरियल पुरस्कार. उन्हें भाषा विज्ञान, पुरालेख और साहित्यिक आलोचना में उनके महत्वपूर्ण योगदान के लिए पहचाना गया। यह पुरस्कार संयुक्त रूप से केरल हिस्ट्री कांग्रेस और कालीकट हेरिटेज फोरम द्वारा स्थापित किया गया है। इसमें प्रशस्ति पत्र के साथ ₹50,000 का नकद पुरस्कार दिया जाता है। पुरस्कार प्रस्तुति 27 से 29 नवंबर, 2026 तक गवर्नमेंट कॉलेज, मलप्पुरम में 10वें अंतर्राष्ट्रीय केरल इतिहास सम्मेलन के दौरान होने वाली है। वेरियर को केरल साहित्य अकादमी पुरस्कार और कैराली पुरस्कार भी मिला है।"
+      },
+      "gu": {
+        "question": "2026 માટે કોની પસંદગી કરવામાં આવી હતી પ્રો. એમ.જી.એસ. ભાષાશાસ્ત્ર, પેલેઓગ્રાફી અને સાહિત્યિક વિવેચનમાં યોગદાનની માન્યતામાં નારાયણન મેમોરિયલ એવોર્ડ?",
+        "options": {
+          "A": "કે.એન. પણિકર",
+          "B": "એમ.આર. રાઘવ વારિયર",
+          "C": "કેશવન વેલુથત",
+          "D": "એમ.જી.એસ. નારાયણન"
+        },
+        "explanation": "પ્રખ્યાત ઈતિહાસકાર અને કાલિકટ યુનિવર્સિટીના ઈતિહાસ વિભાગના ભૂતપૂર્વ ફેકલ્ટી સભ્ય એમ.આર. રાઘવ વારિયરને 2026ના પ્રો. એમ.જી.એસ. નારાયણન મેમોરિયલ એવોર્ડ. ભાષાશાસ્ત્ર, પેલેઓગ્રાફી અને સાહિત્યિક વિવેચનમાં તેમના નોંધપાત્ર યોગદાન માટે તેમને ઓળખવામાં આવ્યા હતા. આ પુરસ્કાર કેરળ હિસ્ટ્રી કોંગ્રેસ અને કાલિકટ હેરિટેજ ફોરમ દ્વારા સંયુક્ત રીતે સ્થાપિત કરવામાં આવ્યો છે. તે પ્રશસ્તિપત્ર સાથે ₹50,000 નું રોકડ પુરસ્કાર ધરાવે છે. એવોર્ડ પ્રસ્તુતિ 27 થી 29 નવેમ્બર, 2026 દરમિયાન સરકારી કોલેજ, મલપ્પુરમ ખાતે 10મી આંતરરાષ્ટ્રીય કેરળ ઇતિહાસ પરિષદ દરમિયાન થવાની છે. વેરિયરને કેરળ સાહિત્ય અકાદમી પુરસ્કાર અને કૈરાલી પુરસ્કાર પણ મળ્યો છે."
+      }
+    },
+    {
+      "id": "2026-10-16-3",
+      "date": "2026-10-16",
+      "qno": 3,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Which Indian women’s cricketer retired from all formats of international cricket in October 2026?",
+        "options": {
+          "A": "Punam Raut",
+          "B": "Mithali Raj",
+          "C": "Jhulan Goswami",
+          "D": "Harmanpreet Kaur"
+        },
+        "explanation": "Punam Raut retired from all formats of international cricket on October 15, 2026. The Mumbai-born batter represented India from 2009 to 2021, playing Test matches, One Day Internationals (ODIs), and Twenty20 Internationals (T20Is). During her international career, she played four Test matches, 73 ODIs, and 35 T20Is, making a total of 112 international appearances. Raut primarily played as a top-order batter and contributed to the development of Indian women’s cricket. In her retirement message, she expressed gratitude to the Mumbai Cricket Association for supporting her early career and stated that she hopes to give something back to cricket in the future."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय महिला क्रिकेटर ने अंतरराष्ट्रीय क्रिकेट के सभी प्रारूपों से संन्यास ले लिया?",
+        "options": {
+          "A": "पुनम राऊत",
+          "B": "मिताली राज",
+          "C": "झूलन गोस्वामी",
+          "D": "हरमनप्रीत कौर"
+        },
+        "explanation": "पुनम राउत ने 15 अक्टूबर, 2026 को अंतरराष्ट्रीय क्रिकेट के सभी प्रारूपों से संन्यास ले लिया। मुंबई में जन्मे बल्लेबाज ने 2009 से 2021 तक टेस्ट मैच, एक दिवसीय अंतर्राष्ट्रीय (ODI) और ट्वेंटी 20 अंतर्राष्ट्रीय (T20I) खेलते हुए भारत का प्रतिनिधित्व किया। अपने अंतर्राष्ट्रीय करियर के दौरान, उन्होंने चार टेस्ट मैच, 73 एकदिवसीय और 35 टी20I खेले, और कुल 112 अंतर्राष्ट्रीय मैच खेले। राउत ने मुख्य रूप से शीर्ष क्रम के बल्लेबाज के रूप में खेला और भारतीय महिला क्रिकेट के विकास में योगदान दिया। अपने सेवानिवृत्ति संदेश में, उन्होंने अपने शुरुआती करियर का समर्थन करने के लिए मुंबई क्रिकेट एसोसिएशन का आभार व्यक्त किया और कहा कि वह भविष्य में क्रिकेट को कुछ वापस देने की उम्मीद करती हैं।"
+      },
+      "gu": {
+        "question": "કઈ ભારતીય મહિલા ક્રિકેટરે ઓક્ટોબર 2026 માં આંતરરાષ્ટ્રીય ક્રિકેટના તમામ ફોર્મેટમાંથી નિવૃત્તિ લીધી?",
+        "options": {
+          "A": "પુનમ રાઉત",
+          "B": "મિતાલી રાજ",
+          "C": "ઝુલન ગોસ્વામી",
+          "D": "હરમનપ્રીત કૌર"
+        },
+        "explanation": "પુનમ રાઉતે ઑક્ટોબર 15, 2026ના રોજ આંતરરાષ્ટ્રીય ક્રિકેટના તમામ ફોર્મેટમાંથી નિવૃત્તિ લીધી. મુંબઈમાં જન્મેલા આ ખેલાડીએ 2009 થી 2021 સુધી ભારતનું પ્રતિનિધિત્વ કર્યું, ટેસ્ટ મેચો, વન ડે ઈન્ટરનેશનલ (ODI) અને ટ્વેન્ટી20 ઈન્ટરનેશનલ (T20I) રમી. તેણીની આંતરરાષ્ટ્રીય કારકિર્દી દરમિયાન, તેણીએ ચાર ટેસ્ટ મેચ, 73 ODI અને 35 T20I રમી, જેમાં કુલ 112 આંતરરાષ્ટ્રીય દેખાવો કર્યા. રાઉત મુખ્યત્વે ટોપ ઓર્ડર બેટર તરીકે રમ્યા હતા અને ભારતીય મહિલા ક્રિકેટના વિકાસમાં ફાળો આપ્યો હતો. તેણીના નિવૃત્તિના સંદેશમાં, તેણીએ તેની પ્રારંભિક કારકિર્દીને ટેકો આપવા બદલ મુંબઈ ક્રિકેટ એસોસિએશનનો આભાર વ્યક્ત કર્યો અને કહ્યું કે તેણી ભવિષ્યમાં ક્રિકેટને કંઈક પાછું આપવાની આશા રાખે છે."
+      }
+    },
+    {
+      "id": "2026-10-16-4",
+      "date": "2026-10-16",
+      "qno": 4,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "With which country did Bangladesh sign a $335 million loan agreement to modernise a strategic seaport near the Indian border?",
+        "options": {
+          "A": "Japan",
+          "B": "South Korea",
+          "C": "China",
+          "D": "Singapore"
+        },
+        "explanation": "China signed a $335 million loan agreement with Bangladesh on October 12, 2026, to support the modernisation of a strategic seaport located near the India-Bangladesh border. The financial assistance carries a concessional interest rate of 2%, with a repayment period of 20 years, including a five-year grace period. The agreement aims to improve port infrastructure and strengthen Bangladesh’s maritime connectivity. Bangladesh shares a 4,096.7-kilometre land border with India, the longest land border India shares with any country. China’s capital is Beijing, and its official currency is the Renminbi, commonly known as the Yuan."
+      },
+      "hi": {
+        "question": "बांग्लादेश ने भारतीय सीमा के पास एक रणनीतिक बंदरगाह के आधुनिकीकरण के लिए किस देश के साथ 335 मिलियन डॉलर के ऋण समझौते पर हस्ताक्षर किए?",
+        "options": {
+          "A": "जापान",
+          "B": "दक्षिण कोरिया",
+          "C": "चीन",
+          "D": "सिंगापुर"
+        },
+        "explanation": "चीन ने भारत-बांग्लादेश सीमा के पास स्थित एक रणनीतिक बंदरगाह के आधुनिकीकरण का समर्थन करने के लिए 12 अक्टूबर, 2026 को बांग्लादेश के साथ 335 मिलियन डॉलर के ऋण समझौते पर हस्ताक्षर किए। वित्तीय सहायता में 2% की रियायती ब्याज दर होती है, जिसमें 20 साल की पुनर्भुगतान अवधि होती है, जिसमें पांच साल की छूट अवधि भी शामिल है। समझौते का उद्देश्य बंदरगाह के बुनियादी ढांचे में सुधार और बांग्लादेश की समुद्री कनेक्टिविटी को मजबूत करना है। बांग्लादेश भारत के साथ 4,096.7 किलोमीटर लंबी भूमि सीमा साझा करता है, जो भारत द्वारा किसी भी देश के साथ साझा की गई सबसे लंबी भूमि सीमा है। चीन की राजधानी बीजिंग है, और इसकी आधिकारिक मुद्रा रेनमिनबी है, जिसे आमतौर पर युआन के नाम से जाना जाता है।"
+      },
+      "gu": {
+        "question": "બાંગ્લાદેશે કયા દેશ સાથે ભારતીય સરહદ નજીક વ્યૂહાત્મક બંદરને આધુનિક બનાવવા માટે $335 મિલિયન લોન કરાર પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "જાપાન",
+          "B": "દક્ષિણ કોરિયા",
+          "C": "ચીન",
+          "D": "સિંગાપુર"
+        },
+        "explanation": "ચીને 12 ઓક્ટોબર, 2026 ના રોજ બાંગ્લાદેશ સાથે $335 મિલિયન લોન કરાર પર હસ્તાક્ષર કર્યા હતા, જે ભારત-બાંગ્લાદેશ સરહદ નજીક સ્થિત વ્યૂહાત્મક બંદરના આધુનિકીકરણને સમર્થન આપે છે. નાણાકીય સહાય 2% ના છૂટછાટવાળા વ્યાજ દર ધરાવે છે, જેમાં 20 વર્ષની પુન:ચુકવણી અવધિ છે, જેમાં પાંચ વર્ષનો ગ્રેસ પીરિયડનો સમાવેશ થાય છે. આ કરારનો ઉદ્દેશ્ય પોર્ટ ઈન્ફ્રાસ્ટ્રક્ચર સુધારવા અને બાંગ્લાદેશની મેરીટાઇમ કનેક્ટિવિટી મજબૂત કરવાનો છે. બાંગ્લાદેશ ભારત સાથે 4,096.7-કિલોમીટરની જમીની સરહદ વહેંચે છે, જે કોઈપણ દેશ સાથે ભારતની સૌથી લાંબી ભૂમિ સરહદ છે. ચીનની રાજધાની બેઇજિંગ છે અને તેનું સત્તાવાર ચલણ રેનમિન્બી છે, જેને સામાન્ય રીતે યુઆન તરીકે ઓળખવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-10-16-5",
+      "date": "2026-10-16",
+      "qno": 5,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did India’s net direct tax collections increase year-on-year to ₹13.38 lakh crore as of October 14, 2026?",
+        "options": {
+          "A": "11.5%",
+          "B": "14.89%",
+          "C": "17.0%",
+          "D": "13.2%"
+        },
+        "explanation": "13.2% was the year-on-year growth in India’s net direct tax collections, which reached ₹13.38 lakh crore as of October 14, 2026. According to provisional figures released by the Income Tax Department, gross direct tax collections increased by 14.89% to ₹16.03 lakh crore during the same period. Corporate tax collections contributed significantly to the growth, with net corporate tax revenue rising by 20.6% to ₹5.99 lakh crore. Securities Transaction Tax (STT) collections also recorded strong growth of 51.6%, reaching ₹46,840 crore. The government set a direct tax collection target of ₹26.97 lakh crore for the financial year 2026–27."
+      },
+      "hi": {
+        "question": "14 अक्टूबर, 2026 तक भारत का शुद्ध प्रत्यक्ष कर संग्रह साल-दर-साल कितने प्रतिशत बढ़कर ₹13.38 लाख करोड़ हो गया?",
+        "options": {
+          "A": "11.5%",
+          "B": "14.89%",
+          "C": "17.0%",
+          "D": "13.2%"
+        },
+        "explanation": "भारत के शुद्ध प्रत्यक्ष कर संग्रह में साल-दर-साल 13.2% की वृद्धि हुई, जो 14 अक्टूबर, 2026 तक ₹13.38 लाख करोड़ तक पहुंच गई। आयकर विभाग द्वारा जारी अनंतिम आंकड़ों के अनुसार, इसी अवधि के दौरान सकल प्रत्यक्ष कर संग्रह 14.89% बढ़कर ₹16.03 लाख करोड़ हो गया। कॉर्पोरेट कर संग्रह ने वृद्धि में महत्वपूर्ण योगदान दिया, शुद्ध कॉर्पोरेट कर राजस्व 20.6% बढ़कर ₹5.99 लाख करोड़ हो गया। प्रतिभूति लेनदेन कर (एसटीटी) संग्रह में भी 51.6% की मजबूत वृद्धि दर्ज की गई, जो ₹46,840 करोड़ तक पहुंच गया। सरकार ने वित्तीय वर्ष 2026-27 के लिए 26.97 लाख करोड़ रुपये का प्रत्यक्ष कर संग्रह लक्ष्य निर्धारित किया है।"
+      },
+      "gu": {
+        "question": "ઑક્ટોબર 14, 2026 સુધીમાં ભારતનું નેટ ડાયરેક્ટ ટેક્સ કલેક્શન વાર્ષિક ધોરણે ₹13.38 લાખ કરોડ જેટલું વધીને કેટલા ટકા થયું?",
+        "options": {
+          "A": "11.5%",
+          "B": "14.89%",
+          "C": "17.0%",
+          "D": "13.2%"
+        },
+        "explanation": "ભારતના નેટ ડાયરેક્ટ ટેક્સ કલેક્શનમાં વાર્ષિક ધોરણે 13.2% વૃદ્ધિ હતી, જે 14 ઓક્ટોબર, 2026 સુધીમાં ₹13.38 લાખ કરોડ સુધી પહોંચી હતી. આવકવેરા વિભાગ દ્વારા જાહેર કરાયેલ કામચલાઉ આંકડાઓ અનુસાર, આ સમયગાળા દરમિયાન કુલ ડાયરેક્ટ ટેક્સ કલેક્શન 14.89% વધીને ₹16.03 લાખ કરોડ થયું હતું. કોર્પોરેટ ટેક્સ કલેક્શને વૃદ્ધિમાં નોંધપાત્ર ફાળો આપ્યો છે, જેમાં ચોખ્ખી કોર્પોરેટ ટેક્સ આવક 20.6% વધીને ₹5.99 લાખ કરોડ થઈ છે. સિક્યોરિટીઝ ટ્રાન્ઝેક્શન ટેક્સ (STT) કલેક્શનમાં પણ 51.6%ની મજબૂત વૃદ્ધિ નોંધાઈ છે, જે ₹46,840 કરોડ સુધી પહોંચી છે. સરકારે નાણાકીય વર્ષ 2026-27 માટે ₹26.97 લાખ કરોડનો ડાયરેક્ટ ટેક્સ કલેક્શનનો લક્ષ્યાંક નક્કી કર્યો છે."
+      }
+    },
+    {
+      "id": "2026-10-16-6",
+      "date": "2026-10-16",
+      "qno": 6,
+      "answer": "D",
+      "category": "Education",
+      "en": {
+        "question": "Which Indian Institute of Technology launched the NDLI-FERMI AI Tutor and a free online preparation platform for GATE and JAM aspirants?",
+        "options": {
+          "A": "IIT Madras",
+          "B": "IIT Delhi",
+          "C": "IIT Kanpur",
+          "D": "IIT Kharagpur"
+        },
+        "explanation": "IIT Kharagpur launched the NDLI-FERMI AI Tutor and a free online preparation platform for GATE and JAM aspirants on October 14, 2026. The initiatives were inaugurated by Union Minister of State for Education Sukanta Majumdar at the institute’s Research Park in Rajarhat, Kolkata, as part of its Platinum Jubilee celebrations. The AI Tutor is integrated with the National Digital Library of India and provides guided learning in Physics, Chemistry, Mathematics, and Biology through its ‘Scan & Ask’ feature. The free exam preparation platform aims to support students from rural and economically disadvantaged backgrounds. Established in 1951, IIT Kharagpur was India’s first IIT."
+      },
+      "hi": {
+        "question": "किस भारतीय प्रौद्योगिकी संस्थान ने GATE और JAM उम्मीदवारों के लिए NDLI-FERMI AI ट्यूटर और एक मुफ्त ऑनलाइन तैयारी मंच लॉन्च किया?",
+        "options": {
+          "A": "आईआईटी मद्रास",
+          "B": "आईआईटी दिल्ली",
+          "C": "आईआईटी कानपुर",
+          "D": "आईआईटी खड़गपुर"
+        },
+        "explanation": "आईआईटी खड़गपुर ने 14 अक्टूबर, 2026 को GATE और JAM उम्मीदवारों के लिए NDLI-FERMI AI ट्यूटर और एक मुफ्त ऑनलाइन तैयारी मंच लॉन्च किया। इस पहल का उद्घाटन केंद्रीय शिक्षा राज्य मंत्री सुकांत मजूमदार ने अपने प्लेटिनम जुबली समारोह के हिस्से के रूप में, कोलकाता के राजारहाट में संस्थान के रिसर्च पार्क में किया। एआई ट्यूटर भारत की राष्ट्रीय डिजिटल लाइब्रेरी के साथ एकीकृत है और अपने 'स्कैन एंड आस्क' फीचर के माध्यम से भौतिकी, रसायन विज्ञान, गणित और जीव विज्ञान में निर्देशित शिक्षा प्रदान करता है। निःशुल्क परीक्षा तैयारी मंच का उद्देश्य ग्रामीण और आर्थिक रूप से वंचित पृष्ठभूमि के छात्रों का समर्थन करना है। 1951 में स्थापित, आईआईटी खड़गपुर भारत का पहला आईआईटी था।"
+      },
+      "gu": {
+        "question": "કઈ ભારતીય તકનીકી સંસ્થાએ NDLI-FERMI AI ટ્યુટર અને GATE અને JAM ઉમેદવારો માટે મફત ઓનલાઈન તૈયારી પ્લેટફોર્મ લોન્ચ કર્યું?",
+        "options": {
+          "A": "IIT મદ્રાસ",
+          "B": "આઈઆઈટી દિલ્હી",
+          "C": "IIT કાનપુર",
+          "D": "IIT ખડગપુર"
+        },
+        "explanation": "IIT ખડગપુરે 14 ઓક્ટોબર, 2026 ના રોજ NDLI-FERMI AI ટ્યુટર અને GATE અને JAM ઉમેદવારો માટે એક મફત ઓનલાઈન તૈયારી પ્લેટફોર્મ લોન્ચ કર્યું. તેની પ્લેટિનમ જ્યુબિલી ઉજવણીના ભાગ રૂપે કોલકાતાના રાજરહાટમાં સંસ્થાના રિસર્ચ પાર્કમાં કેન્દ્રીય શિક્ષણ રાજ્ય મંત્રી સુકાંત મજુમદાર દ્વારા પહેલનું ઉદ્ઘાટન કરવામાં આવ્યું. AI ટ્યુટર ભારતની નેશનલ ડિજિટલ લાઇબ્રેરી સાથે સંકલિત છે અને તેની ‘સ્કેન એન્ડ આસ્ક’ સુવિધા દ્વારા ભૌતિકશાસ્ત્ર, રસાયણશાસ્ત્ર, ગણિત અને જીવવિજ્ઞાનમાં માર્ગદર્શિત શિક્ષણ પ્રદાન કરે છે. મફત પરીક્ષા તૈયારી પ્લેટફોર્મનો હેતુ ગ્રામીણ અને આર્થિક રીતે વંચિત પૃષ્ઠભૂમિના વિદ્યાર્થીઓને સહાય કરવાનો છે. 1951 માં સ્થપાયેલ, IIT ખડગપુર ભારતની પ્રથમ IIT હતી."
+      }
+    },
+    {
+      "id": "2026-10-16-7",
+      "date": "2026-10-16",
+      "qno": 7,
+      "answer": "C",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Food Day observed annually to raise awareness about hunger, nutrition, and sustainable food systems?",
+        "options": {
+          "A": "October 10",
+          "B": "October 24",
+          "C": "October 16",
+          "D": "November 16"
+        },
+        "explanation": "October 16 is observed annually as World Food Day to raise awareness about hunger, malnutrition, food security and sustainable agriculture. The date marks the anniversary of the establishment of the Food and Agriculture Organisation (FAO) in 1945. The first World Food Day was observed in 1981, following a resolution adopted by FAO member nations in 1979. The theme for World Food Day 2026 focuses on innovation to improve food production, preservation, distribution and access to nutritious diets. The observance also supports Sustainable Development Goal 2, known as Zero Hunger, which aims to eliminate hunger, improve nutrition and promote sustainable agriculture by 2030."
+      },
+      "hi": {
+        "question": "भूख, पोषण और टिकाऊ खाद्य प्रणालियों के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व खाद्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "10 अक्टूबर",
+          "B": "24 अक्टूबर",
+          "C": "16 अक्टूबर",
+          "D": "16 नवंबर"
+        },
+        "explanation": "भूख, कुपोषण, खाद्य सुरक्षा और टिकाऊ कृषि के बारे में जागरूकता बढ़ाने के लिए 16 अक्टूबर को प्रतिवर्ष विश्व खाद्य दिवस के रूप में मनाया जाता है। यह तारीख 1945 में खाद्य और कृषि संगठन (एफएओ) की स्थापना की वर्षगांठ का प्रतीक है। पहला विश्व खाद्य दिवस 1979 में एफएओ सदस्य देशों द्वारा अपनाए गए एक प्रस्ताव के बाद 1981 में मनाया गया था। theme के लिए World Food दिन 2026 focuses पर innovation को improve food production, संरक्षण, वितरण और पौष्टिक आहार तक पहुंच। यह आयोजन सतत विकास लक्ष्य 2 का भी समर्थन करता है, जिसे जीरो हंगर के नाम से जाना जाता है, जिसका उद्देश्य 2030 तक भूख को खत्म करना, पोषण में सुधार करना और टिकाऊ कृषि को बढ़ावा देना है।"
+      },
+      "gu": {
+        "question": "ભૂખ, પોષણ અને ટકાઉ ખાદ્ય પ્રણાલીઓ વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ ખાદ્ય દિવસ ક્યારે ઉજવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર 10",
+          "B": "24 ઓક્ટોબર",
+          "C": "ઓક્ટોબર 16",
+          "D": "નવેમ્બર 16"
+        },
+        "explanation": "ભૂખ, કુપોષણ, ખાદ્ય સુરક્ષા અને ટકાઉ કૃષિ વિશે જાગૃતિ લાવવા માટે 16 ઓક્ટોબરને દર વર્ષે વિશ્વ ખાદ્ય દિવસ તરીકે મનાવવામાં આવે છે. આ તારીખ 1945માં ફૂડ એન્ડ એગ્રીકલ્ચર ઓર્ગેનાઈઝેશન (FAO) ની સ્થાપનાની વર્ષગાંઠને ચિહ્નિત કરે છે. 1979માં FAOના સભ્ય દેશો દ્વારા અપનાવવામાં આવેલા ઠરાવને પગલે 1981માં પ્રથમ વિશ્વ ખાદ્ય દિવસ મનાવવામાં આવ્યો હતો. આ પાલન સસ્ટેનેબલ ડેવલપમેન્ટ ગોલ 2 ને પણ સમર્થન આપે છે, જેને ઝીરો હંગર તરીકે ઓળખવામાં આવે છે, જેનો ઉદ્દેશ્ય 2030 સુધીમાં ભૂખને દૂર કરવા, પોષણમાં સુધારો કરવા અને ટકાઉ કૃષિને પ્રોત્સાહન આપવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-16-8",
+      "date": "2026-10-16",
+      "qno": 8,
+      "answer": "B",
+      "category": "Bills and Acts",
+      "en": {
+        "question": "Which article of the Constitution of India deals with the tenure of Union ministers, stating that they hold office during the pleasure of the President?",
+        "options": {
+          "A": "Article 74(1)",
+          "B": "Article 75(2)",
+          "C": "Article 76(1)",
+          "D": "Article 78(2)"
+        },
+        "explanation": "Article 75(2) of the Constitution of India provides that Union ministers hold office during the pleasure of the President. This provision operates within India’s parliamentary system, where the President acts on the aid and advice of the Prime Minister and the Council of Ministers, in accordance with the Constitution. The provision was highlighted when President Droupadi Murmu accepted L. Murugan’s resignation from the Union Council of Ministers following the Prime Minister’s advice. Murugan, who served as Minister of State for Information and Broadcasting and Parliamentary Affairs, resigned to focus on strengthening the BJP’s organisational presence in Tamil Nadu."
+      },
+      "hi": {
+        "question": "भारत के संविधान का कौन सा अनुच्छेद केंद्रीय मंत्रियों के कार्यकाल से संबंधित है, जिसमें कहा गया है कि वे राष्ट्रपति की मर्जी तक पद पर बने रहेंगे?",
+        "options": {
+          "A": "अनुच्छेद 74(1)",
+          "B": "अनुच्छेद 75(2)",
+          "C": "अनुच्छेद 76(1)",
+          "D": "अनुच्छेद 78(2)"
+        },
+        "explanation": "भारत के संविधान के अनुच्छेद 75(2) में प्रावधान है कि केंद्रीय मंत्री राष्ट्रपति की इच्छा तक पद पर बने रहेंगे। यह प्रावधान भारत की संसदीय प्रणाली के अंतर्गत संचालित होता है, जहां राष्ट्रपति संविधान के अनुसार, प्रधान मंत्री और मंत्रिपरिषद की सहायता और सलाह पर कार्य करता है। यह प्रावधान तब उजागर हुआ जब राष्ट्रपति द्रौपदी मुर्मू ने प्रधान मंत्री की सलाह के बाद केंद्रीय मंत्रिपरिषद से एल. मुरुगन का इस्तीफा स्वीकार कर लिया। मुरुगन, जिन्होंने सूचना और प्रसारण और संसदीय मामलों के राज्य मंत्री के रूप में कार्य किया, ने तमिलनाडु में भाजपा की संगठनात्मक उपस्थिति को मजबूत करने पर ध्यान केंद्रित करने के लिए इस्तीफा दे दिया।"
+      },
+      "gu": {
+        "question": "ભારતના બંધારણનો કયો અનુચ્છેદ કેન્દ્રીય પ્રધાનોના કાર્યકાળ સાથે સંબંધિત છે, જેમાં જણાવાયું છે કે તેઓ રાષ્ટ્રપતિની ખુશી દરમિયાન હોદ્દો સંભાળે છે?",
+        "options": {
+          "A": "કલમ 74(1)",
+          "B": "કલમ 75(2)",
+          "C": "કલમ 76(1)",
+          "D": "કલમ 78(2)"
+        },
+        "explanation": "ભારતના બંધારણની કલમ 75(2) એવી જોગવાઈ કરે છે કે કેન્દ્રીય મંત્રીઓ રાષ્ટ્રપતિની ખુશી દરમિયાન હોદ્દો સંભાળે છે. આ જોગવાઈ ભારતની સંસદીય પ્રણાલીમાં કાર્ય કરે છે, જ્યાં રાષ્ટ્રપતિ બંધારણ અનુસાર વડાપ્રધાન અને મંત્રી પરિષદની સહાય અને સલાહ પર કાર્ય કરે છે. જ્યારે રાષ્ટ્રપતિ દ્રૌપદી મુર્મુએ વડાપ્રધાનની સલાહ બાદ કેન્દ્રીય મંત્રી પરિષદમાંથી એલ. મુરુગનનું રાજીનામું સ્વીકાર્યું ત્યારે આ જોગવાઈ પ્રકાશિત થઈ હતી. માહિતી અને પ્રસારણ અને સંસદીય બાબતોના રાજ્ય મંત્રી તરીકે ફરજ બજાવતા મુરુગને તમિલનાડુમાં ભાજપની સંગઠનાત્મક હાજરીને મજબૂત કરવા પર ધ્યાન કેન્દ્રિત કરવા રાજીનામું આપ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-16-9",
+      "date": "2026-10-16",
+      "qno": 9,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "Which bank launched the Verto premium savings account for young professionals and entrepreneurs?",
+        "options": {
+          "A": "Federal Bank",
+          "B": "HDFC Bank",
+          "C": "Axis Bank",
+          "D": "ICICI Bank"
+        },
+        "explanation": "Federal Bank launched its Verto premium savings account on October 14, 2026, targeting young professionals, entrepreneurs, and growth-oriented individuals. The account offers complimentary insurance coverage of up to ₹35 lakh and 5% cashback on eligible debit card transactions for food, fashion, and flight bookings. Customers can also access complimentary domestic airport lounges, concessions on locker rent, and benefits on outward remittances. The account includes specialised privileges for spouses and children, along with personalised insights into spending patterns, wealth creation opportunities, and market updates. Federal Bank is a private sector bank headquartered in Aluva, Kerala, and was incorporated in 1931."
+      },
+      "hi": {
+        "question": "किस बैंक ने युवा पेशेवरों और उद्यमियों के लिए वर्टो प्रीमियम बचत खाता लॉन्च किया?",
+        "options": {
+          "A": "फेडरल बैंक",
+          "B": "एचडीएफसी बैंक",
+          "C": "एक्सिस बैंक",
+          "D": "आईसीआईसीआई बैंक"
+        },
+        "explanation": "फेडरल बैंक ने युवा पेशेवरों, उद्यमियों और विकास-उन्मुख व्यक्तियों को लक्षित करते हुए 14 अक्टूबर, 2026 को अपना वर्टो प्रीमियम बचत खाता लॉन्च किया। खाता ₹35 लाख तक का मानार्थ बीमा कवरेज और भोजन, फैशन और उड़ान बुकिंग के लिए पात्र डेबिट कार्ड लेनदेन पर 5% कैशबैक प्रदान करता है। ग्राहक मानार्थ घरेलू हवाई अड्डे के लाउंज, लॉकर किराए पर रियायतें और जावक प्रेषण पर लाभ भी प्राप्त कर सकते हैं। खाते में जीवनसाथी और बच्चों के लिए विशेष विशेषाधिकार शामिल हैं, साथ ही खर्च के पैटर्न, धन सृजन के अवसरों और बाजार अपडेट में व्यक्तिगत अंतर्दृष्टि भी शामिल है। फेडरल बैंक एक निजी क्षेत्र का बैंक है जिसका मुख्यालय अलुवा, केरल में है और इसे 1931 में स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "કઈ બેંકે યુવા વ્યાવસાયિકો અને સાહસિકો માટે વર્ટો પ્રીમિયમ બચત ખાતું શરૂ કર્યું?",
+        "options": {
+          "A": "ફેડરલ બેંક",
+          "B": "HDFC બેંક",
+          "C": "એક્સિસ બેંક",
+          "D": "ICICI બેંક"
+        },
+        "explanation": "ફેડરલ બેંકે તેનું વર્ટો પ્રીમિયમ બચત ખાતું 14 ઓક્ટોબર, 2026ના રોજ શરૂ કર્યું હતું, જેમાં યુવા વ્યાવસાયિકો, ઉદ્યોગસાહસિકો અને વૃદ્ધિ-લક્ષી વ્યક્તિઓને લક્ષ્યાંક બનાવવામાં આવ્યો હતો. ખાતું ભોજન, ફેશન અને ફ્લાઇટ બુકિંગ માટે પાત્ર ડેબિટ કાર્ડ વ્યવહારો પર ₹35 લાખ સુધીનું મફત વીમા કવરેજ અને 5% કેશબેક ઓફર કરે છે. ગ્રાહકો સ્તુત્ય ડોમેસ્ટિક એરપોર્ટ લાઉન્જ, લોકર ભાડા પર છૂટ અને આઉટવર્ડ રેમિટન્સ પરના લાભો પણ મેળવી શકે છે. એકાઉન્ટમાં જીવનસાથીઓ અને બાળકો માટે વિશેષ વિશેષાધિકારોનો સમાવેશ થાય છે, જેમાં ખર્ચની પેટર્ન, સંપત્તિ સર્જનની તકો અને બજાર અપડેટ્સ માટે વ્યક્તિગત આંતરદૃષ્ટિનો સમાવેશ થાય છે. ફેડરલ બેંક એ ખાનગી ક્ષેત્રની બેંક છે જેનું મુખ્ય મથક અલુવા, કેરળમાં છે અને 1931માં તેની સ્થાપના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-16-10",
+      "date": "2026-10-16",
+      "qno": 10,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the gold medal in the Men’s 10m Air Pistol event at the ISSF World Cup Rifle/Pistol held in Cairo, Egypt?",
+        "options": {
+          "A": "Udhayveer Sidhu",
+          "B": "Sarabjot Singh",
+          "C": "Christian Reitz",
+          "D": "Paolo Monna"
+        },
+        "explanation": "Udhayveer Sidhu won the gold medal in the Men’s 10m Air Pistol event at the ISSF World Cup Rifle/Pistol held in Cairo, Egypt, on October 11, 2026. He secured the top position with a final score of 240.6, narrowly defeating Germany’s Christian Reitz, who scored 240.1 to claim silver. Italy’s Paolo Monna won the bronze medal with 219.8 points. India participated in the tournament with a 24-member squad led by Olympic medallists Swapnil Suresh Kusale and Sarabjot Singh. The competition featured eight individual Olympic disciplines and two mixed team events, highlighting international competition in shooting sports."
+      },
+      "hi": {
+        "question": "मिस्र के काहिरा में आयोजित ISSF विश्व कप राइफल/पिस्टल में पुरुषों की 10 मीटर एयर पिस्टल स्पर्धा में स्वर्ण पदक किसने जीता?",
+        "options": {
+          "A": "उदयवीर सिधू",
+          "B": "सरबजोत सिंह",
+          "C": "क्रिश्चियन रिट्ज",
+          "D": "पाओलो मोना"
+        },
+        "explanation": "उदयवीर सिद्धू ने 11 अक्टूबर, 2026 को मिस्र के काहिरा में आयोजित आईएसएसएफ विश्व कप राइफल/पिस्टल में पुरुषों की 10 मीटर एयर पिस्टल स्पर्धा में स्वर्ण पदक जीता। उन्होंने 240.6 के अंतिम स्कोर के साथ शीर्ष स्थान हासिल किया, जर्मनी के क्रिश्चियन रिट्ज को हराया, जिन्होंने 240.1 स्कोर करके रजत पदक जीता। इटली के पाओलो मोना ने 219.8 अंकों के साथ कांस्य पदक जीता। भारत ने ओलंपिक पदक विजेता स्वप्निल सुरेश कुसाले और सरबजोत सिंह के नेतृत्व में 24 सदस्यीय टीम के साथ टूर्नामेंट में भाग लिया। प्रतियोगिता में आठ व्यक्तिगत ओलंपिक प्रतियोगिताएं और दो मिश्रित टीम स्पर्धाएं शामिल थीं, जो शूटिंग खेलों में अंतरराष्ट्रीय प्रतिस्पर्धा पर प्रकाश डालती थीं।"
+      },
+      "gu": {
+        "question": "કૈરો, ઇજિપ્તમાં આયોજિત ISSF વર્લ્ડ કપ રાઇફલ/પિસ્તોલમાં પુરુષોની 10 મીટર એર પિસ્તોલ સ્પર્ધામાં કોણે ગોલ્ડ મેડલ જીત્યો?",
+        "options": {
+          "A": "ઉધયવીર સિદ્ધુ",
+          "B": "સરબજોત સિંહ",
+          "C": "ક્રિશ્ચિયન રીટ્ઝ",
+          "D": "પાઓલો મોન્ના"
+        },
+        "explanation": "ઉધયવીર સિદ્ધુએ 11 ઑક્ટોબર, 2026ના રોજ કૈરો, ઇજિપ્તમાં આયોજિત ISSF વર્લ્ડ કપ રાઇફલ/પિસ્તોલમાં પુરુષોની 10 મીટર એર પિસ્તોલ સ્પર્ધામાં સુવર્ણ ચંદ્રક જીત્યો. તેણે 240.6ના અંતિમ સ્કોર સાથે ટોચનું સ્થાન મેળવ્યું, જર્મનીના ક્રિશ્ચિયન રેટ્ઝને સાંકડી રીતે હરાવી, જેમણે 401 સ્કોર સાથે સિલ્વર મેડલ મેળવ્યો. ઈટાલીના પાઓલો મોન્નાએ 219.8 પોઈન્ટ સાથે બ્રોન્ઝ મેડલ જીત્યો હતો. ભારતે ટુર્નામેન્ટમાં ઓલિમ્પિક મેડલ વિજેતા સ્વપ્નિલ સુરેશ કુસલે અને સરબજોત સિંહની આગેવાની હેઠળ 24 સભ્યોની ટીમ સાથે ભાગ લીધો હતો. સ્પર્ધામાં આઠ વ્યક્તિગત ઓલિમ્પિક શિસ્ત અને બે મિશ્ર ટીમ ઇવેન્ટ્સ દર્શાવવામાં આવી હતી, જે શૂટિંગની રમતમાં આંતરરાષ્ટ્રીય સ્પર્ધાને પ્રકાશિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-1",
+      "date": "2026-10-15",
+      "qno": 1,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which state inaugurated its first solar power project with battery storage at Rongtong in Spiti Valley?",
+        "options": {
+          "A": "Uttarakhand",
+          "B": "Sikkim",
+          "C": "Arunachal Pradesh",
+          "D": "Himachal Pradesh"
+        },
+        "explanation": "Himachal Pradesh inaugurated its first solar power project with a battery storage facility at Rongtong in Spiti Valley. The 2 MW solar power plant was inaugurated by Chief Minister Sukhvinder Singh Sukhu. Developed at a cost of ₹4.42 crore, the project is expected to generate approximately 36 lakh units of electricity annually. It also includes a 1 MWh Battery Energy Storage System (BESS), which stores electricity for use when required. The project is particularly important for Spiti Valley because of its high altitude, remote settlements and difficult terrain. It supports renewable energy utilisation and aims to strengthen the region’s electricity infrastructure."
+      },
+      "hi": {
+        "question": "किस राज्य ने स्पीति घाटी के रोंगटोंग में बैटरी भंडारण के साथ अपनी पहली सौर ऊर्जा परियोजना का उद्घाटन किया?",
+        "options": {
+          "A": "उत्तराखंड",
+          "B": "सिक्किम",
+          "C": "अरुणाचल प्रदेश",
+          "D": "हिमाचल प्रदेश"
+        },
+        "explanation": "हिमाचल प्रदेश ने स्पीति घाटी के रोंगटोंग में बैटरी भंडारण सुविधा के साथ अपनी पहली सौर ऊर्जा परियोजना का उद्घाटन किया। 2 मेगावाट के सौर ऊर्जा संयंत्र का उद्घाटन मुख्यमंत्री सुखविंदर सिंह सुक्खू ने किया। ₹4.42 करोड़ की लागत से विकसित इस परियोजना से सालाना लगभग 36 लाख यूनिट बिजली पैदा होने की उम्मीद है। इसमें 1 मेगावाट बैटरी एनर्जी स्टोरेज सिस्टम (बीईएसएस) भी शामिल है, जो आवश्यकता पड़ने पर उपयोग के लिए बिजली संग्रहीत करता है। यह परियोजना स्पीति घाटी के लिए विशेष रूप से महत्वपूर्ण है क्योंकि इसकी ऊँचाई, सुदूर बस्तियाँ और कठिन इलाका है। यह नवीकरणीय ऊर्जा उपयोग का समर्थन करता है और इसका उद्देश्य क्षेत्र के बिजली बुनियादी ढांचे को मजबूत करना है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યે સ્પીતિ ખીણમાં રોંગટોંગ ખાતે બેટરી સ્ટોરેજ સાથેના તેના પ્રથમ સૌર ઊર્જા પ્રોજેક્ટનું ઉદ્ઘાટન કર્યું?",
+        "options": {
+          "A": "ઉત્તરાખંડ",
+          "B": "સિક્કિમ",
+          "C": "અરુણાચલ પ્રદેશ",
+          "D": "હિમાચલ પ્રદેશ"
+        },
+        "explanation": "હિમાચલ પ્રદેશે સ્પિતિ ખીણમાં રોંગટોંગ ખાતે બેટરી સ્ટોરેજ સુવિધા સાથે તેના પ્રથમ સૌર ઊર્જા પ્રોજેક્ટનું ઉદ્ઘાટન કર્યું. 2 મેગાવોટના સોલાર પાવર પ્લાન્ટનું ઉદ્ઘાટન મુખ્યમંત્રી સુખવિંદર સિંહ સુખુએ કર્યું હતું. ₹4.42 કરોડના ખર્ચે વિકસિત, આ પ્રોજેક્ટ વાર્ષિક અંદાજે 36 લાખ યુનિટ વીજળી ઉત્પન્ન કરે તેવી અપેક્ષા છે. તેમાં 1 MWh બેટરી એનર્જી સ્ટોરેજ સિસ્ટમ (BESS) પણ સામેલ છે, જે જ્યારે જરૂર પડે ત્યારે ઉપયોગ માટે વીજળીનો સંગ્રહ કરે છે. આ પ્રોજેક્ટ ખાસ કરીને સ્પીતિ વેલી માટે મહત્વનો છે કારણ કે તેની ઊંચી ઊંચાઈ, દૂરસ્થ વસાહતો અને મુશ્કેલ ભૂપ્રદેશ છે. તે પુનઃપ્રાપ્ય ઊર્જાના ઉપયોગને સમર્થન આપે છે અને તેનો હેતુ પ્રદેશના વીજળી માળખાને મજબૂત કરવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-15-2",
+      "date": "2026-10-15",
+      "qno": 2,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "Which international conference on Kaumarabhritya was inaugurated by Vice-President C. P. Radhakrishnan in New Delhi?",
+        "options": {
+          "A": "AYUSHCON-2026",
+          "B": "KAUMARACON-2026",
+          "C": "AYURVEDACON-2026",
+          "D": "AROGYACON-2026"
+        },
+        "explanation": "KAUMARACON-2026 is the third international conference on Kaumarabhritya, a specialised branch of Ayurveda concerned with child healthcare. Vice-President C. P. Radhakrishnan inaugurated the conference on October 15, 2026, in New Delhi. Organised by the All India Institute of Ayurveda (AIIA), the conference was scheduled from October 15 to 17, 2026, at the institute’s Sarita Vihar campus. Its theme focuses on advancing child health through global perspectives, research innovations and clinical developments. The conference brings together scientists, clinicians, academics and medical professionals to discuss child nutrition, development, disease prevention and improvements in traditional medical practices."
+      },
+      "hi": {
+        "question": "नई दिल्ली में उपराष्ट्रपति सी. पी. राधाकृष्णन ने कौमारभृत्य पर किस अंतर्राष्ट्रीय सम्मेलन का उद्घाटन किया?",
+        "options": {
+          "A": "आयुषकॉन-2026",
+          "B": "KAUMARACON-2026",
+          "C": "आयुर्वेदकॉन-2026",
+          "D": "आरोग्यकॉन-2026"
+        },
+        "explanation": "KAUMARACON-2026 बाल स्वास्थ्य देखभाल से संबंधित आयुर्वेद की एक विशेष शाखा, कौमारभृत्य पर तीसरा अंतर्राष्ट्रीय सम्मेलन है। उपराष्ट्रपति सी. पी. राधाकृष्णन ने 15 अक्टूबर, 2026 को नई दिल्ली में सम्मेलन का उद्घाटन किया। अखिल भारतीय आयुर्वेद संस्थान (एआईआईए) द्वारा आयोजित, सम्मेलन 15 से 17 अक्टूबर, 2026 तक संस्थान के सरिता विहार परिसर में निर्धारित किया गया था। इसका theme focuses पर advancing child health के माध्यम से वैश्विक perspectives, अनुसंधान नवाचार और नैदानिक ​​विकास। सम्मेलन बाल पोषण, विकास, बीमारी की रोकथाम और पारंपरिक चिकित्सा पद्धतियों में सुधार पर चर्चा करने के लिए वैज्ञानिकों, चिकित्सकों, शिक्षाविदों और चिकित्सा पेशेवरों को एक साथ लाता है।"
+      },
+      "gu": {
+        "question": "નવી દિલ્હીમાં વાઇસ પ્રેસિડેન્ટ સી.પી. રાધાકૃષ્ણન દ્વારા કૌમારભૃત્ય પર કઈ આંતરરાષ્ટ્રીય કોન્ફરન્સનું ઉદ્ઘાટન કરવામાં આવ્યું હતું?",
+        "options": {
+          "A": "આયુષકોન-2026",
+          "B": "કૌમરાકોન-2026",
+          "C": "આયુર્વેદકોન-2026",
+          "D": "આરોગ્યકોન-2026"
+        },
+        "explanation": "કૌમરાકોન-2026 એ કૌમારભૃત્ય પર ત્રીજી આંતરરાષ્ટ્રીય પરિષદ છે, જે બાળ આરોગ્ય સંભાળ સાથે સંબંધિત આયુર્વેદની વિશેષ શાખા છે. ઉપરાષ્ટ્રપતિ સી.પી. રાધાકૃષ્ણને નવી દિલ્હીમાં 15 ઓક્ટોબર, 2026ના રોજ કોન્ફરન્સનું ઉદ્ઘાટન કર્યું હતું. અખિલ ભારતીય આયુર્વેદ સંસ્થા (AIIA) દ્વારા આયોજિત, સંસ્થાના સરિતા વિહાર કેમ્પસમાં 15 થી 17 ઓક્ટોબર, 2026 દરમિયાન કોન્ફરન્સનું આયોજન કરવામાં આવ્યું હતું. તેની theme focuses પર advancing child health દ્વારા વૈશ્વિક perspectives, સંશોધન નવીનતાઓ અને ક્લિનિકલ વિકાસ. આ પરિષદ બાળ પોષણ, વિકાસ, રોગ નિવારણ અને પરંપરાગત તબીબી પદ્ધતિઓમાં સુધારાઓ અંગે ચર્ચા કરવા વૈજ્ઞાનિકો, ચિકિત્સકો, શિક્ષણવિદો અને તબીબી વ્યાવસાયિકોને એકસાથે લાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-3",
+      "date": "2026-10-15",
+      "qno": 3,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which state released Chocolate Mahseer fish into the Rangeet River to conserve aquatic biodiversity?",
+        "options": {
+          "A": "Sikkim",
+          "B": "Arunachal Pradesh",
+          "C": "Himachal Pradesh",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Sikkim released Chocolate Mahseer fish into the Rangeet River on October 11, 2026, as part of an initiative to conserve aquatic biodiversity and protect indigenous freshwater species. Chief Minister Prem Singh Tamang carried out the release during the second day of the Chirbirey River Fest near Jorethang. The initiative aims to protect freshwater ecosystems and maintain the ecological balance of the Himalayan river system. The programme also focuses on fisheries development, sustainable fish farming, food security and improving local livelihoods. The Rangeet River is a major perennial river in Sikkim and a primary tributary of the Teesta River. Sikkim is also recognised as India's first 100% organic state."
+      },
+      "hi": {
+        "question": "किस राज्य ने जलीय जैव विविधता के संरक्षण के लिए चॉकलेट महसीर मछली को रंगीत नदी में छोड़ा?",
+        "options": {
+          "A": "सिक्किम",
+          "B": "अरुणाचल प्रदेश",
+          "C": "हिमाचल प्रदेश",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "जलीय जैव विविधता के संरक्षण और स्वदेशी मीठे पानी की प्रजातियों की रक्षा करने की पहल के तहत, सिक्किम ने 11 अक्टूबर, 2026 को रंगीत नदी में चॉकलेट महसीर मछली छोड़ी। मुख्यमंत्री प्रेम सिंह तमांग ने जोरेथांग के पास चिरबिरे रिवर फेस्ट के दूसरे दिन यह विमोचन किया। इस पहल का उद्देश्य मीठे पानी के पारिस्थितिकी तंत्र की रक्षा करना और हिमालयी नदी प्रणाली के पारिस्थितिक संतुलन को बनाए रखना है। यह कार्यक्रम मत्स्य पालन विकास, टिकाऊ मछली पालन, खाद्य सुरक्षा और स्थानीय आजीविका में सुधार पर भी केंद्रित है। रंगीत नदी सिक्किम की एक प्रमुख बारहमासी नदी है और तीस्ता नदी की प्राथमिक सहायक नदी है। सिक्किम को भारत के पहले 100% जैविक राज्य के रूप में भी मान्यता प्राप्त है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યે જળચર જૈવવિવિધતાના સંરક્ષણ માટે ચોકલેટ માહસીર માછલીને રંગીત નદીમાં છોડી હતી?",
+        "options": {
+          "A": "સિક્કિમ",
+          "B": "અરુણાચલ પ્રદેશ",
+          "C": "હિમાચલ પ્રદેશ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "સિક્કિમે 11 ઓક્ટોબર, 2026ના રોજ જલીય જૈવવિવિધતાના સંરક્ષણ અને સ્વદેશી તાજા પાણીની પ્રજાતિઓને બચાવવાની પહેલના ભાગ રૂપે ચોકલેટ માહસીર માછલીને રંગીત નદીમાં છોડી દીધી હતી. જોરેથાંગ નજીક ચિરબિરે રિવર ફેસ્ટના બીજા દિવસ દરમિયાન મુખ્ય પ્રધાન પ્રેમ સિંહ તમંગે વિમોચન કર્યું હતું. આ પહેલનો ઉદ્દેશ તાજા પાણીની ઇકોસિસ્ટમનું રક્ષણ કરવાનો અને હિમાલયન નદી પ્રણાલીના પર્યાવરણીય સંતુલનને જાળવવાનો છે. આ કાર્યક્રમ મત્સ્યોદ્યોગ વિકાસ, ટકાઉ માછલી ઉછેર, ખાદ્ય સુરક્ષા અને સ્થાનિક આજીવિકા સુધારવા પર પણ ધ્યાન કેન્દ્રિત કરે છે. રંગીત નદી સિક્કિમની મુખ્ય બારમાસી નદી છે અને તિસ્તા નદીની પ્રાથમિક ઉપનદી છે. સિક્કિમને ભારતના પ્રથમ 100% ઓર્ગેનિક રાજ્ય તરીકે પણ ઓળખવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-4",
+      "date": "2026-10-15",
+      "qno": 4,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is Mahila Kisan Diwas celebrated annually to recognise the contributions of women farmers to Indian agriculture?",
+        "options": {
+          "A": "October 15",
+          "B": "October 16",
+          "C": "October 10",
+          "D": "November 15"
+        },
+        "explanation": "October 15 is observed as Mahila Kisan Diwas in India to recognise the significant contributions of women farmers to agriculture and rural development. In 2026, the national-level celebration will be organised by the Department of Agriculture and Farmers Welfare under the Ministry of Agriculture and Farmers Welfare at Dr. B. R. Ambedkar International Centre in New Delhi. The occasion coincides with the International Day of Rural Women and forms part of the International Year of the Woman Farmer 2026, declared by the United Nations. The day highlights women's roles in crop cultivation, livestock management, conservation of natural resources, sustainable farming and agricultural entrepreneurship."
+      },
+      "hi": {
+        "question": "भारतीय कृषि में महिला किसानों के योगदान को मान्यता देने के लिए प्रतिवर्ष महिला किसान दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "15 अक्टूबर",
+          "B": "16 अक्टूबर",
+          "C": "10 अक्टूबर",
+          "D": "15 नवंबर"
+        },
+        "explanation": "कृषि और ग्रामीण विकास में महिला किसानों के महत्वपूर्ण योगदान को पहचानने के लिए भारत में 15 अक्टूबर को महिला किसान दिवस के रूप में मनाया जाता है। 2026 में, नई दिल्ली में डॉ. बी.आर. अम्बेडकर अंतर्राष्ट्रीय केंद्र में कृषि और किसान कल्याण मंत्रालय के तहत कृषि और किसान कल्याण विभाग द्वारा राष्ट्रीय स्तर का उत्सव आयोजित किया जाएगा। यह अवसर अंतर्राष्ट्रीय ग्रामीण महिला दिवस के साथ मेल खाता है और संयुक्त राष्ट्र द्वारा घोषित अंतर्राष्ट्रीय महिला किसान वर्ष 2026 का हिस्सा है। यह दिन फसल की खेती, पशुधन प्रबंधन, प्राकृतिक संसाधनों के संरक्षण, टिकाऊ खेती और कृषि उद्यमिता में महिलाओं की भूमिकाओं पर प्रकाश डालता है।"
+      },
+      "gu": {
+        "question": "ભારતીય કૃષિમાં મહિલા ખેડૂતોના યોગદાનને ઓળખવા માટે દર વર્ષે મહિલા કિસાન દિવસ ક્યારે ઉજવવામાં આવે છે?",
+        "options": {
+          "A": "15 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 16",
+          "C": "ઓક્ટોબર 10",
+          "D": "નવેમ્બર 15"
+        },
+        "explanation": "કૃષિ અને ગ્રામીણ વિકાસમાં મહિલા ખેડૂતોના નોંધપાત્ર યોગદાનને ઓળખવા માટે 15 ઓક્ટોબરને ભારતમાં મહિલા કિસાન દિવસ તરીકે મનાવવામાં આવે છે. 2026 માં, નવી દિલ્હીમાં ડૉ. બી. આર. આંબેડકર ઇન્ટરનેશનલ સેન્ટર ખાતે કૃષિ અને ખેડૂત કલ્યાણ મંત્રાલય હેઠળના કૃષિ અને ખેડૂત કલ્યાણ વિભાગ દ્વારા રાષ્ટ્રીય સ્તરની ઉજવણીનું આયોજન કરવામાં આવશે. આ પ્રસંગ ગ્રામીણ મહિલાઓના આંતરરાષ્ટ્રીય દિવસ સાથે એકરુપ છે અને સંયુક્ત રાષ્ટ્ર દ્વારા જાહેર કરાયેલ મહિલા ખેડૂતના આંતરરાષ્ટ્રીય વર્ષ 2026નો ભાગ છે. આ દિવસ પાકની ખેતી, પશુધન વ્યવસ્થાપન, કુદરતી સંસાધનોના સંરક્ષણ, ટકાઉ ખેતી અને કૃષિ સાહસિકતામાં મહિલાઓની ભૂમિકાને પ્રકાશિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-5",
+      "date": "2026-10-15",
+      "qno": 5,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Students’ Day celebrated annually in honour of Dr A. P. J. Abdul Kalam’s birthday?",
+        "options": {
+          "A": "October 10",
+          "B": "October 15",
+          "C": "November 14",
+          "D": "September 5"
+        },
+        "explanation": "October 15 is observed as World Students’ Day in honour of Dr A. P. J. Abdul Kalam, the former President of India and renowned aerospace scientist. Born on October 15, 1931, in Rameswaram, Tamil Nadu, he inspired generations of students through his contributions to science, education and national development. Kalam played important roles in India’s space research and missile development programmes and was popularly known as the “Missile Man of India.” He received the Bharat Ratna, India’s highest civilian award, in 1997. The day highlights his commitment to education, scientific thinking, creativity and youth empowerment."
+      },
+      "hi": {
+        "question": "डॉ. ए.पी.जे. अब्दुल कलाम के जन्मदिन के सम्मान में प्रतिवर्ष विश्व छात्र दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "10 अक्टूबर",
+          "B": "15 अक्टूबर",
+          "C": "14 नवंबर",
+          "D": "5 सितंबर"
+        },
+        "explanation": "भारत के पूर्व राष्ट्रपति और प्रसिद्ध एयरोस्पेस वैज्ञानिक डॉ. ए.पी.जे. अब्दुल कलाम के सम्मान में 15 अक्टूबर को विश्व छात्र दिवस के रूप में मनाया जाता है। 15 अक्टूबर, 1931 को तमिलनाडु के रामेश्वरम में जन्मे, उन्होंने विज्ञान, शिक्षा और राष्ट्रीय विकास में अपने योगदान के माध्यम से छात्रों की पीढ़ियों को प्रेरित किया। कलाम ने भारत के अंतरिक्ष अनुसंधान और मिसाइल विकास कार्यक्रमों में महत्वपूर्ण भूमिकाएँ निभाईं और उन्हें \"भारत के मिसाइल मैन\" के रूप में जाना जाता था। उन्हें 1997 में भारत का सर्वोच्च नागरिक पुरस्कार, भारत रत्न मिला। यह दिन शिक्षा, वैज्ञानिक सोच, रचनात्मकता और युवा सशक्तिकरण के प्रति उनकी प्रतिबद्धता को उजागर करता है।"
+      },
+      "gu": {
+        "question": "ડૉ. એ.પી.જે. અબ્દુલ કલામના જન્મદિવસના સન્માનમાં દર વર્ષે વિશ્વ વિદ્યાર્થી દિવસ ક્યારે ઉજવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર 10",
+          "B": "15 ઓક્ટોબર",
+          "C": "નવેમ્બર 14",
+          "D": "5 સપ્ટેમ્બર"
+        },
+        "explanation": "ભારતના ભૂતપૂર્વ રાષ્ટ્રપતિ અને જાણીતા એરોસ્પેસ વૈજ્ઞાનિક ડૉ. એ.પી.જે. અબ્દુલ કલામના માનમાં 15 ઑક્ટોબરને વિશ્વ વિદ્યાર્થી દિવસ તરીકે મનાવવામાં આવે છે. તામિલનાડુના રામેશ્વરમમાં 15 ઓક્ટોબર, 1931ના રોજ જન્મેલા, તેમણે વિજ્ઞાન, શિક્ષણ અને રાષ્ટ્રીય વિકાસમાં તેમના યોગદાન દ્વારા વિદ્યાર્થીઓની પેઢીઓને પ્રેરણા આપી. કલામે ભારતના અવકાશ સંશોધન અને મિસાઈલ વિકાસ કાર્યક્રમોમાં મહત્વની ભૂમિકા ભજવી હતી અને તેઓ \"ભારતના મિસાઈલ મેન\" તરીકે જાણીતા હતા. તેમને 1997માં ભારતનો સર્વોચ્ચ નાગરિક પુરસ્કાર, ભારત રત્ન મળ્યો હતો. આ દિવસ શિક્ષણ, વૈજ્ઞાનિક વિચારસરણી, સર્જનાત્મકતા અને યુવા સશક્તિકરણ પ્રત્યેની તેમની પ્રતિબદ્ધતાને પ્રકાશિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-6",
+      "date": "2026-10-15",
+      "qno": 6,
+      "answer": "A",
+      "category": "Environment",
+      "en": {
+        "question": "When has India proposed to introduce the first phase of the BS-VII emission standards for new cars and SUVs?",
+        "options": {
+          "A": "April 2029",
+          "B": "April 2031",
+          "C": "April 2035",
+          "D": "April 2028"
+        },
+        "explanation": "April 2029 is the proposed starting date for the first phase of India’s Bharat Stage VII (BS-VII) emission standards for new cars and SUVs The Ministry of Road Transport and Highways issued a draft notification on 12 October 2026 proposing stricter limits on harmful vehicle emissions, including nitrogen oxides, hydrocarbons and particulate matter. The rollout is planned in three phases: 1 April 2029, 1 April 2031 and 1 April 2035. This gradual implementation is intended to give vehicle manufacturers time to adapt their technologies and comply with the new requirements. The proposal follows the introduction of BS-VI standards in April 2020."
+      },
+      "hi": {
+        "question": "भारत ने नई कारों और एसयूवी के लिए बीएस-VII उत्सर्जन मानकों का पहला चरण कब शुरू करने का प्रस्ताव रखा है?",
+        "options": {
+          "A": "अप्रैल 2029",
+          "B": "अप्रैल 2031",
+          "C": "अप्रैल 2035",
+          "D": "अप्रैल 2028"
+        },
+        "explanation": "अप्रैल 2029 नई कारों और एसयूवी के लिए भारत के भारत स्टेज VII (बीएस-VII) उत्सर्जन मानकों के पहले चरण की प्रस्तावित प्रारंभिक तिथि है। सड़क परिवहन और राजमार्ग मंत्रालय ने 12 अक्टूबर 2026 को एक मसौदा अधिसूचना जारी की, जिसमें नाइट्रोजन ऑक्साइड, हाइड्रोकार्बन और पार्टिकुलेट मैटर सहित हानिकारक वाहन उत्सर्जन पर सख्त सीमा का प्रस्ताव दिया गया है। रोलआउट की योजना तीन चरणों में बनाई गई है: 1 अप्रैल 2029, 1 अप्रैल 2031 और 1 अप्रैल 2035। इस क्रमिक कार्यान्वयन का उद्देश्य वाहन निर्माताओं को अपनी प्रौद्योगिकियों को अनुकूलित करने और नई आवश्यकताओं का अनुपालन करने के लिए समय देना है। यह प्रस्ताव अप्रैल 2020 में बीएस-VI मानकों की शुरूआत का अनुसरण करता है।"
+      },
+      "gu": {
+        "question": "ભારતે નવી કાર અને SUV માટે BS-VII ઉત્સર્જન ધોરણોનો પ્રથમ તબક્કો ક્યારે રજૂ કરવાનો પ્રસ્તાવ મૂક્યો છે?",
+        "options": {
+          "A": "એપ્રિલ 2029",
+          "B": "એપ્રિલ 2031",
+          "C": "એપ્રિલ 2035",
+          "D": "એપ્રિલ 2028"
+        },
+        "explanation": "નવી કાર અને એસયુવી માટે ભારતના ભારત સ્ટેજ VII (BS-VII) ઉત્સર્જન ધોરણોના પ્રથમ તબક્કા માટે એપ્રિલ 2029 એ પ્રસ્તાવિત શરૂઆતની તારીખ છે. રોડ ટ્રાન્સપોર્ટ અને હાઇવે મંત્રાલયે 12 ઓક્ટોબર 2026ના રોજ એક ડ્રાફ્ટ નોટિફિકેશન બહાર પાડ્યું હતું, જેમાં નાઇટ્રોજન, પાર્ટિક અને હાઇડ્રોજન મેટર હાઇડ્રોજન સહિત હાનિકારક વાહનોના ઉત્સર્જન પર કડક મર્યાદા સૂચવવામાં આવી હતી. રોલઆઉટનું આયોજન ત્રણ તબક્કામાં કરવામાં આવ્યું છે: 1 એપ્રિલ 2029, 1 એપ્રિલ 2031 અને 1 એપ્રિલ 2035. આ ક્રમિક અમલીકરણનો હેતુ વાહન ઉત્પાદકોને તેમની ટેક્નોલોજીને અનુકૂલિત કરવા અને નવી આવશ્યકતાઓનું પાલન કરવા માટે સમય આપવાનો છે. આ દરખાસ્ત એપ્રિલ 2020 માં BS-VI ધોરણોની રજૂઆતને અનુસરે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-7",
+      "date": "2026-10-15",
+      "qno": 7,
+      "answer": "B",
+      "category": "Economy",
+      "en": {
+        "question": "By which year does India aim to increase its crude steelmaking capacity to 604 million tonnes under the draft National Steel Policy?",
+        "options": {
+          "A": "2030",
+          "B": "2047",
+          "C": "2035",
+          "D": "2040"
+        },
+        "explanation": "2047 is the target year for India to increase its crude steelmaking capacity to 604 million tonnes (MT) under the draft National Steel Policy – Vision 2047. Released on October 12, 2026, the policy outlines a roadmap to expand domestic steel production, reduce import dependence and promote sustainable industrial growth. It also targets finished steel demand of 505 MT and an increase in per capita steel consumption from 116 kg to 302 kg. The policy aims to reduce dependence on imported coking coal and lower the average emission intensity of steel production from 2.54 to 1.54 tonnes of carbon dioxide per tonne of crude steel through cleaner technologies, hydrogen-based steelmaking and greater use of scrap."
+      },
+      "hi": {
+        "question": "राष्ट्रीय इस्पात नीति के मसौदे के तहत भारत ने किस वर्ष तक अपनी कच्चे इस्पात निर्माण क्षमता को 604 मिलियन टन तक बढ़ाने का लक्ष्य रखा है?",
+        "options": {
+          "A": "2030",
+          "B": "2047",
+          "C": "2035",
+          "D": "2040"
+        },
+        "explanation": "राष्ट्रीय इस्पात नीति - विजन 2047 के मसौदे के तहत भारत के लिए अपनी कच्चे इस्पात निर्माण क्षमता को 604 मिलियन टन (एमटी) तक बढ़ाने का लक्ष्य वर्ष 2047 है। 12 अक्टूबर, 2026 को जारी यह नीति घरेलू इस्पात उत्पादन का विस्तार करने, आयात निर्भरता को कम करने और स्थायी औद्योगिक विकास को बढ़ावा देने के लिए एक रोडमैप की रूपरेखा तैयार करती है। इसमें 505 मीट्रिक टन तैयार स्टील की मांग और प्रति व्यक्ति स्टील खपत को 116 किलोग्राम से बढ़ाकर 302 किलोग्राम करने का भी लक्ष्य है। नीति का उद्देश्य आयातित कोकिंग कोयले पर निर्भरता को कम करना और स्वच्छ प्रौद्योगिकियों, हाइड्रोजन-आधारित स्टील निर्माण और स्क्रैप के अधिक उपयोग के माध्यम से स्टील उत्पादन की औसत उत्सर्जन तीव्रता को प्रति टन कच्चे स्टील में 2.54 टन से घटाकर 1.54 टन कार्बन डाइऑक्साइड करना है।"
+      },
+      "gu": {
+        "question": "ડ્રાફ્ટ નેશનલ સ્ટીલ પોલિસી હેઠળ ભારતે કયા વર્ષ સુધીમાં તેની ક્રૂડ સ્ટીલ ઉત્પાદન ક્ષમતાને 604 મિલિયન ટન સુધી વધારવાનું લક્ષ્ય રાખ્યું છે?",
+        "options": {
+          "A": "2030",
+          "B": "2047",
+          "C": "2035",
+          "D": "2040"
+        },
+        "explanation": "ડ્રાફ્ટ નેશનલ સ્ટીલ પોલિસી – વિઝન 2047 હેઠળ ભારત માટે 2047 એ તેની ક્રૂડ સ્ટીલ ઉત્પાદન ક્ષમતાને 604 મિલિયન ટન (MT) સુધી વધારવાનું લક્ષ્ય વર્ષ છે. 12 ઓક્ટોબર, 2026 ના રોજ બહાર પાડવામાં આવેલ, નીતિ સ્થાનિક સ્ટીલ ઉત્પાદનને વિસ્તૃત કરવા, આયાત પર નિર્ભરતા ઘટાડવા અને ઔદ્યોગિક વિકાસને પ્રોત્સાહન આપવા માટે એક માર્ગ રૂપરેખા દર્શાવે છે. તે 505 MTની ફિનિશ્ડ સ્ટીલની માંગ અને માથાદીઠ સ્ટીલના વપરાશમાં 116 કિગ્રાથી 302 કિગ્રા સુધી વધારો કરવાનું લક્ષ્ય પણ રાખે છે. પોલિસીનો હેતુ આયાતી કોકિંગ કોલસા પર નિર્ભરતા ઘટાડવાનો અને સ્ટીલ ઉત્પાદનની સરેરાશ ઉત્સર્જનની તીવ્રતા 2.54 થી 1.54 ટન પ્રતિ ટન ક્રૂડ સ્ટીલના કાર્બન ડાયોક્સાઈડને ક્લીનર ટેક્નોલોજી, હાઇડ્રોજન આધારિત સ્ટીલ નિર્માણ અને સ્ક્રેપના વધુ ઉપયોગ દ્વારા ઘટાડવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-15-8",
+      "date": "2026-10-15",
+      "qno": 8,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed to head the high-level committee formed by the Maharashtra government to recommend reforms to the Maharashtra Public Service Commission (MPSC)?",
+        "options": {
+          "A": "Tukaram Mundhe",
+          "B": "Ganesh Patil",
+          "C": "P. D. Naik",
+          "D": "Dilip Bhosale"
+        },
+        "explanation": "Dilip Bhosale, a retired judge, was appointed chairman of the high-level committee constituted by the Maharashtra government on October 12, 2026, to recommend a comprehensive overhaul of the Maharashtra Public Service Commission (MPSC). The committee aims to improve the commission’s organisational structure and examination processes to ensure greater efficiency. Senior IAS officer Tukaram Mundhe was appointed secretary of the committee. Other members include IPS officer Laxmi Gautam, former IAS officer Ganesh Patil and retired judge P. D. Naik. The MPSC is a constitutional body established under Article 315 of the Indian Constitution and conducts recruitment examinations for Group A and Group B civil services in Maharashtra."
+      },
+      "hi": {
+        "question": "महाराष्ट्र लोक सेवा आयोग (एमपीएससी) में सुधारों की सिफारिश करने के लिए महाराष्ट्र सरकार द्वारा गठित उच्च स्तरीय समिति का प्रमुख किसे नियुक्त किया गया?",
+        "options": {
+          "A": "तुकाराम मुंढे",
+          "B": "गणेश पाटिल",
+          "C": "पी. डी. नाइक",
+          "D": "दिलीप भोसले"
+        },
+        "explanation": "दिलीप भोसले, एक सेवानिवृत्त न्यायाधीश, को महाराष्ट्र लोक सेवा आयोग (एमपीएससी) के व्यापक बदलाव की सिफारिश करने के लिए 12 अक्टूबर, 2026 को महाराष्ट्र सरकार द्वारा गठित उच्च स्तरीय समिति का अध्यक्ष नियुक्त किया गया था। समिति का लक्ष्य अधिक दक्षता सुनिश्चित करने के लिए आयोग की संगठनात्मक संरचना और परीक्षा प्रक्रियाओं में सुधार करना है। वरिष्ठ आईएएस अधिकारी तुकाराम मुंढे को समिति का सचिव नियुक्त किया गया। अन्य सदस्यों में आईपीएस अधिकारी लक्ष्मी गौतम, पूर्व आईएएस अधिकारी गणेश पाटिल और सेवानिवृत्त न्यायाधीश पी. डी. नाइक शामिल हैं। एमपीएससी भारतीय संविधान के अनुच्छेद 315 के तहत स्थापित एक संवैधानिक निकाय है और महाराष्ट्र में ग्रुप ए और ग्रुप बी सिविल सेवाओं के लिए भर्ती परीक्षा आयोजित करता है।"
+      },
+      "gu": {
+        "question": "મહારાષ્ટ્ર પબ્લિક સર્વિસ કમિશન (MPSC) માં સુધારાની ભલામણ કરવા માટે મહારાષ્ટ્ર સરકાર દ્વારા રચાયેલી ઉચ્ચ-સ્તરીય સમિતિના વડા તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "તુકારામ મુંધે",
+          "B": "ગણેશ પાટીલ",
+          "C": "પી.ડી. નાઈક",
+          "D": "દિલીપ ભોસલે"
+        },
+        "explanation": "નિવૃત્ત ન્યાયાધીશ દિલીપ ભોસલેને મહારાષ્ટ્ર સરકાર દ્વારા 12 ઓક્ટોબર, 2026 ના રોજ મહારાષ્ટ્ર પબ્લિક સર્વિસ કમિશન (MPSC) ના વ્યાપક ફેરફારની ભલામણ કરવા માટે રચવામાં આવેલી ઉચ્ચ-સ્તરીય સમિતિના અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. વધુ કાર્યક્ષમતા સુનિશ્ચિત કરવા માટે સમિતિનો હેતુ કમિશનના સંગઠનાત્મક માળખા અને પરીક્ષા પ્રક્રિયાઓમાં સુધારો કરવાનો છે. વરિષ્ઠ IAS અધિકારી તુકારામ મુંધેને સમિતિના સચિવ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. અન્ય સભ્યોમાં IPS અધિકારી લક્ષ્મી ગૌતમ, ભૂતપૂર્વ IAS અધિકારી ગણેશ પાટીલ અને નિવૃત્ત ન્યાયાધીશ પી.ડી. નાઈકનો સમાવેશ થાય છે. MPSC એ ભારતીય બંધારણની કલમ 315 હેઠળ સ્થાપિત બંધારણીય સંસ્થા છે અને મહારાષ્ટ્રમાં ગ્રુપ એક અને ગ્રુપ B સિવિલ સેવાઓ માટે ભરતી પરીક્ષાઓનું આયોજન કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-9",
+      "date": "2026-10-15",
+      "qno": 9,
+      "answer": "C",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed to chair the Standing Committee on Judicial Well-being constituted by the Chief Justice of India?",
+        "options": {
+          "A": "Justice B. R. Gavai",
+          "B": "Justice Surya Kant",
+          "C": "Justice K.V. Viswanathan",
+          "D": "Justice Sanjiv Khanna"
+        },
+        "explanation": "Justice K.V. Viswanathan, a Judge of the Supreme Court of India, was appointed to chair the Standing Committee on Judicial Well-being constituted by the Chief Justice of India, Surya Kant, on October 11, 2026. The committee aims to address occupational stress among judicial officers and develop appropriate welfare measures. Its members include Dr Savita Malhotra, psychologist Rajat Mitra, Advocate-on-Record Mrinal Kanwar and Aarti Singh, Registrar at the Centre for Research and Planning. The initiative is based on research examining workload, infrastructure limitations and staffing shortages in the district judiciary. It seeks to promote judicial health and well-being through institutional coordination and sustained support."
+      },
+      "hi": {
+        "question": "भारत के मुख्य न्यायाधीश द्वारा न्यायिक कल्याण पर गठित स्थायी समिति की अध्यक्षता के लिए किसे नियुक्त किया गया था?",
+        "options": {
+          "A": "न्यायमूर्ति बी आर गवई",
+          "B": "जस्टिस सूर्यकांत",
+          "C": "न्यायमूर्ति के.वी. विश्वनाथन",
+          "D": "जस्टिस संजीव खन्ना"
+        },
+        "explanation": "न्यायमूर्ति के.वी. भारत के सर्वोच्च न्यायालय के न्यायाधीश विश्वनाथन को 11 अक्टूबर, 2026 को भारत के मुख्य न्यायाधीश सूर्यकांत द्वारा गठित न्यायिक कल्याण पर स्थायी समिति की अध्यक्षता के लिए नियुक्त किया गया था। समिति का उद्देश्य न्यायिक अधिकारियों के बीच व्यावसायिक तनाव को संबोधित करना और उचित कल्याणकारी उपाय विकसित करना है। इसके सदस्यों में डॉ. सविता मल्होत्रा, मनोवैज्ञानिक रजत मित्रा, एडवोकेट-ऑन-रिकॉर्ड मृणाल कंवर और सेंटर फॉर रिसर्च एंड प्लानिंग की रजिस्ट्रार आरती सिंह शामिल हैं। यह पहल जिला न्यायपालिका में कार्यभार, बुनियादी ढांचे की सीमाओं और स्टाफ की कमी की जांच करने वाले शोध पर आधारित है। इसका उद्देश्य संस्थागत समन्वय और निरंतर समर्थन के माध्यम से न्यायिक स्वास्थ्य और कल्याण को बढ़ावा देना है।"
+      },
+      "gu": {
+        "question": "ભારતના મુખ્ય ન્યાયાધીશ દ્વારા રચાયેલ ન્યાયિક સુખાકારી પરની સ્થાયી સમિતિના અધ્યક્ષ તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "જસ્ટિસ બી.આર. ગવઈ",
+          "B": "જસ્ટિસ સૂર્યકાન્ત",
+          "C": "જસ્ટિસ કે.વી. વિશ્વનાથન",
+          "D": "જસ્ટિસ સંજીવ ખન્ના"
+        },
+        "explanation": "જસ્ટિસ કે.વી. ભારતની સર્વોચ્ચ અદાલતના ન્યાયાધીશ વિશ્વનાથનને 11 ઓક્ટોબર, 2026ના રોજ ભારતના મુખ્ય ન્યાયાધીશ સૂર્યકાન્ત દ્વારા રચવામાં આવેલી ન્યાયિક સુખાકારી પરની સ્થાયી સમિતિના અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. સમિતિનો હેતુ ન્યાયિક અધિકારીઓમાં વ્યાવસાયિક તણાવને દૂર કરવાનો અને યોગ્ય કલ્યાણના પગલાં વિકસાવવાનો છે. તેના સભ્યોમાં ડૉ. સવિતા મલ્હોત્રા, મનોવિજ્ઞાની રજત મિત્રા, એડવોકેટ-ઓન-રેકોર્ડ મૃણાલ કંવર અને આરતી સિંઘ, સેન્ટર ફોર રિસર્ચ એન્ડ પ્લાનિંગના રજિસ્ટ્રારનો સમાવેશ થાય છે. આ પહેલ જિલ્લા ન્યાયતંત્રમાં વર્કલોડ, ઈન્ફ્રાસ્ટ્રક્ચર મર્યાદાઓ અને સ્ટાફની અછતના સંશોધન પર આધારિત છે. તે સંસ્થાકીય સંકલન અને સતત સમર્થન દ્વારા ન્યાયિક સ્વાસ્થ્ય અને સુખાકારીને પ્રોત્સાહન આપવા માંગે છે."
+      }
+    },
+    {
+      "id": "2026-10-15-10",
+      "date": "2026-10-15",
+      "qno": 10,
+      "answer": "C",
+      "category": "National",
+      "en": {
+        "question": "From which date will Indian Railways be required to extend insurance coverage to tickets booked at railway station counters following the Supreme Court’s order?",
+        "options": {
+          "A": "October 15",
+          "B": "November 1",
+          "C": "October 27",
+          "D": "November 15"
+        },
+        "explanation": "October 27, 2026, is the date from which Indian Railways must extend insurance coverage to tickets booked at railway station counters, following a Supreme Court order issued on October 6, 2026. The directive aims to provide offline ticket passengers with insurance benefits similar to those available to eligible passengers booking tickets through the IRCTC website or application. Under the existing railway travel insurance scheme, coverage includes ₹10 lakh for death or permanent total disability, ₹7.5 lakh for permanent partial disability, and ₹2 lakh for hospitalisation expenses due to injuries. The Railway Board is responsible for implementing the directive."
+      },
+      "hi": {
+        "question": "सुप्रीम कोर्ट के आदेश के बाद भारतीय रेलवे को किस तारीख से रेलवे स्टेशन काउंटरों पर बुक किए गए टिकटों पर बीमा कवरेज बढ़ाने की आवश्यकता होगी?",
+        "options": {
+          "A": "15 अक्टूबर",
+          "B": "1 नवंबर",
+          "C": "27 अक्टूबर",
+          "D": "15 नवंबर"
+        },
+        "explanation": "27 अक्टूबर, 2026 वह तारीख है, जब 6 अक्टूबर, 2026 को जारी सुप्रीम कोर्ट के आदेश के बाद, भारतीय रेलवे को रेलवे स्टेशन काउंटरों पर बुक किए गए टिकटों पर बीमा कवरेज का विस्तार करना चाहिए। निर्देश का उद्देश्य ऑफ़लाइन टिकट यात्रियों को आईआरसीटीसी वेबसाइट या एप्लिकेशन के माध्यम से टिकट बुक करने वाले पात्र यात्रियों के समान बीमा लाभ प्रदान करना है। मौजूदा रेलवे यात्रा बीमा योजना के तहत, कवरेज में मृत्यु या स्थायी कुल विकलांगता के लिए ₹10 लाख, स्थायी आंशिक विकलांगता के लिए ₹7.5 लाख और चोटों के कारण अस्पताल में भर्ती होने के खर्च के लिए ₹2 लाख शामिल हैं। निर्देश को लागू करने की जिम्मेदारी रेलवे बोर्ड की है."
+      },
+      "gu": {
+        "question": "સુપ્રીમ કોર્ટના આદેશને પગલે ભારતીય રેલ્વેએ કઈ તારીખથી રેલવે સ્ટેશન કાઉન્ટર પર બુક કરાયેલી ટિકિટો માટે વીમા કવરેજ વધારવાની જરૂર પડશે?",
+        "options": {
+          "A": "15 ઓક્ટોબર",
+          "B": "1 નવેમ્બર",
+          "C": "ઓક્ટોબર 27",
+          "D": "નવેમ્બર 15"
+        },
+        "explanation": "ઑક્ટોબર 27, 2026, એ તારીખ છે કે જ્યાંથી ભારતીય રેલ્વેએ 6 ઑક્ટોબર, 2026ના રોજ જારી કરેલા સુપ્રીમ કોર્ટના આદેશને પગલે, રેલવે સ્ટેશન કાઉન્ટર પર બુક કરાયેલ ટિકિટ માટે વીમા કવરેજ વધારવું આવશ્યક છે. નિર્દેશનો ઉદ્દેશ્ય IRCTC વેબસાઇટ અથવા એપ્લિકેશન દ્વારા ટિકિટ બુક કરાવતા પાત્ર મુસાફરોને ઉપલબ્ધ વીમા લાભો સાથે ઑફલાઇન ટિકિટ મુસાફરોને ઉપલબ્ધ કરાવવાનો છે. હાલની રેલ્વે મુસાફરી વીમા યોજના હેઠળ, કવરેજમાં મૃત્યુ અથવા કાયમી કુલ અપંગતા માટે ₹10 લાખ, કાયમી આંશિક અપંગતા માટે ₹7.5 લાખ અને ઈજાઓને કારણે હોસ્પિટલમાં દાખલ થવાના ખર્ચ માટે ₹2 લાખનો સમાવેશ થાય છે. આ નિર્દેશનો અમલ કરવાની જવાબદારી રેલવે બોર્ડની છે."
+      }
+    },
+    {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
@@ -54629,154 +55371,6 @@
       "id": "2026-10-11-2",
       "date": "2026-10-11",
       "qno": 2,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
-        "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
-        },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
-      },
-      "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
-        "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
-        },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
-      },
-      "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
-        "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
-        },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
-      "qno": 3,
-      "answer": "A",
-      "category": "Important Days",
-      "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
-        "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
-        },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
-      },
-      "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
-        "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
-        },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
-      },
-      "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
-        "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
-        },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-4",
-      "date": "2026-10-11",
-      "qno": 4,
-      "answer": "B",
-      "category": "Sports",
-      "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
-        "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
-        },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
-      },
-      "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
-        "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
-        },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
-      },
-      "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
-        "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
-        },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-5",
-      "date": "2026-10-11",
-      "qno": 5,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
-        },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
-      },
-      "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
-        },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
-      },
-      "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
-        },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-6",
-      "date": "2026-10-11",
-      "qno": 6,
       "answer": "D",
       "category": "Technology",
       "en": {
@@ -54811,40 +55405,188 @@
       }
     },
     {
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "qno": 3,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "options": {
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
+        },
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+      },
+      "hi": {
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "options": {
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
+        },
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+      },
+      "gu": {
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "options": {
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
+        },
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "qno": 4,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
+        },
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
+      },
+      "hi": {
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
+        },
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
+      },
+      "gu": {
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
+        },
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "qno": 5,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
+        "options": {
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
+        },
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
+      },
+      "hi": {
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
+        "options": {
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
+        },
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
+        },
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "options": {
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
+        },
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+      },
+      "hi": {
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "options": {
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "options": {
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+        },
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+      }
+    },
+    {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "C",
-      "category": "Defence",
+      "answer": "B",
+      "category": "National",
       "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
         "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
         },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
       },
       "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
         "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
         },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
       },
       "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
         "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
         },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
       }
     },
     {
@@ -54888,80 +55630,6 @@
       "id": "2026-10-10-3",
       "date": "2026-10-10",
       "qno": 3,
-      "answer": "D",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
-        "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
-        },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
-        "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
-        },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
-      },
-      "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
-        "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
-        },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-5",
-      "date": "2026-10-10",
-      "qno": 5,
       "answer": "C",
       "category": "Environment",
       "en": {
@@ -54996,46 +55664,46 @@
       }
     },
     {
-      "id": "2026-10-10-6",
+      "id": "2026-10-10-4",
       "date": "2026-10-10",
-      "qno": 6,
-      "answer": "B",
-      "category": "National",
+      "qno": 4,
+      "answer": "C",
+      "category": "Defence",
       "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
         "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
         },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
       },
       "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
         "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
         },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
       },
       "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
         "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-5",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 5,
       "answer": "A",
       "category": "Banking",
       "en": {
@@ -55067,6 +55735,80 @@
           "D": "85%"
         },
         "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "options": {
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
+        },
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "options": {
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "options": {
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
       }
     }
   ]
