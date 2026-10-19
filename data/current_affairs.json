@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-10-18",
+    "2026-10-17",
     "2026-10-16",
     "2026-10-15",
     "2026-10-14",
@@ -55331,77 +55333,632 @@
       }
     },
     {
-      "id": "2026-10-11-1",
-      "date": "2026-10-11",
+      "id": "2026-10-18-1",
+      "date": "2026-10-18",
       "qno": 1,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Which Indian state will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026?",
+        "options": {
+          "A": "West Bengal",
+          "B": "Maharashtra",
+          "C": "Kerala",
+          "D": "Goa"
+        },
+        "explanation": "West Bengal will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026, in Kolkata. The match is scheduled to take place at the Vivekananda Yuba Bharati Krirangan, popularly known as Salt Lake Stadium. The event was announced by West Bengal Sports Minister Indranil Khan and is expected to feature renowned former footballers, including Luis Figo, Carles Puyol, and Iker Casillas. This will be the second meeting between the legends of these two Spanish clubs in India, following their 2025 exhibition match at Mumbai’s DY Patil Stadium, where Real Madrid won 2–0. Salt Lake Stadium has hosted several major international football events."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य 25 नवंबर, 2026 को बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा?",
+        "options": {
+          "A": "पश्चिम बंगाल",
+          "B": "महाराष्ट्र",
+          "C": "केरल",
+          "D": "गोवा"
+        },
+        "explanation": "पश्चिम बंगाल 25 नवंबर, 2026 को कोलकाता में बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा। यह मैच विवेकानंद युवा भारती क्रीड़ांगन में होने वाला है, जिसे साल्ट लेक स्टेडियम के नाम से जाना जाता है। इस आयोजन की घोषणा पश्चिम बंगाल के खेल मंत्री इंद्रनील खान ने की थी और इसमें लुइस फिगो, कार्ल्स पुयोल और इकर कैसिलस सहित प्रसिद्ध पूर्व फुटबॉल खिलाड़ियों के शामिल होने की उम्मीद है। मुंबई के डीवाई पाटिल स्टेडियम में 2025 के प्रदर्शनी मैच के बाद, भारत में इन दो स्पेनिश क्लबों के दिग्गजों के बीच यह दूसरी बैठक होगी, जहां रियल मैड्रिड ने 2-0 से जीत हासिल की थी। साल्ट लेक स्टेडियम ने कई प्रमुख अंतरराष्ट्रीय फुटबॉल आयोजनों की मेजबानी की है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય 25 નવેમ્બર, 2026 ના રોજ બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે?",
+        "options": {
+          "A": "પશ્ચિમ બંગાળ",
+          "B": "મહારાષ્ટ્ર",
+          "C": "કેરળ",
+          "D": "ગોવા"
+        },
+        "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-18-2",
+      "date": "2026-10-18",
+      "qno": 2,
       "answer": "A",
       "category": "Defence",
       "en": {
-        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
         "options": {
-          "A": "Argentina",
-          "B": "Nepal",
-          "C": "Bhutan",
-          "D": "Chile"
+          "A": "INS Tarkash",
+          "B": "INS Talwar",
+          "C": "INS Shivalik",
+          "D": "INS Trikand"
         },
-        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
       },
       "hi": {
-        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
         "options": {
-          "A": "अर्जेंटीना",
-          "B": "नेपाल",
-          "C": "भूटान",
-          "D": "चिली"
+          "A": "आईएनएस तरकश",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस शिवालिक",
+          "D": "आईएनएस त्रिकांड"
         },
-        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
       },
       "gu": {
-        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
         "options": {
-          "A": "આર્જેન્ટિના",
-          "B": "નેપાળ",
-          "C": "ભુતાન",
-          "D": "ચિલી"
+          "A": "INS તારકશ",
+          "B": "INS તલવાર",
+          "C": "INS શિવાલિક",
+          "D": "INS ત્રિકાંડ"
         },
-        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-18-3",
+      "date": "2026-10-18",
+      "qno": 3,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "Which country overtook the United States to become India's largest supplier of Liquefied Natural Gas (LNG) in September 2026?",
+        "options": {
+          "A": "Qatar",
+          "B": "Nigeria",
+          "C": "Australia",
+          "D": "Oman"
+        },
+        "explanation": "Oman became India's leading supplier of Liquefied Natural Gas (LNG) in September 2026, overtaking the United States amid shifting global trade routes and regional disruptions. Oman supplied 0.59 million tonnes of LNG during the month, an 11.6% increase compared with August. The United States ranked third with 0.34 million tonnes, while Nigeria secured second place. Oman's location and ability to export LNG without depending on the Strait of Hormuz provided an advantage during regional disruptions. Between May and September 2026, Oman supplied 2.33 million tonnes, accounting for 20% of India's LNG imports during that period. India's LNG demand was supported by the city gas distribution and fertiliser sectors."
+      },
+      "hi": {
+        "question": "सितंबर 2026 में कौन सा देश संयुक्त राज्य अमेरिका को पछाड़कर भारत का तरलीकृत प्राकृतिक गैस (एलएनजी) का सबसे बड़ा आपूर्तिकर्ता बन गया?",
+        "options": {
+          "A": "कतर",
+          "B": "नाइजीरिया",
+          "C": "ऑस्ट्रेलिया",
+          "D": "ओमान"
+        },
+        "explanation": "ओमान भारत_ENG_THEME_TOKEN_0__ का स्थान बन गया और होर्मुज जलडमरूमध्य पर निर्भर हुए बिना एलएनजी निर्यात करने की क्षमता ने क्षेत्रीय व्यवधानों के दौरान लाभ प्रदान किया। मई और सितंबर 2026 के बीच, ओमान ने 2.33 मिलियन टन की आपूर्ति की, जो भारत की LNG मांग का 20% था, जिसे शहर के गैस वितरण और उर्वरक क्षेत्रों द्वारा समर्थित किया गया था।"
+      },
+      "gu": {
+        "question": "સપ્ટેમ્બર 2026માં કયો દેશ લિક્વિફાઇડ નેચરલ ગેસ (LNG)નો ભારતનો સૌથી મોટો સપ્લાયર બનવા માટે યુનાઇટેડ સ્ટેટ્સને પાછળ છોડી ગયો?",
+        "options": {
+          "A": "કતાર",
+          "B": "નાઇજીરીયા",
+          "C": "ઓસ્ટ્રેલિયા",
+          "D": "ઓમાન"
+        },
+        "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
+      }
+    },
+    {
+      "id": "2026-10-18-4",
+      "date": "2026-10-18",
+      "qno": 4,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
+        "options": {
+          "A": "Manipur",
+          "B": "Mizoram",
+          "C": "Nagaland",
+          "D": "Meghalaya"
+        },
+        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
+        "options": {
+          "A": "मणिपुर",
+          "B": "मिजोरम",
+          "C": "नागालैंड",
+          "D": "मेघालय"
+        },
+        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
+        "options": {
+          "A": "મણિપુર",
+          "B": "મિઝોરમ",
+          "C": "નાગાલેન્ડ",
+          "D": "મેઘાલય"
+        },
+        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
+      }
+    },
+    {
+      "id": "2026-10-18-5",
+      "date": "2026-10-18",
+      "qno": 5,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
+        "options": {
+          "A": "Ajay Jadeja",
+          "B": "Parthiv Patel",
+          "C": "Robin Uthappa",
+          "D": "Dinesh Karthik"
+        },
+        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
+      },
+      "hi": {
+        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
+        "options": {
+          "A": "अजय जाडेजा",
+          "B": "पार्थिव पटेल",
+          "C": "रॉबिन उथप्पा",
+          "D": "दिनेश कार्तिक"
+        },
+        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
+      },
+      "gu": {
+        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
+        "options": {
+          "A": "અજય જાડેજા",
+          "B": "પાર્થિવ પટેલ",
+          "C": "રોબિન ઉથપ્પા",
+          "D": "દિનેશ કાર્તિક"
+        },
+        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-17-1",
+      "date": "2026-10-17",
+      "qno": 1,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is the International Day for the Eradication of Poverty observed annually?",
+        "options": {
+          "A": "October 17",
+          "B": "October 16",
+          "C": "October 24",
+          "D": "October 10"
+        },
+        "explanation": "October 17 is observed annually as the International Day for the Eradication of Poverty to raise awareness about poverty, social exclusion, and the protection of human dignity. The United Nations officially designated this day through General Assembly Resolution 47/196 in 1992, and the observance began in 1993. The day originated from a gathering of approximately 100,000 people in Trocadéro, Paris, France, on October 17, 1987, to honour people affected by poverty, hunger, and violence. In 2026, the theme is “Safe Homes for All,” highlighting the importance of adequate housing in eradicating poverty and protecting human rights."
+      },
+      "hi": {
+        "question": "प्रतिवर्ष अंतर्राष्ट्रीय गरीबी उन्मूलन दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "17 अक्टूबर",
+          "B": "16 अक्टूबर",
+          "C": "24 अक्टूबर",
+          "D": "10 अक्टूबर"
+        },
+        "explanation": "गरीबी, सामाजिक बहिष्कार और मानव गरिमा की सुरक्षा के बारे में जागरूकता बढ़ाने के लिए 17 अक्टूबर को प्रतिवर्ष अंतर्राष्ट्रीय गरीबी उन्मूलन दिवस के रूप में मनाया जाता है। संयुक्त राष्ट्र ने आधिकारिक तौर पर 1992 में महासभा संकल्प 47/196 के माध्यम से इस दिन को नामित किया था, और इसका पालन 1993 में शुरू हुआ था। इस दिन की शुरुआत गरीबी, भूख और हिंसा से प्रभावित लोगों को सम्मानित करने के लिए 17 अक्टूबर, 1987 को ट्रोकैडेरो, पेरिस, फ्रांस में लगभग 100,000 लोगों की एक सभा से हुई थी। 2026 में, theme है “Safe Homes के लिए All,\" गरीबी उन्मूलन और मानवाधिकारों की रक्षा में पर्याप्त आवास के महत्व पर प्रकाश डालता है।"
+      },
+      "gu": {
+        "question": "દર વર્ષે ગરીબી નાબૂદી માટેનો આંતરરાષ્ટ્રીય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "17 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 16",
+          "C": "24 ઓક્ટોબર",
+          "D": "ઓક્ટોબર 10"
+        },
+        "explanation": "17 ઓક્ટોબરને દર વર્ષે ગરીબી, સામાજિક બહિષ્કાર અને માનવ સન્માનના રક્ષણ વિશે જાગૃતિ લાવવા માટે ગરીબી નાબૂદી માટેના આંતરરાષ્ટ્રીય દિવસ તરીકે ઉજવવામાં આવે છે. યુનાઇટેડ નેશન્સે 1992માં જનરલ એસેમ્બલીના ઠરાવ 47/196 દ્વારા આ દિવસને સત્તાવાર રીતે નિયુક્ત કર્યો હતો અને 1993માં તેનું પાલન શરૂ થયું હતું. આ દિવસ 17 ઓક્ટોબર, 1987ના રોજ ફ્રાન્સના ટ્રોકાડેરો, પેરિસમાં આશરે 100,000 લોકોના મેળાવડામાંથી ઉદ્દભવ્યો હતો, જે ગરીબી, હિંસાથી પીડિત લોકોનું સન્માન કરવા માટે થયો હતો. 2026 માં, theme છે “Safe Homes માટે All,\" ગરીબી નાબૂદી અને માનવ અધિકારોનું રક્ષણ કરવા માટે પર્યાપ્ત આવાસના મહત્વને પ્રકાશિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-17-2",
+      "date": "2026-10-17",
+      "qno": 2,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "What was India’s rank in the Henley Passport Index in October 2026?",
+        "options": {
+          "A": "81st",
+          "B": "85th",
+          "C": "82nd",
+          "D": "84th"
+        },
+        "explanation": "India ranked 84th in the Henley Passport Index for October 2026, sharing the position with Algeria and Mauritania. The ranking was published on October 9, 2026, and represented an improvement from India’s 85th position in October 2025. However, India’s visa-free or visa-on-arrival access score declined from 57 to 55 destinations. Changes in entry requirements for countries such as Iran and Bolivia contributed to the reduction. Singapore retained the top position, offering access to 193 destinations. The index measures international travel access and does not indicate the right to live, work or study in another country."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में हेनले पासपोर्ट इंडेक्स में भारत की रैंक क्या थी?",
+        "options": {
+          "A": "81वाँ",
+          "B": "85वां",
+          "C": "82वां",
+          "D": "84वां"
+        },
+        "explanation": "अक्टूबर 2026 के लिए हेनले पासपोर्ट इंडेक्स में भारत अल्जीरिया और मॉरिटानिया के साथ स्थिति साझा करते हुए 84वें स्थान पर है। रैंकिंग 9 अक्टूबर, 2026 को प्रकाशित हुई थी, और अक्टूबर 2025 में भारत के 85वें स्थान से सुधार का प्रतिनिधित्व करती थी। हालाँकि, भारत का वीज़ा-मुक्त या वीज़ा-ऑन-अराइवल एक्सेस स्कोर 57 से घटकर 55 गंतव्य हो गया। ईरान और बोलीविया जैसे देशों के लिए प्रवेश आवश्यकताओं में बदलाव ने कमी में योगदान दिया। सिंगापुर ने 193 गंतव्यों तक पहुंच की पेशकश करते हुए शीर्ष स्थान बरकरार रखा। सूचकांक अंतरराष्ट्रीय यात्रा पहुंच को मापता है और किसी दूसरे देश में रहने, काम करने या अध्ययन करने के अधिकार का संकेत नहीं देता है।"
+      },
+      "gu": {
+        "question": "ઑક્ટોબર 2026માં હેનલી પાસપોર્ટ ઇન્ડેક્સમાં ભારતનું સ્થાન શું હતું?",
+        "options": {
+          "A": "81મી",
+          "B": "85મી",
+          "C": "82મી",
+          "D": "84મી"
+        },
+        "explanation": "ઑક્ટોબર 2026 માટે હેનલી પાસપોર્ટ ઇન્ડેક્સમાં ભારત અલ્જેરિયા અને મોરિટાનિયા સાથે 84માં ક્રમે છે. આ રેન્કિંગ ઓક્ટોબર 9, 2026 ના રોજ પ્રકાશિત કરવામાં આવ્યું હતું, અને ઑક્ટોબર 2025માં ભારતના 85મા સ્થાનેથી સુધારો દર્શાવ્યો હતો. જો કે, ભારતનો વિઝા-ફ્રી અથવા વિઝા-ઓન-અરાઈવલ એક્સેસ સ્કોર 57 થી ઘટીને 55 ગંતવ્યોમાં થયો હતો. ઈરાન અને બોલિવિયા જેવા દેશો માટે પ્રવેશની આવશ્યકતાઓમાં ફેરફાર એ ઘટાડા માટે ફાળો આપ્યો. સિંગાપોરે ટોચનું સ્થાન જાળવી રાખ્યું છે, જેણે 193 સ્થળોની ઍક્સેસ ઓફર કરી છે. ઈન્ડેક્સ આંતરરાષ્ટ્રીય મુસાફરીની પહોંચને માપે છે અને તે બીજા દેશમાં રહેવા, કામ કરવાનો અથવા અભ્યાસ કરવાનો અધિકાર દર્શાવતો નથી."
+      }
+    },
+    {
+      "id": "2026-10-17-3",
+      "date": "2026-10-17",
+      "qno": 3,
+      "answer": "C",
+      "category": "Finance",
+      "en": {
+        "question": "Which financial corporation received the RBI’s No-Objection Certificate for its proposed merger with Power Finance Corporation Limited?",
+        "options": {
+          "A": "National Bank for Agriculture and Rural Development",
+          "B": "Power Finance Corporation Limited",
+          "C": "REC Limited",
+          "D": "Indian Renewable Energy Development Agency"
+        },
+        "explanation": "REC Limited received a No-Objection Certificate (NOC) from the Reserve Bank of India (RBI) on October 16, 2026, for its proposed merger with Power Finance Corporation Limited (PFC). The proposed transaction involves the merger of REC Limited into PFC under Sections 230–232 of the Companies Act, 2013. REC Limited is a government-owned financial corporation that provides funding for power sector infrastructure, including electricity generation, transmission and distribution. The RBI’s NOC represents an important regulatory milestone, but it does not mean the merger is complete. Further legal, statutory and regulatory requirements must be fulfilled before the merger can be finalized."
+      },
+      "hi": {
+        "question": "किस वित्तीय निगम को पावर फाइनेंस कॉर्पोरेशन लिमिटेड के साथ प्रस्तावित विलय के लिए RBI का अनापत्ति प्रमाणपत्र प्राप्त हुआ?",
+        "options": {
+          "A": "राष्ट्रीय कृषि और ग्रामीण विकास बैंक",
+          "B": "पावर फाइनेंस कॉर्पोरेशन लिमिटेड",
+          "C": "आरईसी लिमिटेड",
+          "D": "भारतीय नवीकरणीय ऊर्जा विकास एजेंसी"
+        },
+        "explanation": "आरईसी लिमिटेड को पावर फाइनेंस कॉर्पोरेशन लिमिटेड (पीएफसी) के साथ प्रस्तावित विलय के लिए 16 अक्टूबर, 2026 को भारतीय रिजर्व बैंक (आरबीआई) से अनापत्ति प्रमाणपत्र (एनओसी) प्राप्त हुआ। प्रस्तावित लेनदेन में कंपनी अधिनियम, 2013 की धारा 230-232 के तहत आरईसी लिमिटेड का पीएफसी में विलय शामिल है। आरईसी लिमिटेड एक सरकारी स्वामित्व वाली वित्तीय निगम है जो बिजली उत्पादन, पारेषण और वितरण सहित बिजली क्षेत्र के बुनियादी ढांचे के लिए धन प्रदान करती है। आरबीआई की एनओसी एक महत्वपूर्ण नियामक मील का पत्थर दर्शाती है, लेकिन इसका मतलब यह नहीं है कि विलय पूरा हो गया है। विलय को अंतिम रूप देने से पहले आगे की कानूनी, वैधानिक और नियामक आवश्यकताओं को पूरा किया जाना चाहिए।"
+      },
+      "gu": {
+        "question": "પાવર ફાઇનાન્સ કોર્પોરેશન લિમિટેડ સાથે તેના પ્રસ્તાવિત વિલીનીકરણ માટે કયા નાણાકીય નિગમને આરબીઆઈનું નો-ઓબ્જેક્શન પ્રમાણપત્ર પ્રાપ્ત થયું છે?",
+        "options": {
+          "A": "કૃષિ અને ગ્રામીણ વિકાસ માટે નેશનલ બેંક",
+          "B": "પાવર ફાઇનાન્સ કોર્પોરેશન લિમિટેડ",
+          "C": "REC લિમિટેડ",
+          "D": "ભારતીય રિન્યુએબલ એનર્જી ડેવલપમેન્ટ એજન્સી"
+        },
+        "explanation": "REC લિમિટેડને પાવર ફાઇનાન્સ કોર્પોરેશન લિમિટેડ (PFC) સાથે તેના પ્રસ્તાવિત વિલીનીકરણ માટે 16 ઓક્ટોબર, 2026 ના રોજ રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) તરફથી નો-ઓબ્જેક્શન સર્ટિફિકેટ (NOC) પ્રાપ્ત થયું. સૂચિત વ્યવહારમાં કંપની અધિનિયમ, 2013 ની કલમ 230-232 હેઠળ REC લિમિટેડનું PFC માં મર્જર સામેલ છે. REC લિમિટેડ એ સરકારી માલિકીની નાણાકીય નિગમ છે જે વીજળી ઉત્પાદન, ટ્રાન્સમિશન અને વિતરણ સહિત પાવર સેક્ટર ઈન્ફ્રાસ્ટ્રક્ચર માટે ભંડોળ પૂરું પાડે છે. આરબીઆઈની એનઓસી એક મહત્વપૂર્ણ નિયમનકારી સીમાચિહ્નરૂપ છે, પરંતુ તેનો અર્થ એ નથી કે મર્જર પૂર્ણ થઈ ગયું છે. વિલીનીકરણને અંતિમ સ્વરૂપ આપવામાં આવે તે પહેલાં વધુ કાનૂની, વૈધાનિક અને નિયમનકારી આવશ્યકતાઓને પૂર્ણ કરવી આવશ્યક છે."
+      }
+    },
+    {
+      "id": "2026-10-17-4",
+      "date": "2026-10-17",
+      "qno": 4,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "Where was the World Health Summit 2026 held?",
+        "options": {
+          "A": "Geneva",
+          "B": "Paris",
+          "C": "Berlin",
+          "D": "Vienna"
+        },
+        "explanation": "Berlin, Germany, hosted the World Health Summit 2026 from October 11 to 13 under the theme “From Crisis to Resilience: Innovating for Health.” Organized by the World Health Summit Foundation in connection with Charité – Universitätsmedizin Berlin, the summit brought together more than 4,000 on-site participants from 130 countries and territories. Discussions focused on strengthening global health systems, improving women’s and maternal health, preventing stillbirths, and addressing emerging threats such as the misuse of artificial intelligence and nuclear warfare. Major announcements included a €250 million program for women’s health in Bangladesh and a $100 million initiative to reduce stillbirths. The annual summit has been held in Berlin since its establishment in 2009."
+      },
+      "hi": {
+        "question": "विश्व स्वास्थ्य शिखर सम्मेलन 2026 कहाँ आयोजित किया गया था?",
+        "options": {
+          "A": "जिनेवा",
+          "B": "पेरिस",
+          "C": "बर्लिन",
+          "D": "वियना"
+        },
+        "explanation": "बर्लिन, जर्मनी ने theme “से Crisis को Resilience: Innovating के लिए Health के तहत 11 से 13 अक्टूबर तक विश्व स्वास्थ्य शिखर सम्मेलन 2026 की मेजबानी की। चैरिटे-यूनिवर्सिटैट्समेडिज़िन बर्लिन के संबंध में विश्व स्वास्थ्य शिखर सम्मेलन फाउंडेशन द्वारा आयोजित, शिखर सम्मेलन में 130 देशों और क्षेत्रों के 4,000 से अधिक प्रतिभागियों ने भाग लिया। चर्चा वैश्विक स्वास्थ्य प्रणालियों को मजबूत करने, महिलाओं और मातृ स्वास्थ्य में सुधार, मृत जन्म को रोकने और कृत्रिम बुद्धिमत्ता और परमाणु युद्ध के दुरुपयोग जैसे उभरते खतरों को संबोधित करने पर केंद्रित थी। प्रमुख घोषणाओं में बांग्लादेश में महिलाओं के स्वास्थ्य के लिए €250 मिलियन का कार्यक्रम और मृत जन्म को कम करने के लिए 100 मिलियन डॉलर की पहल शामिल है। 2009 में इसकी स्थापना के बाद से वार्षिक शिखर सम्मेलन बर्लिन में आयोजित किया गया है।"
+      },
+      "gu": {
+        "question": "વર્લ્ડ હેલ્થ સમિટ 2026 ક્યાં યોજાઈ હતી?",
+        "options": {
+          "A": "જીનીવા",
+          "B": "પેરિસ",
+          "C": "બર્લિન",
+          "D": "વિયેના"
+        },
+        "explanation": "બર્લિન, જર્મનીએ theme “થી Crisis ને Resilience: Innovating માટે Health હેઠળ ઓક્ટોબર 11 થી 13 દરમિયાન વર્લ્ડ હેલ્થ સમિટ 2026નું આયોજન કર્યું હતું. Charité - Universitätsmedizin Berlin ના સંબંધમાં વર્લ્ડ હેલ્થ સમિટ ફાઉન્ડેશન દ્વારા આયોજિત, સમિટમાં 130 દેશો અને પ્રદેશોમાંથી 4,000 થી વધુ ઓન-સાઇટ સહભાગીઓ ભેગા થયા હતા. વૈશ્વિક આરોગ્ય પ્રણાલીને મજબૂત કરવા, મહિલા અને માતાના સ્વાસ્થ્યમાં સુધારો કરવા, મૃત્યુ પામેલા જન્મોને અટકાવવા અને કૃત્રિમ બુદ્ધિમત્તા અને પરમાણુ યુદ્ધના દુરુપયોગ જેવા ઉભરતા જોખમોને સંબોધવા પર ચર્ચાઓ કરવામાં આવી હતી. મુખ્ય ઘોષણાઓમાં બાંગ્લાદેશમાં મહિલાઓના સ્વાસ્થ્ય માટે €250 મિલિયનનો કાર્યક્રમ અને મૃત્યુ પામેલા જન્મોને ઘટાડવા માટે $100 મિલિયનની પહેલનો સમાવેશ થાય છે. 2009 માં તેની સ્થાપના થઈ ત્યારથી વાર્ષિક સમિટ બર્લિનમાં યોજાય છે."
+      }
+    },
+    {
+      "id": "2026-10-17-5",
+      "date": "2026-10-17",
+      "qno": 5,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "Which Indian human spaceflight programme aims to send astronauts into low Earth orbit and bring them safely back to Earth?",
+        "options": {
+          "A": "Chandrayaan",
+          "B": "Gaganyaan",
+          "C": "Aditya-L1",
+          "D": "Mangalyaan"
+        },
+        "explanation": "Gaganyaan is India’s human spaceflight programme developed by the Indian Space Research Organisation (ISRO). Its primary objective is to demonstrate India’s capability to send Indian astronauts into low Earth orbit and return them safely to Earth. The programme focuses on human-rated launch vehicles, crew safety, life support systems, spacecraft navigation and recovery operations. The first uncrewed G1 mission is intended to test critical systems before human spaceflight. On October 16, 2026, ISRO successfully completed Crew Module–Service Module separation tests at the Vikram Sarabhai Space Centre in Kerala. These tests help verify the reliability of spacecraft mechanisms and support the safe return of the Crew Module."
+      },
+      "hi": {
+        "question": "किस भारतीय मानव अंतरिक्ष उड़ान कार्यक्रम का उद्देश्य अंतरिक्ष यात्रियों को पृथ्वी की निचली कक्षा में भेजना और उन्हें सुरक्षित रूप से पृथ्वी पर वापस लाना है?",
+        "options": {
+          "A": "चंद्रयान",
+          "B": "गगनयान",
+          "C": "आदित्य-एल1",
+          "D": "मंगलयान"
+        },
+        "explanation": "गगनयान भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) द्वारा विकसित भारत का मानव अंतरिक्ष उड़ान कार्यक्रम है। इसका प्राथमिक उद्देश्य भारतीय अंतरिक्ष यात्रियों को पृथ्वी की निचली कक्षा में भेजने और उन्हें सुरक्षित रूप से पृथ्वी पर वापस लाने की भारत की क्षमता का प्रदर्शन करना है। कार्यक्रम मानव-रेटेड लॉन्च वाहनों, चालक दल की सुरक्षा, जीवन समर्थन प्रणाली, अंतरिक्ष यान नेविगेशन और पुनर्प्राप्ति संचालन पर केंद्रित है। पहले मानव रहित G1 मिशन का उद्देश्य मानव अंतरिक्ष उड़ान से पहले महत्वपूर्ण प्रणालियों का परीक्षण करना है। 16 अक्टूबर, 2026 को, इसरो ने केरल के विक्रम साराभाई अंतरिक्ष केंद्र में क्रू मॉड्यूल-सर्विस मॉड्यूल पृथक्करण परीक्षण सफलतापूर्वक पूरा किया। ये परीक्षण अंतरिक्ष यान तंत्र की विश्वसनीयता को सत्यापित करने और क्रू मॉड्यूल की सुरक्षित वापसी का समर्थन करने में मदद करते हैं।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય હ્યુમન સ્પેસફ્લાઇટ પ્રોગ્રામનો હેતુ અવકાશયાત્રીઓને પૃથ્વીની નીચી ભ્રમણકક્ષામાં મોકલવાનો અને તેમને સુરક્ષિત રીતે પૃથ્વી પર પાછા લાવવાનો છે?",
+        "options": {
+          "A": "ચંદ્રયાન",
+          "B": "ગગનયાન",
+          "C": "આદિત્ય-એલ1",
+          "D": "મંગલયાન"
+        },
+        "explanation": "ગગનયાન એ ઇન્ડિયન સ્પેસ રિસર્ચ ઓર્ગેનાઇઝેશન (ISRO) દ્વારા વિકસિત ભારતનો માનવ સ્પેસફ્લાઇટ પ્રોગ્રામ છે. તેનો પ્રાથમિક ઉદ્દેશ્ય ભારતીય અવકાશયાત્રીઓને પૃથ્વીની નીચલી ભ્રમણકક્ષામાં મોકલવાની અને તેમને સુરક્ષિત રીતે પૃથ્વી પર પરત કરવાની ભારતની ક્ષમતા દર્શાવવાનો છે. પ્રોગ્રામ માનવ-રેટેડ લોન્ચ વાહનો, ક્રૂ સેફ્ટી, લાઇફ સપોર્ટ સિસ્ટમ્સ, સ્પેસક્રાફ્ટ નેવિગેશન અને રિકવરી ઓપરેશન્સ પર ધ્યાન કેન્દ્રિત કરે છે. પ્રથમ uncrewed G1 મિશનનો હેતુ માનવ અવકાશ ઉડાન પહેલાં નિર્ણાયક સિસ્ટમોનું પરીક્ષણ કરવાનો છે. ઑક્ટોબર 16, 2026 ના રોજ, ISRO એ કેરળમાં વિક્રમ સારાભાઈ સ્પેસ સેન્ટર ખાતે ક્રૂ મોડ્યુલ-સર્વિસ મોડ્યુલ અલગતા પરીક્ષણો સફળતાપૂર્વક પૂર્ણ કર્યા. આ પરીક્ષણો અવકાશયાન પદ્ધતિઓની વિશ્વસનીયતા ચકાસવામાં મદદ કરે છે અને ક્રૂ મોડ્યુલના સુરક્ષિત વળતરને સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-17-6",
+      "date": "2026-10-17",
+      "qno": 6,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "Which Indian bank has received RBI approval for the merger of Emirates NBD Bank’s Indian branches, effective December 1, 2026?",
+        "options": {
+          "A": "RBL Bank",
+          "B": "HDFC Bank",
+          "C": "ICICI Bank",
+          "D": "Axis Bank"
+        },
+        "explanation": "RBL Bank received approval from the Reserve Bank of India (RBI) on October 16, 2026, for the merger of Emirates NBD Bank P.J.S.C.’s Indian branch operations with RBL Bank, effective December 1, 2026. In June 2026, Emirates NBD acquired a 60% equity stake in RBL Bank through a capital infusion of approximately ₹26,000 crore. The investment was described as one of the largest foreign direct investments in India’s banking sector. The merger will integrate Emirates NBD’s Indian branch operations under RBL Bank, strengthening its capital base and expanding the role of foreign investment in the Indian banking industry."
+      },
+      "hi": {
+        "question": "1 दिसंबर, 2026 से किस भारतीय बैंक को अमीरात एनबीडी बैंक की भारतीय शाखाओं के विलय के लिए आरबीआई की मंजूरी मिल गई है?",
+        "options": {
+          "A": "आरबीएल बैंक",
+          "B": "एचडीएफसी बैंक",
+          "C": "आईसीआईसीआई बैंक",
+          "D": "एक्सिस बैंक"
+        },
+        "explanation": "आरबीएल बैंक को 1 दिसंबर, 2026 से प्रभावी आरबीएल बैंक के साथ एमिरेट्स एनबीडी बैंक पी.जे.एस.सी. की भारतीय शाखा संचालन के विलय के लिए 16 अक्टूबर, 2026 को भारतीय रिजर्व बैंक (आरबीआई) से मंजूरी मिली। जून 2026 में, एमिरेट्स एनबीडी ने लगभग ₹26,000 करोड़ की पूंजी के माध्यम से आरबीएल बैंक में 60% इक्विटी हिस्सेदारी हासिल कर ली। इस निवेश को भारत के बैंकिंग क्षेत्र में सबसे बड़े प्रत्यक्ष विदेशी निवेश में से एक बताया गया। विलय से एमिरेट्स एनबीडी की भारतीय शाखा परिचालन आरबीएल बैंक के तहत एकीकृत हो जाएगी, इसका पूंजी आधार मजबूत होगा और भारतीय बैंकिंग उद्योग में विदेशी निवेश की भूमिका का विस्तार होगा।"
+      },
+      "gu": {
+        "question": "કઈ ભારતીય બેંકને અમીરાત NBD બેંકની ભારતીય શાખાઓના વિલીનીકરણ માટે RBIની મંજૂરી મળી છે, જે 1 ડિસેમ્બર, 2026 થી અમલમાં છે?",
+        "options": {
+          "A": "આરબીએલ બેંક",
+          "B": "HDFC બેંક",
+          "C": "ICICI બેંક",
+          "D": "એક્સિસ બેંક"
+        },
+        "explanation": "આરબીએલ બેંકને 16મી ઓક્ટોબર, 2026ના રોજ અમીરાત NBD બેંક P.J.S.C.ની ભારતીય શાખાની કામગીરીના RBL બેંક સાથે વિલીનીકરણ માટે રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) તરફથી મંજૂરી મળી હતી, જે 1 ડિસેમ્બર, 2026 થી અમલમાં આવી હતી. જૂન 2026માં, Emirates NBD એ RBL 60% બેંક દ્વારા 60% ની મૂડી હસ્તગત કરી હતી. અંદાજે ₹26,000 કરોડ. આ રોકાણને ભારતના બેંકિંગ ક્ષેત્રમાં સૌથી મોટા વિદેશી સીધા રોકાણોમાંના એક તરીકે વર્ણવવામાં આવ્યું હતું. આ વિલીનીકરણ અમીરાત NBDની ભારતીય શાખા કામગીરીને RBL બેંક હેઠળ સંકલિત કરશે, તેના મૂડી આધારને મજબૂત કરશે અને ભારતીય બેંકિંગ ઉદ્યોગમાં વિદેશી રોકાણની ભૂમિકાને વિસ્તૃત કરશે."
+      }
+    },
+    {
+      "id": "2026-10-17-7",
+      "date": "2026-10-17",
+      "qno": 7,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as India’s next Ambassador to Nepal by the Ministry of External Affairs in October 2026?",
+        "options": {
+          "A": "Vikram Misri",
+          "B": "Vinay Mohan Kwatra",
+          "C": "Pranay Verma",
+          "D": "Sudhakar Dalela"
+        },
+        "explanation": "Sudhakar Dalela, a 1993-batch Indian Foreign Service (IFS) officer, was appointed as India’s next Ambassador to Nepal by the Ministry of External Affairs on October 16, 2026. Before this appointment, he served as Secretary (Economic Relations) in the Ministry of External Affairs from September 1, 2025. He also served as India’s Ambassador to Bhutan from 2022 to 2025 and held important diplomatic positions, including Director (North) and Joint Secretary (North) in the MEA. Dalela has also represented India as its Sherpa in BRICS, IBSA and I2U2. His appointment highlights the importance of diplomatic engagement with India’s neighbouring countries."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में विदेश मंत्रालय द्वारा नेपाल में भारत का अगला राजदूत किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "विक्रम मिस्री",
+          "B": "विनय मोहन क्वात्रा",
+          "C": "प्रणय वर्मा",
+          "D": "सुधाकर दलेला"
+        },
+        "explanation": "1993-बैच के भारतीय विदेश सेवा (IFS) अधिकारी सुधाकर दलेला को 16 अक्टूबर, 2026 को विदेश मंत्रालय द्वारा नेपाल में भारत के अगले राजदूत के रूप में नियुक्त किया गया था। इस नियुक्ति से पहले, उन्होंने 1 सितंबर, 2025 तक विदेश मंत्रालय में सचिव (आर्थिक संबंध) के रूप में कार्य किया था। उन्होंने 2022 से 2025 तक भूटान में भारत के राजदूत के रूप में भी कार्य किया और निदेशक (उत्तर) सहित महत्वपूर्ण राजनयिक पदों पर कार्य किया। और विदेश मंत्रालय में संयुक्त सचिव (उत्तर)। दलेला ने ब्रिक्स, आईबीएसए और आई2यू2 में शेरपा के रूप में भी भारत का प्रतिनिधित्व किया है। उनकी नियुक्ति भारत के पड़ोसी देशों के साथ राजनयिक जुड़ाव के महत्व पर प्रकाश डालती है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં વિદેશ મંત્રાલય દ્વારા નેપાળમાં ભારતના આગામી રાજદૂત તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "વિક્રમ મિસ્ત્રી",
+          "B": "વિનય મોહન ક્વાત્રા",
+          "C": "પ્રણય વર્મા",
+          "D": "સુધાકર દેલા"
+        },
+        "explanation": "1993-બેચના ભારતીય વિદેશ સેવા (IFS) અધિકારી સુધાકર દેલાને 16 ઓક્ટોબર, 2026 ના રોજ વિદેશ મંત્રાલય દ્વારા નેપાળમાં ભારતના આગામી રાજદૂત તરીકે નિયુક્ત કરવામાં આવ્યા હતા. આ નિમણૂક પહેલા, તેમણે વિદેશ મંત્રાલયમાં સચિવ (આર્થિક સંબંધો) તરીકે સેવા આપી હતી. ભૂટાન 2022 થી 2025 સુધી અને MEA માં નિયામક (ઉત્તર) અને સંયુક્ત સચિવ (ઉત્તર) સહિત મહત્વપૂર્ણ રાજદ્વારી હોદ્દા પર હતા. દાલેલાએ બ્રિક્સ, IBSA અને I2U2માં તેના શેરપા તરીકે ભારતનું પ્રતિનિધિત્વ પણ કર્યું છે. તેમની નિમણૂક ભારતના પડોશી દેશો સાથે રાજદ્વારી જોડાણના મહત્વને દર્શાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-17-8",
+      "date": "2026-10-17",
+      "qno": 8,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Who won the 2026 3M Young Scientist Challenge for developing the ALKACORE project to address ocean acidification?",
+        "options": {
+          "A": "Aaisha Asif",
+          "B": "Raji Doshi",
+          "C": "Sharvi Mahajan",
+          "D": "Naboshree Santra"
+        },
+        "explanation": "Raji Doshi, a student of Indian origin from Farmington, Connecticut, won the 2026 3M Young Scientist Challenge and received a cash award of $25,000. She is a student at Stanford Online High School and was recognised for her innovative project, ALKACORE, which explores ways to reduce coastal ocean acidification. Her research combines macroalgae cultivation with aragonite, a natural form of calcium carbonate, to study their effects on carbon dioxide levels and seawater alkalinity. Doshi competed against nine other finalists during the competition held on October 12–13, 2026, at 3M’s global headquarters in St. Paul, Minnesota."
+      },
+      "hi": {
+        "question": "समुद्र के अम्लीकरण को संबोधित करने के लिए ALKACORE परियोजना विकसित करने के लिए 2026 3M यंग साइंटिस्ट चैलेंज किसने जीता?",
+        "options": {
+          "A": "आयशा आसिफ",
+          "B": "राजी दोशी",
+          "C": "शारवी महाजन",
+          "D": "नबोश्री संतरा"
+        },
+        "explanation": "फार्मिंगटन, कनेक्टिकट के भारतीय मूल के छात्र राजी दोशी ने 2026 3एम यंग साइंटिस्ट चैलेंज जीता और 25,000 डॉलर का नकद पुरस्कार प्राप्त किया। वह स्टैनफोर्ड ऑनलाइन हाई स्कूल की छात्रा हैं और उन्हें उनके अभिनव प्रोजेक्ट, ALKACORE के लिए पहचाना गया, जो तटीय महासागर के अम्लीकरण को कम करने के तरीकों की खोज करता है। उनका शोध कार्बन डाइऑक्साइड के स्तर और समुद्री जल क्षारीयता पर उनके प्रभावों का अध्ययन करने के लिए मैक्रोएल्गे की खेती को अर्गोनाइट, कैल्शियम कार्बोनेट के एक प्राकृतिक रूप के साथ जोड़ता है। 12-13 अक्टूबर, 2026 को सेंट पॉल, मिनेसोटा में 3एम के वैश्विक मुख्यालय में आयोजित प्रतियोगिता के दौरान दोशी ने नौ अन्य फाइनलिस्टों के खिलाफ प्रतिस्पर्धा की।"
+      },
+      "gu": {
+        "question": "સમુદ્રના એસિડિફિકેશનને સંબોધવા માટે ALKACORE પ્રોજેક્ટ વિકસાવવા માટે 2026 3M યંગ સાયન્ટિસ્ટ ચેલેન્જ કોણે જીતી?",
+        "options": {
+          "A": "આયશા આસિફ",
+          "B": "રાજી દોશી",
+          "C": "શર્વી મહાજન",
+          "D": "નબોશ્રી સંત્રા"
+        },
+        "explanation": "ફાર્મિંગ્ટન, કનેક્ટિકટના ભારતીય મૂળના વિદ્યાર્થી રાજી દોશીએ 2026 3M યંગ સાયન્ટિસ્ટ ચેલેન્જ જીતી અને $25,000 નો રોકડ પુરસ્કાર મેળવ્યો. તે સ્ટેનફોર્ડ ઓનલાઈન હાઈસ્કૂલની વિદ્યાર્થીની છે અને તેના નવીન પ્રોજેક્ટ, ALKACORE માટે ઓળખવામાં આવી હતી, જે દરિયાકાંઠાના સમુદ્રના એસિડિફિકેશનને ઘટાડવાની રીતોની શોધ કરે છે. તેના સંશોધનમાં કાર્બન ડાયોક્સાઇડના સ્તરો અને દરિયાઈ પાણીની ક્ષારત્વ પરની તેમની અસરોનો અભ્યાસ કરવા માટે કેલ્શિયમ કાર્બોનેટનું કુદરતી સ્વરૂપ એરાગોનાઈટ સાથે મેક્રોઆલ્ગીની ખેતીનું સંયોજન છે. દોશીએ 12-13 ઓક્ટોબર, 2026 ના રોજ સેન્ટ પૉલ, મિનેસોટામાં 3Mના વૈશ્વિક મુખ્યાલયમાં યોજાયેલી સ્પર્ધા દરમિયાન અન્ય નવ ફાઇનલિસ્ટ સામે સ્પર્ધા કરી."
+      }
+    },
+    {
+      "id": "2026-10-17-9",
+      "date": "2026-10-17",
+      "qno": 9,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Army regiment won the gold medal at Exercise Cambrian Patrol 2026 in Wales, United Kingdom?",
+        "options": {
+          "A": "Rajput Regiment",
+          "B": "Assam Regiment",
+          "C": "Sikh Regiment",
+          "D": "Garhwal Rifles"
+        },
+        "explanation": "The Assam Regiment of the Indian Army won a gold medal at Exercise Cambrian Patrol 2026, an international military patrolling exercise held in Wales, United Kingdom. Organised by the British Army, the exercise evaluates military teams on physical endurance, leadership, tactical skills, navigation, communication, and decision-making under challenging field conditions. Established in 1959, it is popularly known as the “Olympics of Military Patrolling” because of its demanding physical and tactical requirements. The exercise generally involves eight-member patrol teams operating for approximately 48 hours. The Assam Regiment’s achievement highlights the Indian Army’s professional capabilities and strengthens international military cooperation through shared training experiences."
+      },
+      "hi": {
+        "question": "यूनाइटेड किंगडम के वेल्स में एक्सरसाइज कैंब्रियन पेट्रोल 2026 में किस भारतीय सेना रेजिमेंट ने स्वर्ण पदक जीता?",
+        "options": {
+          "A": "राजपूत रेजिमेंट",
+          "B": "असम रेजिमेंट",
+          "C": "सिख रेजिमेंट",
+          "D": "गढ़वाल राइफल्स"
+        },
+        "explanation": "भारतीय सेना की असम रेजिमेंट ने वेल्स, यूनाइटेड किंगडम में आयोजित एक अंतरराष्ट्रीय सैन्य गश्त अभ्यास, एक्सरसाइज कैंब्रियन पेट्रोल 2026 में स्वर्ण पदक जीता। ब्रिटिश सेना द्वारा आयोजित, यह अभ्यास चुनौतीपूर्ण क्षेत्र की परिस्थितियों में शारीरिक सहनशक्ति, नेतृत्व, सामरिक कौशल, नेविगेशन, संचार और निर्णय लेने पर सैन्य टीमों का मूल्यांकन करता है। 1959 में स्थापित, यह अपनी भौतिक और सामरिक आवश्यकताओं के कारण लोकप्रिय रूप से \"सैन्य गश्ती के ओलंपिक\" के रूप में जाना जाता है। अभ्यास में आम तौर पर आठ सदस्यीय गश्ती दल शामिल होते हैं जो लगभग 48 घंटों तक काम करते हैं। असम रेजिमेंट की उपलब्धि भारतीय सेना की पेशेवर क्षमताओं को उजागर करती है और साझा प्रशिक्षण अनुभवों के माध्यम से अंतरराष्ट्रीय सैन्य सहयोग को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "વેલ્સ, યુનાઇટેડ કિંગડમમાં કઇ ભારતીય સેનાની રેજિમેન્ટે એક્સરસાઇઝ કેમ્બ્રિયન પેટ્રોલ 2026માં ગોલ્ડ મેડલ જીત્યો?",
+        "options": {
+          "A": "રાજપૂત રેજિમેન્ટ",
+          "B": "આસામ રેજિમેન્ટ",
+          "C": "શીખ રેજિમેન્ટ",
+          "D": "ગઢવાલ રાઇફલ્સ"
+        },
+        "explanation": "ભારતીય સેનાની આસામ રેજિમેન્ટે યુનાઇટેડ કિંગડમના વેલ્સમાં આયોજિત આંતરરાષ્ટ્રીય લશ્કરી પેટ્રોલિંગ કવાયત કેમ્બ્રિયન પેટ્રોલ 2026માં સુવર્ણ ચંદ્રક જીત્યો હતો. બ્રિટિશ આર્મી દ્વારા આયોજિત, આ કવાયત ભૌતિક સહનશક્તિ, નેતૃત્વ, વ્યૂહાત્મક કૌશલ્ય, નેવિગેશન, સંચાર અને પડકારજનક ક્ષેત્રની પરિસ્થિતિઓમાં નિર્ણય લેવા પર લશ્કરી ટીમોનું મૂલ્યાંકન કરે છે. 1959 માં સ્થપાયેલ, તે તેની શારીરિક અને વ્યૂહાત્મક આવશ્યકતાઓને કારણે \"લશ્કરી પેટ્રોલિંગના ઓલિમ્પિક્સ\" તરીકે પ્રખ્યાત છે. આ કવાયતમાં સામાન્ય રીતે આઠ સભ્યોની પેટ્રોલિંગ ટીમો લગભગ 48 કલાક સુધી કાર્યરત હોય છે. આસામ રેજિમેન્ટની સિદ્ધિ ભારતીય સેનાની વ્યાવસાયિક ક્ષમતાઓને પ્રકાશિત કરે છે અને વહેંચાયેલ તાલીમ અનુભવો દ્વારા આંતરરાષ્ટ્રીય લશ્કરી સહયોગને મજબૂત બનાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-17-10",
+      "date": "2026-10-17",
+      "qno": 10,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed as the chairman of the Financial Services Institutions Bureau (FSIB) on October 16, 2026?",
+        "options": {
+          "A": "SCL Das",
+          "B": "Arijit Basu",
+          "C": "Siddhartha Mohanty",
+          "D": "Neerja Kapur"
+        },
+        "explanation": "SCL Das, a retired 1992-batch IAS officer of the AGMUT cadre, was appointed chairman of the Financial Services Institutions Bureau (FSIB) by the Union government on October 16, 2026, for a term of three years. Before this appointment, he served as Secretary in the Ministry of Micro, Small and Medium Enterprises (MSME) and as chairperson of the Delhi Electricity Regulatory Commission (DERC). The FSIB operates under the Department of Financial Services, Ministry of Finance. Its primary responsibility is to recommend suitable candidates for senior leadership positions in public sector banks, financial institutions and public sector insurance companies. The final appointments are made through the prescribed government procedures."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 को वित्तीय सेवा संस्थान ब्यूरो (FSIB) के अध्यक्ष के रूप में किसे नियुक्त किया गया?",
+        "options": {
+          "A": "एससीएल दास",
+          "B": "अरिजीत बसु",
+          "C": "सिद्धार्थ मोहंती",
+          "D": "नीरजा कपूर"
+        },
+        "explanation": "एजीएमयूटी कैडर के 1992 बैच के सेवानिवृत्त आईएएस अधिकारी एससीएल दास को 16 अक्टूबर, 2026 को तीन साल की अवधि के लिए केंद्र सरकार द्वारा वित्तीय सेवा संस्थान ब्यूरो (एफएसआईबी) का अध्यक्ष नियुक्त किया गया था। इस नियुक्ति से पहले, उन्होंने सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई) मंत्रालय में सचिव और दिल्ली विद्युत नियामक आयोग (डीईआरसी) के अध्यक्ष के रूप में कार्य किया। एफएसआईबी वित्त मंत्रालय के वित्तीय सेवा विभाग के तहत काम करता है। इसकी प्राथमिक जिम्मेदारी सार्वजनिक क्षेत्र के बैंकों, वित्तीय संस्थानों और सार्वजनिक क्षेत्र की बीमा कंपनियों में वरिष्ठ नेतृत्व पदों के लिए उपयुक्त उम्मीदवारों की सिफारिश करना है। अंतिम नियुक्तियाँ निर्धारित सरकारी प्रक्रियाओं के माध्यम से की जाती हैं।"
+      },
+      "gu": {
+        "question": "16 ઓક્ટોબર, 2026 ના રોજ ફાઇનાન્સિયલ સર્વિસ ઇન્સ્ટિટ્યુશન્સ બ્યુરો (FSIB) ના અધ્યક્ષ તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "એસસીએલ દાસ",
+          "B": "અરિજિત બસુ",
+          "C": "સિદ્ધાર્થ મોહંતી",
+          "D": "નીરજા કપૂર"
+        },
+        "explanation": "AGMUT કેડરના 1992-બેચના નિવૃત્ત IAS અધિકારી SCL દાસને કેન્દ્ર સરકાર દ્વારા 16 ઓક્ટોબર, 2026ના રોજ ત્રણ વર્ષની મુદત માટે ફાઇનાન્સિયલ સર્વિસિસ ઇન્સ્ટિટ્યૂશન્સ બ્યુરો (FSIB)ના અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા હતા. આ નિમણૂક પહેલાં, તેમણે સૂક્ષ્મ, નાના અને મધ્યમ ઉદ્યોગો (MSME) મંત્રાલયમાં સચિવ તરીકે અને દિલ્હી વીજળી નિયમનકારી આયોગ (DERC) ના અધ્યક્ષ તરીકે સેવા આપી હતી. FSIB નાણા મંત્રાલયના નાણાકીય સેવાઓ વિભાગ હેઠળ કાર્ય કરે છે. તેની પ્રાથમિક જવાબદારી જાહેર ક્ષેત્રની બેંકો, નાણાકીય સંસ્થાઓ અને જાહેર ક્ષેત્રની વીમા કંપનીઓમાં વરિષ્ઠ નેતૃત્વ હોદ્દા માટે યોગ્ય ઉમેદવારોની ભલામણ કરવાની છે. અંતિમ નિમણૂંકો નિયત સરકારી પ્રક્રિયાઓ દ્વારા કરવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-1",
+      "date": "2026-10-11",
+      "qno": 1,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "options": {
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
+        },
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+      },
+      "hi": {
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "options": {
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "options": {
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+        },
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
       }
     },
     {
       "id": "2026-10-11-2",
       "date": "2026-10-11",
       "qno": 2,
-      "answer": "D",
-      "category": "Technology",
+      "answer": "A",
+      "category": "Important Days",
       "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
         "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
         },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
       },
       "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
         "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
         },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
       },
       "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
         "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
         },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
       }
     },
     {
@@ -55445,6 +56002,43 @@
       "id": "2026-10-11-4",
       "date": "2026-10-11",
       "qno": 4,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "qno": 5,
       "answer": "B",
       "category": "Sports",
       "en": {
@@ -55479,194 +56073,46 @@
       }
     },
     {
-      "id": "2026-10-11-5",
-      "date": "2026-10-11",
-      "qno": 5,
-      "answer": "A",
-      "category": "Important Days",
-      "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
-        "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
-        },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
-      },
-      "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
-        "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
-        },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
-      },
-      "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
-        "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
-        },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
-      }
-    },
-    {
       "id": "2026-10-11-6",
       "date": "2026-10-11",
       "qno": 6,
-      "answer": "B",
+      "answer": "A",
       "category": "Defence",
       "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
         "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
+          "A": "Argentina",
+          "B": "Nepal",
+          "C": "Bhutan",
+          "D": "Chile"
         },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
       },
       "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
         "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+          "A": "अर्जेंटीना",
+          "B": "नेपाल",
+          "C": "भूटान",
+          "D": "चिली"
         },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
       },
       "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
         "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+          "A": "આર્જેન્ટિના",
+          "B": "નેપાળ",
+          "C": "ભુતાન",
+          "D": "ચિલી"
         },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
       }
     },
     {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "C",
-      "category": "Environment",
-      "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
-        "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
-        },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
-      },
-      "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
-        "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
-        },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
-      },
-      "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
-        "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
-        },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
-      }
-    },
-    {
-      "id": "2026-10-10-2",
-      "date": "2026-10-10",
-      "qno": 2,
-      "answer": "A",
-      "category": "Banking",
-      "en": {
-        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
-      },
-      "hi": {
-        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
-      },
-      "gu": {
-        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
-      "answer": "C",
-      "category": "Defence",
-      "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
-        "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
-        },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
-      },
-      "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
-        "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
-        },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
-      },
-      "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
-        "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
-        },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
       "answer": "B",
       "category": "National",
       "en": {
@@ -55701,9 +56147,83 @@
       }
     },
     {
-      "id": "2026-10-10-5",
+      "id": "2026-10-10-2",
       "date": "2026-10-10",
-      "qno": 5,
+      "qno": 2,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
+      "id": "2026-10-10-3",
+      "date": "2026-10-10",
+      "qno": 3,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
+      },
+      "gu": {
+        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
       "answer": "D",
       "category": "State",
       "en": {
@@ -55738,46 +56258,46 @@
       }
     },
     {
-      "id": "2026-10-10-6",
+      "id": "2026-10-10-5",
       "date": "2026-10-10",
-      "qno": 6,
-      "answer": "B",
-      "category": "Important Days",
+      "qno": 5,
+      "answer": "C",
+      "category": "Defence",
       "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
         "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
         },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
       },
       "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
         "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
         },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
       },
       "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
         "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-6",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 6,
       "answer": "A",
       "category": "Awards and Honours",
       "en": {
@@ -55809,6 +56329,43 @@
           "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
         },
         "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
       }
     }
   ]
