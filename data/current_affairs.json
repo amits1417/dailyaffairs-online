@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-10-20",
+    "2026-10-19",
     "2026-10-18",
     "2026-10-17",
     "2026-10-16",
@@ -55703,40 +55705,780 @@
       }
     },
     {
+      "id": "2026-10-20-1",
+      "date": "2026-10-20",
+      "qno": 1,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state received the SKOCH Silver Award in October 2026 for its Grassroots Football Festival (Baby League) initiative?",
+        "options": {
+          "A": "Manipur",
+          "B": "Nagaland",
+          "C": "Mizoram",
+          "D": "Meghalaya"
+        },
+        "explanation": "Nagaland received the SKOCH Silver Award in October 2026, in recognition of its Grassroots Football Festival, also known as the Baby League. The initiative is implemented by the Nagaland Youth Resources and Sports Department and was launched in June 2024. It aims to promote grassroots football among children aged 5 to 12 years by providing an inclusive environment for organised sporting activities. Matches are conducted in four age groups, with an emphasis on participation, enjoyment, and early talent identification rather than conventional competition. The SKOCH Award, established in 2003, recognises excellence in governance, finance, and social development. Nagaland became India's 16th state on December 1, 1963, and its capital is Kohima."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य को उसके ग्रासरूट फुटबॉल फेस्टिवल (बेबी लीग) पहल के लिए SKOCH सिल्वर अवार्ड मिला?",
+        "options": {
+          "A": "मणिपुर",
+          "B": "नागालैंड",
+          "C": "मिजोरम",
+          "D": "मेघालय"
+        },
+        "explanation": "नागालैंड को उसके ग्रासरूट फुटबॉल फेस्टिवल, जिसे बेबी लीग के नाम से भी जाना जाता है, की मान्यता में अक्टूबर 2026 में SKOCH सिल्वर अवार्ड मिला। यह पहल नागालैंड युवा संसाधन और खेल विभाग द्वारा कार्यान्वित की गई है और जून 2024 में शुरू की गई थी। इसका उद्देश्य संगठित खेल गतिविधियों के लिए एक समावेशी वातावरण प्रदान करके 5 से 12 वर्ष की आयु के बच्चों के बीच जमीनी स्तर पर फुटबॉल को बढ़ावा देना है। मैच चार आयु समूहों में आयोजित किए जाते हैं, जिसमें पारंपरिक प्रतिस्पर्धा के बजाय भागीदारी, आनंद और प्रारंभिक प्रतिभा पहचान पर जोर दिया जाता है। 2003 में स्थापित SKOCH पुरस्कार शासन, वित्त और सामाजिक विकास में उत्कृष्टता को मान्यता देता है। 1 दिसंबर 1963 को नागालैंड भारत का 16वां राज्य बना और इसकी राजधानी कोहिमा है।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યને તેના ગ્રાસરૂટ ફૂટબોલ ફેસ્ટિવલ (બેબી લીગ) પહેલ માટે ઓક્ટોબર 2026 માં SKOCH સિલ્વર એવોર્ડ મળ્યો હતો?",
+        "options": {
+          "A": "મણિપુર",
+          "B": "નાગાલેન્ડ",
+          "C": "મિઝોરમ",
+          "D": "મેઘાલય"
+        },
+        "explanation": "નાગાલેન્ડને તેના ગ્રાસરૂટ ફૂટબોલ ફેસ્ટિવલ, જેને બેબી લીગ તરીકે પણ ઓળખવામાં આવે છે તેની માન્યતામાં ઓક્ટોબર 2026માં SKOCH સિલ્વર એવોર્ડ મળ્યો હતો. આ પહેલ નાગાલેન્ડ યુવા સંસાધન અને રમતગમત વિભાગ દ્વારા અમલમાં મૂકવામાં આવી છે અને જૂન 2024માં શરૂ કરવામાં આવી હતી. તેનો ઉદ્દેશ્ય સંગઠિત રમતગમતની પ્રવૃત્તિઓ માટે સમાવિષ્ટ વાતાવરણ પૂરું પાડીને 5 થી 12 વર્ષની વયના બાળકોમાં પાયાના ફૂટબોલને પ્રોત્સાહન આપવાનો છે. મેચો ચાર વય જૂથોમાં યોજવામાં આવે છે, જેમાં પરંપરાગત સ્પર્ધાને બદલે સહભાગિતા, આનંદ અને પ્રારંભિક પ્રતિભાની ઓળખ પર ભાર મૂકવામાં આવે છે. 2003માં સ્થપાયેલ SKOCH એવોર્ડ, ગવર્નન્સ, ફાઇનાન્સ અને સામાજિક વિકાસમાં શ્રેષ્ઠતાને માન્યતા આપે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતનું 16મું રાજ્ય બન્યું અને તેની રાજધાની કોહિમા છે."
+      }
+    },
+    {
+      "id": "2026-10-20-2",
+      "date": "2026-10-20",
+      "qno": 2,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "Which bank partnered with Ashok Leyland in October 2026 to provide vehicle financing solutions for commercial vehicle customers?",
+        "options": {
+          "A": "Tamilnad Mercantile Bank",
+          "B": "Indian Bank",
+          "C": "City Union Bank",
+          "D": "Karur Vysya Bank"
+        },
+        "explanation": "Tamilnad Mercantile Bank (TMB) partnered with Ashok Leyland through a Memorandum of Understanding (MoU) signed in October 2026 to provide vehicle financing solutions for commercial vehicle customers. The partnership aims to support customers purchasing Ashok Leyland trucks and buses by offering customised credit facilities, flexible repayment options, and end-to-end financial assistance. It primarily targets transport operators and fleet owners, helping them improve mobility and manage vehicle purchases more effectively. The collaboration combines TMB’s banking network with Ashok Leyland’s strong presence in the commercial vehicle market. Founded in 1921 as Nadar Bank, Tamilnad Mercantile Bank is headquartered in Thoothukudi, Tamil Nadu."
+      },
+      "hi": {
+        "question": "वाणिज्यिक वाहन ग्राहकों के लिए वाहन वित्तपोषण समाधान प्रदान करने के लिए अक्टूबर 2026 में किस बैंक ने अशोक लीलैंड के साथ साझेदारी की?",
+        "options": {
+          "A": "तमिलनाड मर्केंटाइल बैंक",
+          "B": "इंडियन बैंक",
+          "C": "सिटी यूनियन बैंक",
+          "D": "करूर वैश्य बैंक"
+        },
+        "explanation": "तमिलनाड मर्केंटाइल बैंक (टीएमबी) ने वाणिज्यिक वाहन ग्राहकों के लिए वाहन वित्तपोषण समाधान प्रदान करने के लिए अक्टूबर 2026 में हस्ताक्षरित एक समझौता ज्ञापन (एमओयू) के माध्यम से अशोक लीलैंड के साथ भागीदारी की। साझेदारी का उद्देश्य अनुकूलित क्रेडिट सुविधाएं, लचीले पुनर्भुगतान विकल्प और शुरू से अंत तक वित्तीय सहायता प्रदान करके अशोक लीलैंड ट्रक और बसें खरीदने वाले ग्राहकों का समर्थन करना है। यह मुख्य रूप से परिवहन ऑपरेटरों और बेड़े मालिकों को लक्षित करता है, जिससे उन्हें गतिशीलता में सुधार करने और वाहन खरीद को अधिक प्रभावी ढंग से प्रबंधित करने में मदद मिलती है। यह सहयोग टीएमबी के बैंकिंग नेटवर्क को वाणिज्यिक वाहन बाजार में अशोक लीलैंड की मजबूत उपस्थिति के साथ जोड़ता है। 1921 में नादर बैंक के रूप में स्थापित, तमिलनाडु मर्केंटाइल बैंक का मुख्यालय थूथुकुडी, तमिलनाडु में है।"
+      },
+      "gu": {
+        "question": "કોમર્શિયલ વાહન ગ્રાહકો માટે વાહન ધિરાણ ઉકેલો પ્રદાન કરવા માટે ઓક્ટોબર 2026માં કઈ બેંકે અશોક લેલેન્ડ સાથે ભાગીદારી કરી હતી?",
+        "options": {
+          "A": "તમિલનાડ મર્કેન્ટાઇલ બેંક",
+          "B": "ઈન્ડિયન બેંક",
+          "C": "સિટી યુનિયન બેંક",
+          "D": "કરુર વૈશ્ય બેંક"
+        },
+        "explanation": "તમિલનાડ મર્કેન્ટાઇલ બેંક (TMB) એ કોમર્શિયલ વાહન ગ્રાહકો માટે વાહન ફાઇનાન્સિંગ સોલ્યુશન્સ પ્રદાન કરવા ઓક્ટોબર 2026 માં હસ્તાક્ષર કરાયેલ સમજૂતી પત્ર (MoU) દ્વારા અશોક લેલેન્ડ સાથે ભાગીદારી કરી હતી. આ ભાગીદારીનો હેતુ અશોક લેલેન્ડ ટ્રક અને બસો ખરીદતા ગ્રાહકોને કસ્ટમાઇઝ્ડ ક્રેડિટ સુવિધાઓ, લવચીક પુન:ચુકવણી વિકલ્પો અને અંત-થી-અંત નાણાકીય સહાય ઓફર કરીને સહાય કરવાનો છે. તે મુખ્યત્વે ટ્રાન્સપોર્ટ ઓપરેટરો અને ફ્લીટ માલિકોને લક્ષ્ય બનાવે છે, તેમને ગતિશીલતામાં સુધારો કરવામાં અને વાહન ખરીદીને વધુ અસરકારક રીતે સંચાલિત કરવામાં મદદ કરે છે. આ સહયોગ TMB ના બેંકિંગ નેટવર્કને કોમર્શિયલ વ્હિકલ માર્કેટમાં અશોક લેલેન્ડની મજબૂત હાજરી સાથે જોડે છે. નાદર બેંક તરીકે 1921 માં સ્થપાયેલ, તમિલનાડ મર્કેન્ટાઇલ બેંકનું મુખ્ય મથક તમિલનાડુના થુથુકુડીમાં છે."
+      }
+    },
+    {
+      "id": "2026-10-20-3",
+      "date": "2026-10-20",
+      "qno": 3,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was sworn in as the Governor of Karnataka in October 2026?",
+        "options": {
+          "A": "Dushyant Gautam",
+          "B": "Sudha Yadav",
+          "C": "Thaawarchand Gehlot",
+          "D": "Rajendra Vishwanath Arlekar"
+        },
+        "explanation": "Sudha Yadav was sworn in as the Governor of Karnataka in October 2026 at Raj Bhavan in Bengaluru, following her appointment by President Droupadi Murmu. The oath of office and secrecy was administered by Vibhu Bakhru, Chief Justice of the Karnataka High Court. She succeeded Thaawarchand Gehlot, whose tenure as governor had concluded. Before this appointment, Sudha Yadav served as a member of the National Commission for Backwards Classes (NCBC) from 2019 to 2022. She also served as a Member of Parliament in the Lok Sabha, representing the Mahendragarh constituency in Haryana. The Governor's oath or affirmation is prescribed under Article 159 of the Indian Constitution."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में कर्नाटक के राज्यपाल के रूप में किसने शपथ ली?",
+        "options": {
+          "A": "दुष्यन्त गौतम",
+          "B": "सुधा यादव",
+          "C": "थावरचंद गेहलोत",
+          "D": "राजेंद्र विश्वनाथ आर्लेकर"
+        },
+        "explanation": "राष्ट्रपति द्रौपदी मुर्मू द्वारा उनकी नियुक्ति के बाद, सुधा यादव ने अक्टूबर 2026 में बेंगलुरु के राजभवन में कर्नाटक के राज्यपाल के रूप में शपथ ली। पद और गोपनीयता की शपथ कर्नाटक उच्च न्यायालय के मुख्य न्यायाधीश विभु बखरू ने दिलाई। उन्होंने थावरचंद गहलोत का स्थान लिया, जिनका राज्यपाल के रूप में कार्यकाल समाप्त हो गया था। इस नियुक्ति से पहले, सुधा यादव ने 2019 से 2022 तक राष्ट्रीय पिछड़ा वर्ग आयोग (एनसीबीसी) के सदस्य के रूप में कार्य किया। उन्होंने हरियाणा में महेंद्रगढ़ निर्वाचन क्षेत्र का प्रतिनिधित्व करते हुए लोकसभा में संसद सदस्य के रूप में भी कार्य किया। राज्यपाल की शपथ या प्रतिज्ञान भारतीय संविधान के अनुच्छेद 159 के तहत निर्धारित है।"
+      },
+      "gu": {
+        "question": "ઑક્ટોબર 2026 માં કર્ણાટકના રાજ્યપાલ તરીકે કોણે શપથ લીધા હતા?",
+        "options": {
+          "A": "દુષ્યંત ગૌતમ",
+          "B": "સુધા યાદવ",
+          "C": "થાવરચંદ ગેહલોત",
+          "D": "રાજેન્દ્ર વિશ્વનાથ આર્લેકર"
+        },
+        "explanation": "રાષ્ટ્રપતિ દ્રૌપદી મુર્મુ દ્વારા તેમની નિમણૂક બાદ સુધા યાદવે ઓક્ટોબર 2026માં બેંગલુરુમાં રાજભવન ખાતે કર્ણાટકના રાજ્યપાલ તરીકે શપથ લીધા હતા. કર્ણાટક હાઈકોર્ટના મુખ્ય ન્યાયાધીશ વિભુ બખરુ દ્વારા હોદ્દા અને ગુપ્તતાના શપથ લેવડાવ્યા હતા. તેણીએ થાવરચંદ ગેહલોતનું સ્થાન લીધું, જેમનો રાજ્યપાલ તરીકેનો કાર્યકાળ પૂર્ણ થયો હતો. આ નિમણૂક પહેલા, સુધા યાદવે 2019 થી 2022 સુધી નેશનલ કમિશન ફોર બેકવર્ડ ક્લાસીસ (NCBC)ના સભ્ય તરીકે સેવા આપી હતી. તેમણે હરિયાણામાં મહેન્દ્રગઢ મતવિસ્તારનું પ્રતિનિધિત્વ કરતી લોકસભામાં સંસદ સભ્ય તરીકે પણ સેવા આપી હતી. રાજ્યપાલની શપથ અથવા પ્રતિજ્ઞા ભારતીય બંધારણની કલમ 159 હેઠળ નિર્ધારિત છે."
+      }
+    },
+    {
+      "id": "2026-10-20-4",
+      "date": "2026-10-20",
+      "qno": 4,
+      "answer": "D",
+      "category": "Business",
+      "en": {
+        "question": "Which renewable energy company secured a $100 million financing facility from the Dutch development bank FMO for renewable energy projects in India?",
+        "options": {
+          "A": "Tata Power",
+          "B": "Adani Green Energy",
+          "C": "NTPC Green Energy",
+          "D": "ReNew Power"
+        },
+        "explanation": "ReNew Power secured a $100 million financing facility, approximately ₹955 crore, from the Dutch development bank FMO on October 13, 2026, to fund renewable energy projects under construction in India. The 10-year, rupee-denominated facility was extended to ReNew Solar Power Private Limited through the Reserve Bank of India's Voluntary Retention Route (VRR). This investment marked FMO's largest single-ticket investment in India's energy sector and was recognised as the largest 2X-aligned corporate financing in Asia to date by FMO. The facility also qualifies under the global 2X Challenge, which promotes women's economic participation and empowerment. ReNew's gross clean energy portfolio reached 20.5 GW as of August 18, 2026."
+      },
+      "hi": {
+        "question": "किस नवीकरणीय ऊर्जा कंपनी ने भारत में नवीकरणीय ऊर्जा परियोजनाओं के लिए डच विकास बैंक एफएमओ से $100 मिलियन की वित्तपोषण सुविधा प्राप्त की?",
+        "options": {
+          "A": "टाटा पावर",
+          "B": "अदानी ग्रीन एनर्जी",
+          "C": "एनटीपीसी हरित ऊर्जा",
+          "D": "नवीनीकृत शक्ति"
+        },
+        "explanation": "ReNew Power ने भारत में निर्माणाधीन नवीकरणीय ऊर्जा परियोजनाओं को वित्तपोषित करने के लिए 13 अक्टूबर, 2026 को डच विकास बैंक FMO से $100 मिलियन, लगभग ₹955 करोड़ की वित्तपोषण सुविधा प्राप्त की। भारतीय रिज़र्व बैंक's Voluntary Retention Route (VRR). यह investment marked FMO' के भारत में सबसे बड़े एकल-टिकट निवेश's energy sector और था recognised as  largest 2X-aligned corporate financing में Asia को date द्वारा FMO.  facility भी qualifies के तहत  वैश्विक 2X Challenge, कौन सा promotes women' की आर्थिक भागीदारी और सशक्तिकरण के माध्यम से 10-वर्षीय, रुपये-मूल्य वाली सुविधा को रीन्यू सोलर पावर प्राइवेट लिमिटेड तक बढ़ा दिया गया था। 18 अगस्त, 2026 तक ReNew का सकल स्वच्छ ऊर्जा पोर्टफोलियो 20.5 GW तक पहुंच गया।"
+      },
+      "gu": {
+        "question": "કઈ રિન્યુએબલ એનર્જી કંપનીએ ભારતમાં રિન્યુએબલ એનર્જી પ્રોજેક્ટ્સ માટે ડચ ડેવલપમેન્ટ બેંક FMO પાસેથી $100 મિલિયનની ધિરાણ સુવિધા મેળવી?",
+        "options": {
+          "A": "ટાટા પાવર",
+          "B": "અદાણી ગ્રીન એનર્જી",
+          "C": "NTPC ગ્રીન એનર્જી",
+          "D": "નવી શક્તિ"
+        },
+        "explanation": "રિન્યુ પાવરે ભારતમાં નિર્માણાધીન રિન્યુએબલ એનર્જી પ્રોજેક્ટ્સને ફંડ આપવા માટે 13 ઓક્ટોબર, 2026ના રોજ ડચ ડેવલપમેન્ટ બેંક FMO પાસેથી $100 મિલિયનની ધિરાણ સુવિધા, આશરે ₹955 કરોડની ધિરાણ પ્રાપ્ત કરી. રિઝર્વ બેંક ઓફ ઈન્ડિયા's Voluntary Retention Route (VRR). આ investment marked FMO' નું ભારતમાં સૌથી મોટું સિંગલ-ટિકિટ રોકાણ's energy sector અને હતું recognised as  largest 2X-aligned corporate financing માં Asia ને date દ્વારા FMO.  facility પણ qualifies હેઠળ  વૈશ્વિક 2X Challenge, કયું promotes women' ની આર્થિક ભાગીદારી અને સશક્તિકરણ દ્વારા 10 વર્ષની, રૂપિયા-પ્રમાણિત સુવિધા રિન્યૂ સોલર પાવર પ્રાઈવેટ લિમિટેડને વિસ્તૃત કરવામાં આવી હતી. ReNewનો ગ્રોસ ક્લિન એનર્જી પોર્ટફોલિયો ઓગસ્ટ 18, 2026 સુધીમાં 20.5 GW પર પહોંચ્યો છે."
+      }
+    },
+    {
+      "id": "2026-10-20-5",
+      "date": "2026-10-20",
+      "qno": 5,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which area was announced as the eighth district of Ladakh in October 2026?",
+        "options": {
+          "A": "Sankoo",
+          "B": "Drass",
+          "C": "Nubra",
+          "D": "Zanskar"
+        },
+        "explanation": "Sankoo was announced as the eighth district of the Union Territory of Ladakh in October 2026 following approval from Lieutenant Governor V. K. Saxena. The new district was carved out of the existing Kargil district to improve local administration and address the long-standing demand of residents in the Sankoo area. This administrative change expands Ladakh's district structure, which previously included Leh and Kargil as its two original districts. Ladakh became a Union Territory on October 31, 2019, under the Jammu and Kashmir Reorganisation Act, 2019. It is India's largest Union Territory by land area, and Leh is its capital and largest city."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस क्षेत्र को लद्दाख का आठवां जिला घोषित किया गया?",
+        "options": {
+          "A": "सांकू",
+          "B": "द्रास",
+          "C": "नुब्रा",
+          "D": "जांस्कर"
+        },
+        "explanation": "उपराज्यपाल वी.के.सक्सेना की मंजूरी के बाद अक्टूबर 2026 में संकू को केंद्र शासित प्रदेश लद्दाख के आठवें जिले के रूप में घोषित किया गया था। स्थानीय प्रशासन में सुधार और सांकू क्षेत्र के निवासियों की लंबे समय से चली आ रही मांग को पूरा करने के लिए मौजूदा कारगिल जिले से नया जिला बनाया गया था। यह प्रशासनिक परिवर्तन लद्दाख's district structure, कौन सा previously included Leh और Kargil as its two original districts. Ladakh became एक Union Territory पर October 31, 2019, के तहत  Jammu और Kashmir Reorganisation Act, 2019. It है India' को भूमि क्षेत्र के हिसाब से सबसे बड़े केंद्र शासित प्रदेश का विस्तार करता है, और लेह इसकी राजधानी और सबसे बड़ा शहर है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં લદ્દાખના આઠમા જિલ્લા તરીકે કયા વિસ્તારની જાહેરાત કરવામાં આવી હતી?",
+        "options": {
+          "A": "સંકુ",
+          "B": "દ્રાસ",
+          "C": "નુબ્રા",
+          "D": "ઝંસ્કાર"
+        },
+        "explanation": "લેફ્ટનન્ટ ગવર્નર વી.કે. સક્સેનાની મંજૂરી બાદ ઓક્ટોબર 2026માં કેન્દ્ર શાસિત પ્રદેશ લદ્દાખના આઠમા જિલ્લા તરીકે સાંકૂની જાહેરાત કરવામાં આવી હતી. સ્થાનિક વહીવટમાં સુધારો કરવા અને સાંકૂ વિસ્તારના રહેવાસીઓની લાંબા સમયથી ચાલતી માંગને સંબોધવા માટે હાલના કારગિલ જિલ્લામાંથી નવો જિલ્લો બનાવવામાં આવ્યો હતો. આ વહીવટી ફેરફાર લદ્દાખ's district structure, કયું previously included Leh અને Kargil as its two original districts. Ladakh became એક Union Territory પર October 31, 2019, હેઠળ  Jammu અને Kashmir Reorganisation Act, 2019. It છે India' ના સૌથી મોટા કેન્દ્રશાસિત પ્રદેશને જમીન વિસ્તાર દ્વારા વિસ્તરે છે, અને લેહ તેની રાજધાની અને સૌથી મોટું શહેર છે."
+      }
+    },
+    {
+      "id": "2026-10-20-6",
+      "date": "2026-10-20",
+      "qno": 6,
+      "answer": "A",
+      "category": "Technology",
+      "en": {
+        "question": "Which technology company signed an MoU with MeitY Startup Hub in October 2026 to accelerate the development and commercialisation of deep-tech startups in India?",
+        "options": {
+          "A": "IBM",
+          "B": "Microsoft",
+          "C": "Google",
+          "D": "Oracle"
+        },
+        "explanation": "IBM signed a Memorandum of Understanding (MoU) with MeitY Startup Hub (MSH) in October 2026 to accelerate the development and commercialisation of deep-tech startups in India. The partnership focuses on high-growth sectors such as Enterprise AI, Hybrid Cloud, and Quantum Computing. Participating startups will gain access to IBM's technology platforms, including watsonx for enterprise AI and data, IBM Bob for AI-driven coding, and IBM Sovereign Core for digital sovereignty. The initiative also aims to identify and support innovators from Tier 2 and Tier 3 cities. Additional support includes technical guidance, mentorship, skilling programmes, and enterprise proof-of-concept projects in sectors such as banking, finance, and government services."
+      },
+      "hi": {
+        "question": "भारत में डीप-टेक स्टार्टअप के विकास और व्यावसायीकरण में तेजी लाने के लिए अक्टूबर 2026 में किस प्रौद्योगिकी कंपनी ने MeitY स्टार्टअप हब के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?",
+        "options": {
+          "A": "आईबीएम",
+          "B": "माइक्रोसॉफ्ट",
+          "C": "गूगल",
+          "D": "आकाशवाणी"
+        },
+        "explanation": "IBM ने भारत में डीप-टेक स्टार्टअप के विकास और व्यावसायीकरण में तेजी लाने के लिए अक्टूबर 2026 में MeitY स्टार्टअप हब (MSH) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। साझेदारी एंटरप्राइज एआई, हाइब्रिड क्लाउड और क्वांटम कंप्यूटिंग जैसे उच्च विकास वाले क्षेत्रों पर केंद्रित है। भाग लेने वाले स्टार्टअप को आईबीएम के प्रौद्योगिकी प्लेटफार्मों तक पहुंच प्राप्त होगी, जिसमें एंटरप्राइज़ एआई और डेटा के लिए वाटसनक्स, एआई-संचालित कोडिंग के लिए आईबीएम बॉब और डिजिटल संप्रभुता के लिए आईबीएम सॉवरेन कोर शामिल हैं। इस पहल का उद्देश्य टियर 2 और टियर 3 शहरों के नवप्रवर्तकों की पहचान करना और उनका समर्थन करना भी है। अतिरिक्त सहायता में बैंकिंग, वित्त और सरकारी सेवाओं जैसे क्षेत्रों में तकनीकी मार्गदर्शन, परामर्श, कौशल कार्यक्रम और उद्यम प्रमाण-अवधारणा परियोजनाएं शामिल हैं।"
+      },
+      "gu": {
+        "question": "ભારતમાં ડીપ-ટેક સ્ટાર્ટઅપ્સના વિકાસ અને વ્યાપારીકરણને વેગ આપવા ઓક્ટોબર 2026માં કઈ ટેક્નોલોજી કંપનીએ MeitY સ્ટાર્ટઅપ હબ સાથે એમઓયુ પર હસ્તાક્ષર કર્યા હતા?",
+        "options": {
+          "A": "IBM",
+          "B": "માઈક્રોસોફ્ટ",
+          "C": "Google",
+          "D": "ઓરેકલ"
+        },
+        "explanation": "IBM એ ભારતમાં ડીપ-ટેક સ્ટાર્ટઅપ્સના વિકાસ અને વ્યાપારીકરણને વેગ આપવા ઓક્ટોબર 2026 માં MeitY સ્ટાર્ટઅપ હબ (MSH) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા હતા. ભાગીદારી એન્ટરપ્રાઇઝ AI, હાઇબ્રિડ ક્લાઉડ અને ક્વોન્ટમ કમ્પ્યુટિંગ જેવા ઉચ્ચ-વૃદ્ધિવાળા ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. સહભાગી સ્ટાર્ટઅપ્સ IBMના ટેક્નોલોજી પ્લેટફોર્મની ઍક્સેસ મેળવશે, જેમાં એન્ટરપ્રાઇઝ AI અને ડેટા માટે watsonx, AI-સંચાલિત કોડિંગ માટે IBM બોબ અને ડિજિટલ સાર્વભૌમત્વ માટે IBM સોવરિન કોરનો સમાવેશ થાય છે. આ પહેલનો ઉદ્દેશ ટાયર 2 અને ટાયર 3 શહેરોમાંથી ઈનોવેટર્સને ઓળખવાનો અને તેને ટેકો આપવાનો પણ છે. વધારાના સપોર્ટમાં ટેકનિકલ માર્ગદર્શન, માર્ગદર્શન, કૌશલ્ય કાર્યક્રમો અને બેંકિંગ, ફાઇનાન્સ અને સરકારી સેવાઓ જેવા ક્ષેત્રોમાં એન્ટરપ્રાઇઝ પ્રૂફ-ઓફ-કન્સેપ્ટ પ્રોજેક્ટનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-20-7",
+      "date": "2026-10-20",
+      "qno": 7,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "In which city did the Embassy of India launch the AI Avatar DEWI in October, 2026?",
+        "options": {
+          "A": "Bali",
+          "B": "Surabaya",
+          "C": "Jakarta",
+          "D": "Bandung"
+        },
+        "explanation": "Jakarta is the city where the Embassy of India launched the AI Avatar DEWI in October 2026. The initiative aims to improve public outreach and service delivery through Artificial Intelligence, aligning with the M.A.N.A.V. Vision for adopting emerging technologies in governance. DEWI derives its name from the Sanskrit word Devī and is also a common name in Indonesia, reflecting the shared cultural heritage between India and Indonesia. The AI avatar provides information about scholarships, educational programmes, business and investment opportunities, and consular services. It also promotes Indian culture and travel experiences through social media platforms. The launch coincided with the beginning of the Navaratri and Durga Puja festival season."
+      },
+      "hi": {
+        "question": "अक्टूबर, 2026 में भारतीय दूतावास ने किस शहर में AI अवतार DEWI लॉन्च किया?",
+        "options": {
+          "A": "बाली",
+          "B": "सुरबाया",
+          "C": "जकार्ता",
+          "D": "बांडुंग"
+        },
+        "explanation": "जकार्ता वह शहर है जहां भारतीय दूतावास ने अक्टूबर 2026 में AI अवतार DEWI लॉन्च किया था। इस पहल का उद्देश्य M.एक.N.एक.V के साथ तालमेल बिठाते हुए आर्टिफिशियल इंटेलिजेंस के माध्यम से सार्वजनिक आउटरीच और सेवा वितरण में सुधार करना है। शासन में उभरती प्रौद्योगिकियों को अपनाने का दृष्टिकोण। DEWI का नाम संस्कृत शब्द देवी से लिया गया है और यह इंडोनेशिया में भी एक सामान्य नाम है, जो भारत और इंडोनेशिया के बीच साझा सांस्कृतिक विरासत को दर्शाता है। एआई अवतार छात्रवृत्ति, शैक्षिक कार्यक्रमों, व्यवसाय और निवेश के अवसरों और कांसुलर सेवाओं के बारे में जानकारी प्रदान करता है। यह सोशल मीडिया प्लेटफार्मों के माध्यम से भारतीय संस्कृति और यात्रा अनुभवों को भी बढ़ावा देता है। यह लॉन्च नवरात्रि और दुर्गा पूजा उत्सव के मौसम की शुरुआत के साथ हुआ।"
+      },
+      "gu": {
+        "question": "ઑક્ટોબર, 2026 માં ભારતીય દૂતાવાસે કયા શહેરમાં AI અવતાર DEWI લોન્ચ કર્યું હતું?",
+        "options": {
+          "A": "બાલી",
+          "B": "સુરાબાયા",
+          "C": "જકાર્તા",
+          "D": "બાંડુંગ"
+        },
+        "explanation": "જકાર્તા એ શહેર છે જ્યાં ભારતીય દૂતાવાસે ઑક્ટોબર 2026માં AI અવતાર DEWI લૉન્ચ કર્યું હતું. આ પહેલનો ઉદ્દેશ્ય M.એક.N.એક.V. સાથે સંરેખિત થઈને આર્ટિફિશિયલ ઈન્ટેલિજન્સ દ્વારા જાહેર પહોંચ અને સર્વિસ ડિલિવરી સુધારવાનો છે. ગવર્નન્સમાં ઉભરતી ટેક્નોલોજીને અપનાવવા માટેનું વિઝન. DEWI એ તેનું નામ સંસ્કૃત શબ્દ Devī પરથી ઉતરી આવ્યું છે અને તે ઈન્ડોનેશિયામાં પણ એક સામાન્ય નામ છે, જે ભારત અને ઈન્ડોનેશિયા વચ્ચેના સાંસ્કૃતિક વારસાને પ્રતિબિંબિત કરે છે. AI અવતાર શિષ્યવૃત્તિ, શૈક્ષણિક કાર્યક્રમો, વ્યવસાય અને રોકાણની તકો અને કોન્સ્યુલર સેવાઓ વિશે માહિતી પ્રદાન કરે છે. તે સોશિયલ મીડિયા પ્લેટફોર્મ દ્વારા ભારતીય સંસ્કૃતિ અને પ્રવાસના અનુભવોને પણ પ્રોત્સાહન આપે છે. લોન્ચ નવરાત્રી અને દુર્ગા પૂજા તહેવારની સિઝનની શરૂઆત સાથે એકરુપ હતું."
+      }
+    },
+    {
+      "id": "2026-10-20-8",
+      "date": "2026-10-20",
+      "qno": 8,
+      "answer": "D",
+      "category": "Business",
+      "en": {
+        "question": "Which Indian power company signed a cooperation agreement with Africa50 in October 2026 to develop power-generation projects across Africa?",
+        "options": {
+          "A": "Power Grid Corporation of India",
+          "B": "NHPC Limited",
+          "C": "Bharat Heavy Electricals Limited",
+          "D": "NTPC Ltd"
+        },
+        "explanation": "NTPC Ltd signed a cooperation agreement with Africa50, an infrastructure investor, on October, 2026, to identify and develop power-generation projects and promote cross-border electricity trading across Africa. Under the partnership, NTPC will assess project feasibility, manage engineering activities, and develop technical solutions. Africa50 will oversee project financing, investment structuring, and coordination with government stakeholders. The collaboration aims to establish commercially viable power projects and strengthen electricity trade between African nations. NTPC also plans to expand its total power-generation capacity to 149 GW by 2032, including 60 GW of renewable energy capacity. Its existing installed capacity exceeds 91.5 GW across conventional and renewable energy sources."
+      },
+      "hi": {
+        "question": "किस भारतीय बिजली कंपनी ने पूरे अफ्रीका में बिजली उत्पादन परियोजनाओं को विकसित करने के लिए अक्टूबर 2026 में अफ्रीका50 के साथ एक सहयोग समझौते पर हस्ताक्षर किए?",
+        "options": {
+          "A": "पावर ग्रिड कॉर्पोरेशन ऑफ इंडिया",
+          "B": "एनएचपीसी लिमिटेड",
+          "C": "भारत हेवी इलेक्ट्रिकल्स लिमिटेड",
+          "D": "एनटीपीसी लिमिटेड"
+        },
+        "explanation": "एनटीपीसी लिमिटेड ने बिजली उत्पादन परियोजनाओं की पहचान करने और विकसित करने और पूरे अफ्रीका में सीमा पार बिजली व्यापार को बढ़ावा देने के लिए अक्टूबर, 2026 को एक बुनियादी ढांचा निवेशक, अफ्रीका50 के साथ एक सहयोग समझौते पर हस्ताक्षर किए। साझेदारी के तहत, एनटीपीसी परियोजना व्यवहार्यता का आकलन करेगी, इंजीनियरिंग गतिविधियों का प्रबंधन करेगी और तकनीकी समाधान विकसित करेगी। अफ़्रीका50 परियोजना वित्तपोषण, निवेश संरचना और सरकारी हितधारकों के साथ समन्वय की देखरेख करेगा। सहयोग का उद्देश्य व्यावसायिक रूप से व्यवहार्य बिजली परियोजनाएं स्थापित करना और अफ्रीकी देशों के बीच बिजली व्यापार को मजबूत करना है। एनटीपीसी ने 2032 तक अपनी कुल बिजली उत्पादन क्षमता को 149 गीगावॉट तक विस्तारित करने की भी योजना बनाई है, जिसमें 60 गीगावॉट नवीकरणीय ऊर्जा क्षमता भी शामिल है। इसकी मौजूदा स्थापित क्षमता पारंपरिक और नवीकरणीय ऊर्जा स्रोतों में 91.5 गीगावॉट से अधिक है।"
+      },
+      "gu": {
+        "question": "સમગ્ર આફ્રિકામાં પાવર-જનરેશન પ્રોજેક્ટ્સ વિકસાવવા માટે ઓક્ટોબર 2026માં કઈ ભારતીય પાવર કંપનીએ આફ્રિકા50 સાથે સહકાર કરાર પર હસ્તાક્ષર કર્યા હતા?",
+        "options": {
+          "A": "પાવર ગ્રીડ કોર્પોરેશન ઓફ ઈન્ડિયા",
+          "B": "NHPC લિમિટેડ",
+          "C": "ભારત હેવી ઇલેક્ટ્રિકલ્સ લિમિટેડ",
+          "D": "NTPC લિ"
+        },
+        "explanation": "એનટીપીસી લિમિટેડે ઑક્ટોબર, 2026ના રોજ આફ્રિકા50, એક ઇન્ફ્રાસ્ટ્રક્ચર રોકાણકાર સાથે સહકાર કરાર પર હસ્તાક્ષર કર્યા હતા, પાવર-જનરેશન પ્રોજેક્ટ્સને ઓળખવા અને વિકસાવવા અને સમગ્ર આફ્રિકામાં ક્રોસ-બોર્ડર વીજળીના વેપારને પ્રોત્સાહન આપવા માટે. ભાગીદારી હેઠળ, NTPC પ્રોજેક્ટની શક્યતાનું મૂલ્યાંકન કરશે, એન્જિનિયરિંગ પ્રવૃત્તિઓનું સંચાલન કરશે અને તકનીકી ઉકેલો વિકસાવશે. Africa50 પ્રોજેક્ટ ફાઇનાન્સિંગ, ઇન્વેસ્ટમેન્ટ સ્ટ્રક્ચરિંગ અને સરકારી હિસ્સેદારો સાથે સંકલનની દેખરેખ કરશે. આ સહયોગનો ઉદ્દેશ વ્યાપારી રીતે સક્ષમ પાવર પ્રોજેક્ટ્સ સ્થાપિત કરવાનો અને આફ્રિકન રાષ્ટ્રો વચ્ચે વીજળીના વેપારને મજબૂત કરવાનો છે. NTPC તેની કુલ વીજ-ઉત્પાદન ક્ષમતાને 2032 સુધીમાં 149 GW સુધી વિસ્તારવાની પણ યોજના ધરાવે છે, જેમાં 60 GW નવીનીકરણીય ઉર્જા ક્ષમતાનો સમાવેશ થાય છે. તેની હાલની સ્થાપિત ક્ષમતા પરંપરાગત અને નવીનીકરણીય ઉર્જા સ્ત્રોતોમાં 91.5 GW કરતાં વધી ગઈ છે."
+      }
+    },
+    {
+      "id": "2026-10-20-9",
+      "date": "2026-10-20",
+      "qno": 9,
+      "answer": "C",
+      "category": "Places",
+      "en": {
+        "question": "In which city did IISc and Samsung Semiconductor India Research inaugurate a specialised Quantum Research Lab?",
+        "options": {
+          "A": "Hyderabad",
+          "B": "Chennai",
+          "C": "Bengaluru",
+          "D": "Pune"
+        },
+        "explanation": "Bengaluru is the city where the Indian Institute of Science (IISc) and Samsung Semiconductor India Research (SSIR) inaugurated a specialized Quantum Research Lab in October 2026. The facility was established using Samsung's Corporate Social Responsibility (CSR) funding to advance quantum technologies and semiconductor research. Its research areas include quantum devices, cryogenic electronics, two-dimensional materials, single-photon sources, detectors, and qubit characterisation for quantum communication. The laboratory is also linked with the India Semiconductor Workforce Development Program (ISWDP), offering training in qubit technologies and semiconductor workflows. The collaboration aims to make advanced research infrastructure accessible to students and researchers beyond IISc, helping bridge gaps in high-cost equipment availability."
+      },
+      "hi": {
+        "question": "IISc और सैमसंग सेमीकंडक्टर इंडिया रिसर्च ने किस शहर में एक विशेष क्वांटम रिसर्च लैब का उद्घाटन किया?",
+        "options": {
+          "A": "हैदराबाद",
+          "B": "चेन्नई",
+          "C": "बेंगलुरु",
+          "D": "पुणे"
+        },
+        "explanation": "बेंगलुरु वह शहर है जहां भारतीय विज्ञान संस्थान (आईआईएससी) और सैमसंग सेमीकंडक्टर इंडिया रिसर्च (एसएसआईआर) ने अक्टूबर 2026 में एक विशेष क्वांटम रिसर्च लैब का उद्घाटन किया था। यह सुविधा क्वांटम प्रौद्योगिकियों और सेमीकंडक्टर अनुसंधान को आगे बढ़ाने के लिए सैमसंग के कॉर्पोरेट सोशल रिस्पॉन्सिबिलिटी (सीएसआर) फंडिंग का उपयोग करके स्थापित की गई थी। इसके अनुसंधान क्षेत्रों में क्वांटम उपकरण, क्रायोजेनिक इलेक्ट्रॉनिक्स, द्वि-आयामी सामग्री, एकल-फोटॉन स्रोत, डिटेक्टर और क्वांटम संचार के लिए क्वबिट लक्षण वर्णन शामिल हैं। प्रयोगशाला भारत सेमीकंडक्टर वर्कफोर्स डेवलपमेंट प्रोग्राम (आईएसडब्ल्यूडीपी) से भी जुड़ी हुई है, जो क्विबिट प्रौद्योगिकियों और सेमीकंडक्टर वर्कफ़्लोज़ में प्रशिक्षण प्रदान करती है। सहयोग का उद्देश्य आईआईएससी से परे छात्रों और शोधकर्ताओं के लिए उन्नत अनुसंधान बुनियादी ढांचे को सुलभ बनाना है, जिससे उच्च लागत वाले उपकरणों की उपलब्धता में अंतर को पाटने में मदद मिलेगी।"
+      },
+      "gu": {
+        "question": "કયા શહેરમાં IISc અને સેમસંગ સેમિકન્ડક્ટર ઈન્ડિયા રિસર્ચ દ્વારા વિશિષ્ટ ક્વોન્ટમ રિસર્ચ લેબનું ઉદ્ઘાટન કરવામાં આવ્યું?",
+        "options": {
+          "A": "હૈદરાબાદ",
+          "B": "ચેન્નાઈ",
+          "C": "બેંગલુરુ",
+          "D": "પુણે"
+        },
+        "explanation": "બેંગલુરુ એ શહેર છે જ્યાં ઇન્ડિયન ઇન્સ્ટિટ્યૂટ ઑફ સાયન્સ (IISc) અને સેમસંગ સેમિકન્ડક્ટર ઇન્ડિયા રિસર્ચ (SSIR) એ ઑક્ટોબર 2026માં વિશિષ્ટ ક્વોન્ટમ રિસર્ચ લેબનું ઉદ્ઘાટન કર્યું હતું. ક્વોન્ટમ ટેક્નોલોજી અને સેમિકન્ડક્ટર સંશોધનને આગળ વધારવા માટે સેમસંગના કોર્પોરેટ સોશિયલ રિસ્પોન્સિબિલિટી (CSR) ભંડોળનો ઉપયોગ કરીને સુવિધાની સ્થાપના કરવામાં આવી હતી. તેના સંશોધન ક્ષેત્રોમાં ક્વોન્ટમ ઉપકરણો, ક્રાયોજેનિક ઇલેક્ટ્રોનિક્સ, દ્વિ-પરિમાણીય સામગ્રી, સિંગલ-ફોટન સ્ત્રોતો, ડિટેક્ટર અને ક્વોન્ટમ કમ્યુનિકેશન માટે ક્યુબિટ કેરેક્ટરાઇઝેશનનો સમાવેશ થાય છે. લેબોરેટરી ઈન્ડિયા સેમિકન્ડક્ટર વર્કફોર્સ ડેવલપમેન્ટ પ્રોગ્રામ (ISWDP) સાથે પણ જોડાયેલી છે, જે ક્યુબિટ ટેક્નોલોજી અને સેમિકન્ડક્ટર વર્કફ્લોમાં તાલીમ આપે છે. આ સહયોગનો ઉદ્દેશ્ય IIScથી આગળના વિદ્યાર્થીઓ અને સંશોધકો માટે અદ્યતન સંશોધન માળખાને સુલભ બનાવવાનો છે, ઉચ્ચ કિંમતના સાધનોની ઉપલબ્ધતામાં અંતરને દૂર કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-19-1",
+      "date": "2026-10-19",
+      "qno": 1,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which digital payment infrastructure provider signed an MoU with Kazakhstan’s national postal operator, QazPost, to develop next-generation digital financial solutions?",
+        "options": {
+          "A": "OnMeta",
+          "B": "PayPal",
+          "C": "Stripe",
+          "D": "Razorpay"
+        },
+        "explanation": "OnMeta signed a Memorandum of Understanding (MoU) with QazPost, Kazakhstan’s national postal operator, on October 13, 2026, in Astana, the capital of Kazakhstan. The partnership aims to integrate OnMeta’s digital payment infrastructure with QazPost’s nationwide physical distribution network. The collaboration will focus on developing digital financial solutions for consumers and businesses, including services related to payments, investing, and digital assets. The partnership was led by Thillainayagam Bharath, Founder and CEO of OnMeta. OnMeta specialises in payment infrastructure, particularly on-ramp and off-ramp solutions that connect traditional financial systems with the digital asset ecosystem."
+      },
+      "hi": {
+        "question": "अगली पीढ़ी के डिजिटल वित्तीय समाधान विकसित करने के लिए किस डिजिटल भुगतान अवसंरचना प्रदाता ने कजाकिस्तान के राष्ट्रीय डाक ऑपरेटर, QazPost के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?",
+        "options": {
+          "A": "ओनमेटा",
+          "B": "पेपैल",
+          "C": "धारी",
+          "D": "रेज़रपे"
+        },
+        "explanation": "ओनमेटा ने 13 अक्टूबर, 2026 को कजाकिस्तान की राजधानी अस्ताना में कजाकिस्तान के राष्ट्रीय डाक ऑपरेटर, क़ज़पोस्ट के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए। साझेदारी का उद्देश्य ओनमेटा के डिजिटल भुगतान बुनियादी ढांचे को क़ज़पोस्ट के राष्ट्रव्यापी भौतिक वितरण नेटवर्क के साथ एकीकृत करना है। यह सहयोग उपभोक्ताओं और व्यवसायों के लिए डिजिटल वित्तीय समाधान विकसित करने पर केंद्रित होगा, जिसमें भुगतान, निवेश और डिजिटल संपत्ति से संबंधित सेवाएं शामिल हैं। इस साझेदारी का नेतृत्व ओनमेटा के संस्थापक और सीईओ थिलैनायागम भरत ने किया। ओनमेटा भुगतान बुनियादी ढांचे में माहिर है, विशेष रूप से ऑन-रैंप और ऑफ-रैंप समाधान जो पारंपरिक वित्तीय प्रणालियों को डिजिटल परिसंपत्ति पारिस्थितिकी तंत्र से जोड़ते हैं।"
+      },
+      "gu": {
+        "question": "કયા ડિજિટલ પેમેન્ટ ઈન્ફ્રાસ્ટ્રક્ચર પ્રદાતાએ નેક્સ્ટ જનરેશનના ડિજિટલ નાણાકીય ઉકેલો વિકસાવવા માટે કઝાકિસ્તાનના રાષ્ટ્રીય પોસ્ટલ ઓપરેટર, કાઝપોસ્ટ સાથે એમઓયુ પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "OnMeta",
+          "B": "પેપાલ",
+          "C": "પટ્ટી",
+          "D": "રેઝરપે"
+        },
+        "explanation": "OnMeta એ 13 ઓક્ટોબર, 2026 ના રોજ, કઝાકિસ્તાનની રાજધાની અસ્તાનામાં, કઝાકિસ્તાનના રાષ્ટ્રીય પોસ્ટલ ઓપરેટર, કાઝપોસ્ટ સાથે સમજૂતી કરાર (એમઓયુ) પર હસ્તાક્ષર કર્યા. ભાગીદારીનો હેતુ OnMeta ના ડિજિટલ પેમેન્ટ ઈન્ફ્રાસ્ટ્રક્ચરને કાઝપોસ્ટના રાષ્ટ્રવ્યાપી ભૌતિક વિતરણ નેટવર્ક સાથે એકીકૃત કરવાનો છે. સહયોગ ગ્રાહકો અને વ્યવસાયો માટે ડિજિટલ નાણાકીય ઉકેલો વિકસાવવા પર ધ્યાન કેન્દ્રિત કરશે, જેમાં ચુકવણી, રોકાણ અને ડિજિટલ સંપત્તિ સંબંધિત સેવાઓનો સમાવેશ થાય છે. ભાગીદારીનું નેતૃત્વ OnMeta ના સ્થાપક અને CEO થીલૈનાયાગમ ભરથ દ્વારા કરવામાં આવ્યું હતું. OnMeta પેમેન્ટ ઈન્ફ્રાસ્ટ્રક્ચરમાં નિષ્ણાત છે, ખાસ કરીને ઓન-રેમ્પ અને ઓફ-રેમ્પ સોલ્યુશન્સ કે જે પરંપરાગત નાણાકીય સિસ્ટમોને ડિજિટલ એસેટ ઇકોસિસ્ટમ સાથે જોડે છે."
+      }
+    },
+    {
+      "id": "2026-10-19-2",
+      "date": "2026-10-19",
+      "qno": 2,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which international financial institution partnered with the IMF and the Bank of Thailand to launch the Bangkok Blueprint against cyber-enabled fraud in October 2026?",
+        "options": {
+          "A": "Asian Development Bank",
+          "B": "United Nations",
+          "C": "Bank for International Settlements",
+          "D": "World Bank"
+        },
+        "explanation": "The World Bank Group partnered with the International Monetary Fund (IMF) and the Bank of Thailand to launch the Bangkok Blueprint on October 15, 2026, to combat cyber-enabled fraud in digital financial services. The framework was introduced during the 2026 IMF–World Bank Group Annual Meetings in Bangkok, Thailand. It provides 12 key considerations organised into five strategic pillars to help countries identify vulnerabilities and develop coordinated responses to cybercrime. These pillars cover legal foundations, fraud mitigation, risk management and enforcement, domestic and international cooperation, and consumer protection. The initiative aims to strengthen digital financial systems against fraud involving social media, e-commerce, and telecommunications."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में साइबर-सक्षम धोखाधड़ी के खिलाफ बैंकॉक ब्लूप्रिंट लॉन्च करने के लिए किस अंतरराष्ट्रीय वित्तीय संस्थान ने आईएमएफ और बैंक ऑफ थाईलैंड के साथ साझेदारी की?",
+        "options": {
+          "A": "एशियाई विकास बैंक",
+          "B": "संयुक्त राष्ट्र",
+          "C": "अंतर्राष्ट्रीय निपटान बैंक",
+          "D": "विश्व बैंक"
+        },
+        "explanation": "विश्व बैंक समूह ने डिजिटल वित्तीय सेवाओं में साइबर-सक्षम धोखाधड़ी से निपटने के लिए 15 अक्टूबर, 2026 को बैंकॉक ब्लूप्रिंट लॉन्च करने के लिए अंतर्राष्ट्रीय मुद्रा कोष (आईएमएफ) और बैंक ऑफ थाईलैंड के साथ साझेदारी की। यह रूपरेखा बैंकॉक, थाईलैंड में 2026 आईएमएफ-विश्व बैंक समूह की वार्षिक बैठक के दौरान पेश की गई थी। यह देशों को कमजोरियों की पहचान करने और साइबर अपराध के लिए समन्वित प्रतिक्रिया विकसित करने में मदद करने के लिए पांच रणनीतिक स्तंभों में व्यवस्थित 12 प्रमुख विचार प्रदान करता है। ये स्तंभ कानूनी नींव, धोखाधड़ी शमन, जोखिम प्रबंधन और प्रवर्तन, घरेलू और अंतर्राष्ट्रीय सहयोग और उपभोक्ता संरक्षण को कवर करते हैं। इस पहल का उद्देश्य सोशल मीडिया, ई-कॉमर्स और दूरसंचार से जुड़ी धोखाधड़ी के खिलाफ डिजिटल वित्तीय प्रणालियों को मजबूत करना है।"
+      },
+      "gu": {
+        "question": "ઑક્ટોબર 2026 માં સાયબર-સક્ષમ છેતરપિંડી સામે બેંગકોક બ્લુપ્રિન્ટ શરૂ કરવા માટે કઈ આંતરરાષ્ટ્રીય નાણાકીય સંસ્થાએ IMF અને બેંક ઑફ થાઈલેન્ડ સાથે ભાગીદારી કરી?",
+        "options": {
+          "A": "એશિયન ડેવલપમેન્ટ બેંક",
+          "B": "સંયુક્ત રાષ્ટ્ર",
+          "C": "આંતરરાષ્ટ્રીય સમાધાન માટે બેંક",
+          "D": "વિશ્વ બેંક"
+        },
+        "explanation": "ડિજિટલ નાણાકીય સેવાઓમાં સાયબર-સક્ષમ છેતરપિંડીનો સામનો કરવા માટે, 15 ઓક્ટોબર, 2026 ના રોજ બેંગકોક બ્લુપ્રિન્ટ શરૂ કરવા માટે વિશ્વ બેંક જૂથે આંતરરાષ્ટ્રીય નાણાં ભંડોળ (IMF) અને બેંક ઓફ થાઈલેન્ડ સાથે ભાગીદારી કરી. બેંગકોક, થાઈલેન્ડમાં 2026 IMF-વર્લ્ડ બેંક ગ્રૂપની વાર્ષિક મીટિંગ દરમિયાન આ ફ્રેમવર્ક રજૂ કરવામાં આવ્યું હતું. તે દેશોને નબળાઈઓને ઓળખવામાં અને સાયબર ક્રાઈમ માટે સમન્વયિત પ્રતિભાવો વિકસાવવામાં મદદ કરવા માટે પાંચ વ્યૂહાત્મક સ્તંભોમાં આયોજિત 12 મુખ્ય વિચારણાઓ પ્રદાન કરે છે. આ સ્તંભો કાનૂની પાયા, છેતરપિંડી ઘટાડવા, જોખમ સંચાલન અને અમલીકરણ, સ્થાનિક અને આંતરરાષ્ટ્રીય સહકાર અને ગ્રાહક સુરક્ષાને આવરી લે છે. આ પહેલનો હેતુ સોશિયલ મીડિયા, ઈ-કોમર્સ અને ટેલિકોમ્યુનિકેશનને સંડોવતા છેતરપિંડી સામે ડિજિટલ નાણાકીય સિસ્ટમને મજબૂત કરવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-19-3",
+      "date": "2026-10-19",
+      "qno": 3,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "What was India's rank among 122 countries in the Global Hunger Index 2026?",
+        "options": {
+          "A": "95th",
+          "B": "106th",
+          "C": "98th",
+          "D": "100th"
+        },
+        "explanation": "India ranked 100th among 122 countries in the Global Hunger Index (GHI) 2026, recording a score of 24.1, which places the country in the serious hunger category. The report was published by Welthungerhilfe, the Institute for International Law of Peace and Armed Conflict at Ruhr University Bochum, and Helvetas under the theme “No Security Without Food Security.” India's child stunting rate was reported at 29.3%, while child wasting affected nearly 19% of children under five, among the highest rates worldwide. Although child stunting has declined significantly since 2000, persistent malnutrition remains a major concern."
+      },
+      "hi": {
+        "question": "ग्लोबल हंगर इंडेक्स 2026 में 122 देशों में भारत का स्थान क्या था?",
+        "options": {
+          "A": "95वां",
+          "B": "106वां",
+          "C": "98वां",
+          "D": "100वां"
+        },
+        "explanation": "ग्लोबल हंगर इंडेक्स (जीएचआई) 2026 में भारत 122 देशों में से 100वें स्थान पर है, जिसका स्कोर 24.1 है, जो देश को गंभीर भूख की श्रेणी में रखता है। यह रिपोर्ट theme “नहीं Security Without Food Security के तहत वेल्थुंगरहिल्फे, रुहर यूनिवर्सिटी बोचुम में शांति और सशस्त्र संघर्ष के अंतर्राष्ट्रीय कानून संस्थान और हेलवेटस द्वारा प्रकाशित की गई थी। भारत में बच्चों में बौनेपन की दर 29.3% बताई गई है, जबकि पांच साल से कम उम्र के लगभग 19% बच्चे बाल विकास से प्रभावित हैं, जो दुनिया भर में सबसे अधिक है। हालाँकि 2000 के बाद से बच्चों के बौनेपन में काफी कमी आई है, लेकिन लगातार कुपोषण एक बड़ी चिंता का विषय बना हुआ है।"
+      },
+      "gu": {
+        "question": "ગ્લોબલ હંગર ઈન્ડેક્સ 2026માં 122 દેશોમાં ભારતનું સ્થાન શું હતું?",
+        "options": {
+          "A": "95મી",
+          "B": "106મી",
+          "C": "98મી",
+          "D": "100મી"
+        },
+        "explanation": "ગ્લોબલ હંગર ઇન્ડેક્સ (GHI) 2026માં ભારત 122 દેશોમાં 100મા ક્રમે છે, જેમાં 24.1નો સ્કોર નોંધાયો છે, જે દેશને ભૂખની ગંભીર શ્રેણીમાં મૂકે છે. આ અહેવાલ રુહર યુનિવર્સિટી બોચમ ખાતે ઈન્સ્ટિટ્યૂટ ફોર ઈન્ટરનેશનલ લો ઓફ પીસ એન્ડ આર્મ્ડ કોન્ફ્લિક્ટ અને હેલ્વેટાસ દ્વારા theme “નહીં Security Without Food Security હેઠળ પ્રકાશિત કરવામાં આવ્યો હતો. ભારતનો બાળ સ્ટંટીંગ રેટ 29.3% નોંધાયો હતો, જ્યારે વિશ્વભરમાં સૌથી વધુ દર પૈકી પાંચ વર્ષથી ઓછી ઉંમરના લગભગ 19% બાળકોના બગાડને અસર થઈ હતી. જો કે 2000 થી બાળકોના સ્ટંટીંગમાં નોંધપાત્ર ઘટાડો થયો છે, સતત કુપોષણ એ મુખ્ય ચિંતા છે."
+      }
+    },
+    {
+      "id": "2026-10-19-4",
+      "date": "2026-10-19",
+      "qno": 4,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "What is the maximum financial incentive offered to eligible first-time employees under the Pradhan Mantri Viksit Bharat Rozgar Yojana (PM-VBRY)?",
+        "options": {
+          "A": "₹10,000",
+          "B": "₹15,000",
+          "C": "₹20,000",
+          "D": "₹25,000"
+        },
+        "explanation": "₹15,000 is the maximum financial incentive available to eligible first-time employees under the Pradhan Mantri Viksit Bharat Rozgar Yojana (PM-VBRY). Implemented through the Employees’ Provident Fund Organisation (EPFO), the scheme aims to encourage formal employment and expand social security coverage in India. To qualify, employees must not have made EPF contributions before 1 August 2025, must join an eligible establishment between 1 August 2025 and 31 July 2027, and have a monthly gross salary not exceeding ₹1 lakh. The incentive is paid in two instalments: up to ₹7,500 after six months of continuous service, with the remaining eligible amount subject to twelve months of service and completion of a financial literacy course."
+      },
+      "hi": {
+        "question": "प्रधानमंत्री विकसित भारत रोजगार योजना (पीएम-वीबीआरवाई) के तहत पात्र पहली बार काम करने वाले कर्मचारियों को दिया जाने वाला अधिकतम वित्तीय प्रोत्साहन क्या है?",
+        "options": {
+          "A": "₹10,000",
+          "B": "₹15,000",
+          "C": "₹20,000",
+          "D": "₹25,000"
+        },
+        "explanation": "प्रधानमंत्री विकसित भारत रोजगार योजना (पीएम-वीबीआरवाई) के तहत पात्र पहली बार काम करने वाले कर्मचारियों के लिए ₹15,000 अधिकतम वित्तीय प्रोत्साहन उपलब्ध है। कर्मचारी भविष्य निधि संगठन (ईपीएफओ) के माध्यम से कार्यान्वित इस योजना का उद्देश्य औपचारिक रोजगार को प्रोत्साहित करना और भारत में सामाजिक सुरक्षा कवरेज का विस्तार करना है। अर्हता प्राप्त करने के लिए, कर्मचारियों को 1 अगस्त 2025 से पहले ईपीएफ योगदान नहीं करना चाहिए, 1 अगस्त 2025 और 31 जुलाई 2027 के बीच एक योग्य प्रतिष्ठान में शामिल होना चाहिए, और मासिक सकल वेतन ₹1 लाख से अधिक नहीं होना चाहिए। प्रोत्साहन का भुगतान दो किश्तों में किया जाता है: छह महीने की निरंतर सेवा के बाद ₹7,500 तक, शेष पात्र राशि बारह महीने की सेवा और वित्तीय साक्षरता पाठ्यक्रम पूरा करने पर निर्भर करती है।"
+      },
+      "gu": {
+        "question": "પ્રધાનમંત્રી વિકસીત ભારત રોજગાર યોજના (PM-VBRY) હેઠળ લાયક પ્રથમ વખતના કર્મચારીઓને મહત્તમ નાણાકીય પ્રોત્સાહન શું છે?",
+        "options": {
+          "A": "₹10,000",
+          "B": "₹15,000",
+          "C": "₹20,000",
+          "D": "₹25,000"
+        },
+        "explanation": "₹15,000 એ પ્રધાન મંત્રી વિક્ષિત ભારત રોજગાર યોજના (PM-VBRY) હેઠળ પ્રથમ વખતના પાત્ર કર્મચારીઓ માટે ઉપલબ્ધ મહત્તમ નાણાકીય પ્રોત્સાહન છે. એમ્પ્લોઈઝ પ્રોવિડન્ટ ફંડ ઓર્ગેનાઈઝેશન (EPFO) દ્વારા અમલમાં મૂકાયેલ, આ યોજનાનો હેતુ ભારતમાં ઔપચારિક રોજગારને પ્રોત્સાહિત કરવાનો અને સામાજિક સુરક્ષા કવરેજને વિસ્તૃત કરવાનો છે. લાયક બનવા માટે, કર્મચારીઓએ 1 ઑગસ્ટ 2025 પહેલાં EPFમાં યોગદાન ન આપ્યું હોવું જોઈએ, 1 ઑગસ્ટ 2025 અને 31 જુલાઈ 2027 ની વચ્ચે લાયક સંસ્થામાં જોડાવું જોઈએ અને માસિક કુલ પગાર ₹1 લાખથી વધુ ન હોવો જોઈએ. પ્રોત્સાહન બે હપ્તામાં ચૂકવવામાં આવે છે: છ મહિનાની સતત સેવા પછી ₹7,500 સુધી, બાકીની પાત્ર રકમ બાર મહિનાની સેવા અને નાણાકીય સાક્ષરતા અભ્યાસક્રમ પૂર્ણ કરવાને આધીન છે."
+      }
+    },
+    {
+      "id": "2026-10-19-5",
+      "date": "2026-10-19",
+      "qno": 5,
+      "answer": "C",
+      "category": "Science",
+      "en": {
+        "question": "Which institution developed a sustainable nanofibre filter to treat dye-contaminated wastewater using zinc oxide nanoparticles and biodegradable nanofibres?",
+        "options": {
+          "A": "IIT Ropar",
+          "B": "CSIR-NEERI",
+          "C": "INST Mohali",
+          "D": "IISc Bengaluru"
+        },
+        "explanation": "INST Mohali, the Institute of Nano Science and Technology located in Punjab, developed a sustainable catalytic nanofibre filter to treat dye-contaminated wastewater. The filter combines zinc oxide (ZnO) nanoparticles with biodegradable polylactic acid (PLA) nanofibres using electrospinning technology. It uses photocatalysis and mechanical vibrations to improve pollutant degradation. The zinc oxide nanoparticles are synthesised using turmeric extract, making the process more environmentally friendly. The filter achieved 98.6% decolourisation of Methylene Blue and 96.7% decolourisation of Congo Red within 120 minutes. The researchers also integrated machine learning to predict the filter’s performance under different operating conditions. INST is an autonomous institution under the Department of Science and Technology, established in 2013."
+      },
+      "hi": {
+        "question": "जिंक ऑक्साइड नैनोकणों और बायोडिग्रेडेबल नैनोफाइबर का उपयोग करके डाई-दूषित अपशिष्ट जल के उपचार के लिए किस संस्थान ने एक टिकाऊ नैनोफाइबर फ़िल्टर विकसित किया है?",
+        "options": {
+          "A": "आईआईटी रोपड़",
+          "B": "सीएसआईआर-नीरी",
+          "C": "INST मोहाली",
+          "D": "आईआईएससी बेंगलुरु"
+        },
+        "explanation": "पंजाब में स्थित नैनो विज्ञान और प्रौद्योगिकी संस्थान, आईएनएसटी मोहाली ने डाई-दूषित अपशिष्ट जल के उपचार के लिए एक टिकाऊ उत्प्रेरक नैनोफाइबर फिल्टर विकसित किया है। फिल्टर इलेक्ट्रोस्पिनिंग तकनीक का उपयोग करके जिंक ऑक्साइड (ZnO) नैनोकणों को बायोडिग्रेडेबल पॉलीलैक्टिक एसिड (PLA) नैनोफाइबर के साथ जोड़ता है। यह प्रदूषक क्षरण में सुधार के लिए फोटोकैटलिसिस और यांत्रिक कंपन का उपयोग करता है। जिंक ऑक्साइड नैनोकणों को हल्दी के अर्क का उपयोग करके संश्लेषित किया जाता है, जिससे यह प्रक्रिया अधिक पर्यावरण के अनुकूल हो जाती है। फ़िल्टर ने 120 मिनट के भीतर मेथिलीन ब्लू का 98.6% डीकोलाइज़ेशन और कांगो रेड का 96.7% डीकोलाइज़ेशन हासिल किया। शोधकर्ताओं ने विभिन्न परिचालन स्थितियों के तहत फ़िल्टर के प्रदर्शन की भविष्यवाणी करने के लिए मशीन लर्निंग को भी एकीकृत किया। INST विज्ञान और प्रौद्योगिकी विभाग के तहत एक स्वायत्त संस्थान है, जिसे 2013 में स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ઝિંક ઓક્સાઇડ નેનોપાર્ટિકલ્સ અને બાયોડિગ્રેડેબલ નેનોફાઇબર્સનો ઉપયોગ કરીને ડાઇ-દૂષિત ગંદાપાણીની સારવાર માટે ટકાઉ નેનોફાઇબર ફિલ્ટર વિકસાવ્યું છે?",
+        "options": {
+          "A": "IIT રોપર",
+          "B": "CSIR-NEERI",
+          "C": "INST મોહાલી",
+          "D": "IISc બેંગલુરુ"
+        },
+        "explanation": "INST મોહાલી, પંજાબમાં સ્થિત નેનો સાયન્સ એન્ડ ટેક્નોલૉજીની સંસ્થા, રંગ-દૂષિત ગંદા પાણીની સારવાર માટે ટકાઉ ઉત્પ્રેરક નેનોફાઇબર ફિલ્ટર વિકસાવ્યું છે. ફિલ્ટર ઈલેક્ટ્રોસ્પિનિંગ ટેક્નોલોજીનો ઉપયોગ કરીને બાયોડિગ્રેડેબલ પોલિલેક્ટિક એસિડ (PLA) નેનોફાઈબર સાથે ઝિંક ઑક્સાઈડ (ZnO) નેનોપાર્ટિકલ્સને જોડે છે. તે પ્રદૂષક અધોગતિને સુધારવા માટે ફોટોકેટાલિસિસ અને યાંત્રિક સ્પંદનોનો ઉપયોગ કરે છે. હળદરના અર્કનો ઉપયોગ કરીને ઝીંક ઓક્સાઇડ નેનોપાર્ટિકલ્સનું સંશ્લેષણ કરવામાં આવે છે, જે પ્રક્રિયાને વધુ પર્યાવરણને અનુકૂળ બનાવે છે. ફિલ્ટરે 120 મિનિટની અંદર મિથાઈલીન બ્લુનું 98.6% ડીકોલોરાઈઝેશન અને કોંગો રેડનું 96.7% ડીકોલોરાઈઝેશન હાંસલ કર્યું. સંશોધકોએ વિવિધ ઓપરેટિંગ પરિસ્થિતિઓ હેઠળ ફિલ્ટરના પ્રદર્શનની આગાહી કરવા માટે મશીન લર્નિંગને પણ એકીકૃત કર્યું. INST એ 2013 માં સ્થપાયેલ વિજ્ઞાન અને ટેકનોલોજી વિભાગ હેઠળની એક સ્વાયત્ત સંસ્થા છે."
+      }
+    },
+    {
+      "id": "2026-10-19-6",
+      "date": "2026-10-19",
+      "qno": 6,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "What initial budget allocation has the Delhi Cabinet approved for establishing the Go-Delhi Foundation to support startups and innovation?",
+        "options": {
+          "A": "₹50 Crore",
+          "B": "₹25 Crore",
+          "C": "₹75 Crore",
+          "D": "₹100 Crore"
+        },
+        "explanation": "₹50 Crore has been allocated as the initial budget for establishing the Go-Delhi Foundation to strengthen the startup and innovation ecosystem in the national capital. Approved by the Delhi Cabinet under Chief Minister Rekha Gupta, the initiative aims to help young innovators, scientists, entrepreneurs, and micro, small, and medium enterprises (MSMEs) transform ideas into marketable products and successful businesses. The foundation will provide support through product development, prototyping, mentorship, incubation, investor connections, market preparation, and intellectual property assistance. It will also connect entrepreneurs with educational institutions, research organisations, industries, and government departments to encourage innovation and collaboration."
+      },
+      "hi": {
+        "question": "स्टार्टअप और नवाचार का समर्थन करने के लिए गो-दिल्ली फाउंडेशन की स्थापना के लिए दिल्ली कैबिनेट ने किस प्रारंभिक बजट आवंटन को मंजूरी दी है?",
+        "options": {
+          "A": "₹50 करोड़",
+          "B": "₹25 करोड़",
+          "C": "₹75 करोड़",
+          "D": "₹100 करोड़"
+        },
+        "explanation": "राष्ट्रीय राजधानी में स्टार्टअप और इनोवेशन इकोसिस्टम को मजबूत करने के लिए गो-दिल्ली फाउंडेशन की स्थापना के लिए शुरुआती बजट के रूप में ₹50 करोड़ आवंटित किए गए हैं। मुख्यमंत्री रेखा गुप्ता के नेतृत्व में दिल्ली मंत्रिमंडल द्वारा अनुमोदित, इस पहल का उद्देश्य युवा नवप्रवर्तकों, वैज्ञानिकों, उद्यमियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को विचारों को विपणन योग्य उत्पादों और सफल व्यवसायों में बदलने में मदद करना है। फाउंडेशन उत्पाद विकास, प्रोटोटाइपिंग, मेंटरशिप, इनक्यूबेशन, निवेशक कनेक्शन, बाजार की तैयारी और बौद्धिक संपदा सहायता के माध्यम से सहायता प्रदान करेगा। यह नवाचार और सहयोग को प्रोत्साहित करने के लिए उद्यमियों को शैक्षणिक संस्थानों, अनुसंधान संगठनों, उद्योगों और सरकारी विभागों से भी जोड़ेगा।"
+      },
+      "gu": {
+        "question": "સ્ટાર્ટઅપ અને ઇનોવેશનને ટેકો આપવા માટે ગો-દિલ્હી ફાઉન્ડેશનની સ્થાપના માટે દિલ્હી કેબિનેટે કયા પ્રારંભિક બજેટ ફાળવણીને મંજૂરી આપી છે?",
+        "options": {
+          "A": "₹50 કરોડ",
+          "B": "₹25 કરોડ",
+          "C": "₹75 કરોડ",
+          "D": "₹100 કરોડ"
+        },
+        "explanation": "રાષ્ટ્રીય રાજધાનીમાં સ્ટાર્ટઅપ અને ઇનોવેશન ઇકોસિસ્ટમને મજબૂત કરવા માટે ગો-દિલ્હી ફાઉન્ડેશનની સ્થાપના માટે પ્રારંભિક બજેટ તરીકે ₹50 કરોડની ફાળવણી કરવામાં આવી છે. મુખ્યમંત્રી રેખા ગુપ્તા હેઠળ દિલ્હી કેબિનેટ દ્વારા મંજૂર કરાયેલ, પહેલનો ઉદ્દેશ્ય યુવા સંશોધકો, વૈજ્ઞાનિકો, ઉદ્યોગસાહસિકો અને સૂક્ષ્મ, નાના અને મધ્યમ ઉદ્યોગો (MSMEs) ને માર્કેટેબલ ઉત્પાદનો અને સફળ વ્યવસાયોમાં વિચારોને પરિવર્તિત કરવામાં મદદ કરવાનો છે. ફાઉન્ડેશન પ્રોડક્ટ ડેવલપમેન્ટ, પ્રોટોટાઇપિંગ, મેન્ટરશિપ, ઇન્ક્યુબેશન, ઇન્વેસ્ટર કનેક્શન, માર્કેટની તૈયારી અને બૌદ્ધિક સંપદા સહાય દ્વારા સમર્થન પૂરું પાડશે. તે નવીનતા અને સહયોગને પ્રોત્સાહિત કરવા માટે શૈક્ષણિક સંસ્થાઓ, સંશોધન સંસ્થાઓ, ઉદ્યોગો અને સરકારી વિભાગો સાથે ઉદ્યોગસાહસિકોને પણ જોડશે."
+      }
+    },
+    {
+      "id": "2026-10-19-7",
+      "date": "2026-10-19",
+      "qno": 7,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Who is scheduled to step down as Deputy Managing Director of HDFC Bank on December 31, 2026, after more than three decades of service?",
+        "options": {
+          "A": "Anup Bagchi",
+          "B": "Kaizad Bharucha",
+          "C": "Sashidhar Jagdishan",
+          "D": "Aditya Puri"
+        },
+        "explanation": "Kaizad Bharucha is the Deputy Managing Director of HDFC Bank who is scheduled to leave the bank on December 31, 2026, after serving the institution for more than three decades. He joined HDFC Bank in October 1995 and became a full-time director in June 2014 before being promoted to Deputy Managing Director in April 2023. Bharucha played a significant role in developing the bank’s credit framework, including borrower assessment, credit risk evaluation, and lending decisions. His departure is subject to approval from the Reserve Bank of India (RBI). Anup Bagchi was appointed Managing Director and Chief Executive Officer for a three-year term."
+      },
+      "hi": {
+        "question": "तीन दशक से अधिक की सेवा के बाद 31 दिसंबर, 2026 को एचडीएफसी बैंक के उप प्रबंध निदेशक के रूप में कौन पद छोड़ने वाला है?",
+        "options": {
+          "A": "अनुप बागची",
+          "B": "कैज़ाद भरूचा",
+          "C": "शशिधर जगदीशन",
+          "D": "आदित्य पुरी"
+        },
+        "explanation": "कैज़ाद भरूचा एचडीएफसी बैंक के उप प्रबंध निदेशक हैं, जो तीन दशकों से अधिक समय तक संस्थान की सेवा करने के बाद 31 दिसंबर, 2026 को बैंक छोड़ने वाले हैं। वह अक्टूबर 1995 में एचडीएफसी बैंक में शामिल हुए और अप्रैल 2023 में उप प्रबंध निदेशक के रूप में पदोन्नत होने से पहले जून 2014 में पूर्णकालिक निदेशक बने। भरूचा ने उधारकर्ता मूल्यांकन, क्रेडिट जोखिम मूल्यांकन और ऋण निर्णयों सहित बैंक के क्रेडिट ढांचे को विकसित करने में महत्वपूर्ण भूमिका निभाई। उनका प्रस्थान भारतीय रिजर्व बैंक (आरबीआई) की मंजूरी पर निर्भर है। अनूप बागची को तीन साल के कार्यकाल के लिए प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी नियुक्त किया गया।"
+      },
+      "gu": {
+        "question": "ત્રણ દાયકાથી વધુની સેવા બાદ 31 ડિસેમ્બર, 2026ના રોજ HDFC બેંકના ડેપ્યુટી મેનેજિંગ ડિરેક્ટર તરીકે કોણ રાજીનામું આપવાનું છે?",
+        "options": {
+          "A": "અનુપ બાગચી",
+          "B": "કૈઝાદ ભરૂચા",
+          "C": "શશિધર જગદીશન",
+          "D": "આદિત્ય પુરી"
+        },
+        "explanation": "કૈઝાદ ભરૂચા એચડીએફસી બેંકના ડેપ્યુટી મેનેજિંગ ડિરેક્ટર છે જેઓ ત્રણ દાયકાથી વધુ સમય સુધી સંસ્થાની સેવા કર્યા પછી 31 ડિસેમ્બર, 2026ના રોજ બેંક છોડવાના છે. તેઓ ઑક્ટોબર 1995માં HDFC બેંકમાં જોડાયા અને એપ્રિલ 2023માં ડેપ્યુટી મેનેજિંગ ડિરેક્ટર તરીકે બઢતી મેળવતા પહેલા જૂન 2014માં પૂર્ણ-સમયના ડિરેક્ટર બન્યા. ભરૂચાએ ઋણ લેનારનું મૂલ્યાંકન, ધિરાણ જોખમ મૂલ્યાંકન અને ધિરાણના નિર્ણયો સહિત બેંકના ક્રેડિટ ફ્રેમવર્કને વિકસાવવામાં નોંધપાત્ર ભૂમિકા ભજવી હતી. તેમની વિદાય ભારતીય રિઝર્વ બેંક (RBI) ની મંજૂરીને આધીન છે. અનુપ બાગચીને ત્રણ વર્ષની મુદત માટે મેનેજિંગ ડિરેક્ટર અને ચીફ એક્ઝિક્યુટિવ ઓફિસર તરીકે નિયુક્ત કરવામાં આવ્યા હતા."
+      }
+    },
+    {
+      "id": "2026-10-19-8",
+      "date": "2026-10-19",
+      "qno": 8,
+      "answer": "C",
+      "category": "Persons",
+      "en": {
+        "question": "Who is the Indian-origin scientist leading NASA’s PUFFINS mission to study interstellar dust and its role in star and planet formation?",
+        "options": {
+          "A": "Aditi Pant",
+          "B": "Kalpana Chawla",
+          "C": "Ramya Manjunath Anche",
+          "D": "Sunita Williams"
+        },
+        "explanation": "Ramya Manjunath Anche is an Indian-origin astrophysicist leading NASA’s PUFFINS mission. She works as an assistant research professor at the Steward Observatory of the University of Arizona. PUFFINS stands for Polarimetry in the Ultraviolet to Find Features in Interstellar dust. The mission has received a $20 million grant through NASA’s Astrophysics Pioneers initiative and is targeted for launch in 2030. It aims to study interstellar dust around approximately 70 stars using ultraviolet observations and polarimetry. The research will help scientists understand the properties of dust particles and their influence on the formation of stars and planets."
+      },
+      "hi": {
+        "question": "भारतीय मूल के वैज्ञानिक कौन हैं जो अंतरतारकीय धूल और तारे तथा ग्रह निर्माण में इसकी भूमिका का अध्ययन करने के लिए नासा के पफिन्स मिशन का नेतृत्व कर रहे हैं?",
+        "options": {
+          "A": "अदिति पंत",
+          "B": "कल्पना चावला",
+          "C": "राम्या मंजूनाथ अंचे",
+          "D": "सुनीता विलियम्स"
+        },
+        "explanation": "राम्या मंजूनाथ अंचे एक भारतीय मूल के खगोल वैज्ञानिक हैं जो नासा के पफिन्स मिशन का नेतृत्व कर रहे हैं। वह एरिज़ोना विश्वविद्यालय के स्टीवर्ड वेधशाला में सहायक शोध प्रोफेसर के रूप में काम करती हैं। पफिन्स का मतलब इंटरस्टेलर धूल में विशेषताएं ढूंढने के लिए पराबैंगनी में पोलारिमेट्री है। मिशन को नासा की एस्ट्रोफिजिक्स पायनियर्स पहल के माध्यम से $20 मिलियन का अनुदान प्राप्त हुआ है और इसे 2030 में लॉन्च करने का लक्ष्य है। इसका लक्ष्य पराबैंगनी अवलोकन और पोलारिमेट्री का उपयोग करके लगभग 70 सितारों के आसपास अंतरतारकीय धूल का अध्ययन करना है। इस शोध से वैज्ञानिकों को धूल के कणों के गुणों और तारों और ग्रहों के निर्माण पर उनके प्रभाव को समझने में मदद मिलेगी।"
+      },
+      "gu": {
+        "question": "તારાઓ અને ગ્રહોની રચનામાં ઇન્ટરસ્ટેલર ધૂળ અને તેની ભૂમિકાનો અભ્યાસ કરવા માટે નાસાના PUFFINS મિશનનું નેતૃત્વ કરનાર ભારતીય મૂળના વૈજ્ઞાનિક કોણ છે?",
+        "options": {
+          "A": "અદિતિ પંત",
+          "B": "કલ્પના ચાવલા",
+          "C": "રમ્યા મંજુનાથ આંચે",
+          "D": "સુનિતા વિલિયમ્સ"
+        },
+        "explanation": "રામ્યા મંજુનાથ આંચે NASAના PUFFINS મિશનનું નેતૃત્વ કરનાર ભારતીય મૂળના એસ્ટ્રોફિઝિસિસ્ટ છે. તે એરિઝોના યુનિવર્સિટીની સ્ટુઅર્ડ ઓબ્ઝર્વેટરીમાં સહાયક સંશોધન પ્રોફેસર તરીકે કામ કરે છે. PUFFINS નો અર્થ છે ઇન્ટરસ્ટેલર ડસ્ટમાં ફીચર્સ શોધવા માટે અલ્ટ્રાવાયોલેટમાં પોલેરીમેટ્રી. મિશનને NASA ની એસ્ટ્રોફિઝિક્સ પાયોનિયર્સ પહેલ દ્વારા $20 મિલિયનની ગ્રાન્ટ પ્રાપ્ત થઈ છે અને તેને 2030 માં લોન્ચ કરવાનો લક્ષ્યાંક છે. તેનો ઉદ્દેશ અલ્ટ્રાવાયોલેટ અવલોકનો અને ધ્રુવીય મેટ્રીનો ઉપયોગ કરીને આશરે 70 તારાઓની આસપાસના તારાઓની ધૂળનો અભ્યાસ કરવાનો છે. સંશોધન વૈજ્ઞાનિકોને ધૂળના કણોના ગુણધર્મો અને તારાઓ અને ગ્રહોની રચના પર તેમના પ્રભાવને સમજવામાં મદદ કરશે."
+      }
+    },
+    {
+      "id": "2026-10-19-9",
+      "date": "2026-10-19",
+      "qno": 9,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the gold medal in the women’s 10m air rifle event at the 2026 Para Asian Games, setting a new Asian Para Games record?",
+        "options": {
+          "A": "Mona Agarwal",
+          "B": "Avani Lekhara",
+          "C": "Deepa Malik",
+          "D": "Rubina Francis"
+        },
+        "explanation": "Mona Agarwal won the gold medal in the women’s 10m air rifle event at the 2026 Para Asian Games held in Aichi-Nagoya, Japan. She scored 250 points in the final, breaking the previous Asian Para Games record of 249.6 points. She also set a new qualification record by scoring 629.1 points. Avani Lekhara secured the silver medal with 249.6 points, ensuring India finished first and second in the event. Mona is an Indian para-shooter from Sikar, Rajasthan, who previously competed in para-athletics, para-powerlifting, and sitting volleyball. She also won a bronze medal at the Paris 2024 Paralympics and received the Arjuna Award in 2024."
+      },
+      "hi": {
+        "question": "2026 पैरा एशियाई खेलों में महिलाओं की 10 मीटर एयर राइफल स्पर्धा में नया एशियाई पैरा खेलों का रिकॉर्ड स्थापित करते हुए स्वर्ण पदक किसने जीता?",
+        "options": {
+          "A": "मोना अग्रवाल",
+          "B": "अवनि लेखरा",
+          "C": "दीपा मलिक",
+          "D": "रूबीना फ्रांसिस"
+        },
+        "explanation": "मोना अग्रवाल ने जापान के आइची-नागोया में आयोजित 2026 पैरा एशियाई खेलों में महिलाओं की 10 मीटर एयर राइफल स्पर्धा में स्वर्ण पदक जीता। उन्होंने फाइनल में 250 अंक बनाए और पिछले एशियाई पैरा खेलों के 249.6 अंकों के रिकॉर्ड को तोड़ दिया। उन्होंने 629.1 अंक हासिल कर एक नया क्वालिफिकेशन रिकॉर्ड भी बनाया। अवनि लेखरा ने 249.6 अंकों के साथ रजत पदक हासिल किया, जिससे यह सुनिश्चित हुआ कि भारत इस स्पर्धा में पहले और दूसरे स्थान पर रहा। मोना सीकर, राजस्थान की एक भारतीय पैरा-शूटर हैं, जिन्होंने पहले पैरा-एथलेटिक्स, पैरा-पावरलिफ्टिंग और सिटिंग वॉलीबॉल में प्रतिस्पर्धा की थी। उन्होंने पेरिस 2024 पैरालिंपिक में कांस्य पदक भी जीता और 2024 में अर्जुन पुरस्कार प्राप्त किया।"
+      },
+      "gu": {
+        "question": "2026 પેરા એશિયન ગેમ્સમાં મહિલાઓની 10 મીટર એર રાઈફલ ઈવેન્ટમાં કોણે ગોલ્ડ મેડલ જીત્યો અને એશિયન પેરા ગેમ્સનો નવો રેકોર્ડ બનાવ્યો?",
+        "options": {
+          "A": "મોના અગ્રવાલ",
+          "B": "અવની લેખા",
+          "C": "દીપા મલિક",
+          "D": "રૂબિના ફ્રાન્સિસ"
+        },
+        "explanation": "મોના અગ્રવાલે જાપાનના એચી-નાગોયામાં આયોજિત 2026 પેરા એશિયન ગેમ્સમાં મહિલાઓની 10 મીટર એર રાઈફલ ઈવેન્ટમાં ગોલ્ડ મેડલ જીત્યો હતો. તેણીએ ફાઇનલમાં 250 પોઈન્ટ મેળવ્યા હતા, જેણે અગાઉના 249.6 પોઈન્ટના એશિયન પેરા ગેમ્સના રેકોર્ડને તોડ્યો હતો. તેણે 629.1 પોઈન્ટ મેળવીને નવો ક્વોલિફિકેશન રેકોર્ડ પણ બનાવ્યો. અવની લેખારાએ 249.6 પોઈન્ટ સાથે સિલ્વર મેડલ મેળવ્યો, જેથી ભારત ઈવેન્ટમાં પ્રથમ અને બીજા સ્થાને રહ્યું. મોના સીકર, રાજસ્થાનની એક ભારતીય પેરા-શૂટર છે, જેણે અગાઉ પેરા-એથ્લેટિક્સ, પેરા-પાવરલિફ્ટિંગ અને સિટિંગ વોલીબોલમાં ભાગ લીધો હતો. તેણીએ પેરિસ 2024 પેરાલિમ્પિક્સમાં બ્રોન્ઝ મેડલ પણ જીત્યો હતો અને 2024 માં અર્જુન એવોર્ડ મેળવ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-10-19-10",
+      "date": "2026-10-19",
+      "qno": 10,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state will host the Men's Asian Champions Trophy hockey tournament from October 27 to November 5, 2026?",
+        "options": {
+          "A": "Haryana",
+          "B": "Odisha",
+          "C": "Punjab",
+          "D": "Uttar Pradesh"
+        },
+        "explanation": "Punjab will host the Men's Asian Champions Trophy from October 27 to November 5, 2026, marking the return of international hockey to the state after a gap of 17 years. The previous international hockey tournament held in Punjab was the 2009 Punjab Gold Cup. The matches will take place at the Olympian Surjit Singh Hockey Stadium in Jalandhar and the Olympian Balbir Singh Senior International Hockey Stadium in Mohali. Six teams—India, Malaysia, South Korea, China, Japan, and Bangladesh—will participate in the tournament. India enters the competition as a strong contender, having won the Asian Champions Trophy five times in 2011, 2016, 2018, 2023, and 2024."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य 27 अक्टूबर से 5 नवंबर, 2026 तक पुरुष एशियाई चैंपियंस ट्रॉफी हॉकी टूर्नामेंट की मेजबानी करेगा?",
+        "options": {
+          "A": "हरियाणा",
+          "B": "ओडिशा",
+          "C": "पंजाब",
+          "D": "उत्तर प्रदेश"
+        },
+        "explanation": "पंजाब 27 अक्टूबर से 5 नवंबर, 2026 तक पुरुष एशियाई चैंपियंस ट्रॉफी की मेजबानी करेगा, जो 17 साल के अंतराल के बाद राज्य में अंतरराष्ट्रीय हॉकी की वापसी का प्रतीक है। पंजाब में आयोजित पिछला अंतर्राष्ट्रीय हॉकी टूर्नामेंट 2009 पंजाब गोल्ड कप था। मैच जालंधर के ओलंपियन सुरजीत सिंह हॉकी स्टेडियम और मोहाली के ओलंपियन बलबीर सिंह सीनियर इंटरनेशनल हॉकी स्टेडियम में होंगे। टूर्नामेंट में छह टीमें- भारत, मलेशिया, दक्षिण कोरिया, चीन, जापान और बांग्लादेश भाग लेंगी। 2011, 2016, 2018, 2023 और 2024 में पांच बार एशियाई चैंपियंस ट्रॉफी जीतकर भारत एक मजबूत दावेदार के रूप में प्रतियोगिता में प्रवेश कर रहा है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય 27 ઓક્ટોબરથી 5 નવેમ્બર, 2026 સુધી મેન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી હોકી ટુર્નામેન્ટનું આયોજન કરશે?",
+        "options": {
+          "A": "હરિયાણા",
+          "B": "ઓડિશા",
+          "C": "પંજાબ",
+          "D": "ઉત્તર પ્રદેશ"
+        },
+        "explanation": "પંજાબ 27 ઓક્ટોબરથી 5 નવેમ્બર, 2026 સુધી મેન્સ એશિયન ચેમ્પિયન્સ ટ્રોફીની યજમાની કરશે, જે 17 વર્ષના અંતરાલ પછી રાજ્યમાં આંતરરાષ્ટ્રીય હોકીની પુનરાગમન દર્શાવે છે. પંજાબમાં આયોજિત અગાઉની આંતરરાષ્ટ્રીય હોકી ટુર્નામેન્ટ 2009 પંજાબ ગોલ્ડ કપ હતી. આ મેચ જલંધરના ઓલિમ્પિયન સુરજીત સિંહ હોકી સ્ટેડિયમ અને મોહાલીના ઓલિમ્પિયન બલબીર સિંહ સિનિયર ઈન્ટરનેશનલ હોકી સ્ટેડિયમમાં થશે. ટૂર્નામેન્ટમાં ભારત, મલેશિયા, દક્ષિણ કોરિયા, ચીન, જાપાન અને બાંગ્લાદેશની છ ટીમો ભાગ લેશે. ભારતે 2011, 2016, 2018, 2023 અને 2024માં પાંચ વખત એશિયન ચેમ્પિયન્સ ટ્રોફી જીતીને મજબૂત દાવેદાર તરીકે સ્પર્ધામાં પ્રવેશ કર્યો."
+      }
+    },
+    {
+      "id": "2026-10-19-11",
+      "date": "2026-10-19",
+      "qno": 11,
+      "answer": "B",
+      "category": "Banking",
+      "en": {
+        "question": "Which bank launched the Trade Konnect digital platform on October 15, 2026, to facilitate import, export, and outward cross-border remittance transactions?",
+        "options": {
+          "A": "Canara Bank",
+          "B": "Karnataka Bank",
+          "C": "South Indian Bank",
+          "D": "Federal Bank"
+        },
+        "explanation": "Karnataka Bank launched Trade Konnect on October 15, 2026, to simplify international trade and cross-border remittance services for businesses and individuals. The platform was formally inaugurated through a virtual ceremony at the bank’s head office in Mangaluru, Karnataka. The launch was led by Shri Raghavendra S. Bhat, the bank’s Managing Director and Chief Executive Officer. Trade Konnect enables customers to submit foreign exchange transaction requests online and make outward cross-border remittances without visiting a physical bank branch. The initiative aims to improve convenience, security, and efficiency by digitising international trade-related banking processes."
+      },
+      "hi": {
+        "question": "आयात, निर्यात और जावक सीमा पार प्रेषण लेनदेन की सुविधा के लिए किस बैंक ने 15 अक्टूबर, 2026 को ट्रेड कनेक्ट डिजिटल प्लेटफॉर्म लॉन्च किया?",
+        "options": {
+          "A": "केनरा बैंक",
+          "B": "कर्नाटक बैंक",
+          "C": "साउथ इंडियन बैंक",
+          "D": "फेडरल बैंक"
+        },
+        "explanation": "व्यवसायों और व्यक्तियों के लिए अंतर्राष्ट्रीय व्यापार और सीमा पार प्रेषण सेवाओं को सरल बनाने के लिए कर्नाटक बैंक ने 15 अक्टूबर, 2026 को ट्रेड कनेक्ट लॉन्च किया। मंच का औपचारिक उद्घाटन कर्नाटक के मंगलुरु में बैंक के प्रधान कार्यालय में एक आभासी समारोह के माध्यम से किया गया। लॉन्च का नेतृत्व बैंक के प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी श्री राघवेंद्र एस भट्ट ने किया। ट्रेड कनेक्ट ग्राहकों को विदेशी मुद्रा लेनदेन अनुरोध ऑनलाइन जमा करने और भौतिक बैंक शाखा में आए बिना सीमा पार प्रेषण करने में सक्षम बनाता है। इस पहल का उद्देश्य अंतर्राष्ट्रीय व्यापार-संबंधित बैंकिंग प्रक्रियाओं को डिजिटल बनाकर सुविधा, सुरक्षा और दक्षता में सुधार करना है।"
+      },
+      "gu": {
+        "question": "કઈ બેંકે આયાત, નિકાસ અને આઉટવર્ડ ક્રોસ-બોર્ડર રેમિટન્સ ટ્રાન્ઝેક્શનને સરળ બનાવવા માટે 15 ઓક્ટોબર, 2026ના રોજ ટ્રેડ કનેક્ટ ડિજિટલ પ્લેટફોર્મ શરૂ કર્યું?",
+        "options": {
+          "A": "કેનેરા બેંક",
+          "B": "કર્ણાટક બેંક",
+          "C": "દક્ષિણ ભારતીય બેંક",
+          "D": "ફેડરલ બેંક"
+        },
+        "explanation": "કર્ણાટક બેંકે 15 ઓક્ટોબર, 2026ના રોજ વેપાર અને વ્યક્તિઓ માટે આંતરરાષ્ટ્રીય વેપાર અને ક્રોસ-બોર્ડર રેમિટન્સ સેવાઓને સરળ બનાવવા માટે ટ્રેડ કનેક્ટની શરૂઆત કરી. પ્લેટફોર્મનું ઔપચારિક ઉદ્ઘાટન કર્ણાટકના મેંગલુરુમાં બેંકની મુખ્ય કચેરી ખાતે વર્ચ્યુઅલ સમારોહ દ્વારા કરવામાં આવ્યું હતું. લોન્ચનું નેતૃત્વ બેંકના મેનેજિંગ ડિરેક્ટર અને ચીફ એક્ઝિક્યુટિવ ઓફિસર શ્રી રાઘવેન્દ્ર એસ. ભટ દ્વારા કરવામાં આવ્યું હતું. Trade Konnect ગ્રાહકોને વિદેશી વિનિમય વ્યવહારની વિનંતીઓ ઑનલાઇન સબમિટ કરવા અને ભૌતિક બેંક શાખાની મુલાકાત લીધા વિના જાવક ક્રોસ-બોર્ડર રેમિટન્સ કરવા સક્ષમ બનાવે છે. આ પહેલનો હેતુ આંતરરાષ્ટ્રીય વેપાર-સંબંધિત બેંકિંગ પ્રક્રિયાઓને ડિજિટાઇઝ કરીને સુવિધા, સુરક્ષા અને કાર્યક્ષમતામાં સુધારો કરવાનો છે."
+      }
+    },
+    {
       "id": "2026-10-18-1",
       "date": "2026-10-18",
       "qno": 1,
-      "answer": "B",
-      "category": "Sports",
+      "answer": "A",
+      "category": "Defence",
       "en": {
-        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
+        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
         "options": {
-          "A": "Ajay Jadeja",
-          "B": "Parthiv Patel",
-          "C": "Robin Uthappa",
-          "D": "Dinesh Karthik"
+          "A": "INS Tarkash",
+          "B": "INS Talwar",
+          "C": "INS Shivalik",
+          "D": "INS Trikand"
         },
-        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
+        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
       },
       "hi": {
-        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
+        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
         "options": {
-          "A": "अजय जाडेजा",
-          "B": "पार्थिव पटेल",
-          "C": "रॉबिन उथप्पा",
-          "D": "दिनेश कार्तिक"
+          "A": "आईएनएस तरकश",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस शिवालिक",
+          "D": "आईएनएस त्रिकांड"
         },
-        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
+        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
       },
       "gu": {
-        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
+        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
         "options": {
-          "A": "અજય જાડેજા",
-          "B": "પાર્થિવ પટેલ",
-          "C": "રોબિન ઉથપ્પા",
-          "D": "દિનેશ કાર્તિક"
+          "A": "INS તારકશ",
+          "B": "INS તલવાર",
+          "C": "INS શિવાલિક",
+          "D": "INS ત્રિકાંડ"
         },
-        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
+        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
       }
     },
     {
@@ -55817,6 +56559,43 @@
       "id": "2026-10-18-4",
       "date": "2026-10-18",
       "qno": 4,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
+        "options": {
+          "A": "Ajay Jadeja",
+          "B": "Parthiv Patel",
+          "C": "Robin Uthappa",
+          "D": "Dinesh Karthik"
+        },
+        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
+      },
+      "hi": {
+        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
+        "options": {
+          "A": "अजय जाडेजा",
+          "B": "पार्थिव पटेल",
+          "C": "रॉबिन उथप्पा",
+          "D": "दिनेश कार्तिक"
+        },
+        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
+      },
+      "gu": {
+        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
+        "options": {
+          "A": "અજય જાડેજા",
+          "B": "પાર્થિવ પટેલ",
+          "C": "રોબિન ઉથપ્પા",
+          "D": "દિનેશ કાર્તિક"
+        },
+        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-18-5",
+      "date": "2026-10-18",
+      "qno": 5,
       "answer": "D",
       "category": "Economy",
       "en": {
@@ -55851,157 +56630,46 @@
       }
     },
     {
-      "id": "2026-10-18-5",
-      "date": "2026-10-18",
-      "qno": 5,
-      "answer": "A",
-      "category": "Defence",
-      "en": {
-        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
-        "options": {
-          "A": "INS Tarkash",
-          "B": "INS Talwar",
-          "C": "INS Shivalik",
-          "D": "INS Trikand"
-        },
-        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
-      },
-      "hi": {
-        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
-        "options": {
-          "A": "आईएनएस तरकश",
-          "B": "आईएनएस तलवार",
-          "C": "आईएनएस शिवालिक",
-          "D": "आईएनएस त्रिकांड"
-        },
-        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
-      },
-      "gu": {
-        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
-        "options": {
-          "A": "INS તારકશ",
-          "B": "INS તલવાર",
-          "C": "INS શિવાલિક",
-          "D": "INS ત્રિકાંડ"
-        },
-        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
-      }
-    },
-    {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
-      "answer": "A",
-      "category": "Defence",
+      "answer": "C",
+      "category": "State",
       "en": {
-        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
         "options": {
-          "A": "Argentina",
-          "B": "Nepal",
-          "C": "Bhutan",
-          "D": "Chile"
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
         },
-        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
       },
       "hi": {
-        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
         "options": {
-          "A": "अर्जेंटीना",
-          "B": "नेपाल",
-          "C": "भूटान",
-          "D": "चिली"
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
         },
-        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
       },
       "gu": {
-        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
         "options": {
-          "A": "આર્જેન્ટિના",
-          "B": "નેપાળ",
-          "C": "ભુતાન",
-          "D": "ચિલી"
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
         },
-        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
       }
     },
     {
       "id": "2026-10-11-2",
       "date": "2026-10-11",
       "qno": 2,
-      "answer": "D",
-      "category": "Technology",
-      "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
-        "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
-        },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
-      },
-      "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
-        "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
-        },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
-      },
-      "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
-        "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
-        },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
-      "qno": 3,
-      "answer": "A",
-      "category": "Important Days",
-      "en": {
-        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
-        "options": {
-          "A": "October",
-          "B": "September",
-          "C": "November",
-          "D": "December"
-        },
-        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
-      },
-      "hi": {
-        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
-        "options": {
-          "A": "अक्टूबर",
-          "B": "सितम्बर",
-          "C": "नवंबर",
-          "D": "दिसंबर"
-        },
-        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
-      },
-      "gu": {
-        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
-        "options": {
-          "A": "ઓક્ટોબર",
-          "B": "સપ્ટેમ્બર",
-          "C": "નવેમ્બર",
-          "D": "ડિસેમ્બર"
-        },
-        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-4",
-      "date": "2026-10-11",
-      "qno": 4,
       "answer": "B",
       "category": "Sports",
       "en": {
@@ -56036,40 +56704,114 @@
       }
     },
     {
+      "id": "2026-10-11-3",
+      "date": "2026-10-11",
+      "qno": 3,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
+        "options": {
+          "A": "Argentina",
+          "B": "Nepal",
+          "C": "Bhutan",
+          "D": "Chile"
+        },
+        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
+      },
+      "hi": {
+        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
+        "options": {
+          "A": "अर्जेंटीना",
+          "B": "नेपाल",
+          "C": "भूटान",
+          "D": "चिली"
+        },
+        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
+      },
+      "gu": {
+        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
+        "options": {
+          "A": "આર્જેન્ટિના",
+          "B": "નેપાળ",
+          "C": "ભુતાન",
+          "D": "ચિલી"
+        },
+        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "qno": 4,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+      }
+    },
+    {
       "id": "2026-10-11-5",
       "date": "2026-10-11",
       "qno": 5,
-      "answer": "C",
-      "category": "State",
+      "answer": "A",
+      "category": "Important Days",
       "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
+        "question": "In which month is Breast Cancer Awareness Month observed globally every year?",
         "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
+          "A": "October",
+          "B": "September",
+          "C": "November",
+          "D": "December"
         },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
+        "explanation": "October is observed globally as Breast Cancer Awareness Month (BCAM) every year, from October 1 to October 31. The campaign aims to promote early detection, timely treatment, and equitable access to quality healthcare for people affected by breast cancer. The official theme for 2026 is “Every story is unique, every journey matters.” The month is also widely known as “Pink October,” reflecting the global effort to spread awareness and support patients and their families. The pink ribbon is the internationally recognised symbol of breast cancer awareness. The observance was established in October 1985 through a partnership between the American Cancer Society and the pharmaceutical division of Imperial Chemical Industries."
       },
       "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
+        "question": "विश्व स्तर पर हर साल स्तन कैंसर जागरूकता माह किस महीने में मनाया जाता है?",
         "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
+          "A": "अक्टूबर",
+          "B": "सितम्बर",
+          "C": "नवंबर",
+          "D": "दिसंबर"
         },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
+        "explanation": "अक्टूबर को विश्व स्तर पर हर साल 1 अक्टूबर से 31 अक्टूबर तक स्तन कैंसर जागरूकता माह (बीसीएएम) के रूप में मनाया जाता है। इस अभियान का उद्देश्य स्तन कैंसर से प्रभावित लोगों के लिए शीघ्र पता लगाने, समय पर उपचार और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक समान पहुंच को बढ़ावा देना है। आधिकारिक theme के लिए 2026 है “Every story है unique, हर यात्रा मायने रखती है।\" इस महीने को व्यापक रूप से \"पिंक अक्टूबर\" के रूप में भी जाना जाता है, जो जागरूकता फैलाने और रोगियों और उनके परिवारों को समर्थन देने के वैश्विक प्रयास को दर्शाता है। गुलाबी रिबन स्तन कैंसर जागरूकता का अंतरराष्ट्रीय स्तर पर मान्यता प्राप्त प्रतीक है। यह अनुष्ठान अक्टूबर 1985 में अमेरिकन कैंसर सोसाइटी और इंपीरियल केमिकल इंडस्ट्रीज के फार्मास्युटिकल डिवीजन के बीच साझेदारी के माध्यम से स्थापित किया गया था।"
       },
       "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
+        "question": "વિશ્વભરમાં દર વર્ષે કયા મહિનામાં સ્તન કેન્સર જાગૃતિ મહિનો મનાવવામાં આવે છે?",
         "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
+          "A": "ઓક્ટોબર",
+          "B": "સપ્ટેમ્બર",
+          "C": "નવેમ્બર",
+          "D": "ડિસેમ્બર"
         },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
+        "explanation": "ઓક્ટોબર મહિનો વૈશ્વિક સ્તરે સ્તન કેન્સર જાગૃતિ મહિનો (BCAM) તરીકે દર વર્ષે 1 ઓક્ટોબરથી 31 ઓક્ટોબર સુધી મનાવવામાં આવે છે. ઝુંબેશનો ઉદ્દેશ્ય સ્તન કેન્સરથી અસરગ્રસ્ત લોકો માટે વહેલી તપાસ, સમયસર સારવાર અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની સમાન પહોંચને પ્રોત્સાહન આપવાનો છે. સત્તાવાર theme માટે 2026 છે “Every story છે unique, દરેક મુસાફરી મહત્વની છે.” આ મહિનો વ્યાપકપણે \"પિંક ઓક્ટોબર\" તરીકે પણ ઓળખાય છે, જે દર્દીઓ અને તેમના પરિવારોને જાગૃત કરવા અને મદદ કરવાના વૈશ્વિક પ્રયાસને પ્રતિબિંબિત કરે છે. ગુલાબી રિબન સ્તન કેન્સર જાગૃતિનું આંતરરાષ્ટ્રીય સ્તરે માન્યતા પ્રાપ્ત પ્રતીક છે. અમેરિકન કેન્સર સોસાયટી અને ઇમ્પિરિયલ કેમિકલ ઇન્ડસ્ટ્રીઝના ફાર્માસ્યુટિકલ વિભાગ વચ્ચેની ભાગીદારી દ્વારા ઓક્ટોબર 1985માં આ પાલનની સ્થાપના કરવામાં આવી હતી."
       }
     },
     {
@@ -56113,117 +56855,43 @@
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "B",
-      "category": "National",
+      "answer": "A",
+      "category": "Awards and Honours",
       "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
         "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
+          "A": "Henri Kagan And Kenso Soai",
+          "B": "Susumu Kitagawa And Richard Robson",
+          "C": "Omar Yaghi And Frances Arnold",
+          "D": "David Baker And Demis Hassabis"
         },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
       },
       "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
         "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
+          "A": "हेनरी कगन और केन्सो सोई",
+          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
+          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
+          "D": "डेविड बेकर और डेमिस हसाबिस"
         },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
       },
       "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
         "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
+          "A": "હેનરી કાગન અને કેન્સો સોઇ",
+          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
+          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
+          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
         },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
       }
     },
     {
       "id": "2026-10-10-2",
       "date": "2026-10-10",
       "qno": 2,
-      "answer": "C",
-      "category": "Environment",
-      "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
-        "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
-        },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
-      },
-      "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
-        "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
-        },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
-      },
-      "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
-        "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
-        },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
-      "answer": "C",
-      "category": "Defence",
-      "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
-        "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
-        },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
-      },
-      "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
-        "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
-        },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
-      },
-      "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
-        "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
-        },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
       "answer": "D",
       "category": "State",
       "en": {
@@ -56258,9 +56926,46 @@
       }
     },
     {
-      "id": "2026-10-10-5",
+      "id": "2026-10-10-3",
       "date": "2026-10-10",
-      "qno": 5,
+      "qno": 3,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "options": {
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
+        },
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+      },
+      "hi": {
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "options": {
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
+        },
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+      },
+      "gu": {
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
+        },
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
       "answer": "A",
       "category": "Banking",
       "en": {
@@ -56295,40 +57000,77 @@
       }
     },
     {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "qno": 5,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
       "id": "2026-10-10-6",
       "date": "2026-10-10",
       "qno": 6,
-      "answer": "A",
-      "category": "Awards and Honours",
+      "answer": "C",
+      "category": "Defence",
       "en": {
-        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
         "options": {
-          "A": "Henri Kagan And Kenso Soai",
-          "B": "Susumu Kitagawa And Richard Robson",
-          "C": "Omar Yaghi And Frances Arnold",
-          "D": "David Baker And Demis Hassabis"
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
         },
-        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
       },
       "hi": {
-        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
         "options": {
-          "A": "हेनरी कगन और केन्सो सोई",
-          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
-          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
-          "D": "डेविड बेकर और डेमिस हसाबिस"
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
         },
-        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
       },
       "gu": {
-        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
         "options": {
-          "A": "હેનરી કાગન અને કેન્સો સોઇ",
-          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
-          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
-          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
-        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
       }
     },
     {
