@@ -56448,43 +56448,6 @@
       "id": "2026-10-18-1",
       "date": "2026-10-18",
       "qno": 1,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
-        "options": {
-          "A": "Manipur",
-          "B": "Mizoram",
-          "C": "Nagaland",
-          "D": "Meghalaya"
-        },
-        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
-      },
-      "hi": {
-        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
-        "options": {
-          "A": "मणिपुर",
-          "B": "मिजोरम",
-          "C": "नागालैंड",
-          "D": "मेघालय"
-        },
-        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
-      },
-      "gu": {
-        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
-        "options": {
-          "A": "મણિપુર",
-          "B": "મિઝોરમ",
-          "C": "નાગાલેન્ડ",
-          "D": "મેઘાલય"
-        },
-        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
-      }
-    },
-    {
-      "id": "2026-10-18-2",
-      "date": "2026-10-18",
-      "qno": 2,
       "answer": "A",
       "category": "Sports",
       "en": {
@@ -56519,40 +56482,77 @@
       }
     },
     {
+      "id": "2026-10-18-2",
+      "date": "2026-10-18",
+      "qno": 2,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
+        "options": {
+          "A": "Manipur",
+          "B": "Mizoram",
+          "C": "Nagaland",
+          "D": "Meghalaya"
+        },
+        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
+        "options": {
+          "A": "मणिपुर",
+          "B": "मिजोरम",
+          "C": "नागालैंड",
+          "D": "मेघालय"
+        },
+        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
+        "options": {
+          "A": "મણિપુર",
+          "B": "મિઝોરમ",
+          "C": "નાગાલેન્ડ",
+          "D": "મેઘાલય"
+        },
+        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
+      }
+    },
+    {
       "id": "2026-10-18-3",
       "date": "2026-10-18",
       "qno": 3,
-      "answer": "B",
-      "category": "Sports",
+      "answer": "D",
+      "category": "Economy",
       "en": {
-        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
+        "question": "Which country overtook the United States to become India's largest supplier of Liquefied Natural Gas (LNG) in September 2026?",
         "options": {
-          "A": "Ajay Jadeja",
-          "B": "Parthiv Patel",
-          "C": "Robin Uthappa",
-          "D": "Dinesh Karthik"
+          "A": "Qatar",
+          "B": "Nigeria",
+          "C": "Australia",
+          "D": "Oman"
         },
-        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
+        "explanation": "Oman became India's leading supplier of Liquefied Natural Gas (LNG) in September 2026, overtaking the United States amid shifting global trade routes and regional disruptions. Oman supplied 0.59 million tonnes of LNG during the month, an 11.6% increase compared with August. The United States ranked third with 0.34 million tonnes, while Nigeria secured second place. Oman's location and ability to export LNG without depending on the Strait of Hormuz provided an advantage during regional disruptions. Between May and September 2026, Oman supplied 2.33 million tonnes, accounting for 20% of India's LNG imports during that period. India's LNG demand was supported by the city gas distribution and fertiliser sectors."
       },
       "hi": {
-        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
+        "question": "सितंबर 2026 में कौन सा देश संयुक्त राज्य अमेरिका को पछाड़कर भारत का तरलीकृत प्राकृतिक गैस (एलएनजी) का सबसे बड़ा आपूर्तिकर्ता बन गया?",
         "options": {
-          "A": "अजय जाडेजा",
-          "B": "पार्थिव पटेल",
-          "C": "रॉबिन उथप्पा",
-          "D": "दिनेश कार्तिक"
+          "A": "कतर",
+          "B": "नाइजीरिया",
+          "C": "ऑस्ट्रेलिया",
+          "D": "ओमान"
         },
-        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
+        "explanation": "ओमान भारत_ENG_THEME_TOKEN_0__ का स्थान बन गया और होर्मुज जलडमरूमध्य पर निर्भर हुए बिना एलएनजी निर्यात करने की क्षमता ने क्षेत्रीय व्यवधानों के दौरान लाभ प्रदान किया। मई और सितंबर 2026 के बीच, ओमान ने 2.33 मिलियन टन की आपूर्ति की, जो भारत की LNG मांग का 20% था, जिसे शहर के गैस वितरण और उर्वरक क्षेत्रों द्वारा समर्थित किया गया था।"
       },
       "gu": {
-        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
+        "question": "સપ્ટેમ્બર 2026માં કયો દેશ લિક્વિફાઇડ નેચરલ ગેસ (LNG)નો ભારતનો સૌથી મોટો સપ્લાયર બનવા માટે યુનાઇટેડ સ્ટેટ્સને પાછળ છોડી ગયો?",
         "options": {
-          "A": "અજય જાડેજા",
-          "B": "પાર્થિવ પટેલ",
-          "C": "રોબિન ઉથપ્પા",
-          "D": "દિનેશ કાર્તિક"
+          "A": "કતાર",
+          "B": "નાઇજીરીયા",
+          "C": "ઓસ્ટ્રેલિયા",
+          "D": "ઓમાન"
         },
-        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
+        "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
       }
     },
     {
@@ -56596,80 +56596,43 @@
       "id": "2026-10-18-5",
       "date": "2026-10-18",
       "qno": 5,
-      "answer": "D",
-      "category": "Economy",
+      "answer": "B",
+      "category": "Sports",
       "en": {
-        "question": "Which country overtook the United States to become India's largest supplier of Liquefied Natural Gas (LNG) in September 2026?",
+        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
         "options": {
-          "A": "Qatar",
-          "B": "Nigeria",
-          "C": "Australia",
-          "D": "Oman"
+          "A": "Ajay Jadeja",
+          "B": "Parthiv Patel",
+          "C": "Robin Uthappa",
+          "D": "Dinesh Karthik"
         },
-        "explanation": "Oman became India's leading supplier of Liquefied Natural Gas (LNG) in September 2026, overtaking the United States amid shifting global trade routes and regional disruptions. Oman supplied 0.59 million tonnes of LNG during the month, an 11.6% increase compared with August. The United States ranked third with 0.34 million tonnes, while Nigeria secured second place. Oman's location and ability to export LNG without depending on the Strait of Hormuz provided an advantage during regional disruptions. Between May and September 2026, Oman supplied 2.33 million tonnes, accounting for 20% of India's LNG imports during that period. India's LNG demand was supported by the city gas distribution and fertiliser sectors."
+        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
       },
       "hi": {
-        "question": "सितंबर 2026 में कौन सा देश संयुक्त राज्य अमेरिका को पछाड़कर भारत का तरलीकृत प्राकृतिक गैस (एलएनजी) का सबसे बड़ा आपूर्तिकर्ता बन गया?",
+        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
         "options": {
-          "A": "कतर",
-          "B": "नाइजीरिया",
-          "C": "ऑस्ट्रेलिया",
-          "D": "ओमान"
+          "A": "अजय जाडेजा",
+          "B": "पार्थिव पटेल",
+          "C": "रॉबिन उथप्पा",
+          "D": "दिनेश कार्तिक"
         },
-        "explanation": "ओमान भारत_ENG_THEME_TOKEN_0__ का स्थान बन गया और होर्मुज जलडमरूमध्य पर निर्भर हुए बिना एलएनजी निर्यात करने की क्षमता ने क्षेत्रीय व्यवधानों के दौरान लाभ प्रदान किया। मई और सितंबर 2026 के बीच, ओमान ने 2.33 मिलियन टन की आपूर्ति की, जो भारत की LNG मांग का 20% था, जिसे शहर के गैस वितरण और उर्वरक क्षेत्रों द्वारा समर्थित किया गया था।"
+        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
       },
       "gu": {
-        "question": "સપ્ટેમ્બર 2026માં કયો દેશ લિક્વિફાઇડ નેચરલ ગેસ (LNG)નો ભારતનો સૌથી મોટો સપ્લાયર બનવા માટે યુનાઇટેડ સ્ટેટ્સને પાછળ છોડી ગયો?",
+        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
         "options": {
-          "A": "કતાર",
-          "B": "નાઇજીરીયા",
-          "C": "ઓસ્ટ્રેલિયા",
-          "D": "ઓમાન"
+          "A": "અજય જાડેજા",
+          "B": "પાર્થિવ પટેલ",
+          "C": "રોબિન ઉથપ્પા",
+          "D": "દિનેશ કાર્તિક"
         },
-        "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
+        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
       }
     },
     {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
-      "answer": "B",
-      "category": "Sports",
-      "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
-        "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
-        },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
-      },
-      "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
-        "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
-        },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
-      },
-      "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
-        "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
-        },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-2",
-      "date": "2026-10-11",
-      "qno": 2,
       "answer": "A",
       "category": "Defence",
       "en": {
@@ -56701,6 +56664,43 @@
           "D": "ચિલી"
         },
         "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-2",
+      "date": "2026-10-11",
+      "qno": 2,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "options": {
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
+        },
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+      },
+      "hi": {
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "options": {
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
+        },
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+      },
+      "gu": {
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "options": {
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
+        },
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
       }
     },
     {
@@ -56744,43 +56744,6 @@
       "id": "2026-10-11-4",
       "date": "2026-10-11",
       "qno": 4,
-      "answer": "D",
-      "category": "Technology",
-      "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
-        "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
-        },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
-      },
-      "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
-        "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
-        },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
-      },
-      "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
-        "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
-        },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-5",
-      "date": "2026-10-11",
-      "qno": 5,
       "answer": "C",
       "category": "State",
       "en": {
@@ -56815,9 +56778,9 @@
       }
     },
     {
-      "id": "2026-10-11-6",
+      "id": "2026-10-11-5",
       "date": "2026-10-11",
-      "qno": 6,
+      "qno": 5,
       "answer": "B",
       "category": "Defence",
       "en": {
@@ -56849,6 +56812,43 @@
           "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
         },
         "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
       }
     },
     {
@@ -56892,80 +56892,43 @@
       "id": "2026-10-10-2",
       "date": "2026-10-10",
       "qno": 2,
-      "answer": "C",
-      "category": "Environment",
+      "answer": "D",
+      "category": "State",
       "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
         "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
         },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
       },
       "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
         "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
         },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
       },
       "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
         "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
         },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
       }
     },
     {
       "id": "2026-10-10-3",
       "date": "2026-10-10",
       "qno": 3,
-      "answer": "C",
-      "category": "Defence",
-      "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
-        "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
-        },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
-      },
-      "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
-        "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
-        },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
-      },
-      "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
-        "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
-        },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
       "answer": "B",
       "category": "National",
       "en": {
@@ -56997,6 +56960,43 @@
           "D": "12 થી 18 ઓક્ટોબર"
         },
         "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
       }
     },
     {
@@ -57040,37 +57040,37 @@
       "id": "2026-10-10-6",
       "date": "2026-10-10",
       "qno": 6,
-      "answer": "D",
-      "category": "State",
+      "answer": "C",
+      "category": "Defence",
       "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
         "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
         },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
       },
       "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
         "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
         },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
       },
       "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
         "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
       }
     },
     {
