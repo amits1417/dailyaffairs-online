@@ -59156,43 +59156,6 @@
       "id": "2026-10-18-4",
       "date": "2026-10-18",
       "qno": 4,
-      "answer": "D",
-      "category": "Economy",
-      "en": {
-        "question": "Which country overtook the United States to become India's largest supplier of Liquefied Natural Gas (LNG) in September 2026?",
-        "options": {
-          "A": "Qatar",
-          "B": "Nigeria",
-          "C": "Australia",
-          "D": "Oman"
-        },
-        "explanation": "Oman became India's leading supplier of Liquefied Natural Gas (LNG) in September 2026, overtaking the United States amid shifting global trade routes and regional disruptions. Oman supplied 0.59 million tonnes of LNG during the month, an 11.6% increase compared with August. The United States ranked third with 0.34 million tonnes, while Nigeria secured second place. Oman's location and ability to export LNG without depending on the Strait of Hormuz provided an advantage during regional disruptions. Between May and September 2026, Oman supplied 2.33 million tonnes, accounting for 20% of India's LNG imports during that period. India's LNG demand was supported by the city gas distribution and fertiliser sectors."
-      },
-      "hi": {
-        "question": "सितंबर 2026 में कौन सा देश संयुक्त राज्य अमेरिका को पछाड़कर भारत का तरलीकृत प्राकृतिक गैस (एलएनजी) का सबसे बड़ा आपूर्तिकर्ता बन गया?",
-        "options": {
-          "A": "कतर",
-          "B": "नाइजीरिया",
-          "C": "ऑस्ट्रेलिया",
-          "D": "ओमान"
-        },
-        "explanation": "ओमान भारत_ENG_THEME_TOKEN_0__ का स्थान बन गया और होर्मुज जलडमरूमध्य पर निर्भर हुए बिना एलएनजी निर्यात करने की क्षमता ने क्षेत्रीय व्यवधानों के दौरान लाभ प्रदान किया। मई और सितंबर 2026 के बीच, ओमान ने 2.33 मिलियन टन की आपूर्ति की, जो भारत की LNG मांग का 20% था, जिसे शहर के गैस वितरण और उर्वरक क्षेत्रों द्वारा समर्थित किया गया था।"
-      },
-      "gu": {
-        "question": "સપ્ટેમ્બર 2026માં કયો દેશ લિક્વિફાઇડ નેચરલ ગેસ (LNG)નો ભારતનો સૌથી મોટો સપ્લાયર બનવા માટે યુનાઇટેડ સ્ટેટ્સને પાછળ છોડી ગયો?",
-        "options": {
-          "A": "કતાર",
-          "B": "નાઇજીરીયા",
-          "C": "ઓસ્ટ્રેલિયા",
-          "D": "ઓમાન"
-        },
-        "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
-      }
-    },
-    {
-      "id": "2026-10-18-5",
-      "date": "2026-10-18",
-      "qno": 5,
       "answer": "B",
       "category": "Sports",
       "en": {
@@ -59227,77 +59190,114 @@
       }
     },
     {
+      "id": "2026-10-18-5",
+      "date": "2026-10-18",
+      "qno": 5,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "Which country overtook the United States to become India's largest supplier of Liquefied Natural Gas (LNG) in September 2026?",
+        "options": {
+          "A": "Qatar",
+          "B": "Nigeria",
+          "C": "Australia",
+          "D": "Oman"
+        },
+        "explanation": "Oman became India's leading supplier of Liquefied Natural Gas (LNG) in September 2026, overtaking the United States amid shifting global trade routes and regional disruptions. Oman supplied 0.59 million tonnes of LNG during the month, an 11.6% increase compared with August. The United States ranked third with 0.34 million tonnes, while Nigeria secured second place. Oman's location and ability to export LNG without depending on the Strait of Hormuz provided an advantage during regional disruptions. Between May and September 2026, Oman supplied 2.33 million tonnes, accounting for 20% of India's LNG imports during that period. India's LNG demand was supported by the city gas distribution and fertiliser sectors."
+      },
+      "hi": {
+        "question": "सितंबर 2026 में कौन सा देश संयुक्त राज्य अमेरिका को पछाड़कर भारत का तरलीकृत प्राकृतिक गैस (एलएनजी) का सबसे बड़ा आपूर्तिकर्ता बन गया?",
+        "options": {
+          "A": "कतर",
+          "B": "नाइजीरिया",
+          "C": "ऑस्ट्रेलिया",
+          "D": "ओमान"
+        },
+        "explanation": "ओमान भारत_ENG_THEME_TOKEN_0__ का स्थान बन गया और होर्मुज जलडमरूमध्य पर निर्भर हुए बिना एलएनजी निर्यात करने की क्षमता ने क्षेत्रीय व्यवधानों के दौरान लाभ प्रदान किया। मई और सितंबर 2026 के बीच, ओमान ने 2.33 मिलियन टन की आपूर्ति की, जो भारत की LNG मांग का 20% था, जिसे शहर के गैस वितरण और उर्वरक क्षेत्रों द्वारा समर्थित किया गया था।"
+      },
+      "gu": {
+        "question": "સપ્ટેમ્બર 2026માં કયો દેશ લિક્વિફાઇડ નેચરલ ગેસ (LNG)નો ભારતનો સૌથી મોટો સપ્લાયર બનવા માટે યુનાઇટેડ સ્ટેટ્સને પાછળ છોડી ગયો?",
+        "options": {
+          "A": "કતાર",
+          "B": "નાઇજીરીયા",
+          "C": "ઓસ્ટ્રેલિયા",
+          "D": "ઓમાન"
+        },
+        "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
+      }
+    },
+    {
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
-      "answer": "B",
-      "category": "Sports",
+      "answer": "D",
+      "category": "Technology",
       "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
         "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
         },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
       },
       "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
         "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
         },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
       },
       "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
         "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
         },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
       }
     },
     {
       "id": "2026-10-11-2",
       "date": "2026-10-11",
       "qno": 2,
-      "answer": "B",
-      "category": "Defence",
+      "answer": "C",
+      "category": "State",
       "en": {
-        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
         "options": {
-          "A": "Bharat Electronics Limited",
-          "B": "EyeROV",
-          "C": "Garden Reach Shipbuilders & Engineers",
-          "D": "Mazagon Dock Shipbuilders Limited"
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
         },
-        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
       },
       "hi": {
-        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
         "options": {
-          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
-          "B": "EyeROV",
-          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
         },
-        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
       },
       "gu": {
-        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
         "options": {
-          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
-          "B": "EyeROV",
-          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
         },
-        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
       }
     },
     {
@@ -59341,80 +59341,43 @@
       "id": "2026-10-11-4",
       "date": "2026-10-11",
       "qno": 4,
-      "answer": "D",
-      "category": "Technology",
+      "answer": "B",
+      "category": "Sports",
       "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
         "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
         },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
       },
       "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
         "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
         },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
       },
       "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
         "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
         },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
       }
     },
     {
       "id": "2026-10-11-5",
       "date": "2026-10-11",
       "qno": 5,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
-        },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
-      },
-      "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
-        },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
-      },
-      "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
-        },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-6",
-      "date": "2026-10-11",
-      "qno": 6,
       "answer": "A",
       "category": "Defence",
       "en": {
@@ -59449,194 +59412,46 @@
       }
     },
     {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which Kochi-based startup delivered India’s first military-grade underwater Remotely Operated Vehicle (ROV) to the Indian Navy in October 2026?",
+        "options": {
+          "A": "Bharat Electronics Limited",
+          "B": "EyeROV",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Mazagon Dock Shipbuilders Limited"
+        },
+        "explanation": "EyeROV, a marine robotics and artificial intelligence deep-tech startup headquartered in Kochi, Kerala, delivered the first two units of the EyeROV TROUT to the Indian Navy on October 7, 2026. The EyeROV TROUT is India’s first military-grade underwater Remotely Operated Vehicle (ROV), developed under the iDEX DISC 7 SPRINT Challenge to promote indigenous defence technology. The vehicle is designed for underwater inspection, surveillance, reconnaissance, maritime security, search and recovery, and detection in challenging underwater conditions. It qualified through the Directorate of Quality Assurance (Naval) and underwent rigorous testing. The delivery supports the Atmanirbhar Bharat and Make in India initiatives, strengthening India’s capabilities in advanced marine robotics."
+      },
+      "hi": {
+        "question": "कोच्चि स्थित किस स्टार्टअप ने अक्टूबर 2026 में भारतीय नौसेना को भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (आरओवी) दिया?",
+        "options": {
+          "A": "भारत इलेक्ट्रॉनिक्स लिमिटेड",
+          "B": "EyeROV",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "मझगांव डॉक शिपबिल्डर्स लिमिटेड"
+        },
+        "explanation": "EyeROV, एक समुद्री रोबोटिक्स और कृत्रिम बुद्धिमत्ता डीप-टेक स्टार्टअप, जिसका मुख्यालय केरल के कोच्चि में है, ने 7 अक्टूबर, 2026 को भारतीय नौसेना को EyeROV ट्राउट की पहली दो इकाइयाँ वितरित कीं। EyeROV ट्राउट भारत का पहला सैन्य-ग्रेड अंडरवाटर रिमोटली ऑपरेटेड व्हीकल (ROV) है, जिसे स्वदेशी रक्षा प्रौद्योगिकी को बढ़ावा देने के लिए iDEX DISC 7 SPRINT चैलेंज के तहत विकसित किया गया है। वाहन को पानी के भीतर निरीक्षण, निगरानी, ​​टोही, समुद्री सुरक्षा, खोज और पुनर्प्राप्ति और चुनौतीपूर्ण पानी के नीचे की परिस्थितियों में पता लगाने के लिए डिज़ाइन किया गया है। यह गुणवत्ता आश्वासन निदेशालय (नौसेना) के माध्यम से योग्य हुआ और कठोर परीक्षण से गुजरा। यह डिलीवरी आत्मनिर्भर भारत और मेक इन इंडिया पहल का समर्थन करती है, जो उन्नत समुद्री रोबोटिक्स में भारत की क्षमताओं को मजबूत करती है।"
+      },
+      "gu": {
+        "question": "કોચી સ્થિત કયા સ્ટાર્ટઅપે ઓક્ટોબર 2026માં ભારતનું પ્રથમ સૈન્ય-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ વ્હીકલ (ROV) ભારતીય નૌકાદળને આપ્યું હતું?",
+        "options": {
+          "A": "ભારત ઈલેક્ટ્રોનિક્સ લિમિટેડ",
+          "B": "EyeROV",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ"
+        },
+        "explanation": "EyeROV, દરિયાઈ રોબોટિક્સ અને આર્ટિફિશિયલ ઈન્ટેલિજન્સ ડીપ-ટેક સ્ટાર્ટઅપ, જેનું મુખ્ય મથક કોચી, કેરળમાં છે, તેણે 7 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળને EyeROV TROUT ના પ્રથમ બે યુનિટ પહોંચાડ્યા. EyeROV TROUT એ ભારતની પ્રથમ મિલિટરી-ગ્રેડ અંડરવોટર રિમોટલી ઓપરેટેડ (SROVDI7) VeXDI (એસઆરઓવીડીઆઈ) હેઠળ વિકસાવવામાં આવેલ પ્રથમ મિલિટરી-ગ્રેડ છે. સ્વદેશી સંરક્ષણ તકનીકને પ્રોત્સાહન આપવાનો પડકાર. આ વાહન પાણીની અંદર નિરીક્ષણ, સર્વેલન્સ, જાસૂસી, દરિયાઈ સુરક્ષા, શોધ અને પુનઃપ્રાપ્તિ અને પડકારરૂપ પાણીની પરિસ્થિતિમાં શોધ માટે તૈયાર કરવામાં આવ્યું છે. તે ડિરેક્ટોરેટ ઓફ ક્વોલિટી એશ્યોરન્સ (નૌકાદળ) દ્વારા લાયક ઠરે છે અને સખત પરીક્ષણમાંથી પસાર થાય છે. આ ડિલિવરી આત્મનિર્ભર ભારત અને મેક ઇન ઇન્ડિયા પહેલને ટેકો આપે છે, અદ્યતન દરિયાઇ રોબોટિક્સમાં ભારતની ક્ષમતાઓને મજબૂત બનાવે છે."
+      }
+    },
+    {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "D",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
-        "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
-        },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
-        "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
-        },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
-      },
-      "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
-        "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
-        },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
-      }
-    },
-    {
-      "id": "2026-10-10-2",
-      "date": "2026-10-10",
-      "qno": 2,
-      "answer": "B",
-      "category": "National",
-      "en": {
-        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
-        "options": {
-          "A": "October 5 to 11",
-          "B": "October 9 to 15",
-          "C": "October 10 to 16",
-          "D": "October 12 to 18"
-        },
-        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
-      },
-      "hi": {
-        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
-        "options": {
-          "A": "5 से 11 अक्टूबर",
-          "B": "9 से 15 अक्टूबर",
-          "C": "10 से 16 अक्टूबर",
-          "D": "12 से 18 अक्टूबर"
-        },
-        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
-      },
-      "gu": {
-        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 થી 11 ઓક્ટોબર",
-          "B": "9 થી 15 ઓક્ટોબર",
-          "C": "10 થી 16 ઓક્ટોબર",
-          "D": "12 થી 18 ઓક્ટોબર"
-        },
-        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
-      "answer": "C",
-      "category": "Environment",
-      "en": {
-        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
-        "options": {
-          "A": "Rajasthan",
-          "B": "Maharashtra",
-          "C": "Gujarat",
-          "D": "Madhya Pradesh"
-        },
-        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
-      },
-      "hi": {
-        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
-        "options": {
-          "A": "राजस्थान",
-          "B": "महाराष्ट्र",
-          "C": "गुजरात",
-          "D": "मध्य प्रदेश"
-        },
-        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
-      },
-      "gu": {
-        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
-        "options": {
-          "A": "રાજસ્થાન",
-          "B": "મહારાષ્ટ્ર",
-          "C": "ગુજરાત",
-          "D": "મધ્યપ્રદેશ"
-        },
-        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
-      }
-    },
-    {
-      "id": "2026-10-10-4",
-      "date": "2026-10-10",
-      "qno": 4,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-5",
-      "date": "2026-10-10",
-      "qno": 5,
-      "answer": "A",
-      "category": "Banking",
-      "en": {
-        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
-      },
-      "hi": {
-        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
-      },
-      "gu": {
-        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
       "answer": "C",
       "category": "Defence",
       "en": {
@@ -59671,9 +59486,9 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-2",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 2,
       "answer": "A",
       "category": "Awards and Honours",
       "en": {
@@ -59705,6 +59520,191 @@
           "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
         },
         "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
+      }
+    },
+    {
+      "id": "2026-10-10-3",
+      "date": "2026-10-10",
+      "qno": 3,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-4",
+      "date": "2026-10-10",
+      "qno": 4,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "When is National Postal Week 2026 observed by the Department of Posts in India?",
+        "options": {
+          "A": "October 5 to 11",
+          "B": "October 9 to 15",
+          "C": "October 10 to 16",
+          "D": "October 12 to 18"
+        },
+        "explanation": "October 9 to 15 is the period during which the Department of Posts observes National Postal Week 2026 in India. The week begins with World Post Day on October 9 and highlights the importance of a modern, inclusive, and technology-enabled postal network. The celebrations include activities focused on philately, financial inclusion, mail and parcels, and technological innovation. The designated World Post Day 2026 theme is “World Post Day: One Postal Network, Infinite Possibilities.” Initiatives such as N-Gen Post Offices, Jan Sewa Connect Post Offices, the Dak Sewa App, and the Dak Mitra App aim to improve service delivery, strengthen digital empowerment, and make postal services more accessible to citizens."
+      },
+      "hi": {
+        "question": "भारत में डाक विभाग द्वारा राष्ट्रीय डाक सप्ताह 2026 कब मनाया जाता है?",
+        "options": {
+          "A": "5 से 11 अक्टूबर",
+          "B": "9 से 15 अक्टूबर",
+          "C": "10 से 16 अक्टूबर",
+          "D": "12 से 18 अक्टूबर"
+        },
+        "explanation": "9 से 15 अक्टूबर वह अवधि है जिसके दौरान डाक विभाग भारत में राष्ट्रीय डाक सप्ताह 2026 मनाता है। यह सप्ताह 9 अक्टूबर को विश्व डाक दिवस के साथ शुरू होता है और आधुनिक, समावेशी और प्रौद्योगिकी-सक्षम डाक नेटवर्क के महत्व पर प्रकाश डालता है। समारोह में डाक टिकट संग्रह, वित्तीय समावेशन, मेल और पार्सल और तकनीकी नवाचार पर केंद्रित गतिविधियाँ शामिल हैं। नामित विश्व डाक दिवस 2026 theme है “World Post दिन: One Postal Network, अनंत संभावनाएँ।” एन-जेन डाकघर, जन सेवा कनेक्ट डाकघर, डाक सेवा ऐप और डाक मित्र ऐप जैसी पहल का उद्देश्य सेवा वितरण में सुधार करना, डिजिटल सशक्तिकरण को मजबूत करना और नागरिकों के लिए डाक सेवाओं को अधिक सुलभ बनाना है।"
+      },
+      "gu": {
+        "question": "ભારતમાં પોસ્ટ વિભાગ દ્વારા રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 થી 11 ઓક્ટોબર",
+          "B": "9 થી 15 ઓક્ટોબર",
+          "C": "10 થી 16 ઓક્ટોબર",
+          "D": "12 થી 18 ઓક્ટોબર"
+        },
+        "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "qno": 5,
+      "answer": "C",
+      "category": "Environment",
+      "en": {
+        "question": "In which Indian state was a rare two-headed Wolf snake hatchling discovered in October 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Maharashtra",
+          "C": "Gujarat",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Gujarat was the state where a rare, non-venomous two-headed Wolf snake hatchling was discovered on October 7, 2026, in Dhanpur taluka of Dahod district. This discovery marked the first recorded instance of a two-headed snake in Gujarat and the fifth reported case in India. The hatchling measured approximately 5 to 6 inches and had two independent heads, four eyes, and two functioning mouths attached to a single body. This rare congenital condition is scientifically known as bicephaly or dicephalism, which occurs when an embryo fails to separate completely during development. The Gujarat Forest Department is responsible for the rescued specimen's custody and care."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में किस भारतीय राज्य में दुर्लभ दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "महाराष्ट्र",
+          "C": "गुजरात",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "गुजरात वह राज्य है जहां दाहोद जिले के धनपुर तालुका में 7 अक्टूबर, 2026 को एक दुर्लभ, गैर विषैले दो सिर वाले वुल्फ सांप के बच्चे की खोज की गई थी। इस खोज ने गुजरात में दो सिर वाले सांप का पहला दर्ज मामला और भारत में पांचवां मामला दर्ज किया। नवजात शिशु की लंबाई लगभग 5 से 6 इंच थी और उसके दो स्वतंत्र सिर, चार आंखें और दो मुंह काम कर रहे थे जो एक ही शरीर से जुड़े हुए थे। इस दुर्लभ जन्मजात स्थिति को वैज्ञानिक रूप से बाइसेफैली या डाइसेफैलिज्म के रूप में जाना जाता है, जो तब होता है जब भ्रूण विकास के दौरान पूरी तरह से अलग होने में विफल रहता है। बचाए गए नमूने की सुरक्षा और देखभाल के लिए गुजरात वन विभाग जिम्मेदार है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતના કયા રાજ્યમાં એક દુર્લભ બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "મહારાષ્ટ્ર",
+          "C": "ગુજરાત",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "ગુજરાત એ રાજ્ય હતું જ્યાં દાહોદ જિલ્લાના ધાનપુર તાલુકામાં 7 ઓક્ટોબર, 2026 ના રોજ એક દુર્લભ, બિન-ઝેરી બે માથાવાળા વુલ્ફ સાપના બચ્ચાની શોધ થઈ હતી. આ શોધ ગુજરાતમાં બે માથાવાળા સાપનો પ્રથમ નોંધાયેલો અને ભારતમાં પાંચમો નોંધાયેલ કેસ છે. હેચલિંગ આશરે 5 થી 6 ઇંચનું માપવામાં આવ્યું હતું અને તેના બે સ્વતંત્ર માથા, ચાર આંખો અને બે કાર્યકારી મોં એક શરીર સાથે જોડાયેલા હતા. આ દુર્લભ જન્મજાત સ્થિતિને વૈજ્ઞાનિક રીતે દ્વિસંગી અથવા ડાઇસફેલિઝમ તરીકે ઓળખવામાં આવે છે, જે ત્યારે થાય છે જ્યારે વિકાસ દરમિયાન ગર્ભ સંપૂર્ણપણે અલગ થવામાં નિષ્ફળ જાય છે. બચાવેલા નમૂનાની કસ્ટડી અને સંભાળ માટે ગુજરાત વન વિભાગ જવાબદાર છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
+      },
+      "gu": {
+        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "options": {
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
+        },
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "options": {
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "options": {
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
       }
     }
   ]
