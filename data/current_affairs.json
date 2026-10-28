@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-10-27",
+    "2026-10-26",
     "2026-10-25",
     "2026-10-24",
     "2026-10-23",
@@ -58300,83 +58302,786 @@
       }
     },
     {
+      "id": "2026-10-27-1",
+      "date": "2026-10-27",
+      "qno": 1,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "What retirement age has the Supreme Court supported for district judicial officers following an agreement among 14 states?",
+        "options": {
+          "A": "60 Years",
+          "B": "62 Years",
+          "C": "65 Years",
+          "D": "58 Years"
+        },
+        "explanation": "The Supreme Court of India has supported increasing the retirement age of district judicial officers from 60 years to 62 years, following an agreement among 14 states. The matter was considered on October 26, 2026, in the case of All India Judges Association v. Union of India, which concerns the service conditions of the subordinate judiciary. The proposed extension aims to retain experienced judges, maintain continuity in district courts, address judicial vacancies and help manage the large backlog of pending cases. However, the extension is not automatic for every judicial officer, as suitability and performance assessments remain important considerations in implementing the decision."
+      },
+      "hi": {
+        "question": "14 राज्यों के बीच एक समझौते के बाद सुप्रीम कोर्ट ने जिला न्यायिक अधिकारियों के लिए किस सेवानिवृत्ति की आयु का समर्थन किया है?",
+        "options": {
+          "A": "60 वर्ष",
+          "B": "62 वर्ष",
+          "C": "65 वर्ष",
+          "D": "58 वर्ष"
+        },
+        "explanation": "भारत के सर्वोच्च न्यायालय ने 14 राज्यों के बीच एक समझौते के बाद जिला न्यायिक अधिकारियों की सेवानिवृत्ति की आयु 60 वर्ष से बढ़ाकर 62 वर्ष करने का समर्थन किया है। इस मामले पर 26 अक्टूबर, 2026 को ऑल इंडिया जजेज एसोसिएशन बनाम यूनियन ऑफ इंडिया के मामले में विचार किया गया था, जो अधीनस्थ न्यायपालिका की सेवा शर्तों से संबंधित है। प्रस्तावित विस्तार का उद्देश्य अनुभवी न्यायाधीशों को बनाए रखना, जिला अदालतों में निरंतरता बनाए रखना, न्यायिक रिक्तियों को संबोधित करना और लंबित मामलों के बड़े बैकलॉग को प्रबंधित करने में मदद करना है। हालाँकि, प्रत्येक न्यायिक अधिकारी के लिए विस्तार स्वचालित नहीं है, क्योंकि निर्णय को लागू करने में उपयुक्तता और प्रदर्शन मूल्यांकन महत्वपूर्ण विचार बने हुए हैं।"
+      },
+      "gu": {
+        "question": "14 રાજ્યો વચ્ચેના કરાર બાદ જિલ્લા ન્યાયિક અધિકારીઓ માટે સર્વોચ્ચ અદાલતે નિવૃત્તિની કઈ ઉંમરને સમર્થન આપ્યું છે?",
+        "options": {
+          "A": "60 વર્ષ",
+          "B": "62 વર્ષ",
+          "C": "65 વર્ષ",
+          "D": "58 વર્ષ"
+        },
+        "explanation": "ભારતની સર્વોચ્ચ અદાલતે 14 રાજ્યો વચ્ચેના કરારને પગલે જિલ્લા ન્યાયિક અધિકારીઓની નિવૃત્તિ વય 60 વર્ષથી વધારીને 62 વર્ષ કરવાનું સમર્થન કર્યું છે. ઓલ ઈન્ડિયા જજ એસોસિએશન વિ. યુનિયન ઓફ ઈન્ડિયાના કેસમાં 26 ઓક્ટોબર, 2026ના રોજ આ બાબતની વિચારણા કરવામાં આવી હતી, જે ગૌણ ન્યાયતંત્રની સેવાની શરતોથી સંબંધિત છે. સૂચિત વિસ્તરણનો હેતુ અનુભવી ન્યાયાધીશોને જાળવી રાખવા, જિલ્લા અદાલતોમાં સાતત્ય જાળવી રાખવા, ન્યાયિક ખાલી જગ્યાઓ પર ધ્યાન આપવા અને પડતર કેસોના મોટા બેકલોગનું સંચાલન કરવામાં મદદ કરવાનો છે. જો કે, દરેક ન્યાયિક અધિકારી માટે વિસ્તરણ આપોઆપ થતું નથી, કારણ કે યોગ્યતા અને કામગીરીનું મૂલ્યાંકન નિર્ણયના અમલીકરણમાં મહત્વપૂર્ણ બાબતો રહે છે."
+      }
+    },
+    {
+      "id": "2026-10-27-2",
+      "date": "2026-10-27",
+      "qno": 2,
+      "answer": "A",
+      "category": "Environment",
+      "en": {
+        "question": "By which year are almost all assessed shallow-water coral reef ecosystems at risk of collapse, according to the IUCN assessment?",
+        "options": {
+          "A": "2075",
+          "B": "2050",
+          "C": "2060",
+          "D": "2100"
+        },
+        "explanation": "The International Union for Conservation of Nature (IUCN) warns that almost all assessed shallow-water coral reef ecosystems face a high risk of collapse by 2075. Its first global Red List of Ecosystems assessment evaluated 127 tropical and subtropical marine ecoregions, of which 122, representing 96%, were classified as Critically Endangered. Climate-change-driven ocean warming and marine heatwaves are the leading threats, causing coral bleaching and potentially coral death. Overfishing, pollution, coastal development, and ecological imbalances also weaken reef ecosystems. Coral reefs are vital for marine biodiversity, fisheries, tourism, and coastal protection, making their conservation essential."
+      },
+      "hi": {
+        "question": "IUCN के आकलन के अनुसार, किस वर्ष तक लगभग सभी उथले पानी वाले प्रवाल भित्ति पारिस्थितिकी तंत्रों के ढहने का खतरा है?",
+        "options": {
+          "A": "2075",
+          "B": "2050",
+          "C": "2060",
+          "D": "2100"
+        },
+        "explanation": "इंटरनेशनल यूनियन फॉर कंजर्वेशन ऑफ नेचर (आईयूसीएन) ने चेतावनी दी है कि लगभग सभी मूल्यांकन किए गए उथले पानी वाले मूंगा चट्टान पारिस्थितिक तंत्रों को 2075 तक ढहने का उच्च जोखिम है। पारिस्थितिक तंत्र मूल्यांकन की इसकी पहली वैश्विक रेड लिस्ट में 127 उष्णकटिबंधीय और उपोष्णकटिबंधीय समुद्री पारिस्थितिक क्षेत्रों का मूल्यांकन किया गया था, जिनमें से 122, 96% का प्रतिनिधित्व करते हुए, गंभीर रूप से लुप्तप्राय के रूप में वर्गीकृत किया गया था। जलवायु-परिवर्तन के कारण समुद्र का गर्म होना और समुद्री हीटवेव प्रमुख खतरे हैं, जो मूंगे के विरंजन और संभावित रूप से मूंगों की मृत्यु का कारण बनते हैं। अत्यधिक मछली पकड़ने, प्रदूषण, तटीय विकास और पारिस्थितिक असंतुलन भी रीफ पारिस्थितिकी तंत्र को कमजोर करते हैं। मूंगा चट्टानें समुद्री जैव विविधता, मत्स्य पालन, पर्यटन और तटीय संरक्षण के लिए महत्वपूर्ण हैं, इसलिए उनका संरक्षण आवश्यक है।"
+      },
+      "gu": {
+        "question": "IUCN મૂલ્યાંકન મુજબ, કયા વર્ષ સુધીમાં લગભગ તમામ મૂલ્યાંકન કરાયેલ છીછરા-પાણીના કોરલ રીફ ઇકોસિસ્ટમ્સ પતનના જોખમમાં છે?",
+        "options": {
+          "A": "2075",
+          "B": "2050",
+          "C": "2060",
+          "D": "2100"
+        },
+        "explanation": "ઇન્ટરનેશનલ યુનિયન ફોર કન્ઝર્વેશન ઓફ નેચર (IUCN) ચેતવણી આપે છે કે લગભગ તમામ આકારણી કરાયેલ છીછરા-પાણીના કોરલ રીફ ઇકોસિસ્ટમ્સ 2075 સુધીમાં પતન થવાના ઊંચા જોખમનો સામનો કરે છે. તેની પ્રથમ વૈશ્વિક રેડ લિસ્ટ ઓફ ઇકોસિસ્ટમ એસેસમેન્ટમાં 127 ઉષ્ણકટિબંધીય અને ઉષ્ણકટિબંધીય દરિયાઇ ઇકોરીજીયનનું મૂલ્યાંકન કરવામાં આવ્યું હતું, જેમાંથી 126% વર્ગીકૃત કરવામાં આવ્યા હતા. Endangered. આબોહવા-પરિવર્તન-સંચાલિત સમુદ્રી ઉષ્ણતા અને દરિયાઈ ઉષ્માના મોજા અગ્રણી જોખમો છે, જે કોરલ બ્લીચિંગ અને સંભવિત કોરલ મૃત્યુનું કારણ બને છે. અતિશય માછીમારી, પ્રદૂષણ, દરિયાકાંઠાનો વિકાસ અને ઇકોલોજીકલ અસંતુલન પણ રીફ ઇકોસિસ્ટમને નબળી પાડે છે. દરિયાઈ જૈવવિવિધતા, મત્સ્યઉદ્યોગ, પ્રવાસન અને દરિયાકાંઠાના સંરક્ષણ માટે કોરલ રીફ મહત્વપૂર્ણ છે, જે તેમના સંરક્ષણને આવશ્યક બનાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-27-3",
+      "date": "2026-10-27",
+      "qno": 3,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who became the first Indian physicist to receive the 2026 Oskar Klein Medal for contributions to string theory?",
+        "options": {
+          "A": "Abhay Ashtekar",
+          "B": "Ashoke Sen",
+          "C": "Satyendra Nath Bose",
+          "D": "Thanu Padmanabhan"
+        },
+        "explanation": "Ashoke Sen received the 2026 Oskar Klein Medal in recognition of his pioneering contributions to string theory, becoming the first Indian physicist to receive this international honour. He serves as the ICTS-Infosys Madhava Chair Professor at the International Centre for Theoretical Sciences (ICTS), part of the Tata Institute of Fundamental Research (TIFR) in Bengaluru. His significant research contributions include S-duality, the precise counting of black-hole entropy, and the development of string field theory. Sen has also received prestigious Indian honours, including the Padma Shri in 2001 and the Padma Bhushan in 2013, along with the inaugural Breakthrough Prize in Fundamental Physics in 2012."
+      },
+      "hi": {
+        "question": "स्ट्रिंग सिद्धांत में योगदान के लिए 2026 ऑस्कर क्लेन मेडल प्राप्त करने वाले पहले भारतीय भौतिक विज्ञानी कौन बने?",
+        "options": {
+          "A": "अभय अष्टेकर",
+          "B": "अशोक सेन",
+          "C": "सत्येन्द्र नाथ बोस",
+          "D": "थानु पद्मनाभन"
+        },
+        "explanation": "अशोक सेन को स्ट्रिंग थ्योरी में उनके अग्रणी योगदान के लिए 2026 का ऑस्कर क्लेन मेडल मिला, और वह यह अंतरराष्ट्रीय सम्मान पाने वाले पहले भारतीय भौतिक विज्ञानी बन गए। वह बेंगलुरु में टाटा इंस्टीट्यूट ऑफ फंडामेंटल रिसर्च (TIFR) के हिस्से, इंटरनेशनल सेंटर फॉर थियोरेटिकल साइंसेज (ICTS) में ICTS-इन्फोसिस माधव चेयर प्रोफेसर के रूप में कार्य करते हैं। उनके महत्वपूर्ण शोध योगदान में एस-द्वैत, ब्लैक-होल एन्ट्रापी की सटीक गिनती और स्ट्रिंग फील्ड सिद्धांत का विकास शामिल है। सेन को प्रतिष्ठित भारतीय सम्मान भी मिला है, जिसमें 2001 में पद्म श्री और 2013 में पद्म भूषण के साथ-साथ 2012 में मौलिक भौतिकी में उद्घाटन ब्रेकथ्रू पुरस्कार भी शामिल है।"
+      },
+      "gu": {
+        "question": "સ્ટ્રીંગ થિયરીમાં યોગદાન બદલ 2026 ઓસ્કર ક્લીન મેડલ મેળવનાર પ્રથમ ભારતીય ભૌતિકશાસ્ત્રી કોણ બન્યા?",
+        "options": {
+          "A": "અભય અષ્ટેકર",
+          "B": "અશોક સેન",
+          "C": "સત્યેન્દ્ર નાથ બોઝ",
+          "D": "થનુ પદ્મનાભન"
+        },
+        "explanation": "અશોક સેનને 2026નો ઓસ્કર ક્લેઈન મેડલ સ્ટ્રિંગ થિયરીમાં તેમના અગ્રગણ્ય યોગદાન બદલ મળ્યો, આ આંતરરાષ્ટ્રીય સન્માન મેળવનાર પ્રથમ ભારતીય ભૌતિકશાસ્ત્રી બન્યા. તેઓ બેંગલુરુમાં ટાટા ઇન્સ્ટિટ્યૂટ ઓફ ફંડામેન્ટલ રિસર્ચ (TIFR) ના ભાગ, ઇન્ટરનેશનલ સેન્ટર ફોર થિયોરેટિકલ સાયન્સ (ICTS) ખાતે ICTS-Infosys માધવ ચેર પ્રોફેસર તરીકે સેવા આપે છે. તેમના નોંધપાત્ર સંશોધન યોગદાનમાં S-દ્વૈતતા, બ્લેક-હોલ એન્ટ્રોપીની ચોક્કસ ગણતરી અને સ્ટ્રિંગ ફિલ્ડ થિયરીનો વિકાસ સામેલ છે. સેનને 2001 માં પદ્મશ્રી અને 2013 માં પદ્મ ભૂષણ સહિત પ્રતિષ્ઠિત ભારતીય સન્માનો પણ મળ્યા છે, જેમાં 2012 માં મૂળભૂત ભૌતિકશાસ્ત્રમાં પ્રારંભિક બ્રેકથ્રુ પુરસ્કાર પણ સામેલ છે."
+      }
+    },
+    {
+      "id": "2026-10-27-4",
+      "date": "2026-10-27",
+      "qno": 4,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Which footballer won his first Men’s Ballon d’Or award at the 2026 ceremony held in London?",
+        "options": {
+          "A": "Harry Kane",
+          "B": "Kylian Mbappé",
+          "C": "Lamine Yamal",
+          "D": "Bukayo Saka"
+        },
+        "explanation": "Harry Kane won his first Men’s Ballon d’Or in 2026 at the 70th award ceremony held at the Palladium Theatre in London. Representing England and Bayern Munich, Kane delivered an outstanding season, scoring 61 goals across all competitions, including 36 goals in 31 Bundesliga matches. He finished ahead of French footballer Kylian Mbappé and Spanish youngster Lamine Yamal in the voting. Kane also received the Gerd Müller Award for his goal-scoring achievements. The 2026 ceremony was notable because it was held outside France for the first time. Spain’s Alexia Putellas won the Women’s Ballon d’Or for the third time."
+      },
+      "hi": {
+        "question": "लंदन में 2026 में आयोजित समारोह में किस फुटबॉलर ने अपना पहला पुरुष बैलन डी'ओर पुरस्कार जीता?",
+        "options": {
+          "A": "हैरी केन",
+          "B": "किलियन म्बाप्पे",
+          "C": "लैमिन यमल",
+          "D": "बुकायो साका"
+        },
+        "explanation": "हैरी केन ने 2026 में लंदन के पैलेडियम थिएटर में आयोजित 70वें पुरस्कार समारोह में अपना पहला पुरुष बैलन डी'ओर जीता। इंग्लैंड और बायर्न म्यूनिख का प्रतिनिधित्व करते हुए, केन ने एक उत्कृष्ट सीज़न दिया, सभी प्रतियोगिताओं में 61 गोल किए, जिसमें 31 बुंडेसलिगा मैचों में 36 गोल शामिल थे। वोटिंग में वह फ्रांसीसी फुटबॉलर किलियन एम्बाप्पे और स्पेनिश युवा लामिने यमल से आगे रहे। केन को उनकी गोल स्कोरिंग उपलब्धियों के लिए गर्ड मुलर पुरस्कार भी मिला। 2026 का समारोह उल्लेखनीय था क्योंकि यह पहली बार फ्रांस के बाहर आयोजित किया गया था। स्पेन की एलेक्सिया पुटेलस ने तीसरी बार महिला बैलन डी'ओर जीता।"
+      },
+      "gu": {
+        "question": "લંડનમાં આયોજિત 2026 સમારોહમાં કયા ફૂટબોલરે તેનો પ્રથમ મેન્સ બેલોન ડી’ઓર એવોર્ડ જીત્યો?",
+        "options": {
+          "A": "હેરી કેન",
+          "B": "કાયલિયન Mbappé",
+          "C": "લેમીન યમલ",
+          "D": "બુકાયો સાકા"
+        },
+        "explanation": "હેરી કેને લંડનના પેલેડિયમ થિયેટર ખાતે આયોજિત 70મા એવોર્ડ સમારંભમાં 2026માં તેનો પ્રથમ મેન્સ બેલોન ડી’ઓર જીત્યો હતો. ઈંગ્લેન્ડ અને બેયર્ન મ્યુનિકનું પ્રતિનિધિત્વ કરતા, કેને તમામ સ્પર્ધાઓમાં 61 ગોલ કર્યા, જેમાં 31 બુન્ડેસલિગા મેચોમાં 36 ગોલનો સમાવેશ થાય છે. તેણે વોટિંગમાં ફ્રેન્ચ ફૂટબોલર કિલિયન એમબાપ્પે અને સ્પેનિશ યુવા ખેલાડી લેમિન યામાલ કરતાં આગળ છે. કેનને તેની ગોલ-સ્કોરિંગ સિદ્ધિઓ માટે ગેર્ડ મુલર એવોર્ડ પણ મળ્યો હતો. 2026 સમારોહ નોંધપાત્ર હતો કારણ કે તે પ્રથમ વખત ફ્રાન્સની બહાર યોજાયો હતો. સ્પેનની એલેક્સિયા પુટેલે ત્રીજી વખત વિમેન્સ બેલોન ડી’ઓર જીત્યો."
+      }
+    },
+    {
+      "id": "2026-10-27-5",
+      "date": "2026-10-27",
+      "qno": 5,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Which technology company developed a sequential AI tool designed to diagnose medical conditions by asking questions and updating its hypotheses like a doctor?",
+        "options": {
+          "A": "Google",
+          "B": "OpenAI",
+          "C": "IBM",
+          "D": "Microsoft"
+        },
+        "explanation": "Microsoft researchers developed a sequential artificial intelligence tool designed to diagnose medical conditions through a process similar to a doctor's clinical reasoning. Announced in a study published on October 23, 2026, the model uses an orchestrator to coordinate a simulated panel of clinical experts. Instead of analysing all symptoms at once, it determines which questions to ask, evaluates relevant physical examination findings, and updates its diagnostic hypotheses as new information and test results become available. The system reportedly achieved more than twice the accuracy of general physicians across 300 complex cases and produced diagnostic work-ups at a lower cost than those designed by human doctors."
+      },
+      "hi": {
+        "question": "किस प्रौद्योगिकी कंपनी ने एक अनुक्रमिक AI उपकरण विकसित किया है जो एक डॉक्टर की तरह प्रश्न पूछकर और अपनी परिकल्पनाओं को अद्यतन करके चिकित्सा स्थितियों का निदान करने के लिए डिज़ाइन किया गया है?",
+        "options": {
+          "A": "गूगल",
+          "B": "ओपनएआई",
+          "C": "आईबीएम",
+          "D": "माइक्रोसॉफ्ट"
+        },
+        "explanation": "माइक्रोसॉफ्ट के शोधकर्ताओं ने एक अनुक्रमिक कृत्रिम बुद्धिमत्ता उपकरण विकसित किया है जिसे डॉक्टर के नैदानिक ​​तर्क के समान प्रक्रिया के माध्यम से चिकित्सा स्थितियों का निदान करने के लिए डिज़ाइन किया गया है। 23 अक्टूबर, 2026 को प्रकाशित एक अध्ययन में घोषणा की गई, मॉडल नैदानिक ​​​​विशेषज्ञों के एक अनुरूपित पैनल के समन्वय के लिए एक ऑर्केस्ट्रेटर का उपयोग करता है। सभी लक्षणों का एक साथ विश्लेषण करने के बजाय, यह निर्धारित करता है कि कौन से प्रश्न पूछने हैं, प्रासंगिक शारीरिक परीक्षण निष्कर्षों का मूल्यांकन करता है, और नई जानकारी और परीक्षण परिणाम उपलब्ध होने पर अपनी नैदानिक ​​​​परिकल्पनाओं को अपडेट करता है। कथित तौर पर इस प्रणाली ने 300 जटिल मामलों में सामान्य चिकित्सकों की तुलना में दोगुनी से अधिक सटीकता हासिल की और मानव डॉक्टरों द्वारा डिजाइन किए गए की तुलना में कम लागत पर नैदानिक ​​कार्य-अप का उत्पादन किया।"
+      },
+      "gu": {
+        "question": "કઈ ટેક્નોલોજી કંપનીએ ડૉક્ટરની જેમ પ્રશ્નો પૂછીને અને તેની પૂર્વધારણાઓને અપડેટ કરીને તબીબી પરિસ્થિતિઓનું નિદાન કરવા માટે રચાયેલ ક્રમિક AI ટૂલ વિકસાવ્યું છે?",
+        "options": {
+          "A": "Google",
+          "B": "ઓપનએઆઈ",
+          "C": "IBM",
+          "D": "માઈક્રોસોફ્ટ"
+        },
+        "explanation": "માઈક્રોસોફ્ટના સંશોધકોએ એક ક્રમિક આર્ટિફિશિયલ ઈન્ટેલિજન્સ ટૂલ વિકસાવ્યું છે જે ડૉક્ટરના ક્લિનિકલ તર્ક જેવી પ્રક્રિયા દ્વારા તબીબી પરિસ્થિતિઓનું નિદાન કરવા માટે રચાયેલ છે. ઑક્ટોબર 23, 2026ના રોજ પ્રકાશિત થયેલા અભ્યાસમાં જાહેર કરાયેલ, મૉડલ ક્લિનિકલ નિષ્ણાતોની સિમ્યુલેટેડ પૅનલનું સંકલન કરવા માટે ઑર્કેસ્ટ્રેટરનો ઉપયોગ કરે છે. એક જ સમયે તમામ લક્ષણોનું પૃથ્થકરણ કરવાને બદલે, તે નક્કી કરે છે કે કયા પ્રશ્નો પૂછવા જોઈએ, સંબંધિત શારીરિક તપાસના તારણોનું મૂલ્યાંકન કરે છે, અને નવી માહિતી અને પરીક્ષણ પરિણામો ઉપલબ્ધ થતાંની સાથે તેની ડાયગ્નોસ્ટિક પૂર્વધારણાઓને અપડેટ કરે છે. સિસ્ટમે 300 જટિલ કેસોમાં સામાન્ય ચિકિત્સકો કરતાં બમણી સચોટતા હાંસલ કરી હતી અને માનવ ડોકટરો દ્વારા ડિઝાઇન કરાયેલી સરખામણીમાં ઓછા ખર્ચે ડાયગ્નોસ્ટિક વર્ક-અપ્સનું ઉત્પાદન કર્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-27-6",
+      "date": "2026-10-27",
+      "qno": 6,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Who became the Indian player with the most centuries in T20 cricket after scoring his 11th hundred against New Zealand?",
+        "options": {
+          "A": "Virat Kohli",
+          "B": "Abhishek Sharma",
+          "C": "KL Rahul",
+          "D": "Rohit Sharma"
+        },
+        "explanation": "Abhishek Sharma became the Indian player with the most centuries in T20 cricket after scoring his 11th hundred against New Zealand on 27 October 2026. He scored 113 runs off just 38 balls, hitting nine fours and 11 sixes. This achievement took him past Virat Kohli, who had recorded 10 T20 centuries. Abhishek's 11 centuries include four in T20 Internationals, two in the Indian Premier League for Sunrisers Hyderabad, and five for Punjab in the Syed Mushtaq Ali Trophy. Globally, West Indies batter Chris Gayle leads the list with 22 T20 centuries."
+      },
+      "hi": {
+        "question": "न्यूजीलैंड के खिलाफ अपना 11वां शतक लगाने के बाद टी20 क्रिकेट में सर्वाधिक शतक लगाने वाले भारतीय खिलाड़ी कौन बन गए?",
+        "options": {
+          "A": "विराट कोहली",
+          "B": "अभिषेक शर्मा",
+          "C": "केएल राहुल",
+          "D": "रोहित शर्मा"
+        },
+        "explanation": "27 अक्टूबर 2026 को न्यूजीलैंड के खिलाफ अपना 11वां शतक लगाने के बाद अभिषेक शर्मा टी20 क्रिकेट में सबसे ज्यादा शतक लगाने वाले भारतीय खिलाड़ी बन गए। उन्होंने सिर्फ 38 गेंदों पर 113 रन बनाए, जिसमें नौ चौके और 11 छक्के लगाए। इस उपलब्धि ने उन्हें विराट कोहली को पीछे छोड़ दिया, जिनके नाम 10 टी20 शतक दर्ज थे। अभिषेक के 11 शतकों में टी20 अंतरराष्ट्रीय में चार, इंडियन प्रीमियर लीग में सनराइजर्स हैदराबाद के लिए दो और सैयद मुश्ताक अली ट्रॉफी में पंजाब के लिए पांच शतक शामिल हैं। विश्व स्तर पर, वेस्टइंडीज के बल्लेबाज क्रिस गेल 22 टी20 शतकों के साथ इस सूची में सबसे आगे हैं।"
+      },
+      "gu": {
+        "question": "ન્યુઝીલેન્ડ સામે 11મી સદી ફટકારીને T20 ક્રિકેટમાં સૌથી વધુ સદી ફટકારનાર ભારતીય ખેલાડી કોણ બન્યો?",
+        "options": {
+          "A": "વિરાટ કોહલી",
+          "B": "અભિષેક શર્મા",
+          "C": "કેએલ રાહુલ",
+          "D": "રોહિત શર્મા"
+        },
+        "explanation": "અભિષેક શર્મા 27 ઓક્ટોબર 2026ના રોજ ન્યૂઝીલેન્ડ સામે તેની 11મી સદી ફટકાર્યા બાદ T20 ક્રિકેટમાં સૌથી વધુ સદી ધરાવનાર ભારતીય ખેલાડી બન્યો. તેણે માત્ર 38 બોલમાં નવ ચોગ્ગા અને 11 છગ્ગા ફટકારીને 113 રન બનાવ્યા. આ સિદ્ધિ તેને વિરાટ કોહલીને પાછળ લઈ ગઈ, જેણે 10 T20 સદી નોંધાવી હતી. અભિષેકની 11 સદીઓમાં T20 ઈન્ટરનેશનલમાં ચાર, સનરાઈઝર્સ હૈદરાબાદ માટે ઈન્ડિયન પ્રીમિયર લીગમાં બે અને સૈયદ મુશ્તાક અલી ટ્રોફીમાં પંજાબ માટે પાંચ સદીનો સમાવેશ થાય છે. વૈશ્વિક સ્તરે વેસ્ટ ઈન્ડિઝનો બેટ્સમેન ક્રિસ ગેલ 22 ટી-20 સદી સાથે આ યાદીમાં સૌથી આગળ છે."
+      }
+    },
+    {
+      "id": "2026-10-27-7",
+      "date": "2026-10-27",
+      "qno": 7,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "In which Indian state is the proposed Siang Upper Multipurpose Project (SUMP), an 11,200 MW hydropower and water storage project, located?",
+        "options": {
+          "A": "Assam",
+          "B": "Sikkim",
+          "C": "Meghalaya",
+          "D": "Arunachal Pradesh"
+        },
+        "explanation": "Arunachal Pradesh is the state where the proposed Siang Upper Multipurpose Project (SUMP) is planned. The project aims to generate approximately 11,200 MW of hydropower and provide water storage, potentially supporting electricity production and flood management. The National Hydroelectric Power Corporation (NHPC) has been assigned the responsibility of conducting the project's pre-feasibility assessment. The proposal is also considered strategically important because of China's planned hydropower project on the Yarlung Tsangpo River in Tibet. However, members of the indigenous Adi community have raised concerns about displacement, livelihoods, cultural traditions, environmental impacts, and consultation with local communities."
+      },
+      "hi": {
+        "question": "11,200 मेगावाट की जलविद्युत और जल भंडारण परियोजना, प्रस्तावित सियांग अपर बहुउद्देशीय परियोजना (एसयूएमपी) किस भारतीय राज्य में स्थित है?",
+        "options": {
+          "A": "असम",
+          "B": "सिक्किम",
+          "C": "मेघालय",
+          "D": "अरुणाचल प्रदेश"
+        },
+        "explanation": "अरुणाचल प्रदेश वह राज्य है जहां प्रस्तावित सियांग अपर बहुउद्देशीय परियोजना (एसयूएमपी) की योजना बनाई गई है।  परियोजना aims को generate approximately 11,200 MW का hydropower और provide water storage, potentially supporting electricity production और flood management.  राष्ट्रीय Hydroelectric Power Corporation (NHPC) के पास है been assigned  responsibility का conducting  परियोजना's pre-feasibility assessment.  proposal है भी considered strategically महत्वपूर्ण because का China's planned hydropower परियोजना पर  Yarlung Tsangpo River में Tibet. However, members का  indigenous Adi community के पास है raised concerns about displacement, livelihoods, cultural traditions, environmental impacts, और consultation के साथ local communities."
+      },
+      "gu": {
+        "question": "સૂચિત સિયાંગ અપર મલ્ટીપર્પઝ પ્રોજેક્ટ (SUMP), 11,200 મેગાવોટનો હાઇડ્રોપાવર અને વોટર સ્ટોરેજ પ્રોજેક્ટ કયા ભારતીય રાજ્યમાં સ્થિત છે?",
+        "options": {
+          "A": "આસામ",
+          "B": "સિક્કિમ",
+          "C": "મેઘાલય",
+          "D": "અરુણાચલ પ્રદેશ"
+        },
+        "explanation": "અરુણાચલ પ્રદેશ એ રાજ્ય છે જ્યાં સૂચિત સિયાંગ અપર મલ્ટીપર્પઝ પ્રોજેક્ટ (SUMP)નું આયોજન કરવામાં આવ્યું છે. પ્રોજેક્ટનો ઉદ્દેશ અંદાજે 11,200 મેગાવોટ હાઇડ્રોપાવર ઉત્પન્ન કરવાનો અને પાણીનો સંગ્રહ પૂરો પાડવાનો છે, જે સંભવિત રીતે વીજળી ઉત્પાદન અને પૂર વ્યવસ્થાપનને ટેકો આપે છે. નેશનલ હાઇડ્રોઇલેક્ટ્રિક પાવર કોર્પોરેશન (NHPC) ને તિબેટમાં યાર્લુંગ ત્સાંગપો નદી પરના પ્રોજેક્ટ's pre-feasibility assessment.  proposal છે પણ considered strategically મહત્વપૂર્ણ because નું China' ના આયોજિત હાઇડ્રોપાવર પ્રોજેક્ટનું સંચાલન કરવાની જવાબદારી સોંપવામાં આવી છે. જો કે, આદિવાસી આદિ સમુદાયના સભ્યોએ વિસ્થાપન, આજીવિકા, સાંસ્કૃતિક પરંપરાઓ, પર્યાવરણીય અસરો અને સ્થાનિક સમુદાયો સાથે પરામર્શ અંગે ચિંતા વ્યક્ત કરી છે."
+      }
+    },
+    {
+      "id": "2026-10-27-8",
+      "date": "2026-10-27",
+      "qno": 8,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state will host Raksha Expo 2026, India's first-ever defence and aerospace exhibition organised by a state government?",
+        "options": {
+          "A": "Telangana",
+          "B": "Karnataka",
+          "C": "Tamil Nadu",
+          "D": "Gujarat"
+        },
+        "explanation": "Telangana will host Raksha Expo 2026 from December 7 to 9, 2026, at Bharat Future City in Hyderabad. It is described as India's first defence and aerospace exhibition organised by a state government. The event will showcase developments in aerospace, space, defence, and internal security, with an air show scheduled for December 9. Hyderabad is a major hub for India's defence and aerospace industries, accounting for approximately 30% of the country's total industry. Telangana's aerospace exports reached ₹30,742 crore in 2024–25, reflecting the state's growing role in defence manufacturing and aerospace exports."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य किसी राज्य सरकार द्वारा आयोजित भारत की पहली रक्षा और एयरोस्पेस प्रदर्शनी, रक्षा एक्सपो 2026 की मेजबानी करेगा?",
+        "options": {
+          "A": "तेलंगाना",
+          "B": "कर्नाटक",
+          "C": "तमिलनाडु",
+          "D": "गुजरात"
+        },
+        "explanation": "तेलंगाना 7 से 9 दिसंबर, 2026 तक हैदराबाद के भारत फ्यूचर सिटी में रक्षा एक्सपो 2026 की मेजबानी करेगा। इसे भारत_ENG_THEME_TOKEN_0__ के रक्षा और एयरोस्पेस उद्योगों के रूप में वर्णित किया गया है, जो देश_ENG_THEME_TOKEN_1__ के एयरोस्पेस निर्यात का लगभग 30% हिस्सा है, जो 2024-25 में ₹30,742 करोड़ तक पहुंच गया, जो रक्षा विनिर्माण और एयरोस्पेस निर्यात में राज्य की बढ़ती भूमिका को दर्शाता है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય રક્ષા એક્સ્પો 2026નું આયોજન કરશે, જે રાજ્ય સરકાર દ્વારા આયોજિત ભારતનું પ્રથમ સંરક્ષણ અને એરોસ્પેસ પ્રદર્શન છે?",
+        "options": {
+          "A": "તેલંગાણા",
+          "B": "કર્ણાટક",
+          "C": "તમિલનાડુ",
+          "D": "ગુજરાત"
+        },
+        "explanation": "તેલંગાણા હૈદરાબાદમાં ભારત ફ્યુચર સિટી ખાતે 7 થી 9 ડિસેમ્બર, 2026 દરમિયાન રક્ષા એક્સ્પો 2026નું આયોજન કરશે. તેને ભારત's પ્રથમ defence અને aerospace exhibition organised દ્વારા એક રાજ્ય સરકાર.  event થશે showcase developments માં aerospace, space, defence, અને internal security, સાથે એક air show scheduled માટે December 9. Hyderabad છે એક major hub માટે India'ના સંરક્ષણ અને એરોસ્પેસ ઉદ્યોગો તરીકે વર્ણવવામાં આવે છે, જે દેશની આશરે 30% હિસ્સો ધરાવે છે's total industry. Telangana'ની એરોસ્પેસ નિકાસ 2024-25માં ₹30,742 કરોડ સુધી પહોંચી છે, જે રાજ્યની સંરક્ષણ ક્ષેત્રે વધતી જતી માનવીય ભૂમિકા અને નિકાસ ક્ષેત્રે પ્રતિબિંબિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-27-9",
+      "date": "2026-10-27",
+      "qno": 9,
+      "answer": "C",
+      "category": "National",
+      "en": {
+        "question": "Which high-ethanol-content fuel has the Ministry of Road Transport and Highways permitted for use in vehicles specifically designed and certified to run on it?",
+        "options": {
+          "A": "E20",
+          "B": "E85",
+          "C": "E100",
+          "D": "E10"
+        },
+        "explanation": "E100 is a high-ethanol-content fuel that the Ministry of Road Transport and Highways (MoRTH) has permitted for use in vehicles specifically designed and certified for it under the amended Central Motor Vehicles Rules, 2026. The amendments were notified through G.S.R. 911(E) dated October 23, 2026, and published on October 26, 2026. E100 is nominally composed of 100% ethanol, although its actual composition depends on applicable fuel specifications. Ethanol can be produced from agricultural sources such as sugarcane and maize. Its use aims to diversify India’s transport energy sources, promote biofuels and reduce dependence on imported crude oil. E100 must not be used in ordinary petrol vehicles unless they are appropriately designed and certified."
+      },
+      "hi": {
+        "question": "सड़क परिवहन और राजमार्ग मंत्रालय ने किस उच्च इथेनॉल-सामग्री वाले ईंधन को विशेष रूप से डिजाइन और उस पर चलने के लिए प्रमाणित वाहनों में उपयोग की अनुमति दी है?",
+        "options": {
+          "A": "ई20",
+          "B": "E85",
+          "C": "E100",
+          "D": "E10"
+        },
+        "explanation": "E100 एक उच्च इथेनॉल सामग्री वाला ईंधन है जिसे सड़क परिवहन और राजमार्ग मंत्रालय (MoRTH) ने संशोधित केंद्रीय मोटर वाहन नियम, 2026 के तहत विशेष रूप से डिजाइन और प्रमाणित वाहनों में उपयोग की अनुमति दी है। संशोधनों को जी.एस.आर. के माध्यम से अधिसूचित किया गया था। 911(ई) दिनांक 23 अक्टूबर, 2026, और 26 अक्टूबर, 2026 को प्रकाशित। ई100 नाममात्र रूप से 100% इथेनॉल से बना है, हालांकि इसकी वास्तविक संरचना लागू ईंधन विनिर्देशों पर निर्भर करती है। इथेनॉल का उत्पादन गन्ना और मक्का जैसे कृषि स्रोतों से किया जा सकता है। इसके उपयोग का उद्देश्य भारत के परिवहन ऊर्जा स्रोतों में विविधता लाना, जैव ईंधन को बढ़ावा देना और आयातित कच्चे तेल पर निर्भरता कम करना है। E100 का उपयोग सामान्य पेट्रोल वाहनों में तब तक नहीं किया जाना चाहिए जब तक कि वे उचित रूप से डिज़ाइन और प्रमाणित न हों।"
+      },
+      "gu": {
+        "question": "રોડ ટ્રાન્સપોર્ટ અને હાઇવે મંત્રાલયે કયા ઉચ્ચ-ઇથેનોલ-કન્ટેન્ટ ઇંધણને ખાસ કરીને ડિઝાઇન કરેલા અને તેના પર ચલાવવા માટે પ્રમાણિત કરેલા વાહનોમાં ઉપયોગ માટે પરવાનગી આપી છે?",
+        "options": {
+          "A": "E20",
+          "B": "E85",
+          "C": "E100",
+          "D": "E10"
+        },
+        "explanation": "E100 એ એક ઉચ્ચ-ઇથેનોલ-કન્ટેન્ટ ઇંધણ છે જેને માર્ગ પરિવહન અને ધોરીમાર્ગ મંત્રાલય (MoRTH) એ સુધારેલા કેન્દ્રીય મોટર વાહન નિયમો, 2026 હેઠળ તેના માટે ખાસ ડિઝાઇન કરાયેલ અને પ્રમાણિત વાહનોમાં ઉપયોગ માટે પરવાનગી આપી છે. સુધારા G.S.R દ્વારા સૂચિત કરવામાં આવ્યા હતા. 911(E) 23 ઓક્ટોબર, 2026 ના રોજ, અને 26 ઓક્ટોબર, 2026 ના રોજ પ્રકાશિત. E100 નજીવા રીતે 100% ઇથેનોલથી બનેલું છે, જો કે તેની વાસ્તવિક રચના લાગુ બળતણ વિશિષ્ટતાઓ પર આધારિત છે. શેરડી અને મકાઈ જેવા કૃષિ સ્ત્રોતોમાંથી ઈથેનોલનું ઉત્પાદન કરી શકાય છે. તેના ઉપયોગનો હેતુ ભારતના પરિવહન ઉર્જા સ્ત્રોતોને વૈવિધ્યીકરણ કરવાનો, જૈવ ઇંધણને પ્રોત્સાહન આપવા અને આયાતી ક્રૂડ ઓઇલ પર નિર્ભરતા ઘટાડવાનો છે. E100 નો ઉપયોગ સામાન્ય પેટ્રોલ વાહનોમાં થવો જોઈએ નહીં સિવાય કે તે યોગ્ય રીતે ડિઝાઇન અને પ્રમાણિત હોય."
+      }
+    },
+    {
+      "id": "2026-10-27-10",
+      "date": "2026-10-27",
+      "qno": 10,
+      "answer": "C",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the gold medal in the men's javelin throw F37/38 event at the 2026 Asian Para Games by setting a world record with a throw of 60.49 metres?",
+        "options": {
+          "A": "Sandeep",
+          "B": "Ajay Kumar",
+          "C": "Haney",
+          "D": "Harvinder Singh"
+        },
+        "explanation": "Haney won the gold medal in the men's javelin throw F37/38 event at the 2026 Asian Para Games in Japan on October 23, 2026. He set a new world record with an outstanding throw of 60.49 metres, marking a major achievement for Indian para-athletics. Haney also secured a bronze medal in the men's F37 discus throw with a distance of 57.04 metres. Other notable Indian performances included Sandeep's gold medal and world record in the men's 400m T64 event. India's athletes also earned medals in badminton, archery, and other athletics events, contributing to the country's overall medal tally."
+      },
+      "hi": {
+        "question": "2026 एशियाई पैरा खेलों में पुरुषों की भाला फेंक F37/38 स्पर्धा में 60.49 मीटर के थ्रो के साथ विश्व रिकॉर्ड बनाकर स्वर्ण पदक किसने जीता?",
+        "options": {
+          "A": "संदीप",
+          "B": "अजय कुमार",
+          "C": "हनी",
+          "D": "हरविंदर सिंह"
+        },
+        "explanation": "हैनी ने पुरुषों_ENG_THEME_TOKEN_0__s F37 डिस्कस थ्रो में 57.04 मीटर की दूरी के साथ स्वर्ण पदक जीता। अन्य उल्लेखनीय भारतीय प्रदर्शनों में संदीप's gold medal और world record में  men's 400 मीटर T64 इवेंट शामिल है। भारत's athletes भी earned medals में badminton, archery, और other athletics events, contributing को  देश' की समग्र पदक तालिका।"
+      },
+      "gu": {
+        "question": "2026 એશિયન પેરા ગેમ્સમાં પુરુષોની ભાલા ફેંક F37/38 ઇવેન્ટમાં કોણે 60.49 મીટરના થ્રો સાથે વર્લ્ડ રેકોર્ડ બનાવીને ગોલ્ડ મેડલ જીત્યો?",
+        "options": {
+          "A": "સંદીપ",
+          "B": "અજય કુમાર",
+          "C": "હેની",
+          "D": "હરવિન્દર સિંહ"
+        },
+        "explanation": "હેનીએ પુરુષો's javelin throw F37/38 event પર  2026 Asian Para Games માં Japan પર October 23, 2026. He set એક નવું world record સાથે એક outstanding throw નું 60.49 metres, marking એક major achievement માટે Indian para-athletics. Haney પણ secured એક bronze medal માં  men's F37 ડિસ્કસ થ્રોમાં 57.04 મીટરના અંતર સાથે ગોલ્ડ મેડલ જીત્યો. અન્ય નોંધપાત્ર ભારતીય પ્રદર્શનમાં સંદીપ's gold medal અને world record માં  men'ની 400m T64 ઇવેન્ટનો સમાવેશ થાય છે. ભારત's athletes પણ earned medals માં badminton, archery, અને other athletics events, contributing ને  દેશ'ની એકંદર મેડલ તા."
+      }
+    },
+    {
+      "id": "2026-10-26-1",
+      "date": "2026-10-26",
+      "qno": 1,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "During which dates will Vigilance Awareness Week 2026 be observed by the Central Vigilance Commission (CVC)?",
+        "options": {
+          "A": "October 26 to November 1",
+          "B": "October 20 to October 26",
+          "C": "November 1 to November 7",
+          "D": "October 15 to October 21"
+        },
+        "explanation": "Vigilance Awareness Week 2026 will be observed from October 26 to November 1 under the leadership of the Central Vigilance Commission (CVC). The theme for this year is “Probity for Prosperity,” highlighting the importance of integrity, transparency and accountability in public life. The observance aims to raise awareness about corruption prevention and promote ethical conduct in government institutions. During the week, government departments, public sector undertakings, public sector banks and other organisations are encouraged to take the Integrity Pledge and organise awareness campaigns, workshops, quizzes and community activities. The CVC plays a significant role in strengthening vigilance and preventing corruption in central government bodies."
+      },
+      "hi": {
+        "question": "केंद्रीय सतर्कता आयोग (सीवीसी) द्वारा सतर्कता जागरूकता सप्ताह 2026 किन तारीखों के दौरान मनाया जाएगा?",
+        "options": {
+          "A": "26 अक्टूबर से 1 नवंबर तक",
+          "B": "20 अक्टूबर से 26 अक्टूबर",
+          "C": "1 नवंबर से 7 नवंबर तक",
+          "D": "15 अक्टूबर से 21 अक्टूबर"
+        },
+        "explanation": "केंद्रीय सतर्कता आयोग (सीवीसी) के नेतृत्व में 26 अक्टूबर से 1 नवंबर तक सतर्कता जागरूकता सप्ताह 2026 मनाया जाएगा। theme के लिए यह साल है “Probity के लिए Prosperity,\" सार्वजनिक जीवन में सत्यनिष्ठा, पारदर्शिता और जवाबदेही के महत्व पर प्रकाश डालता है। इस समारोह का उद्देश्य सरकारी संस्थानों में भ्रष्टाचार की रोकथाम के बारे में जागरूकता बढ़ाना और नैतिक आचरण को बढ़ावा देना है। सप्ताह के दौरान, सरकारी विभागों, सार्वजनिक क्षेत्र के उपक्रमों, सार्वजनिक क्षेत्र के बैंकों और अन्य संगठनों को सत्यनिष्ठा प्रतिज्ञा लेने और जागरूकता अभियान, कार्यशालाएं, प्रश्नोत्तरी और सामुदायिक गतिविधियों का आयोजन करने के लिए प्रोत्साहित किया जाता है। सीवीसी केंद्र सरकार के निकायों में सतर्कता को मजबूत करने और भ्रष्टाचार को रोकने में महत्वपूर्ण भूमिका निभाता है।"
+      },
+      "gu": {
+        "question": "સેન્ટ્રલ વિજિલન્સ કમિશન (CVC) દ્વારા કઈ તારીખો દરમિયાન તકેદારી જાગૃતિ સપ્તાહ 2026 મનાવવામાં આવશે?",
+        "options": {
+          "A": "26 ઓક્ટોબરથી 1 નવેમ્બર",
+          "B": "20 ઓક્ટોબરથી 26 ઓક્ટોબર",
+          "C": "1 નવેમ્બરથી 7 નવેમ્બર",
+          "D": "15 ઓક્ટોબરથી 21 ઓક્ટોબર"
+        },
+        "explanation": "સેન્ટ્રલ વિજિલન્સ કમિશન (CVC)ના નેતૃત્વ હેઠળ 26 ઓક્ટોબરથી 1 નવેમ્બર સુધી તકેદારી જાગૃતિ સપ્તાહ 2026 મનાવવામાં આવશે. theme માટે આ વર્ષ છે “Probity માટે Prosperity,\" જાહેર જીવનમાં અખંડિતતા, પારદર્શિતા અને જવાબદારીના મહત્વને પ્રકાશિત કરે છે. પાલનનો ઉદ્દેશ્ય ભ્રષ્ટાચાર નિવારણ અંગે જાગૃતિ લાવવા અને સરકારી સંસ્થાઓમાં નૈતિક આચરણને પ્રોત્સાહન આપવાનો છે. સપ્તાહ દરમિયાન, સરકારી વિભાગો, જાહેર ક્ષેત્રના ઉપક્રમો, જાહેર ક્ષેત્રની બેંકો અને અન્ય સંસ્થાઓને પ્રોત્સાહિત કરવામાં આવે છે. ક્વિઝ અને સામુદાયિક પ્રવૃતિઓ કેન્દ્ર સરકારની સંસ્થાઓમાં તકેદારી અને ભ્રષ્ટાચારને રોકવામાં મહત્વપૂર્ણ ભૂમિકા ભજવે છે."
+      }
+    },
+    {
+      "id": "2026-10-26-2",
+      "date": "2026-10-26",
+      "qno": 2,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Which Indian cue-sports player won his record 29th world title at the World Billiards Championship held on October 23, 2026?",
+        "options": {
+          "A": "Sourav Kothari",
+          "B": "Pankaj Advani",
+          "C": "Geet Sethi",
+          "D": "Aditya Mehta"
+        },
+        "explanation": "Pankaj Advani won his record 29th world title at the World Billiards Championship on October 23, 2026, further establishing himself as one of India’s most successful cue-sports players. He competes in both billiards and snooker and has also participated in pool and Heyball. Advani was the first Indian to win the 6-Red Snooker World Championship and is recognised for achieving the billiards Grand Slam by winning all major titles in a single season. His honours include the Major Dhyan Chand Khel Ratna in 2006, the Arjuna Award in 2004, the Padma Shri in 2009 and the Padma Bhushan in 2018."
+      },
+      "hi": {
+        "question": "23 अक्टूबर, 2026 को आयोजित विश्व बिलियर्ड्स चैम्पियनशिप में किस भारतीय क्यू-स्पोर्ट्स खिलाड़ी ने अपना रिकॉर्ड 29वां विश्व खिताब जीता?",
+        "options": {
+          "A": "सौरव कोठारी",
+          "B": "पंकज आडवानी",
+          "C": "गीत सेठी",
+          "D": "आदित्य मेहता"
+        },
+        "explanation": "पंकज आडवाणी ने 23 अक्टूबर, 2026 को विश्व बिलियर्ड्स चैम्पियनशिप में अपना रिकॉर्ड 29वां विश्व खिताब जीता, और खुद को भारत के सबसे सफल क्यू-स्पोर्ट्स खिलाड़ियों में से एक के रूप में स्थापित किया। वह बिलियर्ड्स और स्नूकर दोनों में प्रतिस्पर्धा करता है और उसने पूल और हेबॉल में भी भाग लिया है। आडवाणी 6-रेड स्नूकर विश्व चैंपियनशिप जीतने वाले पहले भारतीय थे और उन्हें एक ही सीज़न में सभी प्रमुख खिताब जीतकर बिलियर्ड्स ग्रैंड स्लैम हासिल करने के लिए जाना जाता है। उनके सम्मानों में 2006 में मेजर ध्यानचंद खेल रत्न, 2004 में अर्जुन पुरस्कार, 2009 में पद्म श्री और 2018 में पद्म भूषण शामिल हैं।"
+      },
+      "gu": {
+        "question": "23 ઓક્ટોબર, 2026 ના રોજ યોજાયેલી વર્લ્ડ બિલિયર્ડ્સ ચેમ્પિયનશિપમાં કયા ભારતીય ક્યૂ-સ્પોર્ટ્સ ખેલાડીએ તેનું રેકોર્ડ 29મું વિશ્વ ખિતાબ જીત્યું?",
+        "options": {
+          "A": "સૌરવ કોઠારી",
+          "B": "પંકજ અડવાણી",
+          "C": "ગીત સેઠી",
+          "D": "આદિત્ય મહેતા"
+        },
+        "explanation": "પંકજ અડવાણીએ 23 ઓક્ટોબર, 2026ના રોજ વર્લ્ડ બિલિયર્ડ્સ ચેમ્પિયનશિપમાં તેનું વિક્રમી 29મું વિશ્વ ખિતાબ જીત્યું, તેણે પોતાને ભારતના સૌથી સફળ ક્યૂ-સ્પોર્ટ્સ ખેલાડીઓમાંના એક તરીકે સ્થાપિત કર્યા. તે બિલિયર્ડ અને સ્નૂકર બંનેમાં સ્પર્ધા કરે છે અને તેણે પૂલ અને હેબોલમાં પણ ભાગ લીધો છે. અડવાણી 6-રેડ સ્નૂકર વર્લ્ડ ચેમ્પિયનશિપ જીતનાર પ્રથમ ભારતીય હતા અને એક જ સિઝનમાં તમામ મોટા ટાઇટલ જીતીને બિલિયર્ડ્સ ગ્રાન્ડ સ્લેમ હાંસલ કરવા માટે ઓળખાય છે. તેમના સન્માનમાં 2006માં મેજર ધ્યાનચંદ ખેલ રત્ન, 2004માં અર્જુન પુરસ્કાર, 2009માં પદ્મશ્રી અને 2018માં પદ્મ ભૂષણનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-26-3",
+      "date": "2026-10-26",
+      "qno": 3,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Which Union Territory became India’s first fully organic Union Territory in October 2026?",
+        "options": {
+          "A": "Ladakh",
+          "B": "Jammu and Kashmir",
+          "C": "Chandigarh",
+          "D": "Puducherry"
+        },
+        "explanation": "Ladakh became India’s first fully organic Union Territory on October 25, 2026, following the government’s ban on the sale and use of chemical fertilisers. The initiative aims to promote sustainable agriculture and protect the fragile ecosystem of Ladakh’s cold-desert region. The Mission Organic Development Initiative (MODI), launched in 2020, targets the conversion of all 666 villages into certified organic farming zones, supported by a reported budget of ₹500 crore. The scheme promotes bio-fertilisers, organic seed supply, protected cultivation and better marketing opportunities for farmers. Sikkim became India’s first fully organic state in 2016."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में कौन सा केंद्र शासित प्रदेश भारत का पहला पूर्ण जैविक केंद्र शासित प्रदेश बन गया?",
+        "options": {
+          "A": "लद्दाख",
+          "B": "जम्मू और कश्मीर",
+          "C": "चंडीगढ़",
+          "D": "पुडुचेरी"
+        },
+        "explanation": "रासायनिक उर्वरकों की बिक्री और उपयोग पर सरकार के प्रतिबंध के बाद, 25 अक्टूबर, 2026 को लद्दाख भारत का पहला पूर्ण जैविक केंद्र शासित प्रदेश बन गया। इस पहल का उद्देश्य टिकाऊ कृषि को बढ़ावा देना और लद्दाख के ठंडे-रेगिस्तानी क्षेत्र के नाजुक पारिस्थितिकी तंत्र की रक्षा करना है। 2020 में लॉन्च किया गया मिशन ऑर्गेनिक डेवलपमेंट इनिशिएटिव (MODI), सभी 666 गांवों को प्रमाणित जैविक खेती क्षेत्रों में बदलने का लक्ष्य रखता है, जो ₹500 करोड़ के कथित बजट द्वारा समर्थित है। यह योजना किसानों के लिए जैव-उर्वरक, जैविक बीज आपूर्ति, संरक्षित खेती और बेहतर विपणन अवसरों को बढ़ावा देती है। सिक्किम 2016 में भारत का पहला पूर्ण जैविक राज्य बन गया।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં કયો કેન્દ્રશાસિત પ્રદેશ ભારતનો પ્રથમ સંપૂર્ણ કાર્બનિક કેન્દ્રશાસિત પ્રદેશ બન્યો?",
+        "options": {
+          "A": "લદ્દાખ",
+          "B": "જમ્મુ અને કાશ્મીર",
+          "C": "ચંડીગઢ",
+          "D": "પુડુચેરી"
+        },
+        "explanation": "રાસાયણિક ખાતરોના વેચાણ અને ઉપયોગ પર સરકારના પ્રતિબંધને પગલે 25 ઓક્ટોબર, 2026ના રોજ લદ્દાખ ભારતનો પ્રથમ સંપૂર્ણ કાર્બનિક કેન્દ્રશાસિત પ્રદેશ બન્યો. આ પહેલનો ઉદ્દેશ ટકાઉ ખેતીને પ્રોત્સાહન આપવાનો અને લદ્દાખના ઠંડા-રણ પ્રદેશની નાજુક ઇકોસિસ્ટમનું રક્ષણ કરવાનો છે. 2020 માં શરૂ કરાયેલ મિશન ઓર્ગેનિક ડેવલપમેન્ટ ઇનિશિયેટિવ (MODI), ₹500 કરોડના અહેવાલ બજેટ દ્વારા સમર્થિત તમામ 666 ગામોને પ્રમાણિત ઓર્ગેનિક ફાર્મિંગ ઝોનમાં રૂપાંતરિત કરવાનું લક્ષ્ય રાખે છે. આ યોજના ખેડૂતો માટે જૈવિક ખાતર, જૈવિક બિયારણનો પુરવઠો, સંરક્ષિત ખેતી અને વધુ સારી માર્કેટિંગ તકોને પ્રોત્સાહન આપે છે. સિક્કિમ 2016માં ભારતનું પ્રથમ સંપૂર્ણ ઓર્ગેનિક રાજ્ય બન્યું."
+      }
+    },
+    {
+      "id": "2026-10-26-4",
+      "date": "2026-10-26",
+      "qno": 4,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "By which year does ISRO plan to increase the number of functional launch pads in India to four under its expansion roadmap?",
+        "options": {
+          "A": "2027",
+          "B": "2029",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "The Indian Space Research Organisation (ISRO) aims to increase the number of functional launch pads in India to four by 2029, as announced by its Chairman, V. Narayanan. This expansion is intended to strengthen India’s satellite-launching capabilities and support the growing demand for commercial and scientific space missions. A dedicated Small Satellite Launch Vehicle (SSLV) launch complex, spread across approximately 2,000 acres, is planned at Kulasekarapattinam in Tamil Nadu’s Thoothukudi district. The facility will support small-satellite launches, particularly into polar orbits, and help reduce pressure on existing infrastructure at Sriharikota. The roadmap also encourages greater participation by private space companies."
+      },
+      "hi": {
+        "question": "इसरो अपने विस्तार रोडमैप के तहत किस वर्ष तक भारत में कार्यात्मक लॉन्च पैड की संख्या बढ़ाकर चार करने की योजना बना रहा है?",
+        "options": {
+          "A": "2027",
+          "B": "2029",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) का लक्ष्य 2029 तक भारत में कार्यात्मक लॉन्च पैड की संख्या बढ़ाकर चार करना है, जैसा कि इसके अध्यक्ष वी. नारायणन ने घोषणा की है। इस विस्तार का उद्देश्य भारत की उपग्रह-प्रक्षेपण क्षमताओं को मजबूत करना और वाणिज्यिक और वैज्ञानिक अंतरिक्ष मिशनों की बढ़ती मांग का समर्थन करना है। तमिलनाडु के थूथुकुडी जिले के कुलसेकरपट्टिनम में लगभग 2,000 एकड़ में फैले एक समर्पित लघु उपग्रह प्रक्षेपण यान (एसएसएलवी) लॉन्च कॉम्प्लेक्स की योजना बनाई गई है। यह सुविधा विशेष रूप से ध्रुवीय कक्षाओं में छोटे-उपग्रह प्रक्षेपणों का समर्थन करेगी, और श्रीहरिकोटा में मौजूदा बुनियादी ढांचे पर दबाव कम करने में मदद करेगी। रोडमैप निजी अंतरिक्ष कंपनियों की अधिक भागीदारी को भी प्रोत्साहित करता है।"
+      },
+      "gu": {
+        "question": "કયા વર્ષ સુધીમાં ISRO તેના વિસ્તરણ રોડમેપ હેઠળ ભારતમાં કાર્યાત્મક લોન્ચ પેડ્સની સંખ્યાને ચાર સુધી વધારવાની યોજના ધરાવે છે?",
+        "options": {
+          "A": "2027",
+          "B": "2029",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "ઈન્ડિયન સ્પેસ રિસર્ચ ઓર્ગેનાઈઝેશન (ISRO) એ તેના અધ્યક્ષ વી. નારાયણન દ્વારા જાહેર કરવામાં આવેલ જાહેરાત મુજબ 2029 સુધીમાં ભારતમાં કાર્યાત્મક લોન્ચ પેડ્સની સંખ્યાને ચાર સુધી વધારવાનું લક્ષ્ય રાખ્યું છે. આ વિસ્તરણનો હેતુ ભારતની ઉપગ્રહ-પ્રક્ષેપણ ક્ષમતાઓને મજબૂત બનાવવા અને વ્યાપારી અને વૈજ્ઞાનિક અવકાશ મિશનની વધતી માંગને સમર્થન આપવાનો છે. તમિલનાડુના થૂથુકુડી જિલ્લામાં કુલશેખરાપટ્ટિનમ ખાતે આશરે 2,000 એકરમાં ફેલાયેલ સમર્પિત સ્મોલ સેટેલાઇટ લોંચ વ્હીકલ (SSLV) પ્રક્ષેપણ સંકુલનું આયોજન કરવામાં આવ્યું છે. આ સુવિધા નાના-ઉપગ્રહ પ્રક્ષેપણને સમર્થન આપશે, ખાસ કરીને ધ્રુવીય ભ્રમણકક્ષામાં, અને શ્રીહરિકોટા ખાતે હાલના ઈન્ફ્રાસ્ટ્રક્ચર પર દબાણ ઘટાડવામાં મદદ કરશે. રોડમેપ ખાનગી અવકાશ કંપનીઓ દ્વારા વધુ ભાગીદારીને પ્રોત્સાહિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-26-5",
+      "date": "2026-10-26",
+      "qno": 5,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Who won Brazil’s presidential runoff election held on October 25, 2026, securing a fourth presidential term in his political career?",
+        "options": {
+          "A": "Flávio Bolsonaro",
+          "B": "Jair Bolsonaro",
+          "C": "Fernando Haddad",
+          "D": "Lula da Silva"
+        },
+        "explanation": "Lula da Silva, whose full name is Luiz Inácio Lula da Silva, won Brazil’s presidential runoff election held on October 25, 2026, securing 51.79% of the valid votes. He defeated his right-wing challenger, Flávio Bolsonaro, who received 48.21%. Lula represents the Workers’ Party (PT) and has a long political career, having first become president in January 2003. After serving two consecutive terms until 2010, he returned to the presidency in January 2023. His new term is scheduled to begin on January 5, 2027. His key challenges include political divisions, economic reforms, environmental protection and international relations."
+      },
+      "hi": {
+        "question": "25 अक्टूबर, 2026 को आयोजित ब्राज़ील के राष्ट्रपति चुनाव में किसने जीत हासिल की और अपने राजनीतिक करियर में चौथा राष्ट्रपति पद हासिल किया?",
+        "options": {
+          "A": "फ्लेवियो बोलसोनारो",
+          "B": "जायर बोलसोनारो",
+          "C": "फर्नांडो हद्दाद",
+          "D": "लूला दा सिल्वा"
+        },
+        "explanation": "लूला दा सिल्वा, जिनका पूरा नाम लुइज़ इनासियो लूला दा सिल्वा है, ने 25 अक्टूबर, 2026 को हुए ब्राज़ील के राष्ट्रपति चुनाव में 51.79% वैध वोट हासिल करके जीत हासिल की। उन्होंने अपने दक्षिणपंथी चैलेंजर फ्लेवियो बोल्सोनारो को हराया, जिन्हें 48.21% वोट मिले थे। लूला वर्कर्स पार्टी (पीटी) का प्रतिनिधित्व करते हैं और उनका लंबा राजनीतिक करियर है, वे पहली बार जनवरी 2003 में राष्ट्रपति बने थे। 2010 तक लगातार दो कार्यकाल तक सेवा करने के बाद, वह जनवरी 2023 में राष्ट्रपति पद पर लौट आए। उनका नया कार्यकाल 5 जनवरी, 2027 को शुरू होने वाला है। उनकी प्रमुख चुनौतियों में राजनीतिक विभाजन, आर्थिक सुधार, पर्यावरण संरक्षण और अंतरराष्ट्रीय संबंध शामिल हैं।"
+      },
+      "gu": {
+        "question": "25 ઑક્ટોબર, 2026 ના રોજ યોજાયેલી બ્રાઝિલની રાષ્ટ્રપતિ પદની ચૂંટણી કોણે જીતી, તેની રાજકીય કારકિર્દીમાં ચોથી રાષ્ટ્રપતિ પદ મેળવ્યું?",
+        "options": {
+          "A": "ફ્લાવિયો બોલ્સોનારો",
+          "B": "જેયર બોલ્સોનારો",
+          "C": "ફર્નાન્ડો હદ્દાદ",
+          "D": "લુલા દા સિલ્વા"
+        },
+        "explanation": "લુલા દા સિલ્વા, જેનું આખું નામ લુઇઝ ઇનાસિયો લુલા દા સિલ્વા છે, 25 ઓક્ટોબર, 2026 ના રોજ યોજાયેલી બ્રાઝિલની રાષ્ટ્રપતિ પદની ચૂંટણીમાં 51.79% માન્ય મતો મેળવીને જીતી ગયા. તેણે તેના જમણેરી ચેલેન્જર, ફ્લાવિયો બોલ્સોનારોને હરાવ્યા, જેમણે 48.21% મેળવ્યા. લુલા વર્કર્સ પાર્ટી (PT) નું પ્રતિનિધિત્વ કરે છે અને જાન્યુઆરી 2003 માં પ્રથમ વખત પ્રમુખ બન્યા હતા અને તેમની લાંબી રાજકીય કારકિર્દી છે. 2010 સુધી સતત બે ટર્મ સેવા આપ્યા પછી, તેઓ જાન્યુઆરી 2023 માં રાષ્ટ્રપતિ પદ પર પાછા ફર્યા. તેમનો નવો કાર્યકાળ 5 જાન્યુઆરી, 2027 ના રોજ શરૂ થવાનો છે. તેમના મુખ્ય પડકારોમાં રાજકીય વિભાજન, આંતરરાષ્ટ્રીય સંબંધો અને આંતરરાષ્ટ્રીય સંબંધોનું પુનઃ સંરક્ષણ શામેલ છે."
+      }
+    },
+    {
+      "id": "2026-10-26-6",
+      "date": "2026-10-26",
+      "qno": 6,
+      "answer": "D",
+      "category": "Science",
+      "en": {
+        "question": "In which country was the Tumaini clinical trial launched on October 23, 2026, to evaluate vaccines against the Bundibugyo strain of the Ebola virus?",
+        "options": {
+          "A": "Uganda",
+          "B": "Nigeria",
+          "C": "South Sudan",
+          "D": "DR Congo"
+        },
+        "explanation": "The Democratic Republic of the Congo (DR Congo) launched the Tumaini clinical trial on October 23, 2026, to investigate whether existing and experimental vaccines can protect against the Bundibugyo strain of the Ebola virus. The first vaccination using Ervebo was administered in Bunia, located in the northeastern Ituri Province. The study is being conducted with support from the World Health Organisation (WHO). Ervebo is licensed to protect against Ebola disease caused by the Zaire species, but its effectiveness against the Bundibugyo strain remains uncertain. The trial will also evaluate vaccine candidates developed using adenoviral-vector and mRNA technologies to help improve protection against future outbreaks."
+      },
+      "hi": {
+        "question": "इबोला वायरस के बुंदीबुग्यो स्ट्रेन के खिलाफ टीकों का मूल्यांकन करने के लिए 23 अक्टूबर, 2026 को किस देश में तुमैनी क्लिनिकल परीक्षण शुरू किया गया था?",
+        "options": {
+          "A": "युगांडा",
+          "B": "नाइजीरिया",
+          "C": "दक्षिण सूडान",
+          "D": "डीआर कांगो"
+        },
+        "explanation": "डेमोक्रेटिक रिपब्लिक ऑफ कांगो (डीआर कांगो) ने 23 अक्टूबर, 2026 को तुमैनी क्लिनिकल परीक्षण शुरू किया, ताकि यह जांच की जा सके कि क्या मौजूदा और प्रायोगिक टीके इबोला वायरस के बुंदीबुग्यो स्ट्रेन से रक्षा कर सकते हैं। एर्वेबो का उपयोग करके पहला टीकाकरण पूर्वोत्तर इटुरी प्रांत में स्थित बुनिया में किया गया था। यह अध्ययन विश्व स्वास्थ्य संगठन (डब्ल्यूएचओ) के सहयोग से आयोजित किया जा रहा है। एर्वेबो को ज़ैरे प्रजाति के कारण होने वाली इबोला बीमारी से बचाने के लिए लाइसेंस प्राप्त है, लेकिन बुंडीबुग्यो स्ट्रेन के खिलाफ इसकी प्रभावशीलता अनिश्चित बनी हुई है। परीक्षण भविष्य के प्रकोपों ​​​​के खिलाफ सुरक्षा में सुधार करने में मदद करने के लिए एडेनोवायरल-वेक्टर और एमआरएनए प्रौद्योगिकियों का उपयोग करके विकसित वैक्सीन उम्मीदवारों का भी मूल्यांकन करेगा।"
+      },
+      "gu": {
+        "question": "ઇબોલા વાયરસના બુંદીબુગ્યો તાણ સામે રસીઓનું મૂલ્યાંકન કરવા માટે 23 ઓક્ટોબર, 2026 ના રોજ તુમૈની ક્લિનિકલ ટ્રાયલ કયા દેશમાં શરૂ કરવામાં આવી હતી?",
+        "options": {
+          "A": "યુગાન્ડા",
+          "B": "નાઇજીરીયા",
+          "C": "દક્ષિણ સુદાન",
+          "D": "ડીઆર કોંગો"
+        },
+        "explanation": "ડેમોક્રેટિક રિપબ્લિક ઑફ કૉંગો (DR કોંગો) એ 23 ઑક્ટોબર, 2026ના રોજ તુમૈની ક્લિનિકલ ટ્રાયલ શરૂ કરી હતી, તે તપાસ કરવા માટે કે હાલની અને પ્રાયોગિક રસીઓ ઇબોલા વાયરસના બંડીબુગ્યો તાણ સામે રક્ષણ આપી શકે છે કે કેમ. ઇર્વેબોનો ઉપયોગ કરીને પ્રથમ રસીકરણ ઉત્તરપૂર્વીય ઇતુરી પ્રાંતમાં સ્થિત બુનિયામાં આપવામાં આવ્યું હતું. આ અભ્યાસ વર્લ્ડ હેલ્થ ઓર્ગેનાઈઝેશન (કોણ) ના સમર્થનથી હાથ ધરવામાં આવી રહ્યો છે. એર્વેબોને ઝાયર પ્રજાતિઓ દ્વારા થતા ઇબોલા રોગ સામે રક્ષણ આપવા માટે લાઇસન્સ આપવામાં આવ્યું છે, પરંતુ બુંદીબુગ્યો તાણ સામે તેની અસરકારકતા અનિશ્ચિત છે. અજમાયશ એડેનોવાઈરલ-વેક્ટર અને mRNA ટેક્નોલોજીનો ઉપયોગ કરીને વિકસિત રસીના ઉમેદવારોનું મૂલ્યાંકન પણ કરશે જેથી ભવિષ્યમાં થતા પ્રકોપ સામે રક્ષણ બહેતર બનાવવામાં મદદ મળે."
+      }
+    },
+    {
+      "id": "2026-10-26-7",
+      "date": "2026-10-26",
+      "qno": 7,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has approved a project to establish the country’s first cooperative-sector airline?",
+        "options": {
+          "A": "Tamil Nadu",
+          "B": "Karnataka",
+          "C": "Kerala",
+          "D": "Andhra Pradesh"
+        },
+        "explanation": "Kerala has approved an initiative by the Kerala Civil Aviation Development Cooperative Society to launch India’s first cooperative-sector airline. The approval was announced by Chief Minister V. D. Satheesan on October 25, 2026. The project aims to expand the role of cooperative societies beyond traditional sectors such as banking, agriculture and community development. C. N. Vijayakrishnan, chairman of MVR Cancer Centre and Research Institute, is the project leader. The proposed airline may be named “Co-Keralam,” with initial plans to lease two aircraft and connect Kochi with several cities in southern India. However, the operational launch is yet to take place."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने देश की पहली सहकारी क्षेत्र की एयरलाइन स्थापित करने की परियोजना को मंजूरी दी है?",
+        "options": {
+          "A": "तमिलनाडु",
+          "B": "कर्नाटक",
+          "C": "केरल",
+          "D": "आंध्र प्रदेश"
+        },
+        "explanation": "केरल ने भारत की पहली सहकारी क्षेत्र की एयरलाइन शुरू करने के लिए केरल नागरिक उड्डयन विकास सहकारी समिति की एक पहल को मंजूरी दे दी है। अनुमोदन की घोषणा 25 अक्टूबर, 2026 को मुख्यमंत्री वी. डी. सतीसन द्वारा की गई थी। इस परियोजना का उद्देश्य बैंकिंग, कृषि और सामुदायिक विकास जैसे पारंपरिक क्षेत्रों से परे सहकारी समितियों की भूमिका का विस्तार करना है। एमवीआर कैंसर सेंटर एंड रिसर्च इंस्टीट्यूट के अध्यक्ष सी. एन. विजयकृष्णन परियोजना के नेता हैं। प्रस्तावित एयरलाइन का नाम \"को-केरलम\" हो सकता है, जिसमें दो विमान पट्टे पर लेने और कोच्चि को दक्षिणी भारत के कई शहरों से जोड़ने की प्रारंभिक योजना है। हालाँकि, परिचालन लॉन्च अभी होना बाकी है।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે દેશની પ્રથમ સહકારી-ક્ષેત્રની એરલાઇનની સ્થાપના માટે પ્રોજેક્ટને મંજૂરી આપી છે?",
+        "options": {
+          "A": "તમિલનાડુ",
+          "B": "કર્ણાટક",
+          "C": "કેરળ",
+          "D": "આંધ્ર પ્રદેશ"
+        },
+        "explanation": "કેરળએ ભારતની પ્રથમ સહકારી-ક્ષેત્રની એરલાઇન શરૂ કરવા માટે કેરળ નાગરિક ઉડ્ડયન વિકાસ સહકારી મંડળીની પહેલને મંજૂરી આપી છે. 25 ઓક્ટોબર, 2026ના રોજ મુખ્યમંત્રી વી. ડી. સતીસન દ્વારા મંજૂરીની જાહેરાત કરવામાં આવી હતી. આ પ્રોજેક્ટનો ઉદ્દેશ્ય બેંકિંગ, કૃષિ અને સમુદાય વિકાસ જેવા પરંપરાગત ક્ષેત્રોથી આગળ સહકારી મંડળીઓની ભૂમિકાને વિસ્તૃત કરવાનો છે. MVR કેન્સર સેન્ટર એન્ડ રિસર્ચ ઇન્સ્ટિટ્યૂટના ચેરમેન સી.એન. વિજયકૃષ્ણન પ્રોજેક્ટ લીડર છે. સૂચિત એરલાઇનનું નામ \"કો-કેરાલમ\" હોઈ શકે છે, જેમાં બે એરક્રાફ્ટ લીઝ પર લેવા અને કોચીને દક્ષિણ ભારતના કેટલાક શહેરો સાથે જોડવાની પ્રારંભિક યોજના છે. જો કે, ઓપરેશનલ લોન્ચ થવાનું બાકી છે."
+      }
+    },
+    {
+      "id": "2026-10-26-8",
+      "date": "2026-10-26",
+      "qno": 8,
+      "answer": "C",
+      "category": "Places",
+      "en": {
+        "question": "Which Indian city was selected to host the 2029 World Weightlifting Championships for the first time in the country?",
+        "options": {
+          "A": "New Delhi",
+          "B": "Mumbai",
+          "C": "Ahmedabad",
+          "D": "Bengaluru"
+        },
+        "explanation": "Ahmedabad, located in Gujarat, was selected to host the 2029 World Weightlifting Championships, marking the first time India will host this prestigious international competition. The International Weightlifting Federation (IWF) announced the decision following its Executive Board Meeting held in Ningbo, China, on October 25, 2026. Hosting the championship is expected to strengthen India’s reputation as an international sporting destination and provide Indian athletes with an opportunity to compete on home soil. Ahmedabad is also scheduled to host the 2030 Commonwealth Games. India has won 18 medals at the World Weightlifting Championships, including three gold, ten silver and five bronze medals."
+      },
+      "hi": {
+        "question": "देश में पहली बार 2029 विश्व भारोत्तोलन चैंपियनशिप की मेजबानी के लिए किस भारतीय शहर को चुना गया?",
+        "options": {
+          "A": "नई दिल्ली",
+          "B": "मुंबई",
+          "C": "अहमदाबाद",
+          "D": "बेंगलुरु"
+        },
+        "explanation": "गुजरात में स्थित अहमदाबाद को 2029 विश्व भारोत्तोलन चैंपियनशिप की मेजबानी के लिए चुना गया था, यह पहली बार है कि भारत इस प्रतिष्ठित अंतरराष्ट्रीय प्रतियोगिता की मेजबानी करेगा। अंतर्राष्ट्रीय भारोत्तोलन महासंघ (IWF) ने 25 अक्टूबर, 2026 को चीन के निंगबो में आयोजित अपनी कार्यकारी बोर्ड की बैठक के बाद निर्णय की घोषणा की। चैंपियनशिप की मेजबानी से एक अंतरराष्ट्रीय खेल गंतव्य के रूप में भारत की प्रतिष्ठा मजबूत होने और भारतीय एथलीटों को घरेलू धरती पर प्रतिस्पर्धा करने का अवसर मिलने की उम्मीद है। अहमदाबाद 2030 राष्ट्रमंडल खेलों की मेजबानी भी करने वाला है। भारत ने विश्व भारोत्तोलन चैंपियनशिप में 18 पदक जीते हैं, जिनमें तीन स्वर्ण, दस रजत और पांच कांस्य पदक शामिल हैं।"
+      },
+      "gu": {
+        "question": "દેશમાં પ્રથમ વખત 2029 વર્લ્ડ વેઈટલિફ્ટિંગ ચેમ્પિયનશિપની યજમાની માટે કયા ભારતીય શહેરની પસંદગી કરવામાં આવી હતી?",
+        "options": {
+          "A": "નવી દિલ્હી",
+          "B": "મુંબઈ",
+          "C": "અમદાવાદ",
+          "D": "બેંગલુરુ"
+        },
+        "explanation": "ગુજરાતમાં સ્થિત અમદાવાદને 2029ની વર્લ્ડ વેઈટલિફ્ટિંગ ચેમ્પિયનશિપની યજમાની માટે પસંદ કરવામાં આવ્યું હતું, જે ભારત પ્રથમ વખત આ પ્રતિષ્ઠિત આંતરરાષ્ટ્રીય સ્પર્ધાનું આયોજન કરશે. ઇન્ટરનેશનલ વેઇટલિફ્ટિંગ ફેડરેશન (IWF) એ 25 ઓક્ટોબર, 2026ના રોજ ચીનના નિંગબોમાં યોજાયેલી તેની એક્ઝિક્યુટિવ બોર્ડ મીટિંગ બાદ નિર્ણયની જાહેરાત કરી હતી. ચૅમ્પિયનશિપનું આયોજન કરવાથી આંતરરાષ્ટ્રીય રમતગમત સ્થળ તરીકે ભારતની પ્રતિષ્ઠા મજબૂત થશે અને ભારતીય રમતવીરોને ઘરની ધરતી પર સ્પર્ધા કરવાની તક મળશે તેવી અપેક્ષા છે. અમદાવાદમાં 2030 કોમનવેલ્થ ગેમ્સની યજમાની પણ થવાની છે. ભારતે વર્લ્ડ વેઈટલિફ્ટિંગ ચેમ્પિયનશિપમાં 18 મેડલ જીત્યા છે, જેમાં ત્રણ ગોલ્ડ, દસ સિલ્વર અને પાંચ બ્રોન્ઝ મેડલનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-26-9",
+      "date": "2026-10-26",
+      "qno": 9,
+      "answer": "A",
+      "category": "Environment",
+      "en": {
+        "question": "Which cyclone was forecast to make landfall along the Andhra Pradesh and Yanam coasts on October 28, 2026?",
+        "options": {
+          "A": "Cyclone Arnab",
+          "B": "Cyclone Michaung",
+          "C": "Cyclone Mandous",
+          "D": "Cyclone Asani"
+        },
+        "explanation": "Cyclone Arnab was forecast to make landfall along the Andhra Pradesh and Yanam coasts on October 28, 2026, according to the India Meteorological Department (IMD). The probable landfall zone extended from Bapatla to Visakhapatnam. The storm was expected to intensify into a very severe cyclonic storm, with sustained wind speeds of 115–125 kmph and gusts reaching 140 kmph. Heavy rainfall, coastal flooding and storm surges posed significant risks to low-lying areas, particularly near Kakinada and Yanam. Authorities in Andhra Pradesh and Odisha initiated preparedness measures, including departmental coordination, public warnings and control-room arrangements to help protect residents."
+      },
+      "hi": {
+        "question": "28 अक्टूबर, 2026 को आंध्र प्रदेश और यनम तटों पर किस चक्रवात के टकराने की भविष्यवाणी की गई थी?",
+        "options": {
+          "A": "चक्रवात अर्नब",
+          "B": "चक्रवात मिचौंग",
+          "C": "चक्रवात मैंडौस",
+          "D": "चक्रवात असानी"
+        },
+        "explanation": "भारत मौसम विज्ञान विभाग (आईएमडी) के अनुसार, चक्रवात अर्नब के 28 अक्टूबर, 2026 को आंध्र प्रदेश और यनम तटों पर टकराने का अनुमान था। संभावित भूस्खलन क्षेत्र बापटला से विशाखापत्तनम तक फैला हुआ है। 115-125 किमी प्रति घंटे की निरंतर हवा की गति और 140 किमी प्रति घंटे तक की गति के साथ तूफान के बहुत गंभीर चक्रवाती तूफान में तब्दील होने की आशंका थी। भारी वर्षा, तटीय बाढ़ और तूफ़ान ने निचले इलाकों, विशेषकर काकीनाडा और यानम के पास महत्वपूर्ण जोखिम पैदा कर दिया है। आंध्र प्रदेश और ओडिशा में अधिकारियों ने निवासियों की सुरक्षा में मदद के लिए विभागीय समन्वय, सार्वजनिक चेतावनी और नियंत्रण कक्ष व्यवस्था सहित तैयारी के उपाय शुरू किए।"
+      },
+      "gu": {
+        "question": "28 ઓક્ટોબર, 2026 ના રોજ કયું ચક્રવાત આંધ્ર પ્રદેશ અને યાનમના દરિયાકાંઠે લેન્ડફોલ થવાની આગાહી કરવામાં આવી હતી?",
+        "options": {
+          "A": "ચક્રવાત અર્નબ",
+          "B": "ચક્રવાત મિચાઉંગ",
+          "C": "ચક્રવાત મેન્ડસ",
+          "D": "ચક્રવાત આસાની"
+        },
+        "explanation": "ચક્રવાત અર્નબ 28 ઓક્ટોબર, 2026 ના રોજ આંધ્ર પ્રદેશ અને યાનમના દરિયાકાંઠે લેન્ડફોલ કરવાની આગાહી કરવામાં આવી હતી, તેમ ભારતીય હવામાન વિભાગ (IMD) અનુસાર. સંભવિત લેન્ડફોલ ઝોન બાપટલાથી વિશાખાપટ્ટનમ સુધી વિસ્તરેલું છે. 115-125 કિમી પ્રતિ કલાકની સતત પવનની ઝડપ અને 140 કિમી પ્રતિ કલાકની ઝડપે ઝાપટાં સાથે વાવાઝોડું ખૂબ જ ગંભીર ચક્રવાતી વાવાઝોડામાં તીવ્ર થવાની ધારણા હતી. ભારે વરસાદ, દરિયાકાંઠાના પૂર અને વાવાઝોડાએ ખાસ કરીને કાકીનાડા અને યાનમની નજીકના નીચાણવાળા વિસ્તારો માટે નોંધપાત્ર જોખમ ઊભું કર્યું છે. આંધ્ર પ્રદેશ અને ઓડિશાના સત્તાવાળાઓએ રહેવાસીઓની સુરક્ષામાં મદદ કરવા વિભાગીય સંકલન, જાહેર ચેતવણીઓ અને કંટ્રોલ-રૂમની વ્યવસ્થા સહિત સજ્જતાનાં પગલાં શરૂ કર્યા."
+      }
+    },
+    {
+      "id": "2026-10-26-10",
+      "date": "2026-10-26",
+      "qno": 10,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "In which Indian state did Prime Minister Narendra Modi inaugurate the RBI Data Centre and Cybersecurity Training Institute on October 25, 2026?",
+        "options": {
+          "A": "West Bengal",
+          "B": "Odisha",
+          "C": "Assam",
+          "D": "Bihar"
+        },
+        "explanation": "Odisha became the location of the Reserve Bank of India’s new Data Centre and Cybersecurity Training Institute, inaugurated by Prime Minister Narendra Modi in Bhubaneswar on October 25, 2026. The facilities aim to strengthen India’s digital financial infrastructure, improve the reliability of essential banking services and enhance cybersecurity capabilities. The data centre will support critical payment systems, including Real Time Gross Settlement (RTGS) and National Electronic Funds Transfer (NEFT). The cybersecurity institute will focus on cybersecurity, artificial intelligence and emerging technologies, helping professionals identify cyber threats, respond to incidents and protect India’s financial systems from digital disruptions."
+      },
+      "hi": {
+        "question": "25 अक्टूबर, 2026 को प्रधान मंत्री नरेंद्र मोदी ने किस भारतीय राज्य में RBI डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का उद्घाटन किया?",
+        "options": {
+          "A": "पश्चिम बंगाल",
+          "B": "ओडिशा",
+          "C": "असम",
+          "D": "बिहार"
+        },
+        "explanation": "ओडिशा भारतीय रिज़र्व बैंक के नए डेटा सेंटर और साइबर सुरक्षा प्रशिक्षण संस्थान का स्थान बन गया, जिसका उद्घाटन 25 अक्टूबर, 2026 को प्रधान मंत्री नरेंद्र मोदी ने भुवनेश्वर में किया। सुविधाओं का उद्देश्य भारत के डिजिटल वित्तीय बुनियादी ढांचे को मजबूत करना, आवश्यक बैंकिंग सेवाओं की विश्वसनीयता में सुधार करना और साइबर सुरक्षा क्षमताओं को बढ़ाना है। डेटा सेंटर रियल टाइम ग्रॉस सेटलमेंट (आरटीजीएस) और नेशनल इलेक्ट्रॉनिक फंड ट्रांसफर (एनईएफटी) सहित महत्वपूर्ण भुगतान प्रणालियों का समर्थन करेगा। साइबर सुरक्षा संस्थान साइबर सुरक्षा, कृत्रिम बुद्धिमत्ता और उभरती प्रौद्योगिकियों पर ध्यान केंद्रित करेगा, जिससे पेशेवरों को साइबर खतरों की पहचान करने, घटनाओं पर प्रतिक्रिया देने और भारत की वित्तीय प्रणालियों को डिजिटल व्यवधानों से बचाने में मदद मिलेगी।"
+      },
+      "gu": {
+        "question": "25 ઓક્ટોબર, 2026ના રોજ વડાપ્રધાન નરેન્દ્ર મોદીએ ભારતના કયા રાજ્યમાં આરબીઆઈ ડેટા સેન્ટર અને સાયબર સિક્યુરિટી ટ્રેનિંગ ઈન્સ્ટિટ્યૂટનું ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "પશ્ચિમ બંગાળ",
+          "B": "ઓડિશા",
+          "C": "આસામ",
+          "D": "બિહાર"
+        },
+        "explanation": "ઓડિશા ભારતીય રિઝર્વ બેંકના નવા ડેટા સેન્ટર અને સાયબર સુરક્ષા તાલીમ સંસ્થાનું સ્થાન બની ગયું છે, જેનું ઉદ્ઘાટન વડાપ્રધાન નરેન્દ્ર મોદી દ્વારા 25 ઓક્ટોબર, 2026ના રોજ ભુવનેશ્વરમાં કરવામાં આવ્યું હતું. આ સુવિધાઓનો હેતુ ભારતના ડિજિટલ નાણાકીય ઈન્ફ્રાસ્ટ્રક્ચરને મજબૂત કરવા, આવશ્યક બેંકિંગ સેવાઓની વિશ્વસનીયતા સુધારવા અને સાયબર સુરક્ષા ક્ષમતાઓને વધારવાનો છે. ડેટા સેન્ટર રિયલ ટાઈમ ગ્રોસ સેટલમેન્ટ (RTGS) અને નેશનલ ઈલેક્ટ્રોનિક ફંડ ટ્રાન્સફર (NEFT) સહિત નિર્ણાયક પેમેન્ટ સિસ્ટમ્સને સપોર્ટ કરશે. સાયબર સિક્યુરિટી સંસ્થા સાયબર સિક્યુરિટી, આર્ટિફિશિયલ ઈન્ટેલિજન્સ અને ઉભરતી ટેક્નોલોજી પર ધ્યાન કેન્દ્રિત કરશે, પ્રોફેશનલ્સને સાયબર જોખમો ઓળખવામાં મદદ કરશે, ઘટનાઓનો જવાબ આપશે અને ભારતની નાણાકીય સિસ્ટમને ડિજિટલ વિક્ષેપોથી સુરક્ષિત કરશે."
+      }
+    },
+    {
       "id": "2026-10-18-1",
       "date": "2026-10-18",
       "qno": 1,
-      "answer": "A",
-      "category": "Defence",
+      "answer": "C",
+      "category": "State",
       "en": {
-        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
         "options": {
-          "A": "INS Tarkash",
-          "B": "INS Talwar",
-          "C": "INS Shivalik",
-          "D": "INS Trikand"
+          "A": "Manipur",
+          "B": "Mizoram",
+          "C": "Nagaland",
+          "D": "Meghalaya"
         },
-        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
       },
       "hi": {
-        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
         "options": {
-          "A": "आईएनएस तरकश",
-          "B": "आईएनएस तलवार",
-          "C": "आईएनएस शिवालिक",
-          "D": "आईएनएस त्रिकांड"
+          "A": "मणिपुर",
+          "B": "मिजोरम",
+          "C": "नागालैंड",
+          "D": "मेघालय"
         },
-        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
       },
       "gu": {
-        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
         "options": {
-          "A": "INS તારકશ",
-          "B": "INS તલવાર",
-          "C": "INS શિવાલિક",
-          "D": "INS ત્રિકાંડ"
+          "A": "મણિપુર",
+          "B": "મિઝોરમ",
+          "C": "નાગાલેન્ડ",
+          "D": "મેઘાલય"
         },
-        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
+        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
       }
     },
     {
       "id": "2026-10-18-2",
       "date": "2026-10-18",
       "qno": 2,
-      "answer": "B",
-      "category": "Sports",
-      "en": {
-        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
-        "options": {
-          "A": "Ajay Jadeja",
-          "B": "Parthiv Patel",
-          "C": "Robin Uthappa",
-          "D": "Dinesh Karthik"
-        },
-        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
-      },
-      "hi": {
-        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
-        "options": {
-          "A": "अजय जाडेजा",
-          "B": "पार्थिव पटेल",
-          "C": "रॉबिन उथप्पा",
-          "D": "दिनेश कार्तिक"
-        },
-        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
-      },
-      "gu": {
-        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
-        "options": {
-          "A": "અજય જાડેજા",
-          "B": "પાર્થિવ પટેલ",
-          "C": "રોબિન ઉથપ્પા",
-          "D": "દિનેશ કાર્તિક"
-        },
-        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
-      }
-    },
-    {
-      "id": "2026-10-18-3",
-      "date": "2026-10-18",
-      "qno": 3,
       "answer": "A",
       "category": "Sports",
       "en": {
@@ -58408,6 +59113,43 @@
           "D": "ગોવા"
         },
         "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-18-3",
+      "date": "2026-10-18",
+      "qno": 3,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "options": {
+          "A": "INS Tarkash",
+          "B": "INS Talwar",
+          "C": "INS Shivalik",
+          "D": "INS Trikand"
+        },
+        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+      },
+      "hi": {
+        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "options": {
+          "A": "आईएनएस तरकश",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस शिवालिक",
+          "D": "आईएनएस त्रिकांड"
+        },
+        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+      },
+      "gu": {
+        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "options": {
+          "A": "INS તારકશ",
+          "B": "INS તલવાર",
+          "C": "INS શિવાલિક",
+          "D": "INS ત્રિકાંડ"
+        },
+        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
       }
     },
     {
@@ -58451,37 +59193,37 @@
       "id": "2026-10-18-5",
       "date": "2026-10-18",
       "qno": 5,
-      "answer": "C",
-      "category": "State",
+      "answer": "B",
+      "category": "Sports",
       "en": {
-        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
+        "question": "Which former Indian cricketer launched the AI-driven cricket development platform SportzEngage in October 2026?",
         "options": {
-          "A": "Manipur",
-          "B": "Mizoram",
-          "C": "Nagaland",
-          "D": "Meghalaya"
+          "A": "Ajay Jadeja",
+          "B": "Parthiv Patel",
+          "C": "Robin Uthappa",
+          "D": "Dinesh Karthik"
         },
-        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
+        "explanation": "Parthiv Patel, a former Indian cricketer, launched SportzEngage, an AI-driven cricket development venture, on October 14, 2026. The platform was established in collaboration with entrepreneurs Kunal Abhishek and Shamik Datta to improve talent identification and performance analysis in cricket. Its primary application, CRiQ, offers video analysis, personalised feedback and performance tracking using artificial intelligence, including ball-tracking technology. The venture aims to support grassroots-level cricketers who lack access to professional coaching and advanced technology. Parthiv Patel made his Test debut in 2002 at the age of 17, becoming the youngest wicketkeeper in Test history at that time. He also led Gujarat to its first Ranji Trophy title in 2016–17."
       },
       "hi": {
-        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
+        "question": "किस पूर्व भारतीय क्रिकेटर ने अक्टूबर 2026 में AI-संचालित क्रिकेट डेवलपमेंट प्लेटफॉर्म स्पोर्टज़एंगेज लॉन्च किया?",
         "options": {
-          "A": "मणिपुर",
-          "B": "मिजोरम",
-          "C": "नागालैंड",
-          "D": "मेघालय"
+          "A": "अजय जाडेजा",
+          "B": "पार्थिव पटेल",
+          "C": "रॉबिन उथप्पा",
+          "D": "दिनेश कार्तिक"
         },
-        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
+        "explanation": "पूर्व भारतीय क्रिकेटर पार्थिव पटेल ने 14 अक्टूबर, 2026 को एक AI-संचालित क्रिकेट विकास उद्यम, स्पोर्टज़एंगेज लॉन्च किया। क्रिकेट में प्रतिभा की पहचान और प्रदर्शन विश्लेषण में सुधार के लिए उद्यमियों कुणाल अभिषेक और शमिक दत्ता के सहयोग से इस मंच की स्थापना की गई थी। इसका प्राथमिक एप्लिकेशन, CRiQ, बॉल-ट्रैकिंग तकनीक सहित कृत्रिम बुद्धिमत्ता का उपयोग करके वीडियो विश्लेषण, व्यक्तिगत प्रतिक्रिया और प्रदर्शन ट्रैकिंग प्रदान करता है। उद्यम का लक्ष्य जमीनी स्तर के क्रिकेटरों का समर्थन करना है जिनके पास पेशेवर कोचिंग और उन्नत तकनीक तक पहुंच नहीं है। पार्थिव पटेल ने 2002 में 17 साल की उम्र में टेस्ट क्रिकेट में पदार्पण किया, और उस समय टेस्ट इतिहास में सबसे कम उम्र के विकेटकीपर बन गए। उन्होंने 2016-17 में गुजरात को पहला रणजी ट्रॉफी खिताब भी दिलाया।"
       },
       "gu": {
-        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
+        "question": "કયા ભૂતપૂર્વ ભારતીય ક્રિકેટરે ઑક્ટોબર 2026માં AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ પ્લેટફોર્મ SportzEngage શરૂ કર્યું?",
         "options": {
-          "A": "મણિપુર",
-          "B": "મિઝોરમ",
-          "C": "નાગાલેન્ડ",
-          "D": "મેઘાલય"
+          "A": "અજય જાડેજા",
+          "B": "પાર્થિવ પટેલ",
+          "C": "રોબિન ઉથપ્પા",
+          "D": "દિનેશ કાર્તિક"
         },
-        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
+        "explanation": "ભૂતપૂર્વ ભારતીય ક્રિકેટર પાર્થિવ પટેલે 14 ઑક્ટોબર, 2026ના રોજ AI-સંચાલિત ક્રિકેટ ડેવલપમેન્ટ વેન્ચર SportzEngageની શરૂઆત કરી હતી. આ મંચની સ્થાપના ઉદ્યોગસાહસિકો કુણાલ અભિષેક અને શમિક દત્તાના સહયોગથી ક્રિકેટમાં પ્રતિભાની ઓળખ અને પ્રદર્શન વિશ્લેષણને સુધારવા માટે કરવામાં આવી હતી. તેની પ્રાથમિક એપ્લિકેશન, CRiQ, બોલ-ટ્રેકિંગ તકનીક સહિત આર્ટિફિશિયલ ઇન્ટેલિજન્સનો ઉપયોગ કરીને વિડિઓ વિશ્લેષણ, વ્યક્તિગત પ્રતિસાદ અને પ્રદર્શન ટ્રેકિંગ પ્રદાન કરે છે. આ સાહસનો ઉદ્દેશ્ય ગ્રાસરૂટ લેવલના ક્રિકેટરોને ટેકો આપવાનો છે જેમની પાસે વ્યાવસાયિક કોચિંગ અને અદ્યતન ટેકનોલોજીનો અભાવ છે. પાર્થિવ પટેલે 2002માં 17 વર્ષની ઉંમરે ટેસ્ટ ડેબ્યૂ કર્યું હતું, તે સમયે તે ટેસ્ટ ઈતિહાસનો સૌથી યુવા વિકેટકીપર બન્યો હતો. તેણે 2016-17માં ગુજરાતને તેનું પ્રથમ રણજી ટ્રોફી ખિતાબ અપાવ્યું હતું."
       }
     },
     {
@@ -58710,80 +59452,6 @@
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "C",
-      "category": "Defence",
-      "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
-        "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
-        },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
-      },
-      "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
-        "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
-        },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
-      },
-      "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
-        "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
-        },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-2",
-      "date": "2026-10-10",
-      "qno": 2,
-      "answer": "A",
-      "category": "Awards and Honours",
-      "en": {
-        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
-        "options": {
-          "A": "Henri Kagan And Kenso Soai",
-          "B": "Susumu Kitagawa And Richard Robson",
-          "C": "Omar Yaghi And Frances Arnold",
-          "D": "David Baker And Demis Hassabis"
-        },
-        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
-      },
-      "hi": {
-        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
-        "options": {
-          "A": "हेनरी कगन और केन्सो सोई",
-          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
-          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
-          "D": "डेविड बेकर और डेमिस हसाबिस"
-        },
-        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
-      },
-      "gu": {
-        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
-        "options": {
-          "A": "હેનરી કાગન અને કેન્સો સોઇ",
-          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
-          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
-          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
-        },
-        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
-      }
-    },
-    {
-      "id": "2026-10-10-3",
-      "date": "2026-10-10",
-      "qno": 3,
       "answer": "D",
       "category": "State",
       "en": {
@@ -58818,9 +59486,9 @@
       }
     },
     {
-      "id": "2026-10-10-4",
+      "id": "2026-10-10-2",
       "date": "2026-10-10",
-      "qno": 4,
+      "qno": 2,
       "answer": "B",
       "category": "National",
       "en": {
@@ -58855,46 +59523,9 @@
       }
     },
     {
-      "id": "2026-10-10-5",
+      "id": "2026-10-10-3",
       "date": "2026-10-10",
-      "qno": 5,
-      "answer": "B",
-      "category": "Important Days",
-      "en": {
-        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
-        "options": {
-          "A": "October 5",
-          "B": "October 10",
-          "C": "October 15",
-          "D": "October 20"
-        },
-        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
-      },
-      "hi": {
-        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
-        "options": {
-          "A": "5 अक्टूबर",
-          "B": "10 अक्टूबर",
-          "C": "15 अक्टूबर",
-          "D": "20 अक्टूबर"
-        },
-        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
-      },
-      "gu": {
-        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
-        "options": {
-          "A": "5 ઓક્ટોબર",
-          "B": "ઓક્ટોબર 10",
-          "C": "15 ઓક્ટોબર",
-          "D": "20 ઓક્ટોબર"
-        },
-        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
+      "qno": 3,
       "answer": "C",
       "category": "Environment",
       "en": {
@@ -58929,9 +59560,46 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-4",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 4,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Mental Health Day observed annually to raise awareness about mental well-being?",
+        "options": {
+          "A": "October 5",
+          "B": "October 10",
+          "C": "October 15",
+          "D": "October 20"
+        },
+        "explanation": "October 10 is observed annually as World Mental Health Day to raise awareness about mental well-being and promote accessible mental healthcare services worldwide. In 2026, the theme is “Lived experiences heard: real voices, real change,” highlighting the importance of including people with lived experience of mental health conditions in discussions and policymaking. In India, the Ministry of Health and Family Welfare supports mental health awareness and service delivery through initiatives such as Tele-MANAS, a free, confidential, 24/7 mental health helpline available at 14416. Other initiatives, including MANN Jaagriti and the District Mental Health Programme, help improve awareness, reduce stigma, and expand access to mental healthcare."
+      },
+      "hi": {
+        "question": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष विश्व मानसिक स्वास्थ्य दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "5 अक्टूबर",
+          "B": "10 अक्टूबर",
+          "C": "15 अक्टूबर",
+          "D": "20 अक्टूबर"
+        },
+        "explanation": "मानसिक कल्याण के बारे में जागरूकता बढ़ाने और दुनिया भर में सुलभ मानसिक स्वास्थ्य सेवाओं को बढ़ावा देने के लिए हर साल 10 अक्टूबर को विश्व मानसिक स्वास्थ्य दिवस के रूप में मनाया जाता है। 2026 में, theme है “Lived experiences heard: real voices, वास्तविक परिवर्तन,'' चर्चाओं और नीति निर्माण में मानसिक स्वास्थ्य स्थितियों का अनुभव रखने वाले लोगों को शामिल करने के महत्व पर प्रकाश डाला गया। भारत में, स्वास्थ्य और परिवार कल्याण मंत्रालय टेली-मानस जैसी पहल के माध्यम से मानसिक स्वास्थ्य जागरूकता और सेवा वितरण का समर्थन करता है, जो 14416 पर उपलब्ध एक निःशुल्क, गोपनीय, 24/7 मानसिक स्वास्थ्य हेल्पलाइन है। MANN जागृति और जिला मानसिक स्वास्थ्य कार्यक्रम सहित अन्य पहल, मदद करते हैं जागरूकता में सुधार, कलंक को कम करना और मानसिक स्वास्थ्य देखभाल तक पहुंच का विस्तार करना।"
+      },
+      "gu": {
+        "question": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા માટે દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 ઓક્ટોબર",
+          "B": "ઓક્ટોબર 10",
+          "C": "15 ઓક્ટોબર",
+          "D": "20 ઓક્ટોબર"
+        },
+        "explanation": "માનસિક સુખાકારી વિશે જાગૃતિ લાવવા અને વિશ્વભરમાં સુલભ માનસિક સ્વાસ્થ્ય સેવાઓને પ્રોત્સાહન આપવા માટે 10 ઓક્ટોબરને દર વર્ષે વિશ્વ માનસિક સ્વાસ્થ્ય દિવસ તરીકે ઉજવવામાં આવે છે. 2026 માં, theme છે “Lived experiences heard: real voices, વાસ્તવિક પરિવર્તન,\" ચર્ચાઓ અને નીતિ ઘડતરમાં માનસિક સ્વાસ્થ્યની સ્થિતિનો જીવંત અનુભવ ધરાવતા લોકોને સામેલ કરવાના મહત્વને પ્રકાશિત કરે છે. ભારતમાં, આરોગ્ય અને કુટુંબ કલ્યાણ મંત્રાલય ટેલિ-MANAS જેવી પહેલો દ્વારા માનસિક સ્વાસ્થ્ય જાગૃતિ અને સેવા વિતરણને સમર્થન આપે છે, એક મફત, ગોપનીય, માનસિક સ્વાસ્થ્ય પહેલ, 2416 સહિત અન્ય હેલ્પ લાઇન પર ઉપલબ્ધ છે. MANN જાગૃતિ અને ડિસ્ટ્રિક્ટ મેન્ટલ હેલ્થ પ્રોગ્રામ, જાગરૂકતા સુધારવા, કલંક ઘટાડવા અને માનસિક સ્વાસ્થ્ય સંભાળની પહોંચને વિસ્તૃત કરવામાં મદદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-5",
+      "date": "2026-10-10",
+      "qno": 5,
       "answer": "A",
       "category": "Banking",
       "en": {
@@ -58963,6 +59631,80 @@
           "D": "85%"
         },
         "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-6",
+      "date": "2026-10-10",
+      "qno": 6,
+      "answer": "C",
+      "category": "Defence",
+      "en": {
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
+        "options": {
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
+        },
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
+      },
+      "hi": {
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
+        "options": {
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
+        },
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
+      },
+      "gu": {
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
+        "options": {
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
+        },
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the 2026 Nobel Prize in Chemistry for their breakthrough in creating single molecular mirror images?",
+        "options": {
+          "A": "Henri Kagan And Kenso Soai",
+          "B": "Susumu Kitagawa And Richard Robson",
+          "C": "Omar Yaghi And Frances Arnold",
+          "D": "David Baker And Demis Hassabis"
+        },
+        "explanation": "Henri Kagan of France and Kenso Soai of Japan were awarded the 2026 Nobel Prize in Chemistry for their breakthrough in developing methods that enable chemical reactions to favour a single molecular mirror image. Their work addresses homochirality, a phenomenon involving molecules that exist in two mirror-image forms. This achievement has important applications in medicine because different molecular forms can produce different biological effects. Producing drugs containing only the desired therapeutic variant can improve treatment effectiveness and reduce the risk of harmful side effects. The Nobel Prize includes an award of 12 million Swedish kronor, with the ceremony scheduled for December 10, 2026, in Stockholm, Sweden."
+      },
+      "hi": {
+        "question": "एकल आणविक दर्पण छवियां बनाने में उनकी सफलता के लिए रसायन विज्ञान में 2026 का नोबेल पुरस्कार किसने जीता?",
+        "options": {
+          "A": "हेनरी कगन और केन्सो सोई",
+          "B": "सुसुमु कितागावा और रिचर्ड रॉबसन",
+          "C": "उमर याघी और फ्रांसिस अर्नोल्ड",
+          "D": "डेविड बेकर और डेमिस हसाबिस"
+        },
+        "explanation": "फ्रांस के हेनरी कगन और जापान के केन्सो सोई को उन तरीकों को विकसित करने में उनकी सफलता के लिए रसायन विज्ञान में 2026 के नोबेल पुरस्कार से सम्मानित किया गया, जो रासायनिक प्रतिक्रियाओं को एकल आणविक दर्पण छवि के पक्ष में सक्षम बनाता है। उनका काम होमोचिरैलिटी को संबोधित करता है, एक ऐसी घटना जिसमें अणु शामिल होते हैं जो दो दर्पण-छवि रूपों में मौजूद होते हैं। इस उपलब्धि का चिकित्सा में महत्वपूर्ण अनुप्रयोग है क्योंकि विभिन्न आणविक रूप विभिन्न जैविक प्रभाव पैदा कर सकते हैं। केवल वांछित चिकित्सीय संस्करण वाली दवाओं का उत्पादन उपचार की प्रभावशीलता में सुधार कर सकता है और हानिकारक दुष्प्रभावों के जोखिम को कम कर सकता है। नोबेल पुरस्कार में 12 मिलियन स्वीडिश क्रोनर का पुरस्कार शामिल है, जिसका समारोह 10 दिसंबर, 2026 को स्टॉकहोम, स्वीडन में निर्धारित है।"
+      },
+      "gu": {
+        "question": "સિંગલ મોલેક્યુલર મિરર ઈમેજ બનાવવામાં સફળતા માટે રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર કોણે જીત્યો?",
+        "options": {
+          "A": "હેનરી કાગન અને કેન્સો સોઇ",
+          "B": "સુસુમુ કિતાગાવા અને રિચાર્ડ રોબસન",
+          "C": "ઓમર યાગી અને ફ્રાન્સિસ આર્નોલ્ડ",
+          "D": "ડેવિડ બેકર અને ડેમિસ હાસાબીસ"
+        },
+        "explanation": "ફ્રાન્સના હેનરી કાગન અને જાપાનના કેન્સો સોઇને રસાયણશાસ્ત્રમાં 2026 નો નોબેલ પુરસ્કાર તેમના વિકાસની પદ્ધતિઓમાં સફળતા માટે એનાયત કરવામાં આવ્યો હતો જે રાસાયણિક પ્રતિક્રિયાઓને એક મોલેક્યુલર મિરર ઇમેજની તરફેણમાં સક્ષમ કરે છે. તેમનું કાર્ય હોમોચિરાલિટીને સંબોધિત કરે છે, જે અણુઓ સાથે સંકળાયેલી ઘટના છે જે બે મિરર-ઇમેજ સ્વરૂપોમાં અસ્તિત્વ ધરાવે છે. આ સિદ્ધિ દવામાં મહત્વપૂર્ણ એપ્લિકેશન ધરાવે છે કારણ કે વિવિધ પરમાણુ સ્વરૂપો વિવિધ જૈવિક અસરો પેદા કરી શકે છે. માત્ર ઇચ્છિત ઉપચારાત્મક પ્રકાર ધરાવતી દવાઓનું ઉત્પાદન સારવારની અસરકારકતામાં સુધારો કરી શકે છે અને હાનિકારક આડઅસરોનું જોખમ ઘટાડી શકે છે. નોબેલ પુરસ્કારમાં 12 મિલિયન સ્વીડિશ ક્રોનરનો પુરસ્કાર શામેલ છે, જેમાં 10 ડિસેમ્બર, 2026 ના રોજ સ્ટોકહોમ, સ્વીડનમાં આયોજિત સમારોહ છે."
       }
     }
   ]
