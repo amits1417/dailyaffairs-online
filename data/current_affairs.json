@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-10-29",
+    "2026-10-28",
     "2026-10-27",
     "2026-10-26",
     "2026-10-25",
@@ -59042,46 +59044,749 @@
       }
     },
     {
-      "id": "2026-10-18-1",
-      "date": "2026-10-18",
+      "id": "2026-10-29-1",
+      "date": "2026-10-29",
       "qno": 1,
       "answer": "A",
-      "category": "Defence",
+      "category": "State",
       "en": {
-        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "question": "Which state government introduced the Artificial Intelligence (AI) Policy 2026 during the AI Tech Conclave held?",
         "options": {
-          "A": "INS Tarkash",
-          "B": "INS Talwar",
-          "C": "INS Shivalik",
-          "D": "INS Trikand"
+          "A": "Goa",
+          "B": "Kerala",
+          "C": "Karnataka",
+          "D": "Maharashtra"
         },
-        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+        "explanation": "Goa introduced the Artificial Intelligence (AI) Policy 2026 during the Goa AI Tech Conclave held in Panaji on October 26, 2026. The policy establishes a three-year framework covering the period from 2026 to 2029, with five strategic pillars, including skill development, startups, investment, governance and responsible AI. It also promotes research and innovation through an AI Centre of Excellence in collaboration with BITS Pilani’s Goa campus. Other initiatives include AI laboratories in educational institutions, a Konkani large language model and the digitisation of historical records through the Granthika initiative."
       },
       "hi": {
-        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "question": "आयोजित एआई टेक कॉन्क्लेव के दौरान किस राज्य सरकार ने आर्टिफिशियल इंटेलिजेंस (एआई) नीति 2026 पेश की?",
         "options": {
-          "A": "आईएनएस तरकश",
-          "B": "आईएनएस तलवार",
-          "C": "आईएनएस शिवालिक",
-          "D": "आईएनएस त्रिकांड"
+          "A": "गोवा",
+          "B": "केरल",
+          "C": "कर्नाटक",
+          "D": "महाराष्ट्र"
         },
-        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+        "explanation": "गोवा ने 26 अक्टूबर, 2026 को पणजी में आयोजित गोवा एआई टेक कॉन्क्लेव के दौरान आर्टिफिशियल इंटेलिजेंस (एआई) नीति 2026 पेश की। यह नीति कौशल विकास, स्टार्टअप, निवेश, शासन और जिम्मेदार एआई सहित पांच रणनीतिक स्तंभों के साथ 2026 से 2029 की अवधि को कवर करने वाली तीन साल की रूपरेखा स्थापित करती है। यह बिट्स पिलानी के गोवा परिसर के सहयोग से एआई उत्कृष्टता केंद्र के माध्यम से अनुसंधान और नवाचार को भी बढ़ावा देता है। अन्य पहलों में शैक्षणिक संस्थानों में एआई प्रयोगशालाएं, एक कोंकणी बड़ा भाषा मॉडल और ग्रंथिका पहल के माध्यम से ऐतिहासिक अभिलेखों का डिजिटलीकरण शामिल है।"
       },
       "gu": {
-        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "question": "AI ટેક કોન્ક્લેવ દરમિયાન કઈ રાજ્ય સરકારે આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI) પોલિસી 2026 રજૂ કરી?",
         "options": {
-          "A": "INS તારકશ",
-          "B": "INS તલવાર",
-          "C": "INS શિવાલિક",
-          "D": "INS ત્રિકાંડ"
+          "A": "ગોવા",
+          "B": "કેરળ",
+          "C": "કર્ણાટક",
+          "D": "મહારાષ્ટ્ર"
         },
-        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
+        "explanation": "26 ઓક્ટોબર, 2026ના રોજ ગોવાએ પણજીમાં આયોજિત ગોવા AI ટેક કોન્ક્લેવ દરમિયાન આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI) નીતિ 2026 રજૂ કરી હતી. આ નીતિ 2026 થી 2029 સુધીના સમયગાળાને આવરી લેતું ત્રણ વર્ષનું માળખું સ્થાપિત કરે છે, જેમાં કૌશલ્ય વિકાસ, સ્ટાર્ટઅપ્સ અને જવાબદાર એઆઈ સહિત પાંચ વ્યૂહાત્મક સ્તંભોનો સમાવેશ થાય છે. તે BITS પિલાનીના ગોવા કેમ્પસ સાથે સહયોગમાં AI સેન્ટર ઓફ એક્સેલન્સ દ્વારા સંશોધન અને નવીનતાને પ્રોત્સાહન પણ આપે છે. અન્ય પહેલોમાં શૈક્ષણિક સંસ્થાઓમાં AI પ્રયોગશાળાઓ, કોંકણી ભાષાનું વિશાળ મોડેલ અને ગ્રંથિકા પહેલ દ્વારા ઐતિહાસિક રેકોર્ડનું ડિજિટાઇઝેશનનો સમાવેશ થાય છે."
       }
     },
     {
-      "id": "2026-10-18-2",
-      "date": "2026-10-18",
+      "id": "2026-10-29-2",
+      "date": "2026-10-29",
       "qno": 2,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When does the UN observe the International Day of Care and Support?",
+        "options": {
+          "A": "October 27",
+          "B": "October 29",
+          "C": "October 28",
+          "D": "October 30"
+        },
+        "explanation": "October 29 is observed as the International Day of Care and Support by the United Nations. The day recognises the importance of care and support systems in society and highlights the contributions of paid and unpaid caregivers. It also promotes awareness of the need for accessible, affordable and quality care services. The observance encourages governments, organisations and communities to strengthen care policies, address inequalities and support people who provide care, including family members and professional caregivers."
+      },
+      "hi": {
+        "question": "संयुक्त राष्ट्र अंतर्राष्ट्रीय देखभाल और सहायता दिवस कब मनाता है?",
+        "options": {
+          "A": "27 अक्टूबर",
+          "B": "29 अक्टूबर",
+          "C": "28 अक्टूबर",
+          "D": "30 अक्टूबर"
+        },
+        "explanation": "29 अक्टूबर को संयुक्त राष्ट्र द्वारा अंतर्राष्ट्रीय देखभाल और सहायता दिवस के रूप में मनाया जाता है। यह दिन समाज में देखभाल और सहायता प्रणालियों के महत्व को पहचानता है और भुगतान और अवैतनिक देखभाल करने वालों के योगदान पर प्रकाश डालता है। यह सुलभ, किफायती और गुणवत्तापूर्ण देखभाल सेवाओं की आवश्यकता के बारे में जागरूकता को भी बढ़ावा देता है। यह उत्सव सरकारों, संगठनों और समुदायों को देखभाल नीतियों को मजबूत करने, असमानताओं को दूर करने और परिवार के सदस्यों और पेशेवर देखभाल करने वालों सहित देखभाल प्रदान करने वाले लोगों का समर्थन करने के लिए प्रोत्साहित करता है।"
+      },
+      "gu": {
+        "question": "યુએન આંતરરાષ્ટ્રીય સંભાળ અને સમર્થન દિવસ ક્યારે ઉજવે છે?",
+        "options": {
+          "A": "ઓક્ટોબર 27",
+          "B": "ઓક્ટોબર 29",
+          "C": "ઓક્ટોબર 28",
+          "D": "30 ઓક્ટોબર"
+        },
+        "explanation": "સંયુક્ત રાષ્ટ્ર દ્વારા 29 ઓક્ટોબરને આંતરરાષ્ટ્રીય સંભાળ અને સમર્થન દિવસ તરીકે મનાવવામાં આવે છે. આ દિવસ સમાજમાં સંભાળ અને સહાયક પ્રણાલીઓના મહત્વને ઓળખે છે અને પેઇડ અને અવેતન સંભાળ રાખનારાઓના યોગદાનને પ્રકાશિત કરે છે. તે સુલભ, સસ્તું અને ગુણવત્તાયુક્ત સંભાળ સેવાઓની જરૂરિયાત અંગે જાગૃતિને પણ પ્રોત્સાહન આપે છે. આ પાલન સરકારો, સંસ્થાઓ અને સમુદાયોને સંભાળની નીતિઓને મજબૂત કરવા, અસમાનતાઓને દૂર કરવા અને પરિવારના સભ્યો અને વ્યાવસાયિક સંભાળ રાખનારાઓ સહિત કાળજી પૂરી પાડતા લોકોને સમર્થન આપવા પ્રોત્સાહિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-29-3",
+      "date": "2026-10-29",
+      "qno": 3,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "During which period does the United Nations observe Disarmament Week annually?",
+        "options": {
+          "A": "October 1 to 7",
+          "B": "October 15 to 21",
+          "C": "October 24 to 30",
+          "D": "November 1 to 7"
+        },
+        "explanation": "October 24 to 30 is observed as Disarmament Week by the United Nations to promote awareness of the importance of disarmament in maintaining international peace and security. The observance begins on October 24, which marks the anniversary of the establishment of the United Nations in 1945. Disarmament Week was established in 1978 following a special session of the UN General Assembly on disarmament. The United Nations Office for Disarmament Affairs (UNODA) organises the annual observance. It encourages governments, non-governmental organisations and the public to understand disarmament challenges and support efforts to reduce global security threats."
+      },
+      "hi": {
+        "question": "संयुक्त राष्ट्र प्रतिवर्ष किस अवधि के दौरान निरस्त्रीकरण सप्ताह मनाता है?",
+        "options": {
+          "A": "1 से 7 अक्टूबर",
+          "B": "15 से 21 अक्टूबर",
+          "C": "24 से 30 अक्टूबर",
+          "D": "1 से 7 नवंबर"
+        },
+        "explanation": "अंतर्राष्ट्रीय शांति और सुरक्षा बनाए रखने में निरस्त्रीकरण के महत्व के बारे में जागरूकता को बढ़ावा देने के लिए संयुक्त राष्ट्र द्वारा 24 से 30 अक्टूबर को निरस्त्रीकरण सप्ताह के रूप में मनाया जाता है। यह उत्सव 24 अक्टूबर को शुरू होता है, जो 1945 में संयुक्त राष्ट्र की स्थापना की वर्षगांठ का प्रतीक है। निरस्त्रीकरण सप्ताह की स्थापना 1978 में निरस्त्रीकरण पर संयुक्त राष्ट्र महासभा के एक विशेष सत्र के बाद की गई थी। संयुक्त राष्ट्र निरस्त्रीकरण मामलों का कार्यालय (यूएनओडीए) वार्षिक समारोह का आयोजन करता है। यह सरकारों, गैर-सरकारी संगठनों और जनता को निरस्त्रीकरण चुनौतियों को समझने और वैश्विक सुरक्षा खतरों को कम करने के प्रयासों का समर्थन करने के लिए प्रोत्साहित करता है।"
+      },
+      "gu": {
+        "question": "યુનાઈટેડ નેશન્સ દર વર્ષે કયા સમયગાળા દરમિયાન નિઃશસ્ત્રીકરણ સપ્તાહ ઉજવે છે?",
+        "options": {
+          "A": "1 થી 7 ઓક્ટોબર",
+          "B": "15 થી 21 ઓક્ટોબર",
+          "C": "24 થી 30 ઓક્ટોબર",
+          "D": "1 થી 7 નવેમ્બર"
+        },
+        "explanation": "આંતરરાષ્ટ્રીય શાંતિ અને સુરક્ષા જાળવવામાં નિઃશસ્ત્રીકરણના મહત્વ અંગે જાગૃતિ ફેલાવવા માટે સંયુક્ત રાષ્ટ્ર દ્વારા 24 થી 30 ઓક્ટોબરને નિઃશસ્ત્રીકરણ સપ્તાહ તરીકે મનાવવામાં આવે છે. આ ઉજવણી 24 ઓક્ટોબરથી શરૂ થાય છે, જે 1945માં સંયુક્ત રાષ્ટ્રની સ્થાપનાની વર્ષગાંઠને ચિહ્નિત કરે છે. નિઃશસ્ત્રીકરણ પર યુએન જનરલ એસેમ્બલીના વિશેષ સત્ર બાદ 1978માં નિઃશસ્ત્રીકરણ સપ્તાહની સ્થાપના કરવામાં આવી હતી. યુનાઈટેડ નેશન્સ ઑફિસ ફોર ડિશર્મમેન્ટ અફેર્સ (UNODA) વાર્ષિક ઉજવણીનું આયોજન કરે છે. તે સરકારો, બિન-સરકારી સંસ્થાઓ અને જનતાને નિઃશસ્ત્રીકરણના પડકારોને સમજવા અને વૈશ્વિક સુરક્ષા જોખમોને ઘટાડવાના પ્રયાસોને સમર્થન આપવા પ્રોત્સાહિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-29-4",
+      "date": "2026-10-29",
+      "qno": 4,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "What is the upper limit of the US Federal Reserve's benchmark federal funds rate maintained in October 2026?",
+        "options": {
+          "A": "3%",
+          "B": "3.5%",
+          "C": "4%",
+          "D": "4.5%"
+        },
+        "explanation": "4% is the upper limit of the US Federal Reserve's benchmark federal funds rate, which remained unchanged at 3.75%–4% following the Federal Open Market Committee (FOMC) meeting held on October 27–28, 2026. The decision was approved by a 10–2 vote, with Lisa D. Cook and Beth M. Hammack favouring a 0.25 percentage point increase. The Federal Reserve maintained the existing rate amid concerns about elevated inflation and the need for additional economic data. The central bank aims to achieve maximum employment and price stability, with an inflation target of 2%."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में अमेरिकी फेडरल रिजर्व की बेंचमार्क फेडरल फंड दर की ऊपरी सीमा क्या रखी गई है?",
+        "options": {
+          "A": "3%",
+          "B": "3.5%",
+          "C": "4%",
+          "D": "4.5%"
+        },
+        "explanation": "4% अमेरिकी फेडरल रिजर्व की बेंचमार्क फेडरल फंड दर की ऊपरी सीमा है, जो 27-28 अक्टूबर, 2026 को आयोजित फेडरल ओपन मार्केट कमेटी (एफओएमसी) की बैठक के बाद 3.75%-4% पर अपरिवर्तित रही। निर्णय को 10-2 वोटों से मंजूरी दी गई, जिसमें लिसा डी. कुक और बेथ एम. हैमैक ने 0.25 प्रतिशत अंक की वृद्धि का समर्थन किया। बढ़ी हुई मुद्रास्फीति और अतिरिक्त आर्थिक डेटा की आवश्यकता के बारे में चिंताओं के बीच फेडरल रिजर्व ने मौजूदा दर को बरकरार रखा। केंद्रीय बैंक का लक्ष्य 2% मुद्रास्फीति लक्ष्य के साथ अधिकतम रोजगार और मूल्य स्थिरता हासिल करना है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026માં યુએસ ફેડરલ રિઝર્વના બેન્ચમાર્ક ફેડરલ ફંડ રેટની ઉપલી મર્યાદા કેટલી છે?",
+        "options": {
+          "A": "3%",
+          "B": "3.5%",
+          "C": "4%",
+          "D": "4.5%"
+        },
+        "explanation": "4% એ યુએસ ફેડરલ રિઝર્વના બેન્ચમાર્ક ફેડરલ ફંડ રેટની ઉપલી મર્યાદા છે, જે ઓક્ટોબર 27-28, 2026 ના રોજ યોજાયેલી ફેડરલ ઓપન માર્કેટ કમિટી (FOMC) મીટિંગને પગલે 3.75%–4% પર યથાવત રહી હતી. લિસા ડી. કૂક અને બેથના 50 ટકાના વધારા સાથે નિર્ણયને 10-2 મતથી મંજૂર કરવામાં આવ્યો હતો. એલિવેટેડ ફુગાવાની ચિંતા અને વધારાના આર્થિક ડેટાની જરૂરિયાત વચ્ચે ફેડરલ રિઝર્વે વર્તમાન દર જાળવી રાખ્યો હતો. મધ્યસ્થ બેંકનો ધ્યેય 2% ના ફુગાવાના લક્ષ્ય સાથે મહત્તમ રોજગાર અને ભાવ સ્થિરતા હાંસલ કરવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-29-5",
+      "date": "2026-10-29",
+      "qno": 5,
+      "answer": "A",
+      "category": "International",
+      "en": {
+        "question": "Against which country did the United Nations General Assembly pass a resolution calling for an end to the US economic, commercial and financial embargo?",
+        "options": {
+          "A": "Cuba",
+          "B": "Venezuela",
+          "C": "Iran",
+          "D": "North Korea"
+        },
+        "explanation": "Cuba has been the subject of a long-standing economic, commercial and financial embargo imposed by the United States since 1960, following the Cuban Revolution and the nationalisation of American-owned properties. On October 28, 2026, India supported a United Nations General Assembly resolution calling for an end to this embargo. The resolution received 130 votes in favour, 17 against and 25 abstentions during the Assembly's 81st session. India emphasised national sovereignty, international law and multilateral cooperation. Although the resolution reflects the international community's position, it is non-binding and does not legally compel the United States to lift its sanctions."
+      },
+      "hi": {
+        "question": "संयुक्त राष्ट्र महासभा ने किस देश के खिलाफ अमेरिकी आर्थिक, वाणिज्यिक और वित्तीय प्रतिबंध को समाप्त करने का प्रस्ताव पारित किया?",
+        "options": {
+          "A": "क्यूबा",
+          "B": "वेनेजुएला",
+          "C": "ईरान",
+          "D": "उत्तर कोरिया"
+        },
+        "explanation": "क्यूबा क्रांति और अमेरिकी स्वामित्व वाली संपत्तियों के राष्ट्रीयकरण के बाद, 1960 से क्यूबा लंबे समय से संयुक्त राज्य अमेरिका द्वारा लगाए गए आर्थिक, वाणिज्यिक और वित्तीय प्रतिबंध का विषय रहा है। 28 अक्टूबर, 2026 को, भारत ने इस प्रतिबंध को समाप्त करने के लिए संयुक्त राष्ट्र महासभा के प्रस्ताव का समर्थन किया। प्रस्ताव के पक्ष में 130 वोट मिले, विपक्ष में 17 वोट पड़े और विधानसभा के दौरान 25 वोट अनुपस्थित रहे।"
+      },
+      "gu": {
+        "question": "યુનાઇટેડ નેશન્સ જનરલ એસેમ્બલીએ કયા દેશ સામે યુએસ આર્થિક, વ્યાપારી અને નાણાકીય પ્રતિબંધોને સમાપ્ત કરવાની હાકલ કરતો ઠરાવ પસાર કર્યો હતો?",
+        "options": {
+          "A": "ક્યુબા",
+          "B": "વેનેઝુએલા",
+          "C": "ઈરાન",
+          "D": "ઉત્તર કોરિયા"
+        },
+        "explanation": "ક્યુબા ક્રાંતિ અને અમેરિકન માલિકીની મિલકતોના રાષ્ટ્રીયકરણને પગલે 1960 થી યુનાઇટેડ સ્ટેટ્સ દ્વારા લાદવામાં આવેલ લાંબા સમયથી આર્થિક, વ્યાપારી અને નાણાકીય પ્રતિબંધનો વિષય છે. 28 ઓક્ટોબર, 2026ના રોજ, ભારતે સંયુક્ત રાષ્ટ્ર મહાસભાના ઠરાવને સમર્થન આપ્યું હતું જેમાં આ પ્રતિબંધનો અંત લાવવાની હાકલ કરવામાં આવી હતી. ઠરાવને એસેમ્બલી's 81st session. India emphasised રાષ્ટ્રીય sovereignty, આંતરરાષ્ટ્રીય law અને multilateral cooperation. Although  resolution reflects  આંતરરાષ્ટ્રીય community'ની સ્થિતિ દરમિયાન તરફેણમાં 130 મત, વિરૂદ્ધમાં 17 અને ગેરહાજર રહેતાં 25 મત મળ્યા, તે બિન-બંધનકારી છે અને યુનાઇટેડ સ્ટેટ્સને તેના પ્રતિબંધો હટાવવા માટે કાયદેસર રીતે દબાણ કરતું નથી."
+      }
+    },
+    {
+      "id": "2026-10-29-6",
+      "date": "2026-10-29",
+      "qno": 6,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which company announced a $450 million investment to build an AI Super Highway connecting major data centres across India?",
+        "options": {
+          "A": "Tata Communications",
+          "B": "Reliance Jio",
+          "C": "Bharti Airtel",
+          "D": "Vodafone Idea"
+        },
+        "explanation": "Tata Communications announced an investment of $450 million to develop an AI Super Highway connecting major data centres across India over the next three to five years. The project involves building a 10,000-km AI-ready fibre network designed to support bandwidth-intensive artificial intelligence workloads and hyperscale infrastructure. Its phased rollout will connect important cities, including Mumbai, Pune, Hyderabad, Chennai and Visakhapatnam, with further expansion towards Bhubaneswar and Gujarat. The network is designed to provide 7.2 petabytes of capacity, with a targeted Mumbai–Chennai round-trip latency of 15–16 milliseconds."
+      },
+      "hi": {
+        "question": "किस कंपनी ने पूरे भारत में प्रमुख डेटा केंद्रों को जोड़ने वाले AI सुपर हाईवे के निर्माण के लिए $450 मिलियन के निवेश की घोषणा की?",
+        "options": {
+          "A": "टाटा कम्युनिकेशंस",
+          "B": "रिलायंस जियो",
+          "C": "भारती एयरटेल",
+          "D": "वोडाफोन आइडिया"
+        },
+        "explanation": "टाटा कम्युनिकेशंस ने अगले तीन से पांच वर्षों में पूरे भारत में प्रमुख डेटा केंद्रों को जोड़ने वाले एआई सुपर हाईवे विकसित करने के लिए 450 मिलियन डॉलर के निवेश की घोषणा की। इस परियोजना में बैंडविड्थ-गहन कृत्रिम बुद्धिमत्ता वर्कलोड और हाइपरस्केल बुनियादी ढांचे का समर्थन करने के लिए डिज़ाइन किया गया 10,000 किलोमीटर का एआई-तैयार फाइबर नेटवर्क बनाना शामिल है। इसका चरणबद्ध कार्यान्वयन मुंबई, पुणे, हैदराबाद, चेन्नई और विशाखापत्तनम सहित महत्वपूर्ण शहरों को जोड़ेगा, साथ ही इसका भुवनेश्वर और गुजरात तक विस्तार होगा। नेटवर्क को 15-16 मिलीसेकंड की लक्षित मुंबई-चेन्नई राउंड-ट्रिप विलंबता के साथ 7.2 पेटाबाइट क्षमता प्रदान करने के लिए डिज़ाइन किया गया है।"
+      },
+      "gu": {
+        "question": "ભારતભરમાં મુખ્ય ડેટા સેન્ટરોને જોડતો AI સુપર હાઈવે બનાવવા માટે કઈ કંપનીએ $450 મિલિયનના રોકાણની જાહેરાત કરી?",
+        "options": {
+          "A": "ટાટા કોમ્યુનિકેશન્સ",
+          "B": "રિલાયન્સ જિયો",
+          "C": "ભારતી એરટેલ",
+          "D": "વોડાફોન આઈડિયા"
+        },
+        "explanation": "ટાટા કોમ્યુનિકેશન્સે આગામી ત્રણથી પાંચ વર્ષમાં સમગ્ર ભારતમાં મુખ્ય ડેટા સેન્ટરોને જોડતો AI સુપર હાઇવે વિકસાવવા $450 મિલિયનના રોકાણની જાહેરાત કરી છે. આ પ્રોજેક્ટમાં બેન્ડવિડ્થ-સઘન આર્ટિફિશિયલ ઈન્ટેલિજન્સ વર્કલોડ અને હાઈપરસ્કેલ ઈન્ફ્રાસ્ટ્રક્ચરને સપોર્ટ કરવા માટે રચાયેલ 10,000-km AI-તૈયાર ફાઈબર નેટવર્કનું નિર્માણ સામેલ છે. તેનું તબક્કાવાર રોલઆઉટ ભુવનેશ્વર અને ગુજરાત તરફ વધુ વિસ્તરણ સાથે મુંબઈ, પુણે, હૈદરાબાદ, ચેન્નાઈ અને વિશાખાપટ્ટનમ સહિતના મહત્વના શહેરોને જોડશે. નેટવર્ક 15-16 મિલીસેકન્ડ્સની લક્ષ્યાંકિત મુંબઈ-ચેન્નઈ રાઉન્ડ-ટ્રીપ લેટન્સી સાથે 7.2 પેટાબાઈટ ક્ષમતા પ્રદાન કરવા માટે રચાયેલ છે."
+      }
+    },
+    {
+      "id": "2026-10-29-7",
+      "date": "2026-10-29",
+      "qno": 7,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "Which institution provided technical support for developing the upgraded National Mobile Monitoring System (NMMS) app?",
+        "options": {
+          "A": "IIT Bombay",
+          "B": "IIT Madras",
+          "C": "IIT Delhi",
+          "D": "IIT Kanpur"
+        },
+        "explanation": "IIT Madras provided technical support to the Ministry of Rural Development in developing the upgraded National Mobile Monitoring System (NMMS) app for the VB-G RAM G scheme. The enhanced application aims to improve transparency and prevent fraudulent worker attendance through AI-based face verification and liveness detection. It also incorporates Google Play Integrity and device-level security to prevent app cloning and tampering. Additionally, the app supports offline attendance recording, making it useful in rural areas with limited network connectivity. IIT Madras, established in 1959 in Chennai, Tamil Nadu, was the third Indian Institute of Technology established by the Government of India."
+      },
+      "hi": {
+        "question": "उन्नत राष्ट्रीय मोबाइल मॉनिटरिंग सिस्टम (एनएमएमएस) ऐप विकसित करने के लिए किस संस्थान ने तकनीकी सहायता प्रदान की?",
+        "options": {
+          "A": "आईआईटी बॉम्बे",
+          "B": "आईआईटी मद्रास",
+          "C": "आईआईटी दिल्ली",
+          "D": "आईआईटी कानपुर"
+        },
+        "explanation": "आईआईटी मद्रास ने वीबी-जी रैम जी योजना के लिए उन्नत राष्ट्रीय मोबाइल मॉनिटरिंग सिस्टम (एनएमएमएस) ऐप विकसित करने में ग्रामीण विकास मंत्रालय को तकनीकी सहायता प्रदान की। उन्नत एप्लिकेशन का उद्देश्य पारदर्शिता में सुधार करना और एआई-आधारित चेहरे के सत्यापन और जीवंतता का पता लगाने के माध्यम से धोखाधड़ी वाले कर्मचारी की उपस्थिति को रोकना है। ऐप क्लोनिंग और छेड़छाड़ को रोकने के लिए इसमें Google Play इंटीग्रिटी और डिवाइस-स्तरीय सुरक्षा भी शामिल है। इसके अतिरिक्त, ऐप ऑफ़लाइन उपस्थिति रिकॉर्डिंग का समर्थन करता है, जो इसे सीमित नेटवर्क कनेक्टिविटी वाले ग्रामीण क्षेत्रों में उपयोगी बनाता है। आईआईटी मद्रास, 1959 में चेन्नई, तमिलनाडु में स्थापित, भारत सरकार द्वारा स्थापित तीसरा भारतीय प्रौद्योगिकी संस्थान था।"
+      },
+      "gu": {
+        "question": "કઈ સંસ્થાએ અપગ્રેડેડ નેશનલ મોબાઈલ મોનિટરિંગ સિસ્ટમ (NMMS) એપ વિકસાવવા માટે ટેક્નિકલ સપોર્ટ પૂરો પાડ્યો?",
+        "options": {
+          "A": "IIT બોમ્બે",
+          "B": "IIT મદ્રાસ",
+          "C": "IIT દિલ્હી",
+          "D": "IIT કાનપુર"
+        },
+        "explanation": "IIT મદ્રાસે VB-G RAM G યોજના માટે અપગ્રેડેડ નેશનલ મોબાઈલ મોનિટરિંગ સિસ્ટમ (NMMS) એપ વિકસાવવામાં ગ્રામીણ વિકાસ મંત્રાલયને ટેકનિકલ સહાય પૂરી પાડી છે. ઉન્નત એપ્લિકેશનનો ઉદ્દેશ્ય એઆઈ-આધારિત ચહેરાની ચકાસણી અને જીવંતતા શોધ દ્વારા પારદર્શિતામાં સુધારો કરવાનો અને કપટપૂર્ણ કામદારોની હાજરીને રોકવાનો છે. એપ ક્લોનિંગ અને છેડછાડને રોકવા માટે તે Google Play અખંડિતતા અને ઉપકરણ-સ્તરની સુરક્ષાને પણ સમાવિષ્ટ કરે છે. વધુમાં, એપ્લિકેશન ઑફલાઇન હાજરી રેકોર્ડિંગને સપોર્ટ કરે છે, જે તેને મર્યાદિત નેટવર્ક કનેક્ટિવિટીવાળા ગ્રામીણ વિસ્તારોમાં ઉપયોગી બનાવે છે. IIT મદ્રાસ, ચેન્નાઈ, તમિલનાડુમાં 1959 માં સ્થપાયેલ, ભારત સરકાર દ્વારા સ્થાપિત ત્રીજી ભારતીય ટેકનોલોજી સંસ્થા હતી."
+      }
+    },
+    {
+      "id": "2026-10-29-8",
+      "date": "2026-10-29",
+      "qno": 8,
+      "answer": "D",
+      "category": "Sports",
+      "en": {
+        "question": "Which position did India secure in the overall medal standings at the Aichi-Nagoya 2026 Asian Para Games?",
+        "options": {
+          "A": "1st",
+          "B": "2nd",
+          "C": "3rd",
+          "D": "4th"
+        },
+        "explanation": "4th place was secured by India in the overall medal standings at the Aichi-Nagoya 2026 Asian Para Games held in Nagoya, Japan. India achieved a record-breaking total of 114 medals, comprising 30 Gold, 35 Silver and 49 Bronze medals. This surpassed the country's previous best of 108 medals at the 2022 Hangzhou Games. China topped the standings, followed by Japan in second place and Uzbekistan in third. Para athletics contributed the highest number of medals for India, with 65 medals, while para badminton added another 16 medals. India achieved this historic result with a contingent of 168 athletes."
+      },
+      "hi": {
+        "question": "आइची-नागोया 2026 एशियाई पैरा खेलों में भारत ने समग्र पदक तालिका में कौन सा स्थान सुरक्षित किया?",
+        "options": {
+          "A": "पहला",
+          "B": "दूसरा",
+          "C": "तीसरा",
+          "D": "चौथा"
+        },
+        "explanation": "जापान के नागोया में आयोजित आइची-नागोया 2026 एशियाई पैरा खेलों में समग्र पदक तालिका में भारत ने चौथा स्थान हासिल किया। भारत ने रिकॉर्ड तोड़ कुल 114 पदक हासिल किए, जिसमें 30 स्वर्ण, 35 रजत और 49 कांस्य पदक शामिल हैं। इसने 2022 हांग्जो खेलों में देश के पिछले सर्वश्रेष्ठ 108 पदकों को पीछे छोड़ दिया। चीन शीर्ष पर है, उसके बाद जापान दूसरे स्थान पर और उज्बेकिस्तान तीसरे स्थान पर है। पैरा एथलेटिक्स ने 65 पदकों के साथ भारत के लिए सबसे अधिक पदकों का योगदान दिया, जबकि पैरा बैडमिंटन ने 16 पदक और जोड़े। भारत ने 168 एथलीटों के दल के साथ यह ऐतिहासिक परिणाम हासिल किया।"
+      },
+      "gu": {
+        "question": "એચી-નાગોયા 2026 એશિયન પેરા ગેમ્સમાં ભારતે એકંદર મેડલ સ્ટેન્ડિંગમાં કયું સ્થાન મેળવ્યું?",
+        "options": {
+          "A": "1લી",
+          "B": "2જી",
+          "C": "3જી",
+          "D": "4થી"
+        },
+        "explanation": "જાપાનના નાગોયામાં આયોજિત આઈચી-નાગોયા 2026 એશિયન પેરા ગેમ્સમાં એકંદરે મેડલ સ્ટેન્ડિંગમાં ભારતે ચોથું સ્થાન મેળવ્યું હતું. ભારતે 30 ગોલ્ડ, 35 સિલ્વર અને 49 બ્રોન્ઝ મેડલ સહિત કુલ 114 મેડલ મેળવ્યા છે. આનાથી 2022 હેંગઝોઉ ગેમ્સમાં દેશના અગાઉના શ્રેષ્ઠ 108 મેડલને વટાવી ગયા. સ્ટેન્ડિંગમાં ચીન ટોચ પર છે, જાપાન બીજા સ્થાને અને ઉઝબેકિસ્તાન ત્રીજા સ્થાને છે. પેરા એથ્લેટિક્સમાં 65 મેડલ સાથે ભારત માટે સૌથી વધુ મેડલનું યોગદાન છે, જ્યારે પેરા બેડમિન્ટનમાં બીજા 16 મેડલ ઉમેરાયા છે. ભારતે 168 ખેલાડીઓની ટુકડી સાથે આ ઐતિહાસિક પરિણામ હાંસલ કર્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-29-9",
+      "date": "2026-10-29",
+      "qno": 9,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state government initiative, Shabari Naturals, won the G-Mark Global Design Award for its tribal-inspired packaging?",
+        "options": {
+          "A": "Gujarat",
+          "B": "Maharashtra",
+          "C": "Rajasthan",
+          "D": "Madhya Pradesh"
+        },
+        "explanation": "Maharashtra is the state associated with Shabari Naturals, a state government social enterprise that won the prestigious G-Mark Global Design Award for its packaging inspired by traditional tribal art. The award was conferred by the Japan Institute of Design Promotion in recognition of cultural value, sustainability and innovative presentation. Its packaging incorporates traditional art forms such as Warli, Gond and Chitrakathi, highlighting the lifestyle, nature and cultural heritage of tribal communities. Managed by the Shabari Tribal Finance and Development Corporation, the initiative promotes tribal empowerment by marketing organic products such as wild honey, millets and unpolished rice."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य सरकार की पहल, शबरी नेचुरल्स ने अपनी आदिवासी-प्रेरित पैकेजिंग के लिए जी-मार्क ग्लोबल डिज़ाइन पुरस्कार जीता?",
+        "options": {
+          "A": "गुजरात",
+          "B": "महाराष्ट्र",
+          "C": "राजस्थान",
+          "D": "मध्य प्रदेश"
+        },
+        "explanation": "महाराष्ट्र एक राज्य सरकार का सामाजिक उद्यम शबरी नेचुरल्स से जुड़ा राज्य है, जिसने पारंपरिक आदिवासी कला से प्रेरित पैकेजिंग के लिए प्रतिष्ठित जी-मार्क ग्लोबल डिज़ाइन अवार्ड जीता है। यह पुरस्कार सांस्कृतिक मूल्य, स्थिरता और अभिनव प्रस्तुति की मान्यता में जापान इंस्टीट्यूट ऑफ डिज़ाइन प्रमोशन द्वारा प्रदान किया गया था। इसकी पैकेजिंग में वारली, गोंड और चित्रकठी जैसे पारंपरिक कला रूपों को शामिल किया गया है, जो आदिवासी समुदायों की जीवन शैली, प्रकृति और सांस्कृतिक विरासत को उजागर करते हैं। शबरी जनजातीय वित्त और विकास निगम द्वारा प्रबंधित, यह पहल जंगली शहद, बाजरा और बिना पॉलिश किए चावल जैसे जैविक उत्पादों के विपणन द्वारा जनजातीय सशक्तिकरण को बढ़ावा देती है।"
+      },
+      "gu": {
+        "question": "ભારતની કઈ રાજ્ય સરકારની પહેલ, શબરી નેચરલ્સે તેના આદિવાસી પ્રેરિત પેકેજિંગ માટે જી-માર્ક ગ્લોબલ ડિઝાઇન એવોર્ડ જીત્યો?",
+        "options": {
+          "A": "ગુજરાત",
+          "B": "મહારાષ્ટ્ર",
+          "C": "રાજસ્થાન",
+          "D": "મધ્યપ્રદેશ"
+        },
+        "explanation": "મહારાષ્ટ્ર એ શબરી નેચરલ્સ સાથે સંકળાયેલ રાજ્ય છે, જે રાજ્ય સરકારની સામાજિક સંસ્થા છે જેણે પરંપરાગત આદિવાસી કલાથી પ્રેરિત તેના પેકેજિંગ માટે પ્રતિષ્ઠિત જી-માર્ક ગ્લોબલ ડિઝાઇન એવોર્ડ જીત્યો હતો. જાપાન ઇન્સ્ટિટ્યૂટ ઑફ ડિઝાઇન પ્રમોશન દ્વારા સાંસ્કૃતિક મૂલ્ય, ટકાઉપણું અને નવીન પ્રસ્તુતિને માન્યતા આપવા માટે એવોર્ડ એનાયત કરવામાં આવ્યો હતો. તેના પેકેજીંગમાં આદિવાસી સમુદાયોની જીવનશૈલી, પ્રકૃતિ અને સાંસ્કૃતિક વારસાને હાઇલાઇટ કરતી વારલી, ગોંડ અને ચિત્રકથી જેવા પરંપરાગત કલા સ્વરૂપોનો સમાવેશ કરવામાં આવ્યો છે. શબરી ટ્રાઇબલ ફાઇનાન્સ એન્ડ ડેવલપમેન્ટ કોર્પોરેશન દ્વારા સંચાલિત, પહેલ જંગલી મધ, બાજરી અને અનપોલિશ્ડ ચોખા જેવા ઓર્ગેનિક ઉત્પાદનોનું માર્કેટિંગ કરીને આદિવાસીઓના સશક્તિકરણને પ્રોત્સાહન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-29-10",
+      "date": "2026-10-29",
+      "qno": 10,
+      "answer": "D",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state is home to the museum ranked ninth globally and first in Asia in the World’s 100 Best Museums 2026 list?",
+        "options": {
+          "A": "West Bengal",
+          "B": "Odisha",
+          "C": "Madhya Pradesh",
+          "D": "Bihar"
+        },
+        "explanation": "Bihar is home to the Bihar Museum, located on Nehru Path in Patna, which secured ninth place globally and first place in Asia in the World’s 100 Best Museums 2026 list published by Germany-based Worth a Journey. It was the only Indian museum featured among the world's top 100. Designed by renowned architect Fumihiko Maki in collaboration with Opolis Architects, the museum showcases Bihar’s rich cultural heritage. Its collections include archaeological artefacts, sculptures, coins, manuscripts and folk art, covering the region’s history from the Stone Age to the modern period."
+      },
+      "hi": {
+        "question": "विश्व के 100 सर्वश्रेष्ठ संग्रहालय 2026 की सूची में विश्व स्तर पर नौवें और एशिया में पहले स्थान पर स्थित संग्रहालय का घर कौन सा भारतीय राज्य है?",
+        "options": {
+          "A": "पश्चिम बंगाल",
+          "B": "ओडिशा",
+          "C": "मध्य प्रदेश",
+          "D": "बिहार"
+        },
+        "explanation": "बिहार, पटना के नेहरू पथ पर स्थित बिहार संग्रहालय का घर है, जिसने जर्मनी स्थित वर्थ ए जर्नी द्वारा प्रकाशित विश्व के 100 सर्वश्रेष्ठ संग्रहालय 2026 की सूची में विश्व स्तर पर नौवां स्थान और एशिया में पहला स्थान हासिल किया है। यह दुनिया के शीर्ष 100 में शामिल एकमात्र भारतीय संग्रहालय था। ओपोलिस आर्किटेक्ट्स के सहयोग से प्रसिद्ध वास्तुकार फुमिहिको माकी द्वारा डिजाइन किया गया यह संग्रहालय बिहार की समृद्ध सांस्कृतिक विरासत को प्रदर्शित करता है। इसके संग्रह में पुरातात्विक कलाकृतियाँ, मूर्तियाँ, सिक्के, पांडुलिपियाँ और लोक कलाएँ शामिल हैं, जो पाषाण युग से लेकर आधुनिक काल तक क्षेत्र के इतिहास को कवर करती हैं।"
+      },
+      "gu": {
+        "question": "વિશ્વના 100 શ્રેષ્ઠ મ્યુઝિયમ 2026 ની યાદીમાં વૈશ્વિક સ્તરે નવમા ક્રમે અને એશિયામાં પ્રથમ સ્થાને સંગ્રહાલયનું ઘર કયું ભારતીય રાજ્ય છે?",
+        "options": {
+          "A": "પશ્ચિમ બંગાળ",
+          "B": "ઓડિશા",
+          "C": "મધ્યપ્રદેશ",
+          "D": "બિહાર"
+        },
+        "explanation": "બિહાર એ બિહાર મ્યુઝિયમનું ઘર છે, જે પટનામાં નેહરુ પથ પર સ્થિત છે, જેણે જર્મની સ્થિત વર્થ અ જર્ની દ્વારા પ્રકાશિત વિશ્વના 100 શ્રેષ્ઠ મ્યુઝિયમ 2026 ની યાદીમાં વૈશ્વિક સ્તરે નવમું અને એશિયામાં પ્રથમ સ્થાન મેળવ્યું છે. વિશ્વના ટોચના 100માં દર્શાવવામાં આવેલું તે એકમાત્ર ભારતીય મ્યુઝિયમ હતું. પ્રખ્યાત આર્કિટેક્ટ ફુમિહિકો માકી દ્વારા ઓપોલિસ આર્કિટેક્ટ્સના સહયોગથી ડિઝાઇન કરવામાં આવ્યું હતું, આ મ્યુઝિયમ બિહારના સમૃદ્ધ સાંસ્કૃતિક વારસાને દર્શાવે છે. તેના સંગ્રહમાં પુરાતત્વીય કલાકૃતિઓ, શિલ્પો, સિક્કાઓ, હસ્તપ્રતો અને લોક કલાનો સમાવેશ થાય છે, જે પ્રદેશના પથ્થર યુગથી આધુનિક સમયગાળા સુધીના ઇતિહાસને આવરી લે છે."
+      }
+    },
+    {
+      "id": "2026-10-28-1",
+      "date": "2026-10-28",
+      "qno": 1,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "What was the record volume of soybean imports into India during the 2025–26 marketing season?",
+        "options": {
+          "A": "500,000 Tonnes",
+          "B": "750,000 Tonnes",
+          "C": "900,000 Tonnes",
+          "D": "1.1 Million Tonnes"
+        },
+        "explanation": "India’s soybean imports reached a record 1.1 million tonnes during the 2025–26 marketing season, compared with approximately 2,000 tonnes in the previous season. The sharp increase was mainly driven by rising domestic soybean prices, which encouraged processing industries to purchase soybeans from international markets. Niger emerged as India's largest supplier, with shipments estimated at more than 430,000 tonnes. India permits the import of only non-genetically modified (non-GM) soybeans under the applicable regulations. Meanwhile, India's soymeal exports declined by approximately half to around 1 million tonnes during the same marketing season, according to the Soybean Processors Association of India (SOPA)."
+      },
+      "hi": {
+        "question": "2025-26 विपणन सीज़न के दौरान भारत में सोयाबीन आयात की रिकॉर्ड मात्रा क्या थी?",
+        "options": {
+          "A": "500,000 टन",
+          "B": "750,000 टन",
+          "C": "900,000 टन",
+          "D": "1.1 मिलियन टन"
+        },
+        "explanation": "2025-26 मार्केटिंग सीज़न के दौरान भारत का सोयाबीन आयात रिकॉर्ड 1.1 मिलियन टन तक पहुंच गया, जबकि पिछले सीज़न में यह लगभग 2,000 टन था। तीव्र वृद्धि मुख्य रूप से घरेलू सोयाबीन की बढ़ती कीमतों के कारण हुई, जिसने प्रसंस्करण उद्योगों को अंतरराष्ट्रीय बाजारों से सोयाबीन खरीदने के लिए प्रोत्साहित किया। सोयाबीन प्रोसेसर्स एसोसिएशन ऑफ इंडिया (एसओपीए) के अनुसार, नाइजर भारत_ENG_THEME_TOKEN_0__ के रूप में उभरा, उसी विपणन सत्र के दौरान सोया खली का निर्यात लगभग आधा घटकर लगभग 1 मिलियन टन रह गया।"
+      },
+      "gu": {
+        "question": "2025-26 માર્કેટિંગ સીઝન દરમિયાન ભારતમાં સોયાબીનની આયાતનું રેકોર્ડ વોલ્યુમ કેટલું હતું?",
+        "options": {
+          "A": "500,000 ટન",
+          "B": "750,000 ટન",
+          "C": "900,000 ટન",
+          "D": "1.1 મિલિયન ટન"
+        },
+        "explanation": "ભારતની સોયાબીનની આયાત 2025-26ની માર્કેટિંગ સીઝન દરમિયાન રેકોર્ડ 1.1 મિલિયન ટન સુધી પહોંચી હતી, જે અગાઉની સિઝનમાં આશરે 2,000 ટન હતી. તીવ્ર વધારો મુખ્યત્વે સ્થાનિક સોયાબીનના ભાવમાં વધારો થવાને કારણે થયો હતો, જેણે પ્રોસેસિંગ ઉદ્યોગોને આંતરરાષ્ટ્રીય બજારોમાંથી સોયાબીન ખરીદવા પ્રોત્સાહિત કર્યા હતા. સોયાબીન પ્રોસેસર્સ એસોસિયેશન ઓફ ઈન્ડિયા (SOPA)ના જણાવ્યા અનુસાર, સમાન માર્કેટિંગ સીઝન દરમિયાન નાઈજર ભારતની સોયામીલની નિકાસમાં અડધાથી લગભગ 1 મિલિયન ટન ઘટીને ઉભરી આવ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-28-2",
+      "date": "2026-10-28",
+      "qno": 2,
+      "answer": "C",
+      "category": "Defence",
+      "en": {
+        "question": "In which country did the 11th edition of Exercise Garuda Shakti 2026 begin?",
+        "options": {
+          "A": "Malaysia",
+          "B": "Thailand",
+          "C": "Indonesia",
+          "D": "Vietnam"
+        },
+        "explanation": "Indonesia hosted the 11th edition of Exercise Garuda Shakti, a bilateral Special Forces military exercise between India and Indonesia. The exercise began on October 27, 2026, in Banyuwangi, Indonesia, and was scheduled to continue until November 6, 2026. The Indian contingent comprises personnel from the Parachute Regiment (Special Forces) of the Indian Army, while Indonesia is represented by its Special Forces. The exercise focuses on improving military interoperability, exchanging operational experiences, and strengthening defence cooperation. Training activities include jungle warfare, obstacle clearance, combat marksmanship, mountaineering, and air assault operations."
+      },
+      "hi": {
+        "question": "अभ्यास गरुड़ शक्ति 2026 का 11वां संस्करण किस देश में शुरू हुआ?",
+        "options": {
+          "A": "मलेशिया",
+          "B": "थाईलैंड",
+          "C": "इंडोनेशिया",
+          "D": "वियतनाम"
+        },
+        "explanation": "इंडोनेशिया ने भारत और इंडोनेशिया के बीच द्विपक्षीय विशेष बल सैन्य अभ्यास, गरुड़ शक्ति अभ्यास के 11वें संस्करण की मेजबानी की। यह अभ्यास 27 अक्टूबर, 2026 को इंडोनेशिया के बनयुवांगी में शुरू हुआ और 6 नवंबर, 2026 तक जारी रहने वाला था। भारतीय दल में भारतीय सेना के पैराशूट रेजिमेंट (विशेष बल) के कर्मी शामिल हैं, जबकि इंडोनेशिया का प्रतिनिधित्व उसके विशेष बलों द्वारा किया जाता है। यह अभ्यास सैन्य अंतरसंचालनीयता में सुधार, परिचालन अनुभवों के आदान-प्रदान और रक्षा सहयोग को मजबूत करने पर केंद्रित है। प्रशिक्षण गतिविधियों में जंगल युद्ध, बाधा निवारण, युद्ध निशानेबाजी, पर्वतारोहण और हवाई हमला संचालन शामिल हैं।"
+      },
+      "gu": {
+        "question": "વ્યાયામ ગરુડ શક્તિ 2026 ની 11મી આવૃત્તિ કયા દેશમાં શરૂ થઈ?",
+        "options": {
+          "A": "મલેશિયા",
+          "B": "થાઈલેન્ડ",
+          "C": "ઈન્ડોનેશિયા",
+          "D": "વિયેતનામ"
+        },
+        "explanation": "ઈન્ડોનેશિયાએ ભારત અને ઈન્ડોનેશિયા વચ્ચે દ્વિપક્ષીય સ્પેશિયલ ફોર્સીસ સૈન્ય અભ્યાસ ગરુડ શક્તિની 11મી આવૃત્તિનું આયોજન કર્યું હતું. આ કવાયત 27 ઓક્ટોબર, 2026 ના રોજ, ઇન્ડોનેશિયાના બાન્યુવાંગીમાં શરૂ થઈ હતી અને તે 6 નવેમ્બર, 2026 સુધી ચાલુ રહેવાની હતી. ભારતીય ટુકડીમાં ભારતીય સૈન્યની પેરાશૂટ રેજિમેન્ટ (સ્પેશિયલ ફોર્સિસ)ના કર્મચારીઓનો સમાવેશ થાય છે, જ્યારે ઈન્ડોનેશિયાનું પ્રતિનિધિત્વ તેના વિશેષ દળો દ્વારા કરવામાં આવે છે. આ કવાયત લશ્કરી આંતર કાર્યક્ષમતા સુધારવા, ઓપરેશનલ અનુભવોની આપલે અને સંરક્ષણ સહયોગને મજબૂત કરવા પર ધ્યાન કેન્દ્રિત કરે છે. પ્રશિક્ષણ પ્રવૃત્તિઓમાં જંગલ યુદ્ધ, અવરોધની મંજૂરી, લડાઇ નિશાનબાજી, પર્વતારોહણ અને હવાઈ હુમલાની કામગીરીનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-10-28-3",
+      "date": "2026-10-28",
+      "qno": 3,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "By what percentage did the Union Cabinet approve the increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners in 2026?",
+        "options": {
+          "A": "3%",
+          "B": "4%",
+          "C": "2%",
+          "D": "5%"
+        },
+        "explanation": "The Union Cabinet, chaired by Prime Minister Narendra Modi, approved a 3% increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners in 2026. The revision came into effect from July 1, 2026, increasing the rates from 60% to 63% of Basic Pay and Basic Pension, respectively. Approximately 48.54 lakh Central Government employees and 68.71 lakh pensioners are expected to benefit from this decision. The government estimated an additional annual financial burden of ₹10,016.10 crore. The increase aims to provide financial support to beneficiaries against rising inflation and living costs."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने 2026 में केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "options": {
+          "A": "3%",
+          "B": "4%",
+          "C": "2%",
+          "D": "5%"
+        },
+        "explanation": "प्रधान मंत्री नरेंद्र मोदी की अध्यक्षता में केंद्रीय मंत्रिमंडल ने 2026 में केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में 3% की वृद्धि को मंजूरी दे दी। संशोधन 1 जुलाई, 2026 से लागू हुआ, जिससे मूल वेतन और मूल पेंशन की दरें क्रमशः 60% से बढ़कर 63% हो गईं। इस फैसले से लगभग 48.54 लाख केंद्र सरकार के कर्मचारियों और 68.71 लाख पेंशनभोगियों को फायदा होने की उम्मीद है। सरकार ने ₹10,016.10 करोड़ के अतिरिक्त वार्षिक वित्तीय बोझ का अनुमान लगाया। इस वृद्धि का उद्देश्य बढ़ती मुद्रास्फीति और रहने की लागत के खिलाफ लाभार्थियों को वित्तीय सहायता प्रदान करना है।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે 2026 માં કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "options": {
+          "A": "3%",
+          "B": "4%",
+          "C": "2%",
+          "D": "5%"
+        },
+        "explanation": "વડા પ્રધાન નરેન્દ્ર મોદીની અધ્યક્ષતામાં કેન્દ્રીય મંત્રીમંડળે 2026માં કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થા (DA) અને મોંઘવારી રાહત (DR)માં 3% વધારાને મંજૂરી આપી હતી. સુધારો 1 જુલાઈ, 2026 થી અમલમાં આવ્યો હતો, જેમાં મૂળભૂત પગાર અને મૂળભૂત પેન્શનના દર 60% થી વધારીને 63% કરવામાં આવ્યા હતા. અંદાજે 48.54 લાખ કેન્દ્ર સરકારના કર્મચારીઓ અને 68.71 લાખ પેન્શનધારકોને આ નિર્ણયથી લાભ થવાની અપેક્ષા છે. સરકારે ₹10,016.10 કરોડના વધારાના વાર્ષિક નાણાકીય બોજનો અંદાજ મૂક્યો હતો. વધારાનો ઉદ્દેશ્ય વધતી જતી ફુગાવા અને જીવન ખર્ચ સામે લાભાર્થીઓને નાણાકીય સહાય પૂરી પાડવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-28-4",
+      "date": "2026-10-28",
+      "qno": 4,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "In which city will the Kamaladevi Chattopadhyay NIF Book Prize 2026 award ceremony be held?",
+        "options": {
+          "A": "New Delhi",
+          "B": "Bangalore",
+          "C": "Mumbai",
+          "D": "Hyderabad"
+        },
+        "explanation": "Bangalore will host the award ceremony of the Kamaladevi Chattopadhyay NIF Book Prize 2026 on December 12, 2026, as part of the Bangalore Literature Festival. The New India Foundation (NIF) established this annual literary award in 2018 to recognise outstanding non-fiction books focusing on modern and contemporary India. Five books, all published in 2025, have been shortlisted for the 2026 edition. Their subjects include the Indian Constitution, economic development, the history of partition, diplomat K. M. Panikkar and classical singer Arun Kashalkar. The winning author will receive a cash prize of ₹15 lakh."
+      },
+      "hi": {
+        "question": "कमलादेवी चट्टोपाध्याय एनआईएफ पुस्तक पुरस्कार 2026 पुरस्कार समारोह किस शहर में आयोजित किया जाएगा?",
+        "options": {
+          "A": "नई दिल्ली",
+          "B": "बेंगलुरु",
+          "C": "मुंबई",
+          "D": "हैदराबाद"
+        },
+        "explanation": "बेंगलुरु 12 दिसंबर, 2026 को बेंगलुरु साहित्य महोत्सव के हिस्से के रूप में कमलादेवी चट्टोपाध्याय एनआईएफ बुक पुरस्कार 2026 के पुरस्कार समारोह की मेजबानी करेगा। न्यू इंडिया फाउंडेशन (एनआईएफ) ने आधुनिक और समकालीन भारत पर ध्यान केंद्रित करने वाली उत्कृष्ट गैर-काल्पनिक पुस्तकों को मान्यता देने के लिए 2018 में इस वार्षिक साहित्यिक पुरस्कार की स्थापना की। 2025 में प्रकाशित पांच पुस्तकों को 2026 संस्करण के लिए शॉर्टलिस्ट किया गया है। उनके विषयों में भारतीय संविधान, आर्थिक विकास, विभाजन का इतिहास, राजनयिक के.एम. पणिक्कर और शास्त्रीय गायक अरुण कशालकर शामिल हैं। विजेता लेखक को ₹15 लाख का नकद पुरस्कार मिलेगा।"
+      },
+      "gu": {
+        "question": "કમલાદેવી ચટ્ટોપાધ્યાય NIF બુક પ્રાઈઝ 2026 એવોર્ડ સમારોહ કયા શહેરમાં યોજાશે?",
+        "options": {
+          "A": "નવી દિલ્હી",
+          "B": "બેંગ્લોર",
+          "C": "મુંબઈ",
+          "D": "હૈદરાબાદ"
+        },
+        "explanation": "બેંગલોર લિટરેચર ફેસ્ટિવલના ભાગરૂપે, 12 ડિસેમ્બર, 2026ના રોજ કમલાદેવી ચટ્ટોપાધ્યાય NIF બુક પ્રાઈઝ 2026ના એવોર્ડ સમારંભનું આયોજન કરશે. ન્યૂ ઈન્ડિયા ફાઉન્ડેશન (NIF) એ આધુનિક અને સમકાલીન ભારત પર ધ્યાન કેન્દ્રિત કરતા ઉત્કૃષ્ટ નોન-ફિક્શન પુસ્તકોને ઓળખવા માટે 2018 માં આ વાર્ષિક સાહિત્યિક પુરસ્કારની સ્થાપના કરી હતી. પાંચ પુસ્તકો, બધા 2025 માં પ્રકાશિત થયા હતા, 2026 આવૃત્તિ માટે શોર્ટલિસ્ટ કરવામાં આવ્યા છે. તેમના વિષયોમાં ભારતીય બંધારણ, આર્થિક વિકાસ, ભાગલાનો ઈતિહાસ, રાજદ્વારી કે.એમ. પાણિકકર અને શાસ્ત્રીય ગાયક અરુણ કશાલકરનો સમાવેશ થાય છે. વિજેતા લેખકને ₹15 લાખનું રોકડ ઇનામ મળશે."
+      }
+    },
+    {
+      "id": "2026-10-28-5",
+      "date": "2026-10-28",
+      "qno": 5,
+      "answer": "D",
+      "category": "Environment",
+      "en": {
+        "question": "Which Indian city will host the Earthshot Prize 2026 for the first time in India?",
+        "options": {
+          "A": "New Delhi",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "Mumbai"
+        },
+        "explanation": "Mumbai will host the Earthshot Prize 2026 for the first time in India on November 16–17, 2026. Established in 2020 by Prince William, the Earthshot Prize is an international environmental initiative aimed at identifying and supporting innovative solutions to protect the planet by 2030. The sixth annual Awards Night will take place on November 17, bringing together environmental experts, investors, businesses and philanthropists. The prize focuses on five categories: nature restoration, clean air, ocean conservation, waste reduction and climate solutions. Each of the five category winners receives £1 million to expand their environmental innovations."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय शहर भारत में पहली बार अर्थशॉट पुरस्कार 2026 की मेजबानी करेगा?",
+        "options": {
+          "A": "नई दिल्ली",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "मुंबई"
+        },
+        "explanation": "मुंबई 16-17 नवंबर, 2026 को भारत में पहली बार अर्थशॉट पुरस्कार 2026 की मेजबानी करेगा। प्रिंस विलियम द्वारा 2020 में स्थापित, अर्थशॉट पुरस्कार एक अंतरराष्ट्रीय पर्यावरण पहल है जिसका उद्देश्य 2030 तक ग्रह की रक्षा के लिए अभिनव समाधानों की पहचान करना और उनका समर्थन करना है। छठा वार्षिक पुरस्कार रात्रि 17 नवंबर को होगी, जिसमें पर्यावरण विशेषज्ञ, निवेशक, व्यवसाय और परोपकारी लोग एक साथ आएंगे। पुरस्कार पांच श्रेणियों पर केंद्रित है: प्रकृति बहाली, स्वच्छ हवा, महासागर संरक्षण, अपशिष्ट में कमी और जलवायु समाधान। पाँच श्रेणी विजेताओं में से प्रत्येक को अपने पर्यावरणीय नवाचारों का विस्तार करने के लिए £1 मिलियन मिलते हैं।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય શહેર ભારતમાં પ્રથમ વખત અર્થશોટ પ્રાઇઝ 2026નું આયોજન કરશે?",
+        "options": {
+          "A": "નવી દિલ્હી",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "મુંબઈ"
+        },
+        "explanation": "16-17 નવેમ્બર, 2026 ના રોજ મુંબઈ ભારતમાં પ્રથમ વખત અર્થશોટ પ્રાઈઝ 2026નું આયોજન કરશે. પ્રિન્સ વિલિયમ દ્વારા 2020 માં સ્થપાયેલ, અર્થશોટ પ્રાઈઝ એ એક આંતરરાષ્ટ્રીય પર્યાવરણીય પહેલ છે જેનો ઉદ્દેશ્ય 2030 સુધીમાં ગ્રહને સુરક્ષિત કરવા માટેના નવીન ઉકેલોને ઓળખવા અને તેને સમર્થન આપવાનો છે. છઠ્ઠા વાર્ષિક પુરસ્કારો, નવેમ્બર N1 ના રોજ નિષ્ણાતો સાથે મળીને પર્યાવરણીય પુરસ્કારો યોજશે. વ્યવસાયો અને પરોપકારીઓ. આ પુરસ્કાર પાંચ શ્રેણીઓ પર ધ્યાન કેન્દ્રિત કરે છે: પ્રકૃતિ પુનઃસ્થાપન, સ્વચ્છ હવા, સમુદ્ર સંરક્ષણ, કચરો ઘટાડવા અને આબોહવા ઉકેલો. પાંચ શ્રેણીના દરેક વિજેતાઓને તેમની પર્યાવરણીય નવીનતાઓને વિસ્તારવા માટે £1 મિલિયન મળે છે."
+      }
+    },
+    {
+      "id": "2026-10-28-6",
+      "date": "2026-10-28",
+      "qno": 6,
+      "answer": "A",
+      "category": "International",
+      "en": {
+        "question": "Which country will host the 31st Conference of the Parties (COP31) in 2026?",
+        "options": {
+          "A": "Turkiye",
+          "B": "Australia",
+          "C": "Fiji",
+          "D": "India"
+        },
+        "explanation": "Turkiye will host the 31st Conference of the Parties (COP31) to the United Nations Framework Convention on Climate Change (UNFCCC) in Antalya from November 9 to 20, 2026. The summit will bring together delegates from countries worldwide to discuss climate change mitigation, adaptation, climate finance, and the implementation of the Paris Agreement. Türkiye will also lead the Action Agenda, while Australia will play a key role in the official climate negotiations under the leadership of Chris Bowen. Murat Kurum, Türkiye's Minister of Environment, Urbanization and Climate Change, will serve as the President of COP31."
+      },
+      "hi": {
+        "question": "कौन सा देश 2026 में पार्टियों के 31वें सम्मेलन (COP31) की मेजबानी करेगा?",
+        "options": {
+          "A": "तुर्किये",
+          "B": "ऑस्ट्रेलिया",
+          "C": "फ़िजी",
+          "D": "भारत"
+        },
+        "explanation": "तुर्किये 9 से 20 नवंबर, 2026 तक अंताल्या में जलवायु परिवर्तन पर संयुक्त राष्ट्र फ्रेमवर्क कन्वेंशन (यूएनएफसीसीसी) के लिए पार्टियों के 31वें सम्मेलन (सीओपी31) की मेजबानी करेगा। शिखर सम्मेलन जलवायु परिवर्तन शमन, अनुकूलन, जलवायु वित्त और पेरिस समझौते के कार्यान्वयन पर चर्चा करने के लिए दुनिया भर के देशों के प्रतिनिधियों को एक साथ लाएगा। तुर्किये एक्शन एजेंडा का भी नेतृत्व करेंगे, जबकि ऑस्ट्रेलिया क्रिस बोवेन के नेतृत्व में आधिकारिक जलवायु वार्ता में महत्वपूर्ण भूमिका निभाएगा। तुर्किये के पर्यावरण, शहरीकरण और जलवायु परिवर्तन मंत्री मूरत कुरुम, COP31 के अध्यक्ष के रूप में काम करेंगे।"
+      },
+      "gu": {
+        "question": "કયો દેશ 2026માં 31મી કોન્ફરન્સ ઓફ ધ પાર્ટીઝ (COP31) નું આયોજન કરશે?",
+        "options": {
+          "A": "તુર્કીયે",
+          "B": "ઓસ્ટ્રેલિયા",
+          "C": "ફીજી",
+          "D": "ભારત"
+        },
+        "explanation": "તુર્કિયે 9 થી 20 નવેમ્બર, 2026 દરમિયાન અંતાલ્યામાં યુનાઈટેડ નેશન્સ ફ્રેમવર્ક કન્વેન્શન ઓન ક્લાઈમેટ ચેન્જ (UNFCCC) માટે પક્ષકારોની 31મી કોન્ફરન્સ (COP31) ની યજમાની કરશે. આ સમિટ વિશ્વભરના દેશોના પ્રતિનિધિઓને આબોહવા પરિવર્તન ઘટાડવા, અનુકૂલન, અમલીકરણ, એલિમેટેશન અને એલિમેટેશનની ચર્ચા કરવા માટે એકસાથે લાવશે. તુર્કિયે એક્શન એજન્ડાનું પણ નેતૃત્વ કરશે, જ્યારે ઓસ્ટ્રેલિયા ક્રિસ બોવેનના નેતૃત્વ હેઠળ સત્તાવાર આબોહવા વાટાઘાટોમાં મુખ્ય ભૂમિકા ભજવશે. મુરાત કુરુમ, તુર્કીના પર્યાવરણ, શહેરીકરણ અને આબોહવા પરિવર્તન મંત્રી, COP31 ના પ્રમુખ તરીકે સેવા આપશે."
+      }
+    },
+    {
+      "id": "2026-10-28-7",
+      "date": "2026-10-28",
+      "qno": 7,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which shipyard launched the Next Generation Offshore Patrol Vessel INS Srishti for the Indian Navy?",
+        "options": {
+          "A": "Mazagon Dock Shipbuilders Limited",
+          "B": "Goa Shipyard",
+          "C": "Garden Reach Shipbuilders & Engineers",
+          "D": "Cochin Shipyard Limited"
+        },
+        "explanation": "Goa Shipyard Limited (GSL) launched INS Srishti (Yard 1283), a Next Generation Offshore Patrol Vessel (NGOPV) for the Indian Navy, on October 27, 2026. The vessel was floated off at GSL's Vaddem Yard in Goa, marking an important milestone in India's indigenous naval shipbuilding programme. Offshore Patrol Vessels play a crucial role in maritime security through surveillance, protection of offshore infrastructure, anti-piracy operations, search and rescue missions, and humanitarian assistance. The construction of such vessels in Indian shipyards supports the Make in India and Aatmanirbhar Bharat initiatives by strengthening domestic defence manufacturing capabilities."
+      },
+      "hi": {
+        "question": "किस शिपयार्ड ने भारतीय नौसेना के लिए अगली पीढ़ी के अपतटीय गश्ती जहाज आईएनएस सृष्टि को लॉन्च किया?",
+        "options": {
+          "A": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "B": "गोवा शिपयार्ड",
+          "C": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "D": "कोचीन शिपयार्ड लिमिटेड"
+        },
+        "explanation": "गोवा शिपयार्ड लिमिटेड (जीएसएल) ने 27 अक्टूबर, 2026 को भारतीय नौसेना के लिए अगली पीढ़ी के अपतटीय गश्ती जहाज (एनजीओपीवी) आईएनएस सृष्टि (यार्ड 1283) को लॉन्च किया। जहाज को जीएसएल's Vaddem Yard में Goa, marking एक महत्वपूर्ण milestone में India' के स्वदेशी नौसैनिक जहाज निर्माण कार्यक्रम में रवाना किया गया था। अपतटीय गश्ती जहाज निगरानी, ​​अपतटीय बुनियादी ढांचे की सुरक्षा, समुद्री डकैती विरोधी अभियान, खोज और बचाव मिशन और मानवीय सहायता के माध्यम से समुद्री सुरक्षा में महत्वपूर्ण भूमिका निभाते हैं। भारतीय शिपयार्डों में ऐसे जहाजों का निर्माण घरेलू रक्षा विनिर्माण क्षमताओं को मजबूत करके मेक इन इंडिया और आत्मनिर्भर भारत पहल का समर्थन करता है।"
+      },
+      "gu": {
+        "question": "કયા શિપયાર્ડે ભારતીય નૌકાદળ માટે નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસલ INS સૃષ્ટિ લોન્ચ કરી?",
+        "options": {
+          "A": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "B": "ગોવા શિપયાર્ડ",
+          "C": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "D": "કોચીન શિપયાર્ડ લિમિટેડ"
+        },
+        "explanation": "ગોવા શિપયાર્ડ લિમિટેડ (GSL) એ 27 ઓક્ટોબર, 2026 ના રોજ ભારતીય નૌકાદળ માટે INS સૃષ્ટિ (યાર્ડ 1283), નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV) લોન્ચ કર્યું હતું. આ જહાજ GSL's Vaddem Yard માં Goa, marking એક મહત્વપૂર્ણ milestone માં India' ના સ્વદેશી નૌકાદળ કાર્યક્રમમાં તરતું મૂકવામાં આવ્યું હતું. ઓફશોર પેટ્રોલ વેસલ્સ સર્વેલન્સ, ઓફશોર ઈન્ફ્રાસ્ટ્રક્ચરનું રક્ષણ, ચાંચિયાગીરી વિરોધી કામગીરી, શોધ અને બચાવ મિશન અને માનવતાવાદી સહાય દ્વારા દરિયાઈ સુરક્ષામાં નિર્ણાયક ભૂમિકા ભજવે છે. ભારતીય શિપયાર્ડ્સમાં આવા જહાજોનું નિર્માણ સ્થાનિક સંરક્ષણ ઉત્પાદન ક્ષમતાઓને મજબૂત કરીને મેક ઇન ઇન્ડિયા અને આત્મનિર્ભર ભારત પહેલને સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-10-28-8",
+      "date": "2026-10-28",
+      "qno": 8,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Who has reportedly been appointed as the Additional Secretary in the Department of Military Affairs (DMA)?",
+        "options": {
+          "A": "Air Marshal Vikram Gaur",
+          "B": "Air Marshal Amar Preet Singh",
+          "C": "Lieutenant General Anil Puri",
+          "D": "Vice Admiral Atul Anand"
+        },
+        "explanation": "Air Marshal Vikram Gaur has reportedly been appointed as the Additional Secretary in the Department of Military Affairs (DMA) under the Ministry of Defence. He previously served as Joint Secretary (Air & Staff Duties) in the DMA from October 2024. He was promoted to the rank of Air Marshal with effect from July 1, 2026. If confirmed, he will become the first Indian Air Force officer to hold the Additional Secretary position in the department. The DMA was established on January 1, 2020, to strengthen coordination, jointness and integration among the Indian Army, Navy and Air Force."
+      },
+      "hi": {
+        "question": "कथित तौर पर सैन्य मामलों के विभाग (डीएमए) में अतिरिक्त सचिव के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "एयर मार्शल विक्रम गौड़",
+          "B": "एयर मार्शल अमर प्रीत सिंह",
+          "C": "लेफ्टिनेंट जनरल अनिल पुरी",
+          "D": "वाइस एडमिरल अतुल आनंद"
+        },
+        "explanation": "एयर मार्शल विक्रम गौड़ को कथित तौर पर रक्षा मंत्रालय के तहत सैन्य मामलों के विभाग (डीएमए) में अतिरिक्त सचिव के रूप में नियुक्त किया गया है। उन्होंने पहले अक्टूबर 2024 से डीएमए में संयुक्त सचिव (वायु और कर्मचारी कर्तव्य) के रूप में कार्य किया था। उन्हें 1 जुलाई, 2026 से एयर मार्शल के पद पर पदोन्नत किया गया था। यदि पुष्टि की जाती है, तो वह विभाग में अतिरिक्त सचिव का पद संभालने वाले पहले भारतीय वायु सेना अधिकारी बन जाएंगे। भारतीय सेना, नौसेना और वायु सेना के बीच समन्वय, संयुक्तता और एकीकरण को मजबूत करने के लिए 1 जनवरी, 2020 को डीएमए की स्थापना की गई थी।"
+      },
+      "gu": {
+        "question": "ડિપાર્ટમેન્ટ ઓફ મિલિટરી અફેર્સ (DMA)માં અધિક સચિવ તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "એર માર્શલ વિક્રમ ગૌર",
+          "B": "એર માર્શલ અમર પ્રીત સિંહ",
+          "C": "લેફ્ટનન્ટ જનરલ અનિલ પુરી",
+          "D": "વાઇસ એડમિરલ અતુલ આનંદ"
+        },
+        "explanation": "એર માર્શલ વિક્રમ ગૌરને સંરક્ષણ મંત્રાલય હેઠળના સૈન્ય બાબતોના વિભાગ (DMA)માં વધારાના સચિવ તરીકે નિયુક્ત કરવામાં આવ્યા છે. તેમણે અગાઉ ઓક્ટોબર 2024 થી DMA માં જોઈન્ટ સેક્રેટરી (એર એન્ડ સ્ટાફ ડ્યૂટી) તરીકે સેવા આપી હતી. તેમને 1 જુલાઈ, 2026 થી એર માર્શલના હોદ્દા પર બઢતી આપવામાં આવી હતી. જો પુષ્ટિ થઈ જાય, તો તેઓ વિભાગમાં એડિશનલ સેક્રેટરીનું પદ સંભાળનાર પ્રથમ ભારતીય વાયુસેના અધિકારી બનશે. ડીએમએની સ્થાપના 1 જાન્યુઆરી, 2020 ના રોજ ભારતીય સેના, નૌકાદળ અને વાયુસેના વચ્ચે સંકલન, સંયુક્તતા અને એકીકરણને મજબૂત કરવા માટે કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-28-9",
+      "date": "2026-10-28",
+      "qno": 9,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state has selected the Orange Oakleaf (Kallima inachus) as its proposed official state butterfly?",
+        "options": {
+          "A": "Madhya Pradesh",
+          "B": "Maharashtra",
+          "C": "Chhattisgarh",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Chhattisgarh has selected the Orange Oakleaf (Kallima inachus) as its proposed official state butterfly through an online public vote conducted from July 31 to August 31, 2026. The butterfly received 3,000 out of 5,813 votes, securing approximately 51.6% of the total votes. Its selection was finalized during the 15th State Wildlife Board meeting and is awaiting government clearance. The Orange Oakleaf is famous for its remarkable camouflage ability. When it folds its wings, it closely resembles a dry, withered leaf, helping it escape predators. When its wings are open, it displays striking orange, black and deep blue colours."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने ऑरेंज ओकलीफ (कलीमा इनैचस) को अपने प्रस्तावित आधिकारिक राज्य तितली के रूप में चुना है?",
+        "options": {
+          "A": "मध्य प्रदेश",
+          "B": "महाराष्ट्र",
+          "C": "छत्तीसगढ़",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "छत्तीसगढ़ ने 31 जुलाई से 31 अगस्त, 2026 तक आयोजित एक ऑनलाइन सार्वजनिक वोट के माध्यम से ऑरेंज ओकलीफ (कलीमा इनैचस) को अपने प्रस्तावित आधिकारिक राज्य तितली के रूप में चुना है। तितली को 5,813 वोटों में से 3,000 वोट मिले, जो कुल वोटों का लगभग 51.6% हासिल किया। इसके चयन को 15वीं राज्य वन्यजीव बोर्ड की बैठक के दौरान अंतिम रूप दिया गया था और सरकार की मंजूरी का इंतजार है। ऑरेंज ओकलीफ अपनी उल्लेखनीय छलावरण क्षमता के लिए प्रसिद्ध है। जब यह अपने पंखों को मोड़ता है, तो यह सूखे, सूखे पत्ते जैसा दिखता है, जिससे इसे शिकारियों से बचने में मदद मिलती है। जब इसके पंख खुले होते हैं, तो यह आकर्षक नारंगी, काले और गहरे नीले रंग प्रदर्शित करता है।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યએ તેના પ્રસ્તાવિત સત્તાવાર રાજ્ય પતંગિયા તરીકે ઓરેન્જ ઓકલીફ (કાલિમા ઇનાચસ) પસંદ કર્યું છે?",
+        "options": {
+          "A": "મધ્યપ્રદેશ",
+          "B": "મહારાષ્ટ્ર",
+          "C": "છત્તીસગઢ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "છત્તીસગઢે 31 જુલાઇથી 31 ઓગસ્ટ, 2026 દરમિયાન યોજાયેલા ઓનલાઈન જાહેર મત દ્વારા ઓરેન્જ ઓકલીફ (કલ્લીમા ઈનાચસ) ને તેના પ્રસ્તાવિત સત્તાવાર રાજ્ય પતંગિયા તરીકે પસંદ કર્યું છે. બટરફ્લાયને 5,813 મતોમાંથી 3,000 મત મળ્યા છે, જે કુલ 51.6% જેટલા મત મેળવ્યા છે. તેની પસંદગી 15મી સ્ટેટ વાઇલ્ડલાઇફ બોર્ડની બેઠક દરમિયાન નક્કી કરવામાં આવી હતી અને તે સરકારની મંજૂરીની રાહ જોઈ રહી છે. ઓરેન્જ ઓકલીફ તેની નોંધપાત્ર છદ્માવરણ ક્ષમતા માટે પ્રખ્યાત છે. જ્યારે તે તેની પાંખો ફોલ્ડ કરે છે, ત્યારે તે સૂકા, સુકાઈ ગયેલા પાંદડા જેવું લાગે છે, જે તેને શિકારીઓથી બચવામાં મદદ કરે છે. જ્યારે તેની પાંખો ખુલ્લી હોય છે, ત્યારે તે આકર્ષક નારંગી, કાળો અને ઊંડા વાદળી રંગો દર્શાવે છે."
+      }
+    },
+    {
+      "id": "2026-10-28-10",
+      "date": "2026-10-28",
+      "qno": 10,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Which country honoured Indian pilot Captain Smit Machchhar with the First Class Order of Zayed II for his bravery?",
+        "options": {
+          "A": "Israel",
+          "B": "UAE",
+          "C": "Saudi Arabia",
+          "D": "United States"
+        },
+        "explanation": "The United Arab Emirates (UAE) honoured Indian pilot Captain Smit Machchhar with the First Class Order of Zayed II on October 27, 2026, in recognition of his extraordinary courage during a cockpit emergency aboard flydubai flight FZ1073. Despite being seriously injured in an attack by his co-pilot on September 30, 2026, Captain Machchhar managed to open the cockpit door and helped prevent a major disaster with the assistance of the crew and passengers. The flight made an emergency landing in Tabuk, Saudi Arabia. The honour was presented on behalf of UAE President Sheikh Mohamed bin Zayed Al Nahyan."
+      },
+      "hi": {
+        "question": "किस देश ने भारतीय पायलट कैप्टन स्मिट मचचर को उनकी बहादुरी के लिए प्रथम श्रेणी ऑर्डर ऑफ जायद II से सम्मानित किया?",
+        "options": {
+          "A": "इजराइल",
+          "B": "संयुक्त अरब अमीरात",
+          "C": "सऊदी अरब",
+          "D": "संयुक्त राज्य अमेरिका"
+        },
+        "explanation": "संयुक्त अरब अमीरात (यूएई) ने फ्लाईदुबई उड़ान FZ1073 में कॉकपिट आपातकाल के दौरान उनके असाधारण साहस की मान्यता में, 27 अक्टूबर, 2026 को भारतीय पायलट कैप्टन स्मिट मचचर को फर्स्ट क्लास ऑर्डर ऑफ जायद II से सम्मानित किया। 30 सितंबर, 2026 को अपने सह-पायलट के हमले में गंभीर रूप से घायल होने के बावजूद, कैप्टन मच्छर कॉकपिट का दरवाजा खोलने में कामयाब रहे और चालक दल और यात्रियों की सहायता से एक बड़ी आपदा को रोकने में मदद की। विमान की सऊदी अरब के ताबुक में आपात्कालीन लैंडिंग कराई गई। यह सम्मान संयुक्त अरब अमीरात के राष्ट्रपति शेख मोहम्मद बिन जायद अल नाहयान की ओर से प्रदान किया गया।"
+      },
+      "gu": {
+        "question": "કયા દેશે ભારતીય પાયલોટ કેપ્ટન સ્મિત મચ્છરને તેમની બહાદુરી માટે ઝાયેદ II ના ફર્સ્ટ ક્લાસ ઓર્ડરથી સન્માનિત કર્યા?",
+        "options": {
+          "A": "ઇઝરાયેલ",
+          "B": "યુએઈ",
+          "C": "સાઉદી અરેબિયા",
+          "D": "યુનાઇટેડ સ્ટેટ્સ"
+        },
+        "explanation": "યુનાઈટેડ આરબ અમીરાત (UAE) એ ફ્લાયદુબઈ ફ્લાઈટ FZ1073 પર કોકપિટ ઈમરજન્સી દરમિયાન તેમની અસાધારણ હિંમતની માન્યતામાં 27 ઓક્ટોબર, 2026ના રોજ ભારતીય પાઈલટ કેપ્ટન સ્મિત મચ્છરને ઝાયેદ II ના ફર્સ્ટ ક્લાસ ઓર્ડરથી સન્માનિત કર્યા. 30 સપ્ટેમ્બર, 2026ના રોજ તેમના કો-પાઈલટ દ્વારા કરવામાં આવેલા હુમલામાં ગંભીર રીતે ઘાયલ થયા હોવા છતાં, કેપ્ટન મચ્છર કોકપિટનો દરવાજો ખોલવામાં સફળ રહ્યા અને ક્રૂ અને મુસાફરોની મદદથી મોટી દુર્ઘટનાને રોકવામાં મદદ કરી. સાઉદી અરેબિયાના તાબુકમાં ફ્લાઈટનું ઈમરજન્સી લેન્ડિંગ કરવામાં આવ્યું હતું. UAE ના રાષ્ટ્રપતિ શેખ મોહમ્મદ બિન જાયદ અલ નાહયાન વતી આ સન્માન આપવામાં આવ્યું હતું."
+      }
+    },
+    {
+      "id": "2026-10-18-1",
+      "date": "2026-10-18",
+      "qno": 1,
       "answer": "A",
       "category": "Sports",
       "en": {
@@ -59116,9 +59821,9 @@
       }
     },
     {
-      "id": "2026-10-18-3",
+      "id": "2026-10-18-2",
       "date": "2026-10-18",
-      "qno": 3,
+      "qno": 2,
       "answer": "C",
       "category": "State",
       "en": {
@@ -59153,9 +59858,9 @@
       }
     },
     {
-      "id": "2026-10-18-4",
+      "id": "2026-10-18-3",
       "date": "2026-10-18",
-      "qno": 4,
+      "qno": 3,
       "answer": "D",
       "category": "Economy",
       "en": {
@@ -59187,6 +59892,43 @@
           "D": "ઓમાન"
         },
         "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
+      }
+    },
+    {
+      "id": "2026-10-18-4",
+      "date": "2026-10-18",
+      "qno": 4,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "options": {
+          "A": "INS Tarkash",
+          "B": "INS Talwar",
+          "C": "INS Shivalik",
+          "D": "INS Trikand"
+        },
+        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+      },
+      "hi": {
+        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "options": {
+          "A": "आईएनएस तरकश",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस शिवालिक",
+          "D": "आईएनएस त्रिकांड"
+        },
+        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+      },
+      "gu": {
+        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "options": {
+          "A": "INS તારકશ",
+          "B": "INS તલવાર",
+          "C": "INS શિવાલિક",
+          "D": "INS ત્રિકાંડ"
+        },
+        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
       }
     },
     {
@@ -59230,117 +59972,6 @@
       "id": "2026-10-11-1",
       "date": "2026-10-11",
       "qno": 1,
-      "answer": "D",
-      "category": "Technology",
-      "en": {
-        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
-        "options": {
-          "A": "Mumbai",
-          "B": "Bengaluru",
-          "C": "Hyderabad",
-          "D": "New Delhi"
-        },
-        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
-      },
-      "hi": {
-        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
-        "options": {
-          "A": "मुंबई",
-          "B": "बेंगलुरु",
-          "C": "हैदराबाद",
-          "D": "नई दिल्ली"
-        },
-        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
-      },
-      "gu": {
-        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
-        "options": {
-          "A": "મુંબઈ",
-          "B": "બેંગલુરુ",
-          "C": "હૈદરાબાદ",
-          "D": "નવી દિલ્હી"
-        },
-        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
-      }
-    },
-    {
-      "id": "2026-10-11-2",
-      "date": "2026-10-11",
-      "qno": 2,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Uttarakhand",
-          "C": "Sikkim",
-          "D": "Himachal Pradesh"
-        },
-        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
-      },
-      "hi": {
-        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "उत्तराखंड",
-          "C": "सिक्किम",
-          "D": "हिमाचल प्रदेश"
-        },
-        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
-      },
-      "gu": {
-        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "ઉત્તરાખંડ",
-          "C": "સિક્કિમ",
-          "D": "હિમાચલ પ્રદેશ"
-        },
-        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-3",
-      "date": "2026-10-11",
-      "qno": 3,
-      "answer": "A",
-      "category": "Defence",
-      "en": {
-        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
-        "options": {
-          "A": "Argentina",
-          "B": "Nepal",
-          "C": "Bhutan",
-          "D": "Chile"
-        },
-        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
-      },
-      "hi": {
-        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
-        "options": {
-          "A": "अर्जेंटीना",
-          "B": "नेपाल",
-          "C": "भूटान",
-          "D": "चिली"
-        },
-        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
-      },
-      "gu": {
-        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
-        "options": {
-          "A": "આર્જેન્ટિના",
-          "B": "નેપાળ",
-          "C": "ભુતાન",
-          "D": "ચિલી"
-        },
-        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-11-4",
-      "date": "2026-10-11",
-      "qno": 4,
       "answer": "B",
       "category": "Defence",
       "en": {
@@ -59375,46 +60006,120 @@
       }
     },
     {
-      "id": "2026-10-11-5",
+      "id": "2026-10-11-2",
       "date": "2026-10-11",
-      "qno": 5,
-      "answer": "B",
-      "category": "Sports",
+      "qno": 2,
+      "answer": "A",
+      "category": "Defence",
       "en": {
-        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "question": "Which country participated in the joint mountaineering expedition with the Indian Army to scale Mt Kamet and Mt Abi Gamin in 2026?",
         "options": {
-          "A": "Lewis Hamilton",
-          "B": "Max Verstappen",
-          "C": "Kimi Antonelli",
-          "D": "Charles Leclerc"
+          "A": "Argentina",
+          "B": "Nepal",
+          "C": "Bhutan",
+          "D": "Chile"
         },
-        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+        "explanation": "Argentina participated in the joint Indo-Argentine Army Mountaineering Expedition alongside the Indian Army in 2026. Led by Lieutenant Colonel Chirag Chatterjee, the expedition successfully scaled Mt Abi Gamin (7,355 metres) on September 17 and Mt Kamet (7,756 metres) on September 21. The team consisted of 35 members, including 25 Indian Army personnel and 10 Argentine Army personnel. The expedition was flagged off from Manekshaw Centre, New Delhi, on August 21, 2026. It marked the third joint mountaineering collaboration between India and Argentina, following earlier expeditions to Mt Aconcagua in January 2025 and Mt Kun in August 2025."
       },
       "hi": {
-        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "question": "2026 में माउंट कामेट और माउंट अबी गामिन पर चढ़ने के लिए भारतीय सेना के साथ संयुक्त पर्वतारोहण अभियान में किस देश ने भाग लिया?",
         "options": {
-          "A": "लुईस हैमिल्टन",
-          "B": "मैक्स वेरस्टैपेन",
-          "C": "किमी एंटोनेली",
-          "D": "चार्ल्स लेक्लर"
+          "A": "अर्जेंटीना",
+          "B": "नेपाल",
+          "C": "भूटान",
+          "D": "चिली"
         },
-        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+        "explanation": "अर्जेंटीना ने 2026 में भारतीय सेना के साथ संयुक्त भारत-अर्जेंटीना सेना पर्वतारोहण अभियान में भाग लिया। लेफ्टिनेंट कर्नल चिराग चटर्जी के नेतृत्व में, अभियान ने 17 सितंबर को माउंट अबी गामिन (7,355 मीटर) और 21 सितंबर को माउंट कामेट (7,756 मीटर) पर सफलतापूर्वक चढ़ाई की। टीम में 35 सदस्य शामिल थे, जिनमें 25 भारतीय सेना के जवान और 10 अर्जेंटीना सेना के जवान शामिल थे। इस अभियान को 21 अगस्त, 2026 को मानेकशॉ सेंटर, नई दिल्ली से हरी झंडी दिखाकर रवाना किया गया था। जनवरी 2025 में माउंट एकॉनकागुआ और अगस्त 2025 में माउंट कुन के पहले अभियानों के बाद, यह भारत और अर्जेंटीना के बीच तीसरे संयुक्त पर्वतारोहण सहयोग को चिह्नित करता है।"
       },
       "gu": {
-        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "question": "ક્યા દેશે 2026 માં માઉન્ટ કામેટ અને માઉન્ટ અબી ગામિનને સર કરવા માટે ભારતીય સેના સાથે સંયુક્ત પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો?",
         "options": {
-          "A": "લેવિસ હેમિલ્ટન",
-          "B": "મેક્સ Verstappen",
-          "C": "કિમી એન્ટોનેલી",
-          "D": "ચાર્લ્સ લેક્લેર્ક"
+          "A": "આર્જેન્ટિના",
+          "B": "નેપાળ",
+          "C": "ભુતાન",
+          "D": "ચિલી"
         },
-        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+        "explanation": "આર્જેન્ટિનાએ 2026માં ભારતીય સેનાની સાથે સંયુક્ત ઈન્ડો-આર્જેન્ટિના આર્મી પર્વતારોહણ અભિયાનમાં ભાગ લીધો હતો. લેફ્ટનન્ટ કર્નલ ચિરાગ ચેટર્જીની આગેવાની હેઠળ, આ અભિયાને 17 સપ્ટેમ્બરે માઉન્ટ અબી ગામિન (7,355 મીટર) અને માઉન્ટ કામેટ (7,756 સપ્ટેમ્બરના રોજ ટીમના 3 સભ્યો સહિત 23 સભ્યોને સફળતાપૂર્વક પાર કર્યા હતા. 25 ભારતીય સેનાના જવાનો અને 10 આર્જેન્ટિનાના આર્મીના જવાનો. આ અભિયાનને 21 ઓગસ્ટ, 2026ના રોજ માણેકશો સેન્ટર, નવી દિલ્હી ખાતેથી ફ્લેગ ઓફ કરવામાં આવ્યું હતું. જાન્યુઆરી 2025માં માઉન્ટ એકોન્કાગુઆ અને ઓગસ્ટ 2025માં માઉન્ટ કુન પર અગાઉ કરાયેલા અભિયાનોને પગલે તે ભારત અને આર્જેન્ટિના વચ્ચે ત્રીજા સંયુક્ત પર્વતારોહણ સહયોગને ચિહ્નિત કરે છે."
       }
     },
     {
-      "id": "2026-10-11-6",
+      "id": "2026-10-11-3",
       "date": "2026-10-11",
-      "qno": 6,
+      "qno": 3,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which state will benefit from the ₹993.64 crore approved for the development and widening of National Highway-10?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Uttarakhand",
+          "C": "Sikkim",
+          "D": "Himachal Pradesh"
+        },
+        "explanation": "Sikkim will benefit from the ₹993.64 crore approved by Union Minister Nitin Gadkari on October 8, 2026, for the development and widening of National Highway-10 (NH-10). The project involves upgrading the Rangpo to Ranipool section into a two-lane corridor, including tunnels, viaducts, bridges, and slope-protection measures to address landslide-prone areas. The highway is vital for transporting defence personnel and military supplies, improving tourism, and facilitating the movement of agricultural and horticultural produce. The National Highways and Infrastructure Development Corporation Limited (NHIDCL), under the Ministry of Road Transport and Highways, is responsible for the project. NH-10 connects Siliguri in West Bengal with Gangtok in Sikkim."
+      },
+      "hi": {
+        "question": "राष्ट्रीय राजमार्ग-10 के विकास और चौड़ीकरण के लिए स्वीकृत ₹993.64 करोड़ से किस राज्य को लाभ होगा?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "उत्तराखंड",
+          "C": "सिक्किम",
+          "D": "हिमाचल प्रदेश"
+        },
+        "explanation": "राष्ट्रीय राजमार्ग-10 (NH-10) के विकास और चौड़ीकरण के लिए 8 अक्टूबर, 2026 को केंद्रीय मंत्री नितिन गडकरी द्वारा स्वीकृत ₹993.64 करोड़ से सिक्किम को लाभ होगा। इस परियोजना में रंगपो से रानीपूल खंड को दो-लेन गलियारे में अपग्रेड करना शामिल है, जिसमें भूस्खलन-प्रवण क्षेत्रों को संबोधित करने के लिए सुरंगें, पुल, पुल और ढलान-सुरक्षा उपाय शामिल हैं। राजमार्ग रक्षा कर्मियों और सैन्य आपूर्ति के परिवहन, पर्यटन में सुधार और कृषि और बागवानी उत्पादों की आवाजाही को सुविधाजनक बनाने के लिए महत्वपूर्ण है। सड़क परिवहन और राजमार्ग मंत्रालय के तहत राष्ट्रीय राजमार्ग और बुनियादी ढांचा विकास निगम लिमिटेड (एनएचआईडीसीएल) इस परियोजना के लिए जिम्मेदार है। NH-10 पश्चिम बंगाल में सिलीगुड़ी को सिक्किम में गंगटोक से जोड़ता है।"
+      },
+      "gu": {
+        "question": "રાષ્ટ્રીય ધોરીમાર્ગ-10 ના વિકાસ અને પહોળા કરવા માટે મંજૂર ₹993.64 કરોડથી કયા રાજ્યને ફાયદો થશે?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "ઉત્તરાખંડ",
+          "C": "સિક્કિમ",
+          "D": "હિમાચલ પ્રદેશ"
+        },
+        "explanation": "રાષ્ટ્રીય ધોરીમાર્ગ-10 (NH-10) ના વિકાસ અને પહોળા કરવા માટે કેન્દ્રીય મંત્રી નીતિન ગડકરી દ્વારા 8 ઓક્ટોબર, 2026ના રોજ મંજૂર કરાયેલા ₹993.64 કરોડનો સિક્કિમને ફાયદો થશે. આ પ્રોજેક્ટમાં રંગપોથી રાણીપૂલ વિભાગને બે-લેન કોરિડોરમાં અપગ્રેડ કરવાનો સમાવેશ થાય છે, જેમાં ટનલ, વાયાડક્ટ્સ, પુલ અને ભૂસ્ખલન-સંભવિત વિસ્તારોને સંબોધવા માટે ઢોળાવ-રક્ષણ પગલાંનો સમાવેશ થાય છે. હાઇવે સંરક્ષણ કર્મચારીઓ અને લશ્કરી પુરવઠાના પરિવહન માટે, પ્રવાસનને સુધારવા અને કૃષિ અને બાગાયતી પેદાશોની અવરજવરને સરળ બનાવવા માટે મહત્વપૂર્ણ છે. રોડ ટ્રાન્સપોર્ટ અને હાઈવે મંત્રાલય હેઠળ નેશનલ હાઈવેઝ એન્ડ ઈન્ફ્રાસ્ટ્રક્ચર ડેવલપમેન્ટ કોર્પોરેશન લિમિટેડ (NHIDCL) આ પ્રોજેક્ટ માટે જવાબદાર છે. NH-10 પશ્ચિમ બંગાળમાં સિલિગુડીને સિક્કિમના ગંગટોક સાથે જોડે છે."
+      }
+    },
+    {
+      "id": "2026-10-11-4",
+      "date": "2026-10-11",
+      "qno": 4,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Where did Prime Minister Narendra Modi inaugurate the 10th edition of the India Mobile Congress (IMC) in 2026?",
+        "options": {
+          "A": "Mumbai",
+          "B": "Bengaluru",
+          "C": "Hyderabad",
+          "D": "New Delhi"
+        },
+        "explanation": "New Delhi hosted the inauguration of the 10th edition of the India Mobile Congress (IMC) at Yashobhoomi on October 8, 2026. Prime Minister Narendra Modi inaugurated the event, which is recognised as Asia’s largest digital technology forum. The congress focused on next-generation technologies, including 5G, 6G, artificial intelligence networks, semiconductors, quantum communication, and electronics manufacturing. IMC 2026 attracted over 1.5 lakh attendees from more than 100 countries, featuring more than 500 partners, 600 startups, and 900 thought leaders. The event was jointly organised by the Department of Telecommunications and the Cellular Operators Association of India, highlighting India’s ambitions in digital connectivity and telecommunications innovation."
+      },
+      "hi": {
+        "question": "प्रधान मंत्री नरेंद्र मोदी ने 2026 में इंडिया मोबाइल कांग्रेस (IMC) के 10वें संस्करण का उद्घाटन कहाँ किया?",
+        "options": {
+          "A": "मुंबई",
+          "B": "बेंगलुरु",
+          "C": "हैदराबाद",
+          "D": "नई दिल्ली"
+        },
+        "explanation": "नई दिल्ली ने 8 अक्टूबर, 2026 को यशोभूमि में इंडिया मोबाइल कांग्रेस (आईएमसी) के 10वें संस्करण के उद्घाटन की मेजबानी की। प्रधान मंत्री नरेंद्र मोदी ने इस कार्यक्रम का उद्घाटन किया, जिसे एशिया के सबसे बड़े डिजिटल प्रौद्योगिकी मंच के रूप में मान्यता प्राप्त है। कांग्रेस ने 5जी, 6जी, कृत्रिम बुद्धिमत्ता नेटवर्क, अर्धचालक, क्वांटम संचार और इलेक्ट्रॉनिक्स विनिर्माण सहित अगली पीढ़ी की प्रौद्योगिकियों पर ध्यान केंद्रित किया। आईएमसी 2026 ने 100 से अधिक देशों के 1.5 लाख से अधिक प्रतिभागियों को आकर्षित किया, जिसमें 500 से अधिक भागीदार, 600 स्टार्टअप और 900 विचारशील नेता शामिल थे। यह कार्यक्रम दूरसंचार विभाग और सेल्युलर ऑपरेटर्स एसोसिएशन ऑफ इंडिया द्वारा संयुक्त रूप से आयोजित किया गया था, जिसमें डिजिटल कनेक्टिविटी और दूरसंचार नवाचार में भारत की महत्वाकांक्षाओं पर प्रकाश डाला गया था।"
+      },
+      "gu": {
+        "question": "વડાપ્રધાન નરેન્દ્ર મોદીએ 2026માં ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC)ની 10મી આવૃત્તિનું ક્યાં ઉદ્ઘાટન કર્યું હતું?",
+        "options": {
+          "A": "મુંબઈ",
+          "B": "બેંગલુરુ",
+          "C": "હૈદરાબાદ",
+          "D": "નવી દિલ્હી"
+        },
+        "explanation": "નવી દિલ્હીએ 8 ઓક્ટોબર, 2026ના રોજ યશોભૂમિ ખાતે ઈન્ડિયા મોબાઈલ કોંગ્રેસ (IMC) ની 10મી આવૃત્તિના ઉદ્ઘાટનનું આયોજન કર્યું હતું. વડાપ્રધાન નરેન્દ્ર મોદીએ ઈવેન્ટનું ઉદ્ઘાટન કર્યું હતું, જેને એશિયાના સૌથી મોટા ડિજિટલ ટેકનોલોજી ફોરમ તરીકે ઓળખવામાં આવે છે. કોંગ્રેસે 5G, 6G, આર્ટિફિશિયલ ઈન્ટેલિજન્સ નેટવર્ક્સ, સેમિકન્ડક્ટર્સ, ક્વોન્ટમ કોમ્યુનિકેશન અને ઈલેક્ટ્રોનિક્સ મેન્યુફેક્ચરિંગ સહિતની નેક્સ્ટ જનરેશન ટેક્નોલોજીઓ પર ધ્યાન કેન્દ્રિત કર્યું. IMC 2026 એ 500 થી વધુ ભાગીદારો, 600 સ્ટાર્ટઅપ્સ અને 900 વિચારશીલ નેતાઓને દર્શાવતા 100 થી વધુ દેશોમાંથી 1.5 લાખથી વધુ પ્રતિભાગીઓને આકર્ષ્યા. ડિજીટલ કનેક્ટિવિટી અને ટેલિકોમ્યુનિકેશન ઈનોવેશનમાં ભારતની મહત્વાકાંક્ષાઓને હાઈલાઈટ કરતી આ ઈવેન્ટ ડિપાર્ટમેન્ટ ઑફ ટેલિકમ્યુનિકેશન્સ અને સેલ્યુલર ઑપરેટર્સ એસોસિએશન ઑફ ઈન્ડિયા દ્વારા સંયુક્ત રીતે આયોજિત કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-10-11-5",
+      "date": "2026-10-11",
+      "qno": 5,
       "answer": "A",
       "category": "Important Days",
       "en": {
@@ -59449,40 +60154,77 @@
       }
     },
     {
+      "id": "2026-10-11-6",
+      "date": "2026-10-11",
+      "qno": 6,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Who won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia?",
+        "options": {
+          "A": "Lewis Hamilton",
+          "B": "Max Verstappen",
+          "C": "Kimi Antonelli",
+          "D": "Charles Leclerc"
+        },
+        "explanation": "Max Verstappen of Oracle Red Bull Racing won the 2026 Bahrain Grand Prix held at the Sepang International Circuit in Malaysia on October 8, 2026. The victory marked his first win of the 2026 season. The race was the 16th round of the 2026 Formula One World Championship and marked the return of Formula One racing to the Sepang circuit for the first time since 2017. Kimi Antonelli of Mercedes finished second, while Lewis Hamilton of Ferrari secured third place. Charles Leclerc finished fourth, and Isack Hadjar took fifth place. Verstappen competes under the Dutch flag."
+      },
+      "hi": {
+        "question": "मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स किसने जीता?",
+        "options": {
+          "A": "लुईस हैमिल्टन",
+          "B": "मैक्स वेरस्टैपेन",
+          "C": "किमी एंटोनेली",
+          "D": "चार्ल्स लेक्लर"
+        },
+        "explanation": "ओरेकल रेड बुल रेसिंग के मैक्स वेरस्टैपेन ने 8 अक्टूबर, 2026 को मलेशिया के सेपांग इंटरनेशनल सर्किट में आयोजित 2026 बहरीन ग्रांड प्रिक्स जीता। इस जीत ने 2026 सीज़न की उनकी पहली जीत को चिह्नित किया। यह रेस 2026 फॉर्मूला वन वर्ल्ड चैंपियनशिप का 16वां दौर था और 2017 के बाद पहली बार सेपांग सर्किट में फॉर्मूला वन रेसिंग की वापसी हुई। मर्सिडीज की किमी एंटोनेली दूसरे स्थान पर रहीं, जबकि फेरारी के लुईस हैमिल्टन ने तीसरा स्थान हासिल किया। चार्ल्स लेक्लर चौथे स्थान पर रहे और इसाक हैडजर पांचवें स्थान पर रहे। वेरस्टैपेन डच ध्वज के नीचे प्रतिस्पर्धा करता है।"
+      },
+      "gu": {
+        "question": "મલેશિયામાં સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ કોણે જીત્યું?",
+        "options": {
+          "A": "લેવિસ હેમિલ્ટન",
+          "B": "મેક્સ Verstappen",
+          "C": "કિમી એન્ટોનેલી",
+          "D": "ચાર્લ્સ લેક્લેર્ક"
+        },
+        "explanation": "ઓરેકલ રેડ બુલ રેસિંગના મેક્સ વર્સ્ટાપેને 8 ઓક્ટોબર, 2026ના રોજ મલેશિયાના સેપાંગ ઈન્ટરનેશનલ સર્કિટ ખાતે આયોજિત 2026 બહેરીન ગ્રાન્ડ પ્રિકસ જીતી હતી. આ વિજય 2026ની સિઝનમાં તેની પ્રથમ જીત તરીકે ચિહ્નિત થયો હતો. આ રેસ 2026ની ફોર્મ્યુલા વન વર્લ્ડ ચેમ્પિયનશિપનો 16મો રાઉન્ડ હતો અને 2017 પછી પ્રથમ વખત સેપાંગ સર્કિટમાં ફોર્મ્યુલા વન રેસિંગનું પુનરાગમન થયું. મર્સિડીઝની કિમી એન્ટોનેલી બીજા સ્થાને રહી, જ્યારે ફેરારીના લુઈસ હેમિલ્ટને ત્રીજું સ્થાન મેળવ્યું. ચાર્લ્સ લેક્લેર્ક ચોથા ક્રમે અને ઈસાક હડજારે પાંચમું સ્થાન મેળવ્યું. વર્સ્ટાપેન ડચ ધ્વજ હેઠળ સ્પર્ધા કરે છે."
+      }
+    },
+    {
       "id": "2026-10-10-1",
       "date": "2026-10-10",
       "qno": 1,
-      "answer": "C",
-      "category": "Defence",
+      "answer": "D",
+      "category": "State",
       "en": {
-        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
+        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
         "options": {
-          "A": "Garden Reach Shipbuilders & Engineers",
-          "B": "Mazagon Dock Shipbuilders Limited",
-          "C": "Cochin Shipyard Limited",
-          "D": "Hindustan Shipyard Limited"
+          "A": "Odisha",
+          "B": "Assam",
+          "C": "Bihar",
+          "D": "West Bengal"
         },
-        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
+        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
       },
       "hi": {
-        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
+        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
         "options": {
-          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
-          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
-          "C": "कोचीन शिपयार्ड लिमिटेड",
-          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
+          "A": "ओडिशा",
+          "B": "असम",
+          "C": "बिहार",
+          "D": "पश्चिम बंगाल"
         },
-        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
+        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
       },
       "gu": {
-        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
+        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
         "options": {
-          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
-          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
-          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
-          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
+          "A": "ઓડિશા",
+          "B": "આસામ",
+          "C": "બિહાર",
+          "D": "પશ્ચિમ બંગાળ"
         },
-        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
+        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
       }
     },
     {
@@ -59526,37 +60268,37 @@
       "id": "2026-10-10-3",
       "date": "2026-10-10",
       "qno": 3,
-      "answer": "D",
-      "category": "State",
+      "answer": "C",
+      "category": "Defence",
       "en": {
-        "question": "Which Indian state has approved the Bhagini Nivedita Scheme to provide ₹50,000 in financial assistance to unmarried women pursuing higher education?",
+        "question": "Which shipbuilding company constructed the Indian Navy’s Anti-Submarine Warfare Shallow Water Craft, Mangrol?",
         "options": {
-          "A": "Odisha",
-          "B": "Assam",
-          "C": "Bihar",
-          "D": "West Bengal"
+          "A": "Garden Reach Shipbuilders & Engineers",
+          "B": "Mazagon Dock Shipbuilders Limited",
+          "C": "Cochin Shipyard Limited",
+          "D": "Hindustan Shipyard Limited"
         },
-        "explanation": "West Bengal has approved the Bhagini Nivedita Scheme to provide financial assistance to unmarried women pursuing higher education. Under this initiative, each eligible beneficiary will receive a total of ₹50,000 over three years in three instalments. The assistance includes ₹17,000 in the first year, ₹17,000 in the second year, and ₹16,000 in the third year. The scheme is scheduled to be implemented across the state from January 2027. The initiative aims to reduce financial barriers to higher education and encourage women to continue their studies. The state government is expected to announce detailed eligibility criteria and application procedures separately."
+        "explanation": "Cochin Shipyard Limited (CSL), located in Kochi, constructed Mangrol, the Indian Navy’s third Anti-Submarine Warfare Shallow Water Craft (ASW-SWC). The vessel is scheduled to be commissioned on October 12, 2026, at the Naval Dockyard in Mumbai. It is designed to detect and counter submarine threats in shallow coastal waters and is equipped with systems such as hull-mounted sonar, lightweight torpedoes, an anti-submarine rocket launcher, and the Maareech Torpedo Decoy System. More than 80% of its components are indigenous, reflecting India’s commitment to the Make in India initiative and Aatmanirbhar Bharat. The project strengthens domestic defence manufacturing and enhances the Navy’s coastal defence capabilities."
       },
       "hi": {
-        "question": "किस भारतीय राज्य ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को ₹50,000 की वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दी है?",
+        "question": "किस जहाज निर्माण कंपनी ने भारतीय नौसेना के एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट, मंगरोल का निर्माण किया?",
         "options": {
-          "A": "ओडिशा",
-          "B": "असम",
-          "C": "बिहार",
-          "D": "पश्चिम बंगाल"
+          "A": "गार्डन रीच शिपबिल्डर्स एंड इंजीनियर्स",
+          "B": "मझगांव डॉक शिपबिल्डर्स लिमिटेड",
+          "C": "कोचीन शिपयार्ड लिमिटेड",
+          "D": "हिंदुस्तान शिपयार्ड लिमिटेड"
         },
-        "explanation": "पश्चिम बंगाल ने उच्च शिक्षा प्राप्त करने वाली अविवाहित महिलाओं को वित्तीय सहायता प्रदान करने के लिए भगिनी निवेदिता योजना को मंजूरी दे दी है। इस पहल के तहत, प्रत्येक पात्र लाभार्थी को तीन वर्षों में तीन किश्तों में कुल ₹50,000 प्राप्त होंगे। सहायता में पहले वर्ष में ₹17,000, दूसरे वर्ष में ₹17,000 और तीसरे वर्ष में ₹16,000 शामिल हैं। यह योजना जनवरी 2027 से पूरे राज्य में लागू होने वाली है। इस पहल का उद्देश्य उच्च शिक्षा में वित्तीय बाधाओं को कम करना और महिलाओं को अपनी पढ़ाई जारी रखने के लिए प्रोत्साहित करना है। उम्मीद है कि राज्य सरकार विस्तृत पात्रता मानदंड और आवेदन प्रक्रियाओं की अलग से घोषणा करेगी।"
+        "explanation": "कोच्चि में स्थित कोचीन शिपयार्ड लिमिटेड (CSL) ने भारतीय नौसेना के तीसरे एंटी-सबमरीन वारफेयर शैलो वॉटर क्राफ्ट (ASW-SWC) मंगरोल का निर्माण किया। जहाज को 12 अक्टूबर, 2026 को मुंबई में नौसेना डॉकयार्ड में चालू किया जाना है। इसे उथले तटीय जल में पनडुब्बी के खतरों का पता लगाने और उनका मुकाबला करने के लिए डिज़ाइन किया गया है और यह पतवार पर लगे सोनार, हल्के टॉरपीडो, एक पनडुब्बी रोधी रॉकेट लांचर और मारीच टॉरपीडो डेकोय सिस्टम जैसी प्रणालियों से सुसज्जित है। इसके 80% से अधिक घटक स्वदेशी हैं, जो मेक इन इंडिया पहल और आत्मनिर्भर भारत के प्रति भारत की प्रतिबद्धता को दर्शाते हैं। यह परियोजना घरेलू रक्षा विनिर्माण को मजबूत करती है और नौसेना की तटीय रक्षा क्षमताओं को बढ़ाती है।"
       },
       "gu": {
-        "question": "ભારતના કયા રાજ્યે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને ₹50,000 ની નાણાકીય સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે?",
+        "question": "કઈ શિપ બિલ્ડીંગ કંપનીએ ભારતીય નૌકાદળના એન્ટી સબમરીન વોરફેર શેલો વોટર ક્રાફ્ટ, માંગરોલનું નિર્માણ કર્યું હતું?",
         "options": {
-          "A": "ઓડિશા",
-          "B": "આસામ",
-          "C": "બિહાર",
-          "D": "પશ્ચિમ બંગાળ"
+          "A": "ગાર્ડન રીચ શિપબિલ્ડર્સ અને એન્જિનિયર્સ",
+          "B": "મઝાગોન ડોક શિપબિલ્ડર્સ લિમિટેડ",
+          "C": "કોચીન શિપયાર્ડ લિમિટેડ",
+          "D": "હિન્દુસ્તાન શિપયાર્ડ લિમિટેડ"
         },
-        "explanation": "પશ્ચિમ બંગાળે ઉચ્ચ શિક્ષણ મેળવી રહેલી અપરિણીત મહિલાઓને આર્થિક સહાય પૂરી પાડવા માટે ભગિની નિવેદિતા યોજનાને મંજૂરી આપી છે. આ પહેલ હેઠળ, દરેક પાત્ર લાભાર્થીને ત્રણ વર્ષમાં કુલ ₹50,000 ત્રણ હપ્તામાં પ્રાપ્ત થશે. સહાયમાં પ્રથમ વર્ષમાં ₹17,000, બીજા વર્ષે ₹17,000 અને ત્રીજા વર્ષે ₹16,000નો સમાવેશ થાય છે. આ યોજના જાન્યુઆરી 2027 થી રાજ્યભરમાં લાગુ થવાની છે. આ પહેલનો હેતુ ઉચ્ચ શિક્ષણમાં નાણાકીય અવરોધો ઘટાડવા અને મહિલાઓને તેમનો અભ્યાસ ચાલુ રાખવા પ્રોત્સાહિત કરવાનો છે. રાજ્ય સરકાર વિગતવાર પાત્રતા માપદંડો અને અરજી પ્રક્રિયાઓ અલગથી જાહેર કરે તેવી અપેક્ષા છે."
+        "explanation": "કોચીમાં સ્થિત કોચીન શિપયાર્ડ લિમિટેડ (CSL), ભારતીય નૌકાદળના ત્રીજા એન્ટી-સબમરીન વોરફેર શૈલો વોટર ક્રાફ્ટ (ASW-SWC)નું નિર્માણ કર્યું હતું. આ જહાજ 12 ઓક્ટોબર, 2026 ના રોજ મુંબઈમાં નેવલ ડોકયાર્ડ ખાતે કાર્યરત થવાનું છે. તે છીછરા દરિયાકાંઠાના પાણીમાં સબમરીનના જોખમોને શોધવા અને તેનો સામનો કરવા માટે રચાયેલ છે અને તે હલ-માઉન્ટેડ સોનાર, હળવા વજનના ટોર્પિડોઝ, સબમરીન વિરોધી રોકેટ પ્રક્ષેપણ અને મારીચ ટોર્પિડો ડેકોય સિસ્ટમ જેવી સિસ્ટમથી સજ્જ છે. તેના 80% થી વધુ ઘટકો સ્વદેશી છે, જે મેક ઇન ઇન્ડિયા પહેલ અને આત્મનિર્ભર ભારત માટે ભારતની પ્રતિબદ્ધતાને પ્રતિબિંબિત કરે છે. આ પ્રોજેક્ટ સ્થાનિક સંરક્ષણ ઉત્પાદનને મજબૂત બનાવે છે અને નેવીની દરિયાકાંઠાની સંરક્ષણ ક્ષમતાઓને વધારે છે."
       }
     },
     {
@@ -59600,43 +60342,6 @@
       "id": "2026-10-10-5",
       "date": "2026-10-10",
       "qno": 5,
-      "answer": "A",
-      "category": "Banking",
-      "en": {
-        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
-      },
-      "hi": {
-        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
-      },
-      "gu": {
-        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
-        "options": {
-          "A": "99%",
-          "B": "95%",
-          "C": "90%",
-          "D": "85%"
-        },
-        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
-      }
-    },
-    {
-      "id": "2026-10-10-6",
-      "date": "2026-10-10",
-      "qno": 6,
       "answer": "B",
       "category": "Important Days",
       "en": {
@@ -59671,9 +60376,9 @@
       }
     },
     {
-      "id": "2026-10-10-7",
+      "id": "2026-10-10-6",
       "date": "2026-10-10",
-      "qno": 7,
+      "qno": 6,
       "answer": "B",
       "category": "National",
       "en": {
@@ -59705,6 +60410,43 @@
           "D": "12 થી 18 ઓક્ટોબર"
         },
         "explanation": "ઑક્ટોબર 9 થી 15 એ સમયગાળો છે જે દરમિયાન પોસ્ટ વિભાગ ભારતમાં રાષ્ટ્રીય ટપાલ સપ્તાહ 2026 નું અવલોકન કરે છે. સપ્તાહ 9 ઓક્ટોબરના રોજ વિશ્વ પોસ્ટ દિવસ સાથે શરૂ થાય છે અને આધુનિક, સમાવિષ્ટ અને ટેકનોલોજી-સક્ષમ પોસ્ટલ નેટવર્કના મહત્વને પ્રકાશિત કરે છે. ઉજવણીમાં ફિલેટી, નાણાકીય સમાવેશ, મેઇલ અને પાર્સલ અને ટેકનોલોજીકલ ઇનોવેશન પર કેન્દ્રિત પ્રવૃત્તિઓનો સમાવેશ થાય છે. નિયુક્ત વિશ્વ પોસ્ટ દિવસ 2026 theme છે “World Post દિવસ: One Postal Network, અનંત શક્યતાઓ.\" N-Gen પોસ્ટ ઑફિસ, જન સેવા કનેક્ટ પોસ્ટ ઑફિસ, ડાક સેવા ઍપ અને ડાક મિત્ર ઍપ જેવી પહેલોનો હેતુ સેવાની ડિલિવરી સુધારવા, ડિજિટલ સશક્તિકરણને મજબૂત કરવાનો અને નાગરિકો માટે ટપાલ સેવાઓ વધુ સુલભ બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-10-10-7",
+      "date": "2026-10-10",
+      "qno": 7,
+      "answer": "A",
+      "category": "Banking",
+      "en": {
+        "question": "What is the revised minimum daily Cash Reserve Ratio (CRR) maintenance requirement for banks announced by the RBI from October 16, 2026?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% is the revised minimum daily CRR maintenance requirement for scheduled banks, increased from the earlier 90%, effective from the reporting fortnight beginning October 16, 2026. The Reserve Bank of India (RBI) has reportedly introduced this change to manage excess liquidity in the banking system, estimated at approximately ₹3.88 lakh crore on October 8, 2026. The revision is expected to absorb an additional ₹1 lakh crore from the banking system. However, the overall CRR remains unchanged at 3% of banks’ Net Demand and Time Liabilities (NDTL). The higher daily maintenance requirement reduces banks’ flexibility to maintain lower reserve balances on individual days."
+      },
+      "hi": {
+        "question": "16 अक्टूबर, 2026 से RBI द्वारा घोषित बैंकों के लिए संशोधित न्यूनतम दैनिक नकद आरक्षित अनुपात (CRR) रखरखाव आवश्यकता क्या है?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% अनुसूचित बैंकों के लिए संशोधित न्यूनतम दैनिक सीआरआर रखरखाव आवश्यकता है, जो पहले के 90% से बढ़ गई है, जो 16 अक्टूबर, 2026 से शुरू होने वाले रिपोर्टिंग पखवाड़े से प्रभावी है। भारतीय रिजर्व बैंक (आरबीआई) ने कथित तौर पर बैंकिंग प्रणाली में अतिरिक्त तरलता का प्रबंधन करने के लिए यह बदलाव पेश किया है, जिसका अनुमान 8 अक्टूबर, 2026 को लगभग ₹3.88 लाख करोड़ है। संशोधन से बैंकिंग प्रणाली से अतिरिक्त ₹1 लाख करोड़ अवशोषित होने की उम्मीद है। हालाँकि, समग्र CRR बैंकों की शुद्ध माँग और समय देनदारियों (NDTL) के 3% पर अपरिवर्तित रहता है। उच्च दैनिक रखरखाव आवश्यकता व्यक्तिगत दिनों में कम आरक्षित शेष बनाए रखने के लिए बैंकों के लचीलेपन को कम कर देती है।"
+      },
+      "gu": {
+        "question": "RBI દ્વારા ઑક્ટોબર 16, 2026 થી જાહેર કરાયેલ બેંકો માટે સુધારેલ ન્યૂનતમ દૈનિક કેશ રિઝર્વ રેશિયો (CRR) જાળવણી જરૂરિયાત શું છે?",
+        "options": {
+          "A": "99%",
+          "B": "95%",
+          "C": "90%",
+          "D": "85%"
+        },
+        "explanation": "99% એ સુનિશ્ચિત બેંકો માટે સંશોધિત ન્યૂનતમ દૈનિક CRR જાળવણી જરૂરિયાત છે, જે અગાઉના 90% થી વધી છે, જે 16 ઓક્ટોબર, 2026 થી શરૂ થતા રિપોર્ટિંગ પખવાડિયાથી પ્રભાવી છે. રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) એ કથિત રીતે બેંકિંગ સિસ્ટમમાં વધારાની પ્રવાહિતાનું સંચાલન કરવા માટે આ ફેરફાર દાખલ કર્યો છે, જે અંદાજે ₹28.28 લાખ અંદાજે છે. રિવિઝનથી બેંકિંગ સિસ્ટમમાંથી વધારાના ₹1 લાખ કરોડનું શોષણ થવાની ધારણા છે. જો કે, બેંકોની નેટ ડિમાન્ડ એન્ડ ટાઈમ લાયબિલિટીઝ (NDTL) ના 3% પર એકંદર CRR યથાવત છે. ઉચ્ચ દૈનિક જાળવણીની જરૂરિયાત વ્યક્તિગત દિવસોમાં નીચા અનામત બેલેન્સ જાળવવા માટે બેંકોની સુગમતા ઘટાડે છે."
       }
     }
   ]
