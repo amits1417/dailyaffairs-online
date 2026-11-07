@@ -1,5 +1,7 @@
 {
   "dates": [
+    "2026-11-06",
+    "2026-11-05",
     "2026-11-04",
     "2026-11-03",
     "2026-11-02",
@@ -62269,194 +62271,712 @@
       }
     },
     {
-      "id": "2026-11-01-1",
-      "date": "2026-11-01",
+      "id": "2026-11-06-1",
+      "date": "2026-11-06",
       "qno": 1,
-      "answer": "C",
-      "category": "Festivity",
+      "answer": "D",
+      "category": "Science",
       "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "question": "Which asteroid has temporarily become a natural satellite of Earth, commonly known as a mini-moon?",
         "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
+          "A": "2024 PT5",
+          "B": "2025 PN7",
+          "C": "2023 FW13",
+          "D": "2026 QQ8"
         },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+        "explanation": "2026 QQ8 is the asteroid that has temporarily become a natural satellite of Earth, commonly known as a mini-moon. It was first observed in August 2026, and its discovery was reported by the International Astronomical Union's Minor Planet Centre on October 29, 2026. The asteroid has an approximate diameter of 2 metres and entered Earth's temporary gravitational capture around April 2026. It is expected to leave Earth's gravitational influence in early 2027. Mini-moons are small natural objects, usually asteroids, that are temporarily captured by Earth's gravity before continuing their journey around the Sun."
       },
       "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "question": "कौन सा क्षुद्रग्रह अस्थायी रूप से पृथ्वी का प्राकृतिक उपग्रह बन गया है, जिसे आमतौर पर मिनी-मून के रूप में जाना जाता है?",
         "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
+          "A": "2024 पीटी5",
+          "B": "2025 पीएन7",
+          "C": "2023 एफडब्ल्यू13",
+          "D": "2026 QQ8"
         },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+        "explanation": "2026 QQ8 वह क्षुद्रग्रह है जो अस्थायी रूप से पृथ्वी का प्राकृतिक उपग्रह बन गया है, जिसे आमतौर पर मिनी-मून के रूप में जाना जाता है। इसे पहली बार अगस्त 2026 में देखा गया था, और इसकी खोज अप्रैल 2026 के आसपास अंतर्राष्ट्रीय खगोलीय संघ's Minor Planet Centre पर October 29, 2026.  asteroid के पास है एक approximate diameter का 2 metres और entered Earth' के अस्थायी गुरुत्वाकर्षण कैप्चर द्वारा रिपोर्ट की गई थी। सूर्य के चारों ओर अपनी यात्रा जारी रखने से पहले इसके पृथ्वी's gravitational influence में early 2027. Mini-moons हैं small natural objects, usually asteroids, वह हैं temporarily captured द्वारा Earth' के गुरुत्वाकर्षण को छोड़ने की उम्मीद है।"
       },
       "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "question": "કયો લઘુગ્રહ અસ્થાયી રૂપે પૃથ્વીનો કુદરતી ઉપગ્રહ બની ગયો છે, જેને સામાન્ય રીતે મિની-મૂન તરીકે ઓળખવામાં આવે છે?",
         "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
+          "A": "2024 PT5",
+          "B": "2025 PN7",
+          "C": "2023 FW13",
+          "D": "2026 QQ8"
         },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+        "explanation": "2026 QQ8 એ એસ્ટરોઇડ છે જે અસ્થાયી રૂપે પૃથ્વીનો કુદરતી ઉપગ્રહ બની ગયો છે, જેને સામાન્ય રીતે મિની-મૂન તરીકે ઓળખવામાં આવે છે. તે સૌપ્રથમ ઓગસ્ટ 2026 માં અવલોકન કરવામાં આવ્યું હતું, અને તેની શોધની જાણ આંતરરાષ્ટ્રીય ખગોળીય સંઘ's Minor Planet Centre પર October 29, 2026.  asteroid છે એક approximate diameter નું 2 metres અને entered Earth' દ્વારા એપ્રિલ 2026 ની આસપાસના કામચલાઉ ગુરુત્વાકર્ષણ દ્વારા કરવામાં આવી હતી. સૂર્યની આસપાસ તેમની મુસાફરી ચાલુ રાખતા પહેલા તે પૃથ્વી's gravitational influence માં early 2027. Mini-moons છે small natural objects, usually asteroids, તે છે temporarily captured દ્વારા Earth'ના ગુરુત્વાકર્ષણને છોડી દેશે તેવી અપેક્ષા છે."
       }
     },
     {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
+      "id": "2026-11-06-2",
+      "date": "2026-11-06",
       "qno": 2,
+      "answer": "C",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the 2026 James Dyson Global Sustainability Award for developing the Sentinel structural damage detection sensor?",
+        "options": {
+          "A": "Japanese Engineer",
+          "B": "Indian Engineer",
+          "C": "Filipino Engineer",
+          "D": "German Engineer"
+        },
+        "explanation": "Filipino Engineer Aldrei Ong won the 2026 James Dyson Global Sustainability Award for developing an innovative sensor called Sentinel. The award was announced on November 4, 2026, and recognised his contribution to improving building safety through advanced structural monitoring technology. A graduate of De La Salle University in the Philippines, Ong received a prize of £30,000 to support further development of his invention. Sentinel converts a conventional concrete spacer block into a structural monitoring sensor that detects hidden cracks and internal damage through changes in electrical resistance. This technology could improve earthquake safety and help prevent structural failures by identifying damage at an early stage."
+      },
+      "hi": {
+        "question": "सेंटिनल स्ट्रक्चरल डैमेज डिटेक्शन सेंसर विकसित करने के लिए 2026 जेम्स डायसन ग्लोबल सस्टेनेबिलिटी अवार्ड किसने जीता?",
+        "options": {
+          "A": "जापानी इंजीनियर",
+          "B": "भारतीय इंजीनियर",
+          "C": "फिलिपिनो इंजीनियर",
+          "D": "जर्मन इंजीनियर"
+        },
+        "explanation": "फिलिपिनो इंजीनियर एल्ड्रेई ओंग ने सेंटिनल नामक एक अभिनव सेंसर विकसित करने के लिए 2026 जेम्स डायसन ग्लोबल सस्टेनेबिलिटी अवार्ड जीता। पुरस्कार की घोषणा 4 नवंबर, 2026 को की गई थी और उन्नत संरचनात्मक निगरानी प्रौद्योगिकी के माध्यम से भवन सुरक्षा में सुधार में उनके योगदान को मान्यता दी गई थी। फिलीपींस में डी ला सैले विश्वविद्यालय से स्नातक, ओंग को अपने आविष्कार के आगे विकास में सहायता के लिए £30,000 का पुरस्कार मिला। सेंटिनल एक पारंपरिक कंक्रीट स्पेसर ब्लॉक को एक संरचनात्मक निगरानी सेंसर में परिवर्तित करता है जो विद्युत प्रतिरोध में परिवर्तन के माध्यम से छिपी हुई दरारें और आंतरिक क्षति का पता लगाता है। यह तकनीक भूकंप सुरक्षा में सुधार कर सकती है और प्रारंभिक चरण में क्षति की पहचान करके संरचनात्मक विफलताओं को रोकने में मदद कर सकती है।"
+      },
+      "gu": {
+        "question": "સેન્ટિનલ સ્ટ્રક્ચરલ ડેમેજ ડિટેક્શન સેન્સર વિકસાવવા માટે 2026નો જેમ્સ ડાયસન ગ્લોબલ સસ્ટેનેબિલિટી એવોર્ડ કોણે જીત્યો?",
+        "options": {
+          "A": "જાપાનીઝ એન્જિનિયર",
+          "B": "ભારતીય એન્જિનિયર",
+          "C": "ફિલિપિનો એન્જિનિયર",
+          "D": "જર્મન એન્જિનિયર"
+        },
+        "explanation": "ફિલિપિનો એન્જિનિયર એલ્ડ્રી ઓંગે સેન્ટીનેલ નામના નવીન સેન્સર વિકસાવવા માટે 2026નો જેમ્સ ડાયસન ગ્લોબલ સસ્ટેનેબિલિટી એવોર્ડ જીત્યો. આ પુરસ્કાર 4 નવેમ્બર, 2026 ના રોજ જાહેર કરવામાં આવ્યો હતો અને અદ્યતન માળખાકીય દેખરેખ તકનીક દ્વારા મકાન સલામતી સુધારવામાં તેમના યોગદાનને માન્યતા આપી હતી. ફિલિપાઈન્સમાં દે લા સાલે યુનિવર્સિટીના સ્નાતક, ઓંગને તેની શોધના વધુ વિકાસને સમર્થન આપવા માટે £30,000 નું ઇનામ મળ્યું. સેન્ટીનેલ પરંપરાગત કોંક્રિટ સ્પેસર બ્લોકને સ્ટ્રક્ચરલ મોનિટરિંગ સેન્સરમાં રૂપાંતરિત કરે છે જે વિદ્યુત પ્રતિકારમાં ફેરફાર દ્વારા છુપાયેલ તિરાડો અને આંતરિક નુકસાનને શોધી કાઢે છે. આ ટેક્નોલોજી ભૂકંપની સુરક્ષામાં સુધારો કરી શકે છે અને પ્રારંભિક તબક્કે નુકસાનની ઓળખ કરીને માળખાકીય નિષ્ફળતાઓને રોકવામાં મદદ કરી શકે છે."
+      }
+    },
+    {
+      "id": "2026-11-06-3",
+      "date": "2026-11-06",
+      "qno": 3,
       "answer": "B",
       "category": "Defence",
       "en": {
-        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "question": "Which indigenously developed quasi-ballistic missile was successfully flight-tested by DRDO off the Odisha coast on November 5, 2026?",
         "options": {
-          "A": "Samudra",
-          "B": "Srishti",
-          "C": "Samarth",
-          "D": "Saksham"
+          "A": "Agni-Prime",
+          "B": "Pralay",
+          "C": "Prithvi-II",
+          "D": "BrahMos"
         },
-        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+        "explanation": "Pralay is an indigenously developed quasi-ballistic missile successfully flight-tested by the Defence Research and Development Organisation (DRDO) on November 5, 2026, from Dr APJ Abdul Kalam Island off the Odisha coast. The missile was developed by Research Centre Imarat (RCI), Hyderabad, in collaboration with other DRDO laboratories. It is a solid-propellant, surface-to-surface missile designed to carry different types of conventional warheads and deliver precision strikes. Unlike conventional ballistic missiles, Pralay can follow a lower trajectory and manoeuvre during flight. The successful user evaluation trial strengthens India's indigenous defence capabilities and brings the missile closer to induction into the Armed Forces."
       },
       "hi": {
-        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "question": "5 नवंबर, 2026 को डीआरडीओ द्वारा ओडिशा तट से किस स्वदेशी रूप से विकसित अर्ध-बैलिस्टिक मिसाइल का सफलतापूर्वक परीक्षण किया गया?",
         "options": {
-          "A": "समुद्र",
-          "B": "सृष्टि",
-          "C": "समर्थ",
-          "D": "सक्षम"
+          "A": "अग्नि-प्रधान",
+          "B": "प्रलय",
+          "C": "पृथ्वी-II",
+          "D": "ब्रह्मोस"
         },
-        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+        "explanation": "प्रलय एक स्वदेशी रूप से विकसित अर्ध-बैलिस्टिक मिसाइल है जिसका रक्षा अनुसंधान और विकास संगठन (डीआरडीओ) द्वारा 5 नवंबर, 2026 को ओडिशा तट के डॉ एपीजे अब्दुल कलाम द्वीप से सफलतापूर्वक परीक्षण किया गया। मिसाइल को अनुसंधान केंद्र इमारत (आरसीआई), हैदराबाद द्वारा अन्य डीआरडीओ प्रयोगशालाओं के सहयोग से विकसित किया गया था। यह एक ठोस-प्रणोदक, सतह से सतह पर मार करने वाली मिसाइल है जिसे विभिन्न प्रकार के पारंपरिक हथियार ले जाने और सटीक हमले करने के लिए डिज़ाइन किया गया है। पारंपरिक बैलिस्टिक मिसाइलों के विपरीत, प्रलय उड़ान के दौरान निचले प्रक्षेपवक्र और पैंतरेबाजी का पालन कर सकता है। सफल उपयोगकर्ता मूल्यांकन परीक्षण भारत की स्वदेशी रक्षा क्षमताओं को मजबूत करता है और मिसाइल को सशस्त्र बलों में शामिल करने के करीब लाता है।"
       },
       "gu": {
-        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "question": "5 નવેમ્બર, 2026 ના રોજ ઓડિશાના દરિયાકાંઠે ડીઆરડીઓ દ્વારા કઈ સ્વદેશી રીતે વિકસિત અર્ધ-બેલિસ્ટિક મિસાઈલનું સફળતાપૂર્વક ઉડાન-પરીક્ષણ કરવામાં આવ્યું હતું?",
         "options": {
-          "A": "સમુદ્ર",
-          "B": "સૃષ્ટિ",
-          "C": "સમર્થ",
-          "D": "સક્ષમ"
+          "A": "અગ્નિ-પ્રાઈમ",
+          "B": "પ્રલય",
+          "C": "પૃથ્વી-II",
+          "D": "બ્રહ્મોસ"
         },
-        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+        "explanation": "પ્રલય એ સ્વદેશી રીતે વિકસિત અર્ધ-બેલિસ્ટિક મિસાઇલ છે જેનું સફળ પરીક્ષણ સંરક્ષણ સંશોધન અને વિકાસ સંગઠન (DRDO) દ્વારા 5 નવેમ્બર, 2026 ના રોજ ઓડિશાના દરિયાકાંઠે આવેલા ડૉ. APJ અબ્દુલ કલામ ટાપુ પરથી કરવામાં આવ્યું હતું. આ મિસાઈલ રિસર્ચ સેન્ટર ઈમરત (RCI), હૈદરાબાદ દ્વારા અન્ય DRDO પ્રયોગશાળાઓ સાથે મળીને વિકસાવવામાં આવી હતી. તે એક નક્કર-પ્રોપેલન્ટ, સપાટીથી સપાટી પરની મિસાઇલ છે જે વિવિધ પ્રકારના પરંપરાગત શસ્ત્રો વહન કરવા અને ચોકસાઇથી હુમલો કરવા માટે રચાયેલ છે. પરંપરાગત બેલિસ્ટિક મિસાઇલોથી વિપરીત, પ્રલય ફ્લાઇટ દરમિયાન નીચા માર્ગ અને દાવપેચને અનુસરી શકે છે. સફળ વપરાશકર્તા મૂલ્યાંકન અજમાયશ ભારતની સ્વદેશી સંરક્ષણ ક્ષમતાઓને મજબૂત બનાવે છે અને મિસાઈલને સશસ્ત્ર દળોમાં સામેલ કરવાની નજીક લાવે છે."
       }
     },
     {
-      "id": "2026-11-01-3",
-      "date": "2026-11-01",
-      "qno": 3,
-      "answer": "A",
-      "category": "Business",
-      "en": {
-        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
-        "options": {
-          "A": "Nasscom",
-          "B": "FICCI",
-          "C": "ASSOCHAM",
-          "D": "CII"
-        },
-        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
-      },
-      "hi": {
-        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
-        "options": {
-          "A": "नैसकॉम",
-          "B": "फिक्की",
-          "C": "एसोचैम",
-          "D": "सीआईआई"
-        },
-        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
-      },
-      "gu": {
-        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
-        "options": {
-          "A": "નાસકોમ",
-          "B": "ફિક્કી",
-          "C": "એસોચેમ",
-          "D": "CII"
-        },
-        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
+      "id": "2026-11-06-4",
+      "date": "2026-11-06",
       "qno": 4,
-      "answer": "C",
-      "category": "Economy",
+      "answer": "A",
+      "category": "Sports",
       "en": {
-        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "question": "Who became the first Indian woman to reach the women's singles badminton final at the Youth Olympic Games?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "Tanvi Patri",
+          "B": "Anmol Kharb",
+          "C": "Unnati Hooda",
+          "D": "Tasnim Mir"
         },
-        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+        "explanation": "Tanvi Patri created history by becoming the first Indian woman to reach the women's singles badminton final at the 2026 Youth Olympic Games held in Dakar, Senegal. She secured her place in the final by defeating Japan's Yuzuno Watanabe in a thrilling three-game semifinal with a score of 21-14, 11-21, 21-19. The match lasted 54 minutes. Her victory guaranteed India at least a silver medal in the competition. She also became the fourth Indian badminton player to reach the Youth Olympic Games semifinals, joining H. S. Prannoy, Lakshya Sen and Aditya Joshi."
       },
       "hi": {
-        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "question": "युवा ओलंपिक खेलों में महिला एकल बैडमिंटन फाइनल में पहुंचने वाली पहली भारतीय महिला कौन बनी?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "तन्वी पात्री",
+          "B": "अनमोल खरब",
+          "C": "उन्नति हुडा",
+          "D": "तस्नीम मीर"
         },
-        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+        "explanation": "तन्वी पात्री ने तीन गेमों के रोमांचक सेमीफाइनल में 21-14, 11-21, 21-19 के स्कोर के साथ महिलाओं_ENG_THEME_TOKEN_0__s युज़ुनो वतनबे तक पहुंचने वाली पहली भारतीय महिला बनकर इतिहास रच दिया। यह मैच 54 मिनट तक चला। उनकी जीत ने प्रतियोगिता में भारत के लिए कम से कम रजत पदक की गारंटी दी। वह एच.एस. प्रणय, लक्ष्य सेन और आदित्य जोशी के साथ यूथ ओलंपिक खेलों के सेमीफाइनल में पहुंचने वाली चौथी भारतीय बैडमिंटन खिलाड़ी बन गईं।"
       },
       "gu": {
-        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "question": "યુથ ઓલિમ્પિક ગેમ્સમાં મહિલા સિંગલ્સ બેડમિન્ટનની ફાઇનલમાં પહોંચનારી પ્રથમ ભારતીય મહિલા કોણ બની?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "તન્વી પત્રી",
+          "B": "અનમોલ ખરબ",
+          "C": "ઉન્નતિ હુડ્ડા",
+          "D": "તસ્નીમ મીર"
         },
-        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+        "explanation": "તન્વી પાત્રીએ 21-14, 11-21, 21-19ના સ્કોર સાથે ત્રણ ગેમની રોમાંચક સેમિફાઇનલમાં મહિલા's singles badminton final પર  2026 Youth Olympic Games યોજાયો માં Dakar, Senegal. She secured her place માં  final દ્વારા defeating Japan'ની યુઝુનો વાતાનાબે સુધી પહોંચનારી પ્રથમ ભારતીય મહિલા બનીને ઇતિહાસ રચ્યો હતો. મેચ 54 મિનિટ ચાલી હતી. તેણીની જીતે ભારતને સ્પર્ધામાં ઓછામાં ઓછા સિલ્વર મેડલની ખાતરી આપી હતી. તે એચ.એસ. પ્રણોય, લક્ષ્ય સેન અને આદિત્ય જોશી સાથે જોડાઈને યુથ ઓલિમ્પિક ગેમ્સ સેમિફાઈનલમાં પહોંચનારી ચોથી ભારતીય બેડમિન્ટન ખેલાડી પણ બની હતી."
       }
     },
     {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
+      "id": "2026-11-06-5",
+      "date": "2026-11-06",
       "qno": 5,
+      "answer": "A",
+      "category": "Environment",
+      "en": {
+        "question": "What was the ranking of the Antarctic ozone hole in 2026 based on its seasonal average area over 48 years of monitoring?",
+        "options": {
+          "A": "7th",
+          "B": "5th",
+          "C": "9th",
+          "D": "3rd"
+        },
+        "explanation": "7th is the rank achieved by the Antarctic ozone hole in 2026 based on its seasonal average area over 48 years of monitoring. NASA and NOAA reported this finding on November 4, 2026. The ozone hole recorded an average area of approximately 25 million square kilometres between September 7 and October 13, 2026, while its maximum extent reached around 27.1 million square kilometres on September 18. Scientists attributed its large size partly to an unusually powerful polar vortex. Despite this development, long-term ozone layer recovery remains on track, supported by international efforts under the 1987 Montreal Protocol."
+      },
+      "hi": {
+        "question": "48 वर्षों की निगरानी के मौसमी औसत क्षेत्र के आधार पर 2026 में अंटार्कटिक ओजोन छिद्र की रैंकिंग क्या थी?",
+        "options": {
+          "A": "सातवां",
+          "B": "5वां",
+          "C": "9वां",
+          "D": "तीसरा"
+        },
+        "explanation": "48 वर्षों की निगरानी के दौरान इसके मौसमी औसत क्षेत्र के आधार पर 2026 में अंटार्कटिक ओजोन छिद्र द्वारा हासिल की गई 7वीं रैंक है। नासा और एनओएए ने 4 नवंबर, 2026 को इस खोज की सूचना दी। ओजोन छिद्र ने 7 सितंबर और 13 अक्टूबर, 2026 के बीच लगभग 25 मिलियन वर्ग किलोमीटर का औसत क्षेत्र दर्ज किया, जबकि इसकी अधिकतम सीमा 18 सितंबर को लगभग 27.1 मिलियन वर्ग किलोमीटर तक पहुंच गई। वैज्ञानिकों ने इसके बड़े आकार को आंशिक रूप से असामान्य रूप से शक्तिशाली ध्रुवीय भंवर के लिए जिम्मेदार ठहराया। इस विकास के बावजूद, 1987 के मॉन्ट्रियल प्रोटोकॉल के तहत अंतर्राष्ट्रीय प्रयासों द्वारा समर्थित, दीर्घकालिक ओजोन परत पुनर्प्राप्ति ट्रैक पर बनी हुई है।"
+      },
+      "gu": {
+        "question": "2026 માં એન્ટાર્કટિક ઓઝોન છિદ્રનું 48 વર્ષોના મોનિટરિંગના મોસમી સરેરાશ ક્ષેત્રના આધારે રેન્કિંગ શું હતું?",
+        "options": {
+          "A": "7મી",
+          "B": "5મી",
+          "C": "9મી",
+          "D": "3જી"
+        },
+        "explanation": "48 વર્ષના મોનિટરિંગના તેના મોસમી સરેરાશ વિસ્તારના આધારે 2026 માં એન્ટાર્કટિક ઓઝોન છિદ્ર દ્વારા 7મો ક્રમ પ્રાપ્ત થયો છે. NASA અને NOAA એ 4 નવેમ્બર, 2026 ના રોજ આ શોધની જાણ કરી. 7 સપ્ટેમ્બર અને 13 ઓક્ટોબર, 2026 વચ્ચે ઓઝોન છિદ્રનું સરેરાશ ક્ષેત્રફળ આશરે 25 મિલિયન ચોરસ કિલોમીટર નોંધાયું હતું, જ્યારે તેની મહત્તમ મર્યાદા 18 સપ્ટેમ્બરના રોજ લગભગ 27.1 મિલિયન ચોરસ કિલોમીટર સુધી પહોંચી હતી. વૈજ્ઞાનિકોએ તેના મોટા કદને આભારી છે. આ વિકાસ છતાં, લાંબા ગાળાના ઓઝોન સ્તર પુનઃપ્રાપ્તિ ટ્રેક પર રહે છે, જે 1987 મોન્ટ્રીયલ પ્રોટોકોલ હેઠળ આંતરરાષ્ટ્રીય પ્રયત્નો દ્વારા સમર્થિત છે."
+      }
+    },
+    {
+      "id": "2026-11-06-6",
+      "date": "2026-11-06",
+      "qno": 6,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Which country defeated Japan 4-1 to win its sixth Men’s Asian Champions Trophy hockey title?",
+        "options": {
+          "A": "Malaysia",
+          "B": "India",
+          "C": "South Korea",
+          "D": "China"
+        },
+        "explanation": "India won its sixth Men’s Asian Champions Trophy title by defeating Japan 4-1 in the final of the ninth edition of the tournament. The championship match was held at the Olympian Balbir Singh Senior International Hockey Stadium in Mohali, Punjab. With this victory, India successfully defended its previous title and achieved a historic hat-trick of three consecutive championships. India scored three goals in the fourth quarter to complete a remarkable comeback. Malaysia secured the bronze medal by defeating South Korea 5-2. The tournament victory also marked Nilakanta Sharma’s final international appearance."
+      },
+      "hi": {
+        "question": "किस देश ने जापान को 4-1 से हराकर छठा पुरुष एशियाई चैंपियंस ट्रॉफी हॉकी खिताब जीता?",
+        "options": {
+          "A": "मलेशिया",
+          "B": "भारत",
+          "C": "दक्षिण कोरिया",
+          "D": "चीन"
+        },
+        "explanation": "भारत ने टूर्नामेंट के नौवें संस्करण के फाइनल में जापान को 4-1 से हराकर अपना छठा पुरुष एशियाई चैंपियंस ट्रॉफी खिताब जीता। चैंपियनशिप मैच पंजाब के मोहाली में ओलंपियन बलबीर सिंह सीनियर इंटरनेशनल हॉकी स्टेडियम में आयोजित किया गया था। इस जीत के साथ, भारत ने अपने पिछले खिताब का सफलतापूर्वक बचाव किया और लगातार तीन चैंपियनशिप की ऐतिहासिक हैट्रिक हासिल की। भारत ने चौथे क्वार्टर में तीन गोल करके शानदार वापसी की। मलेशिया ने दक्षिण कोरिया को 5-2 से हराकर कांस्य पदक हासिल किया. टूर्नामेंट की जीत ने नीलकंठ शर्मा की अंतिम अंतरराष्ट्रीय उपस्थिति को भी चिह्नित किया।"
+      },
+      "gu": {
+        "question": "કયા દેશે જાપાનને 4-1થી હરાવીને છઠ્ઠું પુરૂષોની એશિયન ચેમ્પિયન્સ ટ્રોફી હોકીનો ખિતાબ જીત્યો?",
+        "options": {
+          "A": "મલેશિયા",
+          "B": "ભારત",
+          "C": "દક્ષિણ કોરિયા",
+          "D": "ચીન"
+        },
+        "explanation": "ભારતે ટૂર્નામેન્ટની નવમી આવૃત્તિની ફાઇનલમાં જાપાનને 4-1થી હરાવીને તેનું છઠ્ઠું મેન્સ એશિયન ચેમ્પિયન્સ ટ્રોફી ટાઇટલ જીત્યું. ચેમ્પિયનશિપ મેચ પંજાબના મોહાલીમાં ઓલિમ્પિયન બલબીર સિંહ સિનિયર ઈન્ટરનેશનલ હોકી સ્ટેડિયમમાં યોજાઈ હતી. આ જીત સાથે, ભારતે તેના અગાઉના ટાઇટલનો સફળતાપૂર્વક બચાવ કર્યો અને સતત ત્રણ ચેમ્પિયનશિપની ઐતિહાસિક હેટ્રિક હાંસલ કરી. ભારતે ચોથા ક્વાર્ટરમાં ત્રણ ગોલ કરીને શાનદાર પુનરાગમન કર્યું હતું. મલેશિયાએ દક્ષિણ કોરિયાને 5-2થી હરાવીને બ્રોન્ઝ મેડલ મેળવ્યો હતો. ટૂર્નામેન્ટની જીતે નીલકાંત શર્માનો અંતિમ આંતરરાષ્ટ્રીય દેખાવ પણ ચિહ્નિત કર્યો."
+      }
+    },
+    {
+      "id": "2026-11-06-7",
+      "date": "2026-11-06",
+      "qno": 7,
       "answer": "D",
       "category": "International",
       "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "question": "Which country became the 116th member of the International Solar Alliance during its 9th Assembly?",
         "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
+          "A": "Barbados",
+          "B": "Jamaica",
+          "C": "Maldives",
+          "D": "Bahamas"
         },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+        "explanation": "The Bahamas became the 116th member country of the International Solar Alliance (ISA) on 4 November 2026, after submitting its Instrument of Accession to the ISA Framework Agreement. The formal accession took place during the 9th Session of the ISA Assembly held in New Delhi, India. The membership strengthens international cooperation in solar energy and provides the Bahamas with opportunities to access technical expertise, investment support and collaborative renewable energy programmes. As a Small Island Developing State in the Caribbean, the Bahamas can benefit from ISA initiatives aimed at improving energy security, promoting clean energy and building climate resilience."
       },
       "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "question": "कौन सा देश अपनी 9वीं विधानसभा के दौरान अंतर्राष्ट्रीय सौर गठबंधन का 116वां सदस्य बना?",
         "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
+          "A": "बारबाडोस",
+          "B": "जमैका",
+          "C": "मालदीव",
+          "D": "बहामास"
         },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+        "explanation": "आईएसए फ्रेमवर्क समझौते में अपना प्रवेश पत्र प्रस्तुत करने के बाद, बहामास 4 नवंबर 2026 को अंतर्राष्ट्रीय सौर गठबंधन (आईएसए) का 116वां सदस्य देश बन गया। औपचारिक परिग्रहण नई दिल्ली, भारत में आयोजित आईएसए असेंबली के 9वें सत्र के दौरान हुआ। सदस्यता सौर ऊर्जा में अंतर्राष्ट्रीय सहयोग को मजबूत करती है और बहामास को तकनीकी विशेषज्ञता, निवेश सहायता और सहयोगी नवीकरणीय ऊर्जा कार्यक्रमों तक पहुंचने के अवसर प्रदान करती है। कैरेबियन में एक छोटे द्वीप विकासशील राज्य के रूप में, बहामास ऊर्जा सुरक्षा में सुधार, स्वच्छ ऊर्जा को बढ़ावा देने और जलवायु लचीलेपन का निर्माण करने के उद्देश्य से आईएसए पहल से लाभ उठा सकता है।"
       },
       "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "question": "કયો દેશ તેની 9મી એસેમ્બલી દરમિયાન ઇન્ટરનેશનલ સોલાર એલાયન્સનો 116મો સભ્ય બન્યો?",
         "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+          "A": "બાર્બાડોસ",
+          "B": "જમૈકા",
+          "C": "માલદીવ",
+          "D": "બહામાસ"
         },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+        "explanation": "બહામાસ 4 નવેમ્બર 2026 ના રોજ, ISA ફ્રેમવર્ક કરારમાં પ્રવેશનું તેનું સાધન સબમિટ કર્યા પછી, ઇન્ટરનેશનલ સોલર એલાયન્સ (ISA) નો 116મો સભ્ય દેશ બન્યો. નવી દિલ્હી, ભારતમાં આયોજિત ISA એસેમ્બલીના 9મા સત્ર દરમિયાન ઔપચારિક જોડાણ થયું હતું. સભ્યપદ સૌર ઉર્જામાં આંતરરાષ્ટ્રીય સહકારને મજબૂત બનાવે છે અને બહામાસને તકનીકી કુશળતા, રોકાણ સહાય અને સહયોગી પુનઃપ્રાપ્ય ઊર્જા કાર્યક્રમોને ઍક્સેસ કરવાની તકો પૂરી પાડે છે. કેરેબિયનમાં નાના ટાપુ વિકાસશીલ રાજ્ય તરીકે, બહામાસ ISA પહેલોથી લાભ મેળવી શકે છે જેનો ઉદ્દેશ્ય ઉર્જા સુરક્ષામાં સુધારો કરવા, સ્વચ્છ ઊર્જાને પ્રોત્સાહન આપવા અને આબોહવા સ્થિતિસ્થાપકતાનું નિર્માણ કરવાનો છે."
       }
     },
     {
-      "id": "2026-11-01-6",
-      "date": "2026-11-01",
+      "id": "2026-11-06-8",
+      "date": "2026-11-06",
+      "qno": 8,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which state launched the BRICS Sustainable Lifestyle Week 2026 and a cyclothon at Khuman Lampak Sports Complex?",
+        "options": {
+          "A": "Manipur",
+          "B": "Meghalaya",
+          "C": "Mizoram",
+          "D": "Nagaland"
+        },
+        "explanation": "Manipur launched the BRICS Sustainable Lifestyle Week 2026 along with a cyclothon at the Khuman Lampak Sports Complex in Imphal. Chief Minister Yumnam Khemchand Singh inaugurated the initiative on November 3, 2026. The campaign, observed from November 1 to 7, aims to promote environmentally responsible lifestyles based on Mission LiFE (Lifestyle for Environment). Around 200 cyclists participated in the cyclothon to spread awareness about sustainability. The initiative focuses on eliminating single-use plastics, conserving water and energy, reducing waste, and protecting Manipur's biodiversity, forests and wetlands."
+      },
+      "hi": {
+        "question": "किस राज्य ने ब्रिक्स सस्टेनेबल लाइफस्टाइल वीक 2026 और खुमान लैंपक स्पोर्ट्स कॉम्प्लेक्स में एक साइक्लोथॉन का शुभारंभ किया?",
+        "options": {
+          "A": "मणिपुर",
+          "B": "मेघालय",
+          "C": "मिजोरम",
+          "D": "नागालैंड"
+        },
+        "explanation": "मणिपुर ने इम्फाल के खुमान लैंपक स्पोर्ट्स कॉम्प्लेक्स में एक साइक्लोथॉन के साथ ब्रिक्स सस्टेनेबल लाइफस्टाइल वीक 2026 का शुभारंभ किया। मुख्यमंत्री युमनाम खेमचंद सिंह ने 3 नवंबर, 2026 को इस पहल का उद्घाटन किया। 1 से 7 नवंबर तक मनाए जाने वाले इस अभियान का उद्देश्य मिशन LiFE (पर्यावरण के लिए जीवन शैली) के आधार पर पर्यावरण के लिए जिम्मेदार जीवन शैली को बढ़ावा देना है। स्थिरता के बारे में जागरूकता फैलाने के लिए लगभग 200 साइकिल चालकों ने साइक्लोथॉन में भाग लिया। यह पहल एकल-उपयोग प्लास्टिक को खत्म करने, पानी और ऊर्जा के संरक्षण, कचरे को कम करने और मणिपुर की जैव विविधता, जंगलों और आर्द्रभूमि की रक्षा करने पर केंद्रित है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યએ BRICS સસ્ટેનેબલ લાઈફસ્ટાઈલ વીક 2026 અને ખુમાન લેમ્પક સ્પોર્ટ્સ કોમ્પ્લેક્સ ખાતે સાયક્લોથોન શરૂ કર્યું?",
+        "options": {
+          "A": "મણિપુર",
+          "B": "મેઘાલય",
+          "C": "મિઝોરમ",
+          "D": "નાગાલેન્ડ"
+        },
+        "explanation": "મણિપુરે ઇમ્ફાલમાં ખુમાન લેમ્પક સ્પોર્ટ્સ કોમ્પ્લેક્સ ખાતે સાયક્લોથોન સાથે BRICS સસ્ટેનેબલ લાઇફસ્ટાઇલ વીક 2026ની શરૂઆત કરી. મુખ્યમંત્રી યુમનમ ખેમચંદ સિંહે 3 નવેમ્બર, 2026 ના રોજ આ પહેલનું ઉદ્ઘાટન કર્યું. 1 થી 7 નવેમ્બર દરમિયાન નિહાળવામાં આવેલા આ અભિયાનનો હેતુ મિશન LiFE (પર્યાવરણ માટેની જીવનશૈલી) પર આધારિત પર્યાવરણને જવાબદાર જીવનશૈલીને પ્રોત્સાહન આપવાનો છે. ટકાઉપણું વિશે જાગૃતિ ફેલાવવા સાયક્લોથોનમાં લગભગ 200 સાઇકલ સવારોએ ભાગ લીધો હતો. આ પહેલ સિંગલ-યુઝ પ્લાસ્ટિકને દૂર કરવા, પાણી અને ઉર્જાનું સંરક્ષણ કરવા, કચરો ઘટાડવા અને મણિપુરની જૈવવિવિધતા, જંગલો અને ભીની જમીનોનું રક્ષણ કરવા પર ધ્યાન કેન્દ્રિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-06-9",
+      "date": "2026-11-06",
+      "qno": 9,
+      "answer": "C",
+      "category": "Defence",
+      "en": {
+        "question": "Which country is hosting the multilateral naval exercise MALABAR 2026?",
+        "options": {
+          "A": "Australia",
+          "B": "United States",
+          "C": "Japan",
+          "D": "India"
+        },
+        "explanation": "Japan is hosting the multilateral naval exercise MALABAR 2026, which brings together the navies of India, Australia, Japan and the United States. The exercise aims to strengthen maritime cooperation, operational coordination and interoperability among the participating countries in the Indo-Pacific region. The Indian Navy's INS Sahyadri arrived at Yokosuka Naval Base in Japan to participate in the exercise. Japan's participation in Exercise Malabar became permanent in 2015. The exercise includes Harbour and Sea phases, focusing on professional exchanges, coordinated planning and practical maritime operations."
+      },
+      "hi": {
+        "question": "बहुपक्षीय नौसैनिक अभ्यास मालाबार 2026 की मेजबानी कौन सा देश कर रहा है?",
+        "options": {
+          "A": "ऑस्ट्रेलिया",
+          "B": "संयुक्त राज्य अमेरिका",
+          "C": "जापान",
+          "D": "भारत"
+        },
+        "explanation": "जापान बहुपक्षीय नौसैनिक अभ्यास मालाबार 2026 की मेजबानी कर रहा है, जो भारत, ऑस्ट्रेलिया, जापान और संयुक्त राज्य अमेरिका की नौसेनाओं को एक साथ लाता है। इस अभ्यास का उद्देश्य भारत-प्रशांत क्षेत्र में भाग लेने वाले देशों के बीच समुद्री सहयोग, परिचालन समन्वय और अंतरसंचालनीयता को मजबूत करना है। अभ्यास मालाबार में भारतीय नौसेना's INS Sahyadri arrived पर Yokosuka Naval Base में Japan को participate में  exercise. Japan' की भागीदारी 2015 में स्थायी हो गई। अभ्यास में हार्बर और समुद्री चरण शामिल हैं, जो पेशेवर आदान-प्रदान, समन्वित योजना और व्यावहारिक समुद्री संचालन पर ध्यान केंद्रित करते हैं।"
+      },
+      "gu": {
+        "question": "કયો દેશ બહુપક્ષીય નૌકા કવાયત માલાબાર 2026 નું આયોજન કરી રહ્યો છે?",
+        "options": {
+          "A": "ઓસ્ટ્રેલિયા",
+          "B": "યુનાઇટેડ સ્ટેટ્સ",
+          "C": "જાપાન",
+          "D": "ભારત"
+        },
+        "explanation": "જાપાન બહુપક્ષીય નૌકા કવાયત મલબાર 2026 નું આયોજન કરી રહ્યું છે, જે ભારત, ઓસ્ટ્રેલિયા, જાપાન અને યુનાઇટેડ સ્ટેટ્સની નૌકાદળને એકસાથે લાવે છે. આ કવાયતનો ઉદ્દેશ્ય હિંદ-પેસિફિક ક્ષેત્રમાં સહભાગી દેશો વચ્ચે દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને આંતરકાર્યક્ષમતાને મજબૂત કરવાનો છે. 2015 માં મલબાર કવાયતમાં ભારતીય નૌકાદળ's INS Sahyadri arrived પર Yokosuka Naval Base માં Japan ને participate માં  exercise. Japan'ની ભાગીદારી કાયમી બની હતી. કવાયતમાં હાર્બર અને સમુદ્રી તબક્કાઓનો સમાવેશ થાય છે, જેમાં વ્યાવસાયિક આદાનપ્રદાન, સંકલિત આયોજન અને વ્યવહારિક દરિયાઇ કામગીરી પર ધ્યાન કેન્દ્રિત કરવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-11-05-1",
+      "date": "2026-11-05",
+      "qno": 1,
+      "answer": "C",
+      "category": "Bills and Acts",
+      "en": {
+        "question": "Which Article of the Indian Constitution guarantees that an arrested person must be produced before a Magistrate within 24 hours?",
+        "options": {
+          "A": "Article 21",
+          "B": "Article 20(3)",
+          "C": "Article 22(2)",
+          "D": "Article 19(1)"
+        },
+        "explanation": "Article 22(2) of the Indian Constitution guarantees protection against prolonged and unlawful detention by requiring that an arrested person be produced before the nearest Magistrate within 24 hours of arrest, excluding the time required for travel to the court. The Supreme Court clarified that this 24-hour period begins from the moment a person's liberty is actually restricted, rather than the time of formal arrest registration. This protection prevents authorities from delaying formal arrest to extend custody unlawfully. No person can be detained beyond the prescribed period without the authority of a Magistrate. Article 22(2) is part of the Fundamental Rights under Part III of the Constitution."
+      },
+      "hi": {
+        "question": "भारतीय संविधान का कौन सा अनुच्छेद यह गारंटी देता है कि गिरफ्तार व्यक्ति को 24 घंटे के भीतर मजिस्ट्रेट के सामने पेश किया जाना चाहिए?",
+        "options": {
+          "A": "अनुच्छेद 21",
+          "B": "अनुच्छेद 20(3)",
+          "C": "अनुच्छेद 22(2)",
+          "D": "अनुच्छेद 19(1)"
+        },
+        "explanation": "भारतीय संविधान का अनुच्छेद 22(2) लंबे समय तक और गैरकानूनी हिरासत के खिलाफ सुरक्षा की गारंटी देता है, जिसके तहत गिरफ्तार व्यक्ति को गिरफ्तारी के 24 घंटे के भीतर, अदालत तक यात्रा के लिए आवश्यक समय को छोड़कर, निकटतम मजिस्ट्रेट के सामने पेश किया जाना चाहिए। सुप्रीम कोर्ट ने स्पष्ट किया कि यह 24 घंटे की अवधि औपचारिक गिरफ्तारी पंजीकरण के समय के बजाय, उस क्षण से शुरू होती है जब किसी व्यक्ति की स्वतंत्रता वास्तव में प्रतिबंधित होती है। यह सुरक्षा अधिकारियों को गैरकानूनी तरीके से हिरासत बढ़ाने के लिए औपचारिक गिरफ्तारी में देरी करने से रोकती है। मजिस्ट्रेट के प्राधिकार के बिना किसी भी व्यक्ति को निर्धारित अवधि से अधिक हिरासत में नहीं रखा जा सकता है। अनुच्छेद 22(2) संविधान के भाग III के तहत मौलिक अधिकारों का हिस्सा है।"
+      },
+      "gu": {
+        "question": "ભારતીય બંધારણની કઇ કલમ બાંહેધરી આપે છે કે ધરપકડ કરાયેલ વ્યક્તિને 24 કલાકની અંદર મેજિસ્ટ્રેટ સમક્ષ હાજર કરવામાં આવે?",
+        "options": {
+          "A": "કલમ 21",
+          "B": "કલમ 20(3)",
+          "C": "કલમ 22(2)",
+          "D": "કલમ 19(1)"
+        },
+        "explanation": "ભારતીય બંધારણની કલમ 22(2) લાંબા સમય સુધી અને ગેરકાયદેસર અટકાયત સામે રક્ષણની બાંયધરી આપે છે, જેમાં એવી આવશ્યકતા છે કે ધરપકડ કરાયેલ વ્યક્તિને ધરપકડના 24 કલાકની અંદર નજીકના મેજિસ્ટ્રેટ સમક્ષ રજૂ કરવામાં આવે, કોર્ટમાં મુસાફરી માટે જરૂરી સમયને બાદ કરતાં. સુપ્રીમ કોર્ટે સ્પષ્ટ કર્યું કે આ 24-કલાકનો સમયગાળો ઔપચારિક ધરપકડ નોંધણીના સમયને બદલે, વ્યક્તિની સ્વતંત્રતા ખરેખર પ્રતિબંધિત છે તે ક્ષણથી શરૂ થાય છે. આ સુરક્ષા અધિકારીઓને ગેરકાયદેસર રીતે કસ્ટડી વધારવા માટે ઔપચારિક ધરપકડમાં વિલંબ કરવાથી અટકાવે છે. મેજિસ્ટ્રેટની સત્તા વિના કોઈ પણ વ્યક્તિને નિર્ધારિત સમયગાળાથી વધુ સમય સુધી અટકાયતમાં લઈ શકાશે નહીં. કલમ 22(2) એ બંધારણના ભાગ III હેઠળના મૂળભૂત અધિકારોનો એક ભાગ છે."
+      }
+    },
+    {
+      "id": "2026-11-05-2",
+      "date": "2026-11-05",
+      "qno": 2,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "Until which year has the Union Cabinet extended the Fast Track Special Courts Scheme?",
+        "options": {
+          "A": "2028",
+          "B": "2031",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "2031 is the year until which the Union Cabinet has extended the Fast Track Special Courts (FTSCs) Scheme, including exclusive POCSO Courts. The scheme will continue for another five years, from 1 April 2026 to 31 March 2031, with a total financial outlay of ₹3,788.04 crore. The Central Government will contribute ₹2,353.15 crore, while States and Union Territories will provide ₹1,434.89 crore. The scheme aims to expedite trials of pending rape and child sexual abuse cases by establishing 850 special courts and strengthening the delivery of timely justice to victims."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने फास्ट ट्रैक विशेष न्यायालय योजना को किस वर्ष तक बढ़ा दिया है?",
+        "options": {
+          "A": "2028",
+          "B": "2031",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "2031 वह वर्ष है जब तक केंद्रीय मंत्रिमंडल ने विशेष POCSO अदालतों सहित फास्ट ट्रैक स्पेशल कोर्ट (FTSCs) योजना को बढ़ा दिया है। यह योजना 1 अप्रैल 2026 से 31 मार्च 2031 तक अगले पांच वर्षों तक जारी रहेगी, जिसका कुल वित्तीय व्यय ₹3,788.04 करोड़ होगा। केंद्र सरकार ₹2,353.15 करोड़ का योगदान देगी, जबकि राज्य और केंद्र शासित प्रदेश ₹1,434.89 करोड़ प्रदान करेंगे। इस योजना का उद्देश्य 850 विशेष अदालतों की स्थापना करके लंबित बलात्कार और बाल यौन शोषण मामलों की सुनवाई में तेजी लाना और पीड़ितों को समय पर न्याय प्रदान करना मजबूत करना है।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે ફાસ્ટ ટ્રેક સ્પેશિયલ કોર્ટ સ્કીમને કયા વર્ષ સુધી લંબાવી છે?",
+        "options": {
+          "A": "2028",
+          "B": "2031",
+          "C": "2030",
+          "D": "2032"
+        },
+        "explanation": "2031 એ વર્ષ છે જ્યાં સુધી કેન્દ્રીય કેબિનેટે ફાસ્ટ ટ્રેક સ્પેશિયલ કોર્ટ્સ (FTSCs) સ્કીમનો વિસ્તાર કર્યો છે, જેમાં એક્સક્લુઝિવ POCSO કોર્ટનો સમાવેશ થાય છે. આ યોજના 1 એપ્રિલ 2026 થી 31 માર્ચ 2031 સુધી અન્ય પાંચ વર્ષ માટે ચાલુ રહેશે, જેમાં કુલ ₹3,788.04 કરોડના નાણાકીય ખર્ચ છે. કેન્દ્ર સરકાર ₹2,353.15 કરોડનું યોગદાન આપશે, જ્યારે રાજ્યો અને કેન્દ્રશાસિત પ્રદેશો ₹1,434.89 કરોડ આપશે. આ યોજનાનો ઉદ્દેશ્ય 850 વિશેષ અદાલતોની સ્થાપના કરીને અને પીડિતોને સમયસર ન્યાયની ડિલિવરીને મજબૂત કરીને બળાત્કાર અને બાળ જાતીય શોષણના બાકી કેસોની સુનાવણી ઝડપી બનાવવાનો છે."
+      }
+    },
+    {
+      "id": "2026-11-05-3",
+      "date": "2026-11-05",
+      "qno": 3,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "What is the maximum data transmission speed achieved by JNCASR researchers using their newly developed terahertz silicon photonic chip?",
+        "options": {
+          "A": "60 Gbps",
+          "B": "100 Gbps",
+          "C": "120 Gbps",
+          "D": "48 Gbps"
+        },
+        "explanation": "100 Gbps is the maximum data transmission speed achieved by researchers at the Jawaharlal Nehru Centre for Advanced Scientific Research (JNCASR), Bengaluru, using a newly developed silicon photonic chip. The achievement was made possible through topological photonics, which helps terahertz waves travel around designed obstacles with minimal signal loss. The researchers demonstrated this speed using a power splitter based on photonic Klein tunnelling. The technology operates in the 310–360 GHz frequency range and could contribute to developing compact, high-speed communication circuits for future 6G networks. It also offers potential for more efficient terahertz signal transmission."
+      },
+      "hi": {
+        "question": "JNCASR शोधकर्ताओं द्वारा अपने नव विकसित टेराहर्ट्ज़ सिलिकॉन फोटोनिक चिप का उपयोग करके प्राप्त की गई अधिकतम डेटा ट्रांसमिशन गति क्या है?",
+        "options": {
+          "A": "60 जीबीपीएस",
+          "B": "100 जीबीपीएस",
+          "C": "120 जीबीपीएस",
+          "D": "48 जीबीपीएस"
+        },
+        "explanation": "100 जीबीपीएस, जवाहरलाल नेहरू सेंटर फॉर एडवांस्ड साइंटिफिक रिसर्च (जेएनसीएएसआर), बेंगलुरु के शोधकर्ताओं द्वारा नव विकसित सिलिकॉन फोटोनिक चिप का उपयोग करके हासिल की गई अधिकतम डेटा ट्रांसमिशन गति है। यह उपलब्धि टोपोलॉजिकल फोटोनिक्स के माध्यम से संभव हुई, जो टेराहर्ट्ज़ तरंगों को न्यूनतम सिग्नल हानि के साथ डिज़ाइन की गई बाधाओं के आसपास यात्रा करने में मदद करती है। शोधकर्ताओं ने फोटोनिक क्लेन टनलिंग पर आधारित पावर स्प्लिटर का उपयोग करके इस गति का प्रदर्शन किया। प्रौद्योगिकी 310-360 गीगाहर्ट्ज़ फ़्रीक्वेंसी रेंज में काम करती है और भविष्य के 6G नेटवर्क के लिए कॉम्पैक्ट, हाई-स्पीड संचार सर्किट विकसित करने में योगदान दे सकती है। यह अधिक कुशल टेराहर्ट्ज़ सिग्नल ट्रांसमिशन की क्षमता भी प्रदान करता है।"
+      },
+      "gu": {
+        "question": "JNCASR સંશોધકો દ્વારા તેમની નવી વિકસિત ટેરાહર્ટ્ઝ સિલિકોન ફોટોનિક ચિપનો ઉપયોગ કરીને મહત્તમ ડેટા ટ્રાન્સમિશન ઝડપ કેટલી છે?",
+        "options": {
+          "A": "60 Gbps",
+          "B": "100 Gbps",
+          "C": "120 Gbps",
+          "D": "48 જીબીપીએસ"
+        },
+        "explanation": "100 Gbps એ જવાહરલાલ નેહરુ સેન્ટર ફોર એડવાન્સ્ડ સાયન્ટિફિક રિસર્ચ (JNCASR), બેંગલુરુના સંશોધકો દ્વારા નવી વિકસિત સિલિકોન ફોટોનિક ચિપનો ઉપયોગ કરીને પ્રાપ્ત કરાયેલ મહત્તમ ડેટા ટ્રાન્સમિશન સ્પીડ છે. ટોપોલોજીકલ ફોટોનિક્સ દ્વારા આ સિદ્ધિ શક્ય બની હતી, જે ટેરાહર્ટ્ઝ તરંગોને ન્યૂનતમ સિગ્નલ નુકશાન સાથે ડિઝાઇન કરેલા અવરોધોની આસપાસ મુસાફરી કરવામાં મદદ કરે છે. સંશોધકોએ ફોટોનિક ક્લેઈન ટનલીંગ પર આધારિત પાવર સ્પ્લિટરનો ઉપયોગ કરીને આ ઝડપ દર્શાવી હતી. ટેક્નોલોજી 310–360 GHz ફ્રિક્વન્સી રેન્જમાં કાર્ય કરે છે અને ભવિષ્યના 6G નેટવર્ક માટે કોમ્પેક્ટ, હાઇ-સ્પીડ કોમ્યુનિકેશન સર્કિટ વિકસાવવામાં યોગદાન આપી શકે છે. તે વધુ કાર્યક્ષમ ટેરાહર્ટ્ઝ સિગ્નલ ટ્રાન્સમિશન માટે સંભવિત પણ પ્રદાન કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-05-4",
+      "date": "2026-11-05",
+      "qno": 4,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Who has been appointed as the 55th Director General of the Geological Survey of India (GSI)?",
+        "options": {
+          "A": "Ramesh Kumar",
+          "B": "Dinesh V Ganvir",
+          "C": "Ajay Kumar",
+          "D": "Sanjay Kumar"
+        },
+        "explanation": "Dinesh V Ganvir, formerly known as Dinesh Vitthalrao Ganvir, assumed charge as the 55th Director General of the Geological Survey of India (GSI) on November 1, 2026. He joined the GSI in 1994 and previously served as Additional Director General and Head of Department for its Central Region in Nagpur. During his career, he contributed significantly to mineral exploration, including the management of critical mineral blocks and geological reports. His priorities include strengthening exploration of critical and strategic minerals, reducing India's import dependence, developing landslide early warning systems and promoting advanced geoscientific research. The GSI was established in 1851 and is headquartered in Kolkata, West Bengal."
+      },
+      "hi": {
+        "question": "भारतीय भूवैज्ञानिक सर्वेक्षण (जीएसआई) के 55वें महानिदेशक के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "रमेश कुमार",
+          "B": "दिनेश वी गणवीर",
+          "C": "अजय कुमार",
+          "D": "संजय कुमार"
+        },
+        "explanation": "दिनेश वी गणवीर, जिन्हें पहले दिनेश विट्ठलराव गणवीर के नाम से जाना जाता था, ने 1 नवंबर, 2026 को भारतीय भूवैज्ञानिक सर्वेक्षण (जीएसआई) के 55वें महानिदेशक के रूप में कार्यभार संभाला। वह 1994 में जीएसआई में शामिल हुए और पहले नागपुर में इसके मध्य क्षेत्र के लिए अतिरिक्त महानिदेशक और विभाग प्रमुख के रूप में कार्य किया। अपने करियर के दौरान, उन्होंने महत्वपूर्ण खनिज ब्लॉकों और भूवैज्ञानिक रिपोर्टों के प्रबंधन सहित खनिज अन्वेषण में महत्वपूर्ण योगदान दिया। उनकी प्राथमिकताओं में महत्वपूर्ण और रणनीतिक खनिजों की खोज को मजबूत करना, भारत की आयात निर्भरता को कम करना, भूस्खलन की पूर्व चेतावनी प्रणाली विकसित करना और उन्नत भूवैज्ञानिक अनुसंधान को बढ़ावा देना शामिल है। जीएसआई की स्थापना 1851 में हुई थी और इसका मुख्यालय कोलकाता, पश्चिम बंगाल में है।"
+      },
+      "gu": {
+        "question": "જીઓલોજિકલ સર્વે ઓફ ઈન્ડિયા (GSI) ના 55મા મહાનિર્દેશક તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "રમેશ કુમાર",
+          "B": "દિનેશ વી ગણવીર",
+          "C": "અજય કુમાર",
+          "D": "સંજય કુમાર"
+        },
+        "explanation": "દિનેશ વી ગણવીર, અગાઉ દિનેશ વિઠ્ઠલરાવ ગણવીર તરીકે ઓળખાતા હતા, તેમણે 1 નવેમ્બર, 2026 ના રોજ જીઓલોજિકલ સર્વે ઓફ ઈન્ડિયા (GSI) ના 55મા મહાનિર્દેશક તરીકે ચાર્જ સંભાળ્યો હતો. તેઓ 1994 માં GSI માં જોડાયા હતા અને અગાઉ નાગપુરમાં તેના મધ્ય પ્રદેશ માટે વધારાના મહાનિદેશક અને વિભાગના વડા તરીકે સેવા આપી હતી. તેમની કારકિર્દી દરમિયાન, તેમણે મહત્વપૂર્ણ ખનિજ બ્લોક્સના સંચાલન અને ભૂસ્તરશાસ્ત્રીય અહેવાલો સહિત ખનિજ સંશોધનમાં નોંધપાત્ર યોગદાન આપ્યું હતું. તેમની પ્રાથમિકતાઓમાં નિર્ણાયક અને વ્યૂહાત્મક ખનિજોના સંશોધનને મજબૂત બનાવવું, ભારતની આયાત નિર્ભરતામાં ઘટાડો, ભૂસ્ખલન પ્રારંભિક ચેતવણી પ્રણાલી વિકસાવવી અને અદ્યતન ભૂ-વૈજ્ઞાનિક સંશોધનને પ્રોત્સાહન આપવાનો સમાવેશ થાય છે. GSI ની સ્થાપના 1851 માં કરવામાં આવી હતી અને તેનું મુખ્ય મથક કોલકાતા, પશ્ચિમ બંગાળમાં છે."
+      }
+    },
+    {
+      "id": "2026-11-05-5",
+      "date": "2026-11-05",
+      "qno": 5,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Who has been appointed as the 43rd Commandant of the Military College of Electronics and Mechanical Engineering (MCEME), Secunderabad?",
+        "options": {
+          "A": "Lt Gen IS Rathore",
+          "B": "Lt Gen Neeraj Varshney",
+          "C": "Lt Gen Rajiv Ghai",
+          "D": "Lt Gen Anindya Sengupta"
+        },
+        "explanation": "Lt Gen IS Rathore assumed charge as the 43rd Commandant of the Military College of Electronics and Mechanical Engineering (MCEME), Secunderabad, on November 1, 2026. He succeeded Lt Gen Neeraj Varshney, who retired from service on October 31, 2026. Lt Gen IS Rathore is an alumnus of the Indian Military Academy (IMA) and possesses extensive operational and technical experience. MCEME, located in Secunderabad, Telangana, is a premier technical training institution of the Indian Army. It serves as the primary training centre for the Corps of Electronics and Mechanical Engineers (EME) and specialises in maintaining and managing advanced military equipment and electronic systems."
+      },
+      "hi": {
+        "question": "मिलिट्री कॉलेज ऑफ इलेक्ट्रॉनिक्स एंड मैकेनिकल इंजीनियरिंग (एमसीईएमई), सिकंदराबाद के 43वें कमांडेंट के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "लेफ्टिनेंट जनरल आईएस राठौड़",
+          "B": "लेफ्टिनेंट जनरल नीरज वार्ष्णेय",
+          "C": "लेफ्टिनेंट जनरल राजीव घई",
+          "D": "लेफ्टिनेंट जनरल अनिंद्य सेनगुप्ता"
+        },
+        "explanation": "लेफ्टिनेंट जनरल आईएस राठौड़ ने 1 नवंबर, 2026 को मिलिट्री कॉलेज ऑफ इलेक्ट्रॉनिक्स एंड मैकेनिकल इंजीनियरिंग (एमसीईएमई), सिकंदराबाद के 43वें कमांडेंट के रूप में कार्यभार संभाला। उन्होंने लेफ्टिनेंट जनरल नीरज वार्ष्णेय का स्थान लिया, जो 31 अक्टूबर, 2026 को सेवा से सेवानिवृत्त हुए। लेफ्टिनेंट जनरल आईएस राठौड़ भारतीय सैन्य अकादमी (आईएमए) के पूर्व छात्र हैं और उनके पास व्यापक परिचालन और तकनीकी अनुभव है। तेलंगाना के सिकंदराबाद में स्थित MCEME, भारतीय सेना का एक प्रमुख तकनीकी प्रशिक्षण संस्थान है। यह कोर ऑफ इलेक्ट्रॉनिक्स एंड मैकेनिकल इंजीनियर्स (ईएमई) के लिए प्राथमिक प्रशिक्षण केंद्र के रूप में कार्य करता है और उन्नत सैन्य उपकरणों और इलेक्ट्रॉनिक प्रणालियों के रखरखाव और प्रबंधन में माहिर है।"
+      },
+      "gu": {
+        "question": "સિકંદરાબાદની મિલિટરી કોલેજ ઓફ ઈલેક્ટ્રોનિક્સ એન્ડ મિકેનિકલ એન્જિનિયરિંગ (MCEME)ના 43મા કમાન્ડન્ટ તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "લેફ્ટનન્ટ જનરલ આઈએસ રાઠોડ",
+          "B": "લેફ્ટનન્ટ જનરલ નીરજ વાર્શ્નેય",
+          "C": "લેફ્ટનન્ટ જનરલ રાજીવ ઘાઈ",
+          "D": "લેફ્ટનન્ટ જનરલ અનિન્દ્ય સેનગુપ્તા"
+        },
+        "explanation": "લેફ્ટનન્ટ જનરલ છે રાઠોડે 1 નવેમ્બર, 2026ના રોજ મિલિટરી કોલેજ ઓફ ઈલેક્ટ્રોનિક્સ એન્ડ મિકેનિકલ એન્જિનિયરિંગ (MCEME), સિકંદરાબાદના 43મા કમાન્ડન્ટ તરીકેનો ચાર્જ સંભાળ્યો હતો. તેઓ લેફ્ટનન્ટ જનરલ નીરજ વાર્શ્નેયના સ્થાને બન્યા હતા, જેઓ 31 ઓક્ટોબર, 2026ના રોજ સેવામાંથી નિવૃત્ત થયા હતા. લેફ્ટનન્ટ જનરલ રાઠોડે ભારતીય એકેડેમીના મિલિટરી જનરલ છે. (IMA) અને વ્યાપક ઓપરેશનલ અને ટેકનિકલ અનુભવ ધરાવે છે. તેલંગાણાના સિકંદરાબાદમાં સ્થિત MCEME એ ભારતીય સેનાની અગ્રણી ટેકનિકલ તાલીમ સંસ્થા છે. તે કોર્પ્સ ઓફ ઇલેક્ટ્રોનિક્સ એન્ડ મિકેનિકલ એન્જિનિયર્સ (EME) માટે પ્રાથમિક તાલીમ કેન્દ્ર તરીકે સેવા આપે છે અને અદ્યતન લશ્કરી સાધનો અને ઇલેક્ટ્રોનિક સિસ્ટમ્સની જાળવણી અને સંચાલનમાં નિષ્ણાત છે."
+      }
+    },
+    {
+      "id": "2026-11-05-6",
+      "date": "2026-11-05",
       "qno": 6,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state is transforming its Legislative Assembly into a paperless institution under the National e-Vidhan Application (NeVA)?",
+        "options": {
+          "A": "Chhattisgarh",
+          "B": "Jharkhand",
+          "C": "Madhya Pradesh",
+          "D": "Odisha"
+        },
+        "explanation": "Chhattisgarh is transforming its Legislative Assembly into a paperless institution under the National e-Vidhan Application (NeVA), as part of the Union Government's Digital India initiative. The transformation aims to establish a zero-paper e-Chamber within three months. The Chhattisgarh Infotech Promotion Society (CHiPS) will serve as the nodal agency for implementing the project, with technical support from the National Informatics Centre (NIC) and NIC Services Incorporated (NICSI). Tablets and digital devices will be installed at every MLA's desk, enabling electronic access to questions, notices, agendas and other legislative documents. The initiative will improve transparency, efficiency and accessibility."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य राष्ट्रीय ई-विधान एप्लिकेशन (NeVA) के तहत अपनी विधान सभा को कागज रहित संस्थान में बदल रहा है?",
+        "options": {
+          "A": "छत्तीसगढ़",
+          "B": "झारखंड",
+          "C": "मध्य प्रदेश",
+          "D": "ओडिशा"
+        },
+        "explanation": "छत्तीसगढ़ अपनी विधान सभा को केंद्र सरकार_ENG_THEME_TOKEN_0__s डेस्क के हिस्से के रूप में राष्ट्रीय ई-विधान एप्लिकेशन (NeVA) के तहत एक पेपरलेस संस्थान में बदल रहा है, जो प्रश्नों, नोटिस, एजेंडा और अन्य विधायी दस्तावेजों तक इलेक्ट्रॉनिक पहुंच को सक्षम बनाता है। इस पहल से पारदर्शिता, दक्षता और पहुंच में सुधार होगा।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય રાષ્ટ્રીય ઈ-વિધાન એપ્લિકેશન (NeVA) હેઠળ તેની વિધાનસભાને પેપરલેસ સંસ્થામાં પરિવર્તિત કરી રહ્યું છે?",
+        "options": {
+          "A": "છત્તીસગઢ",
+          "B": "ઝારખંડ",
+          "C": "મધ્યપ્રદેશ",
+          "D": "ઓડિશા"
+        },
+        "explanation": "છત્તીસગઢ કેન્દ્ર સરકાર's ડિજિટલ India initiative.  transformation aims ને establish એક zero-paper e-Chamber within three months.  Chhattisgarh Infotech Promotion Society (CHiPS) થશે serve as  nodal agency માટે implementing  પરિયોજના, સાથે technical support થી  રાષ્ટ્રીય Informatics Centre (NIC) અને NIC Services Incorporated (NICSI). Tablets અને ડિજિટલ devices થશે be installed પર every MLA'ના ડેસ્કના ભાગ રૂપે, પ્રશ્નો, સૂચનાઓ, એજન્ડા અને અન્ય કાયદાકીય દસ્તાવેજોની ઇલેક્ટ્રોનિક ઍક્સેસને સક્ષમ કરીને રાષ્ટ્રીય ઇ-વિધાન એપ્લિકેશન (NeVA) હેઠળ તેની વિધાનસભાને પેપરલેસ સંસ્થામાં પરિવર્તિત કરી રહ્યું છે. આ પહેલ પારદર્શિતા, કાર્યક્ષમતા અને સુલભતામાં સુધારો કરશે."
+      }
+    },
+    {
+      "id": "2026-11-05-7",
+      "date": "2026-11-05",
+      "qno": 7,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the Sharjah Award for Best International Non-Fiction Book for The Tamils: A Portrait of a Community?",
+        "options": {
+          "A": "Meena Kandasamy",
+          "B": "Sudha Murty",
+          "C": "Arundhati Roy",
+          "D": "Nirmala Lakshman"
+        },
+        "explanation": "Nirmala Lakshman, an Indian author, journalist and Director of The Hindu Group, won the Sharjah Award for Best International Non-Fiction Book for her book The Tamils: A Portrait of a Community. The award was presented on November 4, 2026, by Sheikha Bodour bint Sultan Al Qasimi, Chairperson of the Sharjah Book Authority. Published by Aleph Book Company in January 2025, the book explores the history, society, literature, politics, religion, art and cultural identity of the Tamil community across centuries. The award recognises outstanding contributions to international non-fiction literature."
+      },
+      "hi": {
+        "question": "द तमिल्स: ए पोर्ट्रेट ऑफ ए कम्युनिटी के लिए सर्वश्रेष्ठ अंतर्राष्ट्रीय नॉन-फिक्शन पुस्तक का शारजाह पुरस्कार किसने जीता?",
+        "options": {
+          "A": "मीना कंडासामी",
+          "B": "सुधा मूर्ति",
+          "C": "अरुंधति रॉय",
+          "D": "निर्मला लक्ष्मण"
+        },
+        "explanation": "भारतीय लेखिका, पत्रकार और द हिंदू ग्रुप की निदेशक निर्मला लक्ष्मण ने अपनी पुस्तक द तमिल्स: ए पोर्ट्रेट ऑफ ए कम्युनिटी के लिए सर्वश्रेष्ठ अंतर्राष्ट्रीय नॉन-फिक्शन पुस्तक का शारजाह पुरस्कार जीता। यह पुरस्कार 4 नवंबर, 2026 को शारजाह पुस्तक प्राधिकरण की अध्यक्ष शेखा बोदौर बिन्त सुल्तान अल कासिमी द्वारा प्रदान किया गया। जनवरी 2025 में एलेफ़ बुक कंपनी द्वारा प्रकाशित, यह पुस्तक सदियों से तमिल समुदाय के इतिहास, समाज, साहित्य, राजनीति, धर्म, कला और सांस्कृतिक पहचान की पड़ताल करती है। यह पुरस्कार अंतरराष्ट्रीय गैर-काल्पनिक साहित्य में उत्कृष्ट योगदान को मान्यता देता है।"
+      },
+      "gu": {
+        "question": "ધ તમિલ્સ: અ પોટ્રેટ ઓફ અ કોમ્યુનિટી માટે શ્રેષ્ઠ આંતરરાષ્ટ્રીય નોન-ફિક્શન બુક માટે શારજાહ એવોર્ડ કોણે જીત્યો?",
+        "options": {
+          "A": "મીના કંડાસામી",
+          "B": "સુધા મૂર્તિ",
+          "C": "અરુંધતી રોય",
+          "D": "નિર્મલા લક્ષ્મણ"
+        },
+        "explanation": "નિર્મલા લક્ષ્મણ, ભારતીય લેખિકા, પત્રકાર અને ધ હિંદુ ગ્રૂપના નિર્દેશક, તેમના પુસ્તક ધ તમિલ્સઃ અ પોટ્રેટ ઓફ અ કોમ્યુનિટી માટે શ્રેષ્ઠ આંતરરાષ્ટ્રીય નોન-ફિક્શન પુસ્તકનો શારજાહ એવોર્ડ જીત્યો. આ પુરસ્કાર 4 નવેમ્બર, 2026 ના રોજ શારજાહ બુક ઓથોરિટીના ચેરપર્સન શેખા બોદૌર બિન્ત સુલતાન અલ કાસિમી દ્વારા આપવામાં આવ્યો હતો. જાન્યુઆરી 2025 માં એલેફ બુક કંપની દ્વારા પ્રકાશિત, પુસ્તક સદીઓથી તમિલ સમુદાયના ઇતિહાસ, સમાજ, સાહિત્ય, રાજકારણ, ધર્મ, કલા અને સાંસ્કૃતિક ઓળખની શોધ કરે છે. આ એવોર્ડ આંતરરાષ્ટ્રીય નોન-ફિક્શન સાહિત્યમાં ઉત્કૃષ્ટ યોગદાનને માન્યતા આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-05-8",
+      "date": "2026-11-05",
+      "qno": 8,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Tsunami Awareness Day observed annually?",
+        "options": {
+          "A": "November 5",
+          "B": "December 22",
+          "C": "October 13",
+          "D": "March 11"
+        },
+        "explanation": "November 5 is observed every year as World Tsunami Awareness Day to promote global awareness of tsunami risks and strengthen disaster preparedness, particularly in coastal communities. The United Nations General Assembly officially designated this day on December 22, 2015. The date was inspired by the Japanese story of Inamura-no-hi, in which a villager used burning rice sheaves to warn people about an approaching tsunami in 1854. The day encourages individuals and communities to recognise natural tsunami warning signs, understand evacuation procedures, strengthen early warning systems and take timely action to minimise loss of life and property."
+      },
+      "hi": {
+        "question": "विश्व सुनामी जागरूकता दिवस प्रतिवर्ष कब मनाया जाता है?",
+        "options": {
+          "A": "5 नवंबर",
+          "B": "22 दिसंबर",
+          "C": "13 अक्टूबर",
+          "D": "11 मार्च"
+        },
+        "explanation": "सुनामी के खतरों के बारे में वैश्विक जागरूकता को बढ़ावा देने और विशेष रूप से तटीय समुदायों में आपदा तैयारियों को मजबूत करने के लिए हर साल 5 नवंबर को विश्व सुनामी जागरूकता दिवस के रूप में मनाया जाता है। संयुक्त राष्ट्र महासभा ने आधिकारिक तौर पर 22 दिसंबर 2015 को इस दिन को नामित किया था। यह तारीख इनामुरा-नो-हाय की जापानी कहानी से प्रेरित थी, जिसमें एक ग्रामीण ने 1854 में आने वाली सुनामी के बारे में लोगों को चेतावनी देने के लिए चावल के ढेर जलाए थे। यह दिन व्यक्तियों और समुदायों को प्राकृतिक सुनामी चेतावनी संकेतों को पहचानने, निकासी प्रक्रियाओं को समझने, प्रारंभिक चेतावनी प्रणालियों को मजबूत करने और जीवन और संपत्ति के नुकसान को कम करने के लिए समय पर कार्रवाई करने के लिए प्रोत्साहित करता है।"
+      },
+      "gu": {
+        "question": "વિશ્વ સુનામી જાગૃતિ દિવસ દર વર્ષે ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "5 નવેમ્બર",
+          "B": "22 ડિસેમ્બર",
+          "C": "ઓક્ટોબર 13",
+          "D": "માર્ચ 11"
+        },
+        "explanation": "સુનામીના જોખમો અંગે વૈશ્વિક જાગૃતિને પ્રોત્સાહન આપવા અને ખાસ કરીને દરિયાકાંઠાના સમુદાયોમાં આપત્તિની તૈયારીને મજબૂત કરવા દર વર્ષે 5 નવેમ્બરને વિશ્વ સુનામી જાગૃતિ દિવસ તરીકે મનાવવામાં આવે છે. યુનાઇટેડ નેશન્સ જનરલ એસેમ્બલીએ આ દિવસને 22 ડિસેમ્બર, 2015ના રોજ સત્તાવાર રીતે નિયુક્ત કર્યો હતો. આ તારીખ ઇનામુરા-નો-હીની જાપાની વાર્તાથી પ્રેરિત હતી, જેમાં 1854માં નજીક આવી રહેલી સુનામી વિશે લોકોને ચેતવણી આપવા માટે એક ગ્રામીણ સળગતા ચોખાનો ઉપયોગ કરે છે. આ દિવસ વ્યક્તિઓ અને સમુદાયોને પ્રાકૃતિક સુનામી, યુદ્ધ પ્રણાલીને મજબૂત કરવા અને યુદ્ધની પ્રક્રિયાને મજબૂત કરવા માટે પ્રોત્સાહિત કરે છે. જીવન અને સંપત્તિના નુકસાનને ઘટાડવા માટે સમયસર પગલાં લો."
+      }
+    },
+    {
+      "id": "2026-11-05-9",
+      "date": "2026-11-05",
+      "qno": 9,
+      "answer": "C",
+      "category": "International",
+      "en": {
+        "question": "With which country has India extended a USD 500 million Line of Credit for roads, healthcare and defence projects?",
+        "options": {
+          "A": "Suriname",
+          "B": "Jamaica",
+          "C": "Guyana",
+          "D": "Trinidad and Tobago"
+        },
+        "explanation": "Guyana is the country to which India has extended a USD 500 million Line of Credit to support development projects in roads, healthcare and defence. The announcement was made by External Affairs Minister S. Jaishankar during his meeting with Guyana's President Dr Irfaan Ali on the sidelines of the Commonwealth Heads of Government Meeting. The two countries also discussed cooperation in Digital Public Infrastructure, including the functioning of a UPI-like digital payment system. Their agreements cover manufacturing projects, Quick Impact Projects and development assistance, further strengthening India's bilateral partnership with Guyana."
+      },
+      "hi": {
+        "question": "भारत ने किस देश के साथ सड़क, स्वास्थ्य देखभाल और रक्षा परियोजनाओं के लिए 500 मिलियन अमेरिकी डॉलर की ऋण सुविधा प्रदान की है?",
+        "options": {
+          "A": "सूरीनाम",
+          "B": "जमैका",
+          "C": "गुयाना",
+          "D": "त्रिनिदाद और टोबैगो"
+        },
+        "explanation": "गुयाना वह देश है जिसे भारत ने सड़क, स्वास्थ्य सेवा और रक्षा में विकास परियोजनाओं का समर्थन करने के लिए 500 मिलियन अमेरिकी डॉलर की ऋण सुविधा प्रदान की है। यह घोषणा विदेश मंत्री एस जयशंकर ने गुयाना के साथ अपनी द्विपक्षीय साझेदारी के दौरान गुयाना_ENG_THEME_TOKEN_0__ की बैठक के दौरान की।"
+      },
+      "gu": {
+        "question": "રોડ, હેલ્થકેર અને ડિફેન્સ પ્રોજેક્ટ્સ માટે ભારતે કયા દેશ સાથે USD 500 મિલિયનની ક્રેડિટ લાઈન ઑફ કરી છે?",
+        "options": {
+          "A": "સુરીનામ",
+          "B": "જમૈકા",
+          "C": "ગયાના",
+          "D": "ત્રિનિદાદ અને ટોબેગો"
+        },
+        "explanation": "ગયાના એ એવો દેશ છે કે જ્યાં ભારતે રસ્તાઓ, આરોગ્યસંભાળ અને સંરક્ષણ ક્ષેત્રે વિકાસના પ્રોજેક્ટોને સમર્થન આપવા માટે USD 500 મિલિયનની ક્રેડિટ લાઈન વિસ્તરી છે. આ જાહેરાત વિદેશ મંત્રી એસ. જયશંકરે ગુયાના સાથેની દ્વિપક્ષીય ભાગીદારી's રાષ્ટ્રપતિ Dr Irfaan Ali પર  sidelines નું  Commonwealth Heads નું સરકાર Meeting.  two countries પણ discussed cooperation માં ડિજિટલ Public Infrastructure, including  functioning નું એક UPI-like ડિજિટલ payment system. Their agreements cover manufacturing projects, Quick Impact Projects અને development assistance, further strengthening India'ની મુલાકાત દરમિયાન કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-05-10",
+      "date": "2026-11-05",
+      "qno": 10,
+      "answer": "D",
+      "category": "Banking",
+      "en": {
+        "question": "Which Japanese bank acquired a minority stake in India's asset management firm One Planet Partners?",
+        "options": {
+          "A": "Mitsubishi UFJ Financial Group",
+          "B": "Mizuho Bank",
+          "C": "Japan Post Bank",
+          "D": "Sumitomo Mitsui Trust Bank"
+        },
+        "explanation": "Sumitomo Mitsui Trust Bank, a major Japanese financial institution, acquired a minority stake in India's asset management firm One Planet Partners (OPP) on November 2, 2026. This strategic investment aims to strengthen Japanese participation in India's growing industrial sectors. The partnership will support the launch of OPP's first private equity fund, targeting investments of over ₹3,000 crore. The fund will focus on three major sectors: energy transition projects, manufacturing initiatives and mobility solutions. Its first close is scheduled for 2027. The collaboration also includes establishing a Separately Managed Account (SMA) to facilitate investments in promising growth companies."
+      },
+      "hi": {
+        "question": "किस जापानी बैंक ने भारत की परिसंपत्ति प्रबंधन फर्म वन प्लैनेट पार्टनर्स में अल्पमत हिस्सेदारी हासिल की?",
+        "options": {
+          "A": "मित्सुबिशी यूएफजे वित्तीय समूह",
+          "B": "मिज़ुहो बैंक",
+          "C": "जापान पोस्ट बैंक",
+          "D": "सुमितोमो मित्सुई ट्रस्ट बैंक"
+        },
+        "explanation": "एक प्रमुख जापानी वित्तीय संस्थान, सुमितोमो मित्सुई ट्रस्ट बैंक ने भारत's asset management firm One Planet Partners (OPP) पर November 2, 2026. यह strategic investment aims को strengthen Japanese participation में India' के बढ़ते औद्योगिक क्षेत्रों में अल्पमत हिस्सेदारी हासिल कर ली है। यह साझेदारी ओपीपी के पहले निजी इक्विटी फंड के लॉन्च का समर्थन करेगी, जिसका लक्ष्य ₹3,000 करोड़ से अधिक का निवेश होगा। यह फंड तीन प्रमुख क्षेत्रों पर ध्यान केंद्रित करेगा: ऊर्जा संक्रमण परियोजनाएं, विनिर्माण पहल और गतिशीलता समाधान। इसका पहला समापन 2027 के लिए निर्धारित है। सहयोग में आशाजनक विकास कंपनियों में निवेश की सुविधा के लिए एक अलग से प्रबंधित खाता (एसएमए) स्थापित करना भी शामिल है।"
+      },
+      "gu": {
+        "question": "કઈ જાપાનીઝ બેંકે ભારતની એસેટ મેનેજમેન્ટ ફર્મ વન પ્લેનેટ પાર્ટનર્સનો લઘુમતી હિસ્સો હસ્તગત કર્યો?",
+        "options": {
+          "A": "મિત્સુબિશી UFJ નાણાકીય જૂથ",
+          "B": "મિઝુહો બેંક",
+          "C": "જાપાન પોસ્ટ બેંક",
+          "D": "સુમિતોમો મિત્સુઇ ટ્રસ્ટ બેંક"
+        },
+        "explanation": "સુમિતોમો મિત્સુઇ ટ્રસ્ટ બેંક, એક મોટી જાપાનીઝ નાણાકીય સંસ્થા, એ ભારતના વિકસતા ઔદ્યોગિક ક્ષેત્રોમાં લઘુમતી હિસ્સો હસ્તગત કર્યો. આ ભાગીદારી ₹3,000 કરોડથી વધુના રોકાણને લક્ષ્યાંક બનાવીને OPPના પ્રથમ પ્રાઈવેટ ઈક્વિટી ફંડના લોન્ચને સમર્થન આપશે. ફંડ ત્રણ મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરશે: ઊર્જા સંક્રમણ પ્રોજેક્ટ્સ, ઉત્પાદન પહેલ અને ગતિશીલતા ઉકેલો. તેનું પ્રથમ બંધ 2027 માટે સુનિશ્ચિત થયેલ છે. આ સહયોગમાં આશાસ્પદ વૃદ્ધિ કરતી કંપનીઓમાં રોકાણની સુવિધા આપવા માટે અલગથી મેનેજ્ડ એકાઉન્ટ (SMA) ની સ્થાપનાનો પણ સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-11-01-1",
+      "date": "2026-11-01",
+      "qno": 1,
       "answer": "B",
       "category": "Persons",
       "en": {
@@ -62491,9 +63011,157 @@
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 2,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
+        "options": {
+          "A": "Nasscom",
+          "B": "FICCI",
+          "C": "ASSOCHAM",
+          "D": "CII"
+        },
+        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
+      },
+      "hi": {
+        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
+        "options": {
+          "A": "नैसकॉम",
+          "B": "फिक्की",
+          "C": "एसोचैम",
+          "D": "सीआईआई"
+        },
+        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
+      },
+      "gu": {
+        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
+        "options": {
+          "A": "નાસકોમ",
+          "B": "ફિક્કી",
+          "C": "એસોચેમ",
+          "D": "CII"
+        },
+        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-3",
+      "date": "2026-11-01",
+      "qno": 3,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "options": {
+          "A": "Samudra",
+          "B": "Srishti",
+          "C": "Samarth",
+          "D": "Saksham"
+        },
+        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+      },
+      "hi": {
+        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "options": {
+          "A": "समुद्र",
+          "B": "सृष्टि",
+          "C": "समर्थ",
+          "D": "सक्षम"
+        },
+        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+      },
+      "gu": {
+        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સમુદ્ર",
+          "B": "સૃષ્ટિ",
+          "C": "સમર્થ",
+          "D": "સક્ષમ"
+        },
+        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-01-4",
+      "date": "2026-11-01",
+      "qno": 4,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
+      "answer": "C",
+      "category": "Festivity",
+      "en": {
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
       "answer": "A",
       "category": "National",
       "en": {
@@ -62528,9 +63196,83 @@
       }
     },
     {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+      }
+    },
+    {
       "id": "2026-10-18-1",
       "date": "2026-10-18",
       "qno": 1,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Which Indian state will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026?",
+        "options": {
+          "A": "West Bengal",
+          "B": "Maharashtra",
+          "C": "Kerala",
+          "D": "Goa"
+        },
+        "explanation": "West Bengal will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026, in Kolkata. The match is scheduled to take place at the Vivekananda Yuba Bharati Krirangan, popularly known as Salt Lake Stadium. The event was announced by West Bengal Sports Minister Indranil Khan and is expected to feature renowned former footballers, including Luis Figo, Carles Puyol, and Iker Casillas. This will be the second meeting between the legends of these two Spanish clubs in India, following their 2025 exhibition match at Mumbai’s DY Patil Stadium, where Real Madrid won 2–0. Salt Lake Stadium has hosted several major international football events."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय राज्य 25 नवंबर, 2026 को बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा?",
+        "options": {
+          "A": "पश्चिम बंगाल",
+          "B": "महाराष्ट्र",
+          "C": "केरल",
+          "D": "गोवा"
+        },
+        "explanation": "पश्चिम बंगाल 25 नवंबर, 2026 को कोलकाता में बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा। यह मैच विवेकानंद युवा भारती क्रीड़ांगन में होने वाला है, जिसे साल्ट लेक स्टेडियम के नाम से जाना जाता है। इस आयोजन की घोषणा पश्चिम बंगाल के खेल मंत्री इंद्रनील खान ने की थी और इसमें लुइस फिगो, कार्ल्स पुयोल और इकर कैसिलस सहित प्रसिद्ध पूर्व फुटबॉल खिलाड़ियों के शामिल होने की उम्मीद है। मुंबई के डीवाई पाटिल स्टेडियम में 2025 के प्रदर्शनी मैच के बाद, भारत में इन दो स्पेनिश क्लबों के दिग्गजों के बीच यह दूसरी बैठक होगी, जहां रियल मैड्रिड ने 2-0 से जीत हासिल की थी। साल्ट लेक स्टेडियम ने कई प्रमुख अंतरराष्ट्रीय फुटबॉल आयोजनों की मेजबानी की है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય રાજ્ય 25 નવેમ્બર, 2026 ના રોજ બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે?",
+        "options": {
+          "A": "પશ્ચિમ બંગાળ",
+          "B": "મહારાષ્ટ્ર",
+          "C": "કેરળ",
+          "D": "ગોવા"
+        },
+        "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
+      }
+    },
+    {
+      "id": "2026-10-18-2",
+      "date": "2026-10-18",
+      "qno": 2,
       "answer": "A",
       "category": "Defence",
       "en": {
@@ -62562,43 +63304,6 @@
           "D": "INS ત્રિકાંડ"
         },
         "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
-      }
-    },
-    {
-      "id": "2026-10-18-2",
-      "date": "2026-10-18",
-      "qno": 2,
-      "answer": "C",
-      "category": "State",
-      "en": {
-        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
-        "options": {
-          "A": "Manipur",
-          "B": "Mizoram",
-          "C": "Nagaland",
-          "D": "Meghalaya"
-        },
-        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
-      },
-      "hi": {
-        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
-        "options": {
-          "A": "मणिपुर",
-          "B": "मिजोरम",
-          "C": "नागालैंड",
-          "D": "मेघालय"
-        },
-        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
-      },
-      "gu": {
-        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
-        "options": {
-          "A": "મણિપુર",
-          "B": "મિઝોરમ",
-          "C": "નાગાલેન્ડ",
-          "D": "મેઘાલય"
-        },
-        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
       }
     },
     {
@@ -62679,37 +63384,37 @@
       "id": "2026-10-18-5",
       "date": "2026-10-18",
       "qno": 5,
-      "answer": "A",
-      "category": "Sports",
+      "answer": "C",
+      "category": "State",
       "en": {
-        "question": "Which Indian state will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026?",
+        "question": "Which Indian state will host the 27th Hornbill Festival from December 1 to 10, 2026?",
         "options": {
-          "A": "West Bengal",
-          "B": "Maharashtra",
-          "C": "Kerala",
-          "D": "Goa"
+          "A": "Manipur",
+          "B": "Mizoram",
+          "C": "Nagaland",
+          "D": "Meghalaya"
         },
-        "explanation": "West Bengal will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026, in Kolkata. The match is scheduled to take place at the Vivekananda Yuba Bharati Krirangan, popularly known as Salt Lake Stadium. The event was announced by West Bengal Sports Minister Indranil Khan and is expected to feature renowned former footballers, including Luis Figo, Carles Puyol, and Iker Casillas. This will be the second meeting between the legends of these two Spanish clubs in India, following their 2025 exhibition match at Mumbai’s DY Patil Stadium, where Real Madrid won 2–0. Salt Lake Stadium has hosted several major international football events."
+        "explanation": "Nagaland will host the 27th Hornbill Festival from December 1 to 10, 2026, at the Naga Heritage Village in Kisama, approximately 12 km from the state capital, Kohima. Popularly known as the “Festival of Festivals,” the event celebrates the rich cultural heritage, traditions, and diversity of Nagaland’s tribal communities. It brings together all 17 major Naga tribes and various sub-tribes, featuring traditional performances, indigenous games, exhibitions, and more than 300 events. The festival begins on December 1, which also marks Nagaland Statehood Day. Nagaland became the 16th state of the Indian Union on December 1, 1963."
       },
       "hi": {
-        "question": "कौन सा भारतीय राज्य 25 नवंबर, 2026 को बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा?",
+        "question": "कौन सा भारतीय राज्य 1 से 10 दिसंबर, 2026 तक 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा?",
         "options": {
-          "A": "पश्चिम बंगाल",
-          "B": "महाराष्ट्र",
-          "C": "केरल",
-          "D": "गोवा"
+          "A": "मणिपुर",
+          "B": "मिजोरम",
+          "C": "नागालैंड",
+          "D": "मेघालय"
         },
-        "explanation": "पश्चिम बंगाल 25 नवंबर, 2026 को कोलकाता में बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा। यह मैच विवेकानंद युवा भारती क्रीड़ांगन में होने वाला है, जिसे साल्ट लेक स्टेडियम के नाम से जाना जाता है। इस आयोजन की घोषणा पश्चिम बंगाल के खेल मंत्री इंद्रनील खान ने की थी और इसमें लुइस फिगो, कार्ल्स पुयोल और इकर कैसिलस सहित प्रसिद्ध पूर्व फुटबॉल खिलाड़ियों के शामिल होने की उम्मीद है। मुंबई के डीवाई पाटिल स्टेडियम में 2025 के प्रदर्शनी मैच के बाद, भारत में इन दो स्पेनिश क्लबों के दिग्गजों के बीच यह दूसरी बैठक होगी, जहां रियल मैड्रिड ने 2-0 से जीत हासिल की थी। साल्ट लेक स्टेडियम ने कई प्रमुख अंतरराष्ट्रीय फुटबॉल आयोजनों की मेजबानी की है।"
+        "explanation": "नागालैंड 1 से 10 दिसंबर, 2026 तक राज्य की राजधानी कोहिमा से लगभग 12 किमी दूर किसामा के नागा हेरिटेज विलेज में 27वें हॉर्नबिल महोत्सव की मेजबानी करेगा। लोकप्रिय रूप से \"त्योहारों के त्योहार\" के रूप में जाना जाने वाला यह कार्यक्रम नागालैंड के आदिवासी समुदायों की समृद्ध सांस्कृतिक विरासत, परंपराओं और विविधता का जश्न मनाता है। यह सभी 17 प्रमुख नागा जनजातियों और विभिन्न उप-जनजातियों को एक साथ लाता है, जिसमें पारंपरिक प्रदर्शन, स्वदेशी खेल, प्रदर्शनियाँ और 300 से अधिक कार्यक्रम शामिल होते हैं। यह त्यौहार 1 दिसंबर से शुरू होता है, जो नागालैंड राज्य दिवस का भी प्रतीक है। 1 दिसंबर 1963 को नागालैंड भारतीय संघ का 16वां राज्य बना।"
       },
       "gu": {
-        "question": "કયું ભારતીય રાજ્ય 25 નવેમ્બર, 2026 ના રોજ બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે?",
+        "question": "કયું ભારતીય રાજ્ય 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27માં હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે?",
         "options": {
-          "A": "પશ્ચિમ બંગાળ",
-          "B": "મહારાષ્ટ્ર",
-          "C": "કેરળ",
-          "D": "ગોવા"
+          "A": "મણિપુર",
+          "B": "મિઝોરમ",
+          "C": "નાગાલેન્ડ",
+          "D": "મેઘાલય"
         },
-        "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
+        "explanation": "નાગાલેન્ડ રાજ્યની રાજધાની કોહિમાથી આશરે 12 કિમી દૂર કિસામાના નાગા હેરિટેજ વિલેજમાં 1 થી 10 ડિસેમ્બર, 2026 દરમિયાન 27મા હોર્નબિલ ફેસ્ટિવલનું આયોજન કરશે. \"તહેવારોના ઉત્સવ\" તરીકે પ્રખ્યાત આ પ્રસંગ નાગાલેન્ડના આદિવાસી સમુદાયોની સમૃદ્ધ સાંસ્કૃતિક વારસો, પરંપરાઓ અને વિવિધતાની ઉજવણી કરે છે. તે તમામ 17 મુખ્ય નાગા જાતિઓ અને વિવિધ પેટા-જનજાતિઓને એકસાથે લાવે છે, જેમાં પરંપરાગત પ્રદર્શન, સ્વદેશી રમતો, પ્રદર્શનો અને 300 થી વધુ ઇવેન્ટ્સ છે. આ ઉત્સવ 1 ડિસેમ્બરથી શરૂ થાય છે, જે નાગાલેન્ડ રાજ્યનો દિવસ પણ ઉજવે છે. નાગાલેન્ડ 1 ડિસેમ્બર, 1963ના રોજ ભારતીય સંઘનું 16મું રાજ્ય બન્યું."
       }
     }
   ]
