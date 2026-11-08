@@ -62977,191 +62977,6 @@
       "id": "2026-11-01-1",
       "date": "2026-11-01",
       "qno": 1,
-      "answer": "B",
-      "category": "Persons",
-      "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
-        "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
-        },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
-      },
-      "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
-        "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
-        },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
-      },
-      "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
-        "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
-        },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
-      }
-    },
-    {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
-      "qno": 2,
-      "answer": "D",
-      "category": "International",
-      "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
-        "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
-        },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
-      },
-      "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
-        "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
-        },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
-      },
-      "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
-        "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
-        },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-3",
-      "date": "2026-11-01",
-      "qno": 3,
-      "answer": "A",
-      "category": "Business",
-      "en": {
-        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
-        "options": {
-          "A": "Nasscom",
-          "B": "FICCI",
-          "C": "ASSOCHAM",
-          "D": "CII"
-        },
-        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
-      },
-      "hi": {
-        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
-        "options": {
-          "A": "नैसकॉम",
-          "B": "फिक्की",
-          "C": "एसोचैम",
-          "D": "सीआईआई"
-        },
-        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
-      },
-      "gu": {
-        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
-        "options": {
-          "A": "નાસકોમ",
-          "B": "ફિક્કી",
-          "C": "એસોચેમ",
-          "D": "CII"
-        },
-        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
-        "options": {
-          "A": "Samudra",
-          "B": "Srishti",
-          "C": "Samarth",
-          "D": "Saksham"
-        },
-        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
-      },
-      "hi": {
-        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
-        "options": {
-          "A": "समुद्र",
-          "B": "सृष्टि",
-          "C": "समर्थ",
-          "D": "सक्षम"
-        },
-        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
-      },
-      "gu": {
-        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
-        "options": {
-          "A": "સમુદ્ર",
-          "B": "સૃષ્ટિ",
-          "C": "સમર્થ",
-          "D": "સક્ષમ"
-        },
-        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
-      }
-    },
-    {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
-      "qno": 5,
-      "answer": "C",
-      "category": "Festivity",
-      "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
-        },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
-        },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
-      },
-      "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
-        },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
-      }
-    },
-    {
-      "id": "2026-11-01-6",
-      "date": "2026-11-01",
-      "qno": 6,
       "answer": "C",
       "category": "Economy",
       "en": {
@@ -63196,9 +63011,9 @@
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 2,
       "answer": "A",
       "category": "National",
       "en": {
@@ -63230,6 +63045,191 @@
           "D": "ઑક્ટોબર 31, 2026"
         },
         "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-3",
+      "date": "2026-11-01",
+      "qno": 3,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-4",
+      "date": "2026-11-01",
+      "qno": 4,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
+        "options": {
+          "A": "Nasscom",
+          "B": "FICCI",
+          "C": "ASSOCHAM",
+          "D": "CII"
+        },
+        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
+      },
+      "hi": {
+        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
+        "options": {
+          "A": "नैसकॉम",
+          "B": "फिक्की",
+          "C": "एसोचैम",
+          "D": "सीआईआई"
+        },
+        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
+      },
+      "gu": {
+        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
+        "options": {
+          "A": "નાસકોમ",
+          "B": "ફિક્કી",
+          "C": "એસોચેમ",
+          "D": "CII"
+        },
+        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
+        "options": {
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
+        },
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
+      },
+      "hi": {
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
+        "options": {
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
+        },
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
+      },
+      "gu": {
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
+        "options": {
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
+        },
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "options": {
+          "A": "Samudra",
+          "B": "Srishti",
+          "C": "Samarth",
+          "D": "Saksham"
+        },
+        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+      },
+      "hi": {
+        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "options": {
+          "A": "समुद्र",
+          "B": "सृष्टि",
+          "C": "समर्थ",
+          "D": "सक्षम"
+        },
+        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+      },
+      "gu": {
+        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સમુદ્ર",
+          "B": "સૃષ્ટિ",
+          "C": "સમર્થ",
+          "D": "સક્ષમ"
+        },
+        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "C",
+      "category": "Festivity",
+      "en": {
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
       }
     },
     {
@@ -63274,36 +63274,36 @@
       "date": "2026-10-18",
       "qno": 2,
       "answer": "A",
-      "category": "Defence",
+      "category": "Sports",
       "en": {
-        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "question": "Which Indian state will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026?",
         "options": {
-          "A": "INS Tarkash",
-          "B": "INS Talwar",
-          "C": "INS Shivalik",
-          "D": "INS Trikand"
+          "A": "West Bengal",
+          "B": "Maharashtra",
+          "C": "Kerala",
+          "D": "Goa"
         },
-        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+        "explanation": "West Bengal will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026, in Kolkata. The match is scheduled to take place at the Vivekananda Yuba Bharati Krirangan, popularly known as Salt Lake Stadium. The event was announced by West Bengal Sports Minister Indranil Khan and is expected to feature renowned former footballers, including Luis Figo, Carles Puyol, and Iker Casillas. This will be the second meeting between the legends of these two Spanish clubs in India, following their 2025 exhibition match at Mumbai’s DY Patil Stadium, where Real Madrid won 2–0. Salt Lake Stadium has hosted several major international football events."
       },
       "hi": {
-        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "question": "कौन सा भारतीय राज्य 25 नवंबर, 2026 को बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा?",
         "options": {
-          "A": "आईएनएस तरकश",
-          "B": "आईएनएस तलवार",
-          "C": "आईएनएस शिवालिक",
-          "D": "आईएनएस त्रिकांड"
+          "A": "पश्चिम बंगाल",
+          "B": "महाराष्ट्र",
+          "C": "केरल",
+          "D": "गोवा"
         },
-        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+        "explanation": "पश्चिम बंगाल 25 नवंबर, 2026 को कोलकाता में बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा। यह मैच विवेकानंद युवा भारती क्रीड़ांगन में होने वाला है, जिसे साल्ट लेक स्टेडियम के नाम से जाना जाता है। इस आयोजन की घोषणा पश्चिम बंगाल के खेल मंत्री इंद्रनील खान ने की थी और इसमें लुइस फिगो, कार्ल्स पुयोल और इकर कैसिलस सहित प्रसिद्ध पूर्व फुटबॉल खिलाड़ियों के शामिल होने की उम्मीद है। मुंबई के डीवाई पाटिल स्टेडियम में 2025 के प्रदर्शनी मैच के बाद, भारत में इन दो स्पेनिश क्लबों के दिग्गजों के बीच यह दूसरी बैठक होगी, जहां रियल मैड्रिड ने 2-0 से जीत हासिल की थी। साल्ट लेक स्टेडियम ने कई प्रमुख अंतरराष्ट्रीय फुटबॉल आयोजनों की मेजबानी की है।"
       },
       "gu": {
-        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "question": "કયું ભારતીય રાજ્ય 25 નવેમ્બર, 2026 ના રોજ બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે?",
         "options": {
-          "A": "INS તારકશ",
-          "B": "INS તલવાર",
-          "C": "INS શિવાલિક",
-          "D": "INS ત્રિકાંડ"
+          "A": "પશ્ચિમ બંગાળ",
+          "B": "મહારાષ્ટ્ર",
+          "C": "કેરળ",
+          "D": "ગોવા"
         },
-        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
+        "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
       }
     },
     {
@@ -63347,43 +63347,6 @@
       "id": "2026-10-18-4",
       "date": "2026-10-18",
       "qno": 4,
-      "answer": "A",
-      "category": "Sports",
-      "en": {
-        "question": "Which Indian state will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026?",
-        "options": {
-          "A": "West Bengal",
-          "B": "Maharashtra",
-          "C": "Kerala",
-          "D": "Goa"
-        },
-        "explanation": "West Bengal will host the El Clasico Legends exhibition match between Barcelona and Real Madrid on November 25, 2026, in Kolkata. The match is scheduled to take place at the Vivekananda Yuba Bharati Krirangan, popularly known as Salt Lake Stadium. The event was announced by West Bengal Sports Minister Indranil Khan and is expected to feature renowned former footballers, including Luis Figo, Carles Puyol, and Iker Casillas. This will be the second meeting between the legends of these two Spanish clubs in India, following their 2025 exhibition match at Mumbai’s DY Patil Stadium, where Real Madrid won 2–0. Salt Lake Stadium has hosted several major international football events."
-      },
-      "hi": {
-        "question": "कौन सा भारतीय राज्य 25 नवंबर, 2026 को बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा?",
-        "options": {
-          "A": "पश्चिम बंगाल",
-          "B": "महाराष्ट्र",
-          "C": "केरल",
-          "D": "गोवा"
-        },
-        "explanation": "पश्चिम बंगाल 25 नवंबर, 2026 को कोलकाता में बार्सिलोना और रियल मैड्रिड के बीच एल क्लासिको लीजेंड्स प्रदर्शनी मैच की मेजबानी करेगा। यह मैच विवेकानंद युवा भारती क्रीड़ांगन में होने वाला है, जिसे साल्ट लेक स्टेडियम के नाम से जाना जाता है। इस आयोजन की घोषणा पश्चिम बंगाल के खेल मंत्री इंद्रनील खान ने की थी और इसमें लुइस फिगो, कार्ल्स पुयोल और इकर कैसिलस सहित प्रसिद्ध पूर्व फुटबॉल खिलाड़ियों के शामिल होने की उम्मीद है। मुंबई के डीवाई पाटिल स्टेडियम में 2025 के प्रदर्शनी मैच के बाद, भारत में इन दो स्पेनिश क्लबों के दिग्गजों के बीच यह दूसरी बैठक होगी, जहां रियल मैड्रिड ने 2-0 से जीत हासिल की थी। साल्ट लेक स्टेडियम ने कई प्रमुख अंतरराष्ट्रीय फुटबॉल आयोजनों की मेजबानी की है।"
-      },
-      "gu": {
-        "question": "કયું ભારતીય રાજ્ય 25 નવેમ્બર, 2026 ના રોજ બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે?",
-        "options": {
-          "A": "પશ્ચિમ બંગાળ",
-          "B": "મહારાષ્ટ્ર",
-          "C": "કેરળ",
-          "D": "ગોવા"
-        },
-        "explanation": "પશ્ચિમ બંગાળ 25 નવેમ્બર, 2026 ના રોજ કોલકાતામાં બાર્સેલોના અને રીઅલ મેડ્રિડ વચ્ચે અલ ક્લાસિકો લિજેન્ડ્સ પ્રદર્શન મેચનું આયોજન કરશે. આ મેચ સોલ્ટ લેક સ્ટેડિયમ તરીકે પ્રખ્યાત વિવેકાનંદ યુબા ભારતી ક્રીરાંગન ખાતે યોજાવાની છે. પશ્ચિમ બંગાળના રમતગમત મંત્રી ઈન્દ્રનીલ ખાને આ ઈવેન્ટની જાહેરાત કરી હતી અને તેમાં લુઈસ ફિગો, કાર્લસ પુયોલ અને ઈકર કેસિલાસ સહિતના જાણીતા ભૂતપૂર્વ ફૂટબોલરો સામેલ થવાની અપેક્ષા છે. મુંબઈના DY પાટિલ સ્ટેડિયમ ખાતે 2025ની તેમની પ્રદર્શન મેચ બાદ ભારતમાં આ બે સ્પેનિશ ક્લબના દિગ્ગજો વચ્ચેની આ બીજી બેઠક હશે, જ્યાં રિયલ મેડ્રિડ 2-0થી જીત્યું હતું. સોલ્ટ લેક સ્ટેડિયમ અનેક મોટી આંતરરાષ્ટ્રીય ફૂટબોલ ઈવેન્ટ્સનું આયોજન કરે છે."
-      }
-    },
-    {
-      "id": "2026-10-18-5",
-      "date": "2026-10-18",
-      "qno": 5,
       "answer": "D",
       "category": "Economy",
       "en": {
@@ -63415,6 +63378,43 @@
           "D": "ઓમાન"
         },
         "explanation": "ઓમાન ભારત's leading supplier નું Liquefied Natural Gas (LNG) માં September 2026, overtaking  United States amid shifting વૈશ્વિક trade routes અને regional disruptions. Oman supplied 0.59 million tonnes નું LNG દરમિયાન  મહિનો, એક 11.6% increase compared સાથે August.  United States ranked third સાથે 0.34 million tonnes, while Nigeria secured second place. Oman' નું સ્થાન બન્યું અને હોર્મુઝની સ્ટ્રેટ પર આધાર રાખ્યા વિના LNG નિકાસ કરવાની ક્ષમતાએ પ્રાદેશિક વિક્ષેપો દરમિયાન ફાયદો પૂરો પાડ્યો. મે અને સપ્ટેમ્બર 2026 ની વચ્ચે, ઓમાને 2.33 મિલિયન ટનનો પુરવઠો પૂરો પાડ્યો હતો, જે ભારત's LNG imports દરમિયાન તે period. India'ની LNG માંગના 20% હિસ્સો ધરાવે છે, જે શહેરી ગેસ વિતરણ અને ખાતર ક્ષેત્રો દ્વારા સમર્થિત છે."
+      }
+    },
+    {
+      "id": "2026-10-18-5",
+      "date": "2026-10-18",
+      "qno": 5,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Which Indian Navy stealth frigate arrived in South Africa on October 12, 2026, to participate in the ninth edition of the IBSAMAR maritime exercise?",
+        "options": {
+          "A": "INS Tarkash",
+          "B": "INS Talwar",
+          "C": "INS Shivalik",
+          "D": "INS Trikand"
+        },
+        "explanation": "INS Tarkash, a frontline guided-missile stealth frigate of the Indian Navy, arrived in South Africa on October 12, 2026, to participate in the ninth edition of the India-Brazil-South Africa Maritime Exercise (IBSAMAR IX). The trilateral exercise involves the navies of India, Brazil and South Africa and aims to strengthen maritime cooperation, operational coordination and regional security. Conducted biennially since its inception in 2008, IBSAMAR includes activities such as surface warfare, anti-air warfare, anti-submarine warfare, anti-piracy operations and search-and-rescue drills. INS Tarkash is the second of the three Teg-class stealth frigates built for the Indian Navy by Russia’s Yantar Shipyard and was commissioned on November 9, 2012."
+      },
+      "hi": {
+        "question": "IBSAMAR समुद्री अभ्यास के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को कौन सा भारतीय नौसेना का स्टील्थ फ्रिगेट दक्षिण अफ्रीका पहुंचा?",
+        "options": {
+          "A": "आईएनएस तरकश",
+          "B": "आईएनएस तलवार",
+          "C": "आईएनएस शिवालिक",
+          "D": "आईएनएस त्रिकांड"
+        },
+        "explanation": "आईएनएस तरकश, भारतीय नौसेना का एक फ्रंटलाइन गाइडेड-मिसाइल स्टील्थ फ्रिगेट, भारत-ब्राजील-दक्षिण अफ्रीका समुद्री अभ्यास (IBSAMAR IX) के नौवें संस्करण में भाग लेने के लिए 12 अक्टूबर, 2026 को दक्षिण अफ्रीका पहुंचा। त्रिपक्षीय अभ्यास में भारत, ब्राजील और दक्षिण अफ्रीका की नौसेनाएं शामिल हैं और इसका उद्देश्य समुद्री सहयोग, परिचालन समन्वय और क्षेत्रीय सुरक्षा को मजबूत करना है। 2008 में अपनी स्थापना के बाद से द्विवार्षिक रूप से आयोजित, IBSAMAR में सतही युद्ध, वायु-विरोधी युद्ध, पनडुब्बी-रोधी युद्ध, समुद्री डकैती-विरोधी संचालन और खोज-और-बचाव अभ्यास जैसी गतिविधियाँ शामिल हैं। आईएनएस तरकश रूस के यंतर शिपयार्ड द्वारा भारतीय नौसेना के लिए निर्मित तीन टेग-क्लास स्टील्थ फ्रिगेट में से दूसरा है और इसे 9 नवंबर, 2012 को कमीशन किया गया था।"
+      },
+      "gu": {
+        "question": "IBSAMAR મેરીટાઇમ કવાયતની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026 ના રોજ કયું ભારતીય નૌકાદળનું સ્ટીલ્થ ફ્રિગેટ દક્ષિણ આફ્રિકા પહોંચ્યું?",
+        "options": {
+          "A": "INS તારકશ",
+          "B": "INS તલવાર",
+          "C": "INS શિવાલિક",
+          "D": "INS ત્રિકાંડ"
+        },
+        "explanation": "INS તારકશ, ભારતીય નૌકાદળની ફ્રન્ટલાઈન ગાઈડેડ-મિસાઈલ સ્ટીલ્થ ફ્રિગેટ, ભારત-બ્રાઝિલ-દક્ષિણ આફ્રિકા મેરીટાઇમ એક્સરસાઇઝ (IBSAMAR IX) ની નવમી આવૃત્તિમાં ભાગ લેવા માટે 12 ઓક્ટોબર, 2026ના રોજ દક્ષિણ આફ્રિકા પહોંચ્યું હતું. ત્રિપક્ષીય કવાયતમાં ભારત, બ્રાઝિલ અને દક્ષિણ આફ્રિકાની નૌકાદળ સામેલ છે અને તેનો હેતુ દરિયાઈ સહયોગ, ઓપરેશનલ કોઓર્ડિનેશન અને પ્રાદેશિક સુરક્ષાને મજબૂત કરવાનો છે. 2008 માં તેની શરૂઆતથી દ્વિવાર્ષિક રીતે હાથ ધરવામાં આવે છે, IBSAMAR માં સપાટી યુદ્ધ, એન્ટિ-એર વોરફેર, એન્ટિ-સબમરીન યુદ્ધ, એન્ટી-પાયરસી ઓપરેશન્સ અને શોધ-અને-બચાવ કવાયત જેવી પ્રવૃત્તિઓનો સમાવેશ થાય છે. INS તારકશ એ રશિયાના યાનતાર શિપયાર્ડ દ્વારા ભારતીય નૌકાદળ માટે બાંધવામાં આવેલા ત્રણ ટેગ-ક્લાસ સ્ટીલ્થ ફ્રિગેટ્સમાંનું બીજું છે અને તેને 9 નવેમ્બર, 2012ના રોજ કાર્યરત કરવામાં આવ્યું હતું."
       }
     }
   ]
