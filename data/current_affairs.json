@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-09",
     "2026-11-08",
     "2026-11-07",
     "2026-11-06",
@@ -63827,46 +63828,379 @@
       }
     },
     {
-      "id": "2026-11-01-1",
-      "date": "2026-11-01",
+      "id": "2026-11-09-1",
+      "date": "2026-11-09",
       "qno": 1,
-      "answer": "D",
-      "category": "International",
+      "answer": "B",
+      "category": "Important Days",
       "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "question": "When is World Freedom Day celebrated every year in the United States to commemorate the fall of the Berlin Wall?",
         "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
+          "A": "November 11",
+          "B": "November 9",
+          "C": "December 10",
+          "D": "October 24"
         },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+        "explanation": "November 9 is observed as World Freedom Day every year in the United States to commemorate the fall of the Berlin Wall in 1989. The day highlights the importance of freedom, democracy, individual rights and human dignity. It was officially declared by US President George W. Bush in 2001 through a presidential proclamation. The fall of the Berlin Wall marked a significant turning point in European history, symbolising the decline of Cold War divisions and the growing demand for political freedom. The observance also honours those who struggled against oppressive regimes and fought for democratic rights."
       },
       "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "question": "बर्लिन की दीवार गिरने की याद में संयुक्त राज्य अमेरिका में हर साल विश्व स्वतंत्रता दिवस कब मनाया जाता है?",
         "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
+          "A": "11 नवंबर",
+          "B": "9 नवंबर",
+          "C": "10 दिसंबर",
+          "D": "24 अक्टूबर"
         },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+        "explanation": "1989 में बर्लिन की दीवार गिरने की याद में संयुक्त राज्य अमेरिका में हर साल 9 नवंबर को विश्व स्वतंत्रता दिवस के रूप में मनाया जाता है। यह दिन स्वतंत्रता, लोकतंत्र, व्यक्तिगत अधिकारों और मानव गरिमा के महत्व पर प्रकाश डालता है। इसे अमेरिकी राष्ट्रपति जॉर्ज डब्ल्यू बुश द्वारा 2001 में एक राष्ट्रपति उद्घोषणा के माध्यम से आधिकारिक तौर पर घोषित किया गया था। बर्लिन की दीवार का गिरना यूरोपीय इतिहास में एक महत्वपूर्ण मोड़ था, जो शीत युद्ध के विभाजनों की गिरावट और राजनीतिक स्वतंत्रता की बढ़ती मांग का प्रतीक था। यह उत्सव उन लोगों का भी सम्मान करता है जिन्होंने दमनकारी शासन के खिलाफ संघर्ष किया और लोकतांत्रिक अधिकारों के लिए लड़ाई लड़ी।"
       },
       "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "question": "યુનાઇટેડ સ્ટેટ્સમાં બર્લિનની દિવાલના પતનની યાદમાં દર વર્ષે વિશ્વ સ્વતંત્રતા દિવસ ક્યારે ઉજવવામાં આવે છે?",
         "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+          "A": "11 નવેમ્બર",
+          "B": "9 નવેમ્બર",
+          "C": "10 ડિસેમ્બર",
+          "D": "24 ઓક્ટોબર"
         },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+        "explanation": "1989 માં બર્લિનની દિવાલના પતનની યાદમાં યુનાઇટેડ સ્ટેટ્સમાં દર વર્ષે 9 નવેમ્બરને વિશ્વ સ્વતંત્રતા દિવસ તરીકે ઉજવવામાં આવે છે. આ દિવસ સ્વતંત્રતા, લોકશાહી, વ્યક્તિગત અધિકારો અને માનવ ગૌરવના મહત્વને પ્રકાશિત કરે છે. 2001 માં યુએસ પ્રમુખ જ્યોર્જ ડબ્લ્યુ. બુશ દ્વારા રાષ્ટ્રપતિની ઘોષણા દ્વારા સત્તાવાર રીતે તેની જાહેરાત કરવામાં આવી હતી. બર્લિન વોલનું પતન યુરોપિયન ઇતિહાસમાં એક મહત્વપૂર્ણ વળાંક તરીકે ચિહ્નિત થયેલ છે, જે શીત યુદ્ધ વિભાગોના પતન અને રાજકીય સ્વતંત્રતાની વધતી માંગનું પ્રતીક છે. દમનકારી શાસન સામે સંઘર્ષ કરનારા અને લોકતાંત્રિક અધિકારો માટે લડનારાઓને પણ આ પાલન સન્માન આપે છે."
       }
     },
     {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
+      "id": "2026-11-09-2",
+      "date": "2026-11-09",
       "qno": 2,
+      "answer": "A",
+      "category": "Art and Culture",
+      "en": {
+        "question": "What is the denomination of the commemorative coin released by Union Finance Minister Nirmala Sitharaman to mark the 250th birth anniversary of Muthuswami Dikshitar?",
+        "options": {
+          "A": "₹250",
+          "B": "₹100",
+          "C": "₹500",
+          "D": "₹200"
+        },
+        "explanation": "₹250 is the denomination of the commemorative coin released by Union Finance Minister Nirmala Sitharaman on November 5, 2026, to mark the 250th birth anniversary of Muthuswami Dikshitar. The release ceremony was held at IIT-BHU in Varanasi under the Centre of Excellence for Indian Knowledge Systems. The coin was issued by the Reserve Bank of India and minted in limited quantities for collectors. Muthuswami Dikshitar was one of the Trinity of Carnatic music, along with Tyagaraja and Syama Sastri. He composed approximately 450–500 musical works, predominantly in Sanskrit, making significant contributions to Indian classical music."
+      },
+      "hi": {
+        "question": "मुथुस्वामी दीक्षितार की 250वीं जयंती के अवसर पर केंद्रीय वित्त मंत्री निर्मला सीतारमण द्वारा जारी स्मारक सिक्के का मूल्य क्या है?",
+        "options": {
+          "A": "₹250",
+          "B": "₹100",
+          "C": "₹500",
+          "D": "₹200"
+        },
+        "explanation": "मुथुस्वामी दीक्षितार की 250वीं जयंती के अवसर पर 5 नवंबर, 2026 को केंद्रीय वित्त मंत्री निर्मला सीतारमण द्वारा जारी स्मारक सिक्के का मूल्य ₹250 है। विमोचन समारोह भारतीय ज्ञान प्रणाली उत्कृष्टता केंद्र के तहत वाराणसी में आईआईटी-बीएचयू में आयोजित किया गया था। सिक्का भारतीय रिज़र्व बैंक द्वारा जारी किया गया था और संग्रहकर्ताओं के लिए सीमित मात्रा में ढाला गया था। मुथुस्वामी दीक्षित, त्यागराज और श्यामा शास्त्री के साथ कर्नाटक संगीत की त्रिमूर्ति में से एक थे। उन्होंने भारतीय शास्त्रीय संगीत में महत्वपूर्ण योगदान देते हुए, मुख्य रूप से संस्कृत में लगभग 450-500 संगीत कृतियों की रचना की।"
+      },
+      "gu": {
+        "question": "મુથુસ્વામી દીક્ષિતરની 250મી જન્મજયંતિ નિમિત્તે કેન્દ્રીય નાણા મંત્રી નિર્મલા સીતારમણ દ્વારા બહાર પાડવામાં આવેલ સ્મારક સિક્કાનું મૂલ્ય શું છે?",
+        "options": {
+          "A": "₹250",
+          "B": "₹100",
+          "C": "₹500",
+          "D": "₹200"
+        },
+        "explanation": "₹250 એ મુથુસ્વામી દીક્ષિતરની 250મી જન્મજયંતિ નિમિત્તે 5 નવેમ્બર, 2026ના રોજ કેન્દ્રીય નાણાં પ્રધાન નિર્મલા સીતારમણ દ્વારા બહાર પાડવામાં આવેલા સ્મારક સિક્કાનું મૂલ્ય છે. સેન્ટર ઓફ એક્સેલન્સ ફોર ઈન્ડિયન નોલેજ સિસ્ટમ્સ હેઠળ વારાણસીમાં IIT-BHU ખાતે વિમોચન સમારોહ યોજાયો હતો. આ સિક્કો ભારતીય રિઝર્વ બેંક દ્વારા જારી કરવામાં આવ્યો હતો અને કલેક્ટર્સ માટે મર્યાદિત માત્રામાં ટંકશાળ કરવામાં આવ્યો હતો. મુથુસ્વામી દીક્ષિતર ત્યાગરાજા અને શ્યામા શાસ્ત્રી સાથે કર્ણાટક સંગીતના ટ્રિનિટીમાંથી એક હતા. તેમણે લગભગ 450-500 સંગીત કૃતિઓની રચના કરી, મુખ્યત્વે સંસ્કૃતમાં, ભારતીય શાસ્ત્રીય સંગીતમાં નોંધપાત્ર યોગદાન આપ્યું."
+      }
+    },
+    {
+      "id": "2026-11-09-3",
+      "date": "2026-11-09",
+      "qno": 3,
+      "answer": "B",
+      "category": "National",
+      "en": {
+        "question": "For which section of society was the Vayo Samman Rashtriya Abhiyan launched by the Union Minister for Social Justice and Empowerment?",
+        "options": {
+          "A": "Women",
+          "B": "Senior Citizens",
+          "C": "Persons with Disabilities",
+          "D": "Children"
+        },
+        "explanation": "Senior Citizens are the primary beneficiaries of the Vayo Samman Rashtriya Abhiyan, launched on November 4, 2026, by the Union Minister for Social Justice and Empowerment. The national campaign aims to strengthen intergenerational bonding and promote the active participation of older people in society. It was launched under the Atal Vayo Abhyuday Yojana (AVYAY) and follows the 5C model: Connect, Converse, Co-create, Contribute and Continue. The campaign also includes initiatives such as Digital Dada-Dadi and Silver Skills – Seniors as Mentors. India's population aged 60 and above is projected to reach 23 crore by 2036."
+      },
+      "hi": {
+        "question": "केंद्रीय सामाजिक न्याय और अधिकारिता मंत्री द्वारा वयो सम्मान राष्ट्रीय अभियान समाज के किस वर्ग के लिए शुरू किया गया था?",
+        "options": {
+          "A": "महिला",
+          "B": "वरिष्ठ नागरिक",
+          "C": "विकलांग व्यक्ति",
+          "D": "बच्चे"
+        },
+        "explanation": "केंद्रीय सामाजिक न्याय और अधिकारिता मंत्री द्वारा 4 नवंबर, 2026 को शुरू किए गए वयो सम्मान राष्ट्रीय अभियान के प्राथमिक लाभार्थी वरिष्ठ नागरिक हैं। राष्ट्रीय अभियान का उद्देश्य अंतर-पीढ़ीगत संबंधों को मजबूत करना और समाज में वृद्ध लोगों की सक्रिय भागीदारी को बढ़ावा देना है। इसे अटल वयो अभ्युदय योजना (AVYAY) के तहत लॉन्च किया गया था और यह 5C मॉडल का अनुसरण करता है: कनेक्ट, कन्वर्स, सह-निर्माण, योगदान और जारी रखें। इस अभियान में डिजिटल दादा-दादी और सिल्वर स्किल्स - मेंटर्स के रूप में वरिष्ठों जैसी पहल भी शामिल हैं। भारत की 60 वर्ष और उससे अधिक आयु की जनसंख्या 2036 तक 23 करोड़ तक पहुंचने का अनुमान है।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય સામાજિક ન્યાય અને સશક્તિકરણ મંત્રી દ્વારા સમાજના કયા વર્ગ માટે વાયો સન્માન રાષ્ટ્રીય અભિયાન શરૂ કરવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સ્ત્રીઓ",
+          "B": "વરિષ્ઠ નાગરિકો",
+          "C": "વિકલાંગ વ્યક્તિઓ",
+          "D": "બાળકો"
+        },
+        "explanation": "કેન્દ્રીય સામાજિક ન્યાય અને સશક્તિકરણ મંત્રી દ્વારા 4 નવેમ્બર, 2026 ના રોજ શરૂ કરાયેલ વાયો સન્માન રાષ્ટ્રીય અભિયાનના પ્રાથમિક લાભાર્થીઓ વરિષ્ઠ નાગરિકો છે. રાષ્ટ્રીય ઝુંબેશનો હેતુ આંતર-પેઢીના બંધનને મજબૂત કરવાનો અને સમાજમાં વૃદ્ધ લોકોની સક્રિય ભાગીદારીને પ્રોત્સાહન આપવાનો છે. તે અટલ વાયો અભ્યુદય યોજના (AVYAY) હેઠળ લોન્ચ કરવામાં આવી હતી અને 5C મોડલને અનુસરે છે: કનેક્ટ, કન્વર્ઝ, કો-ક્રિએટ, યોગદાન અને ચાલુ રાખો. આ ઝુંબેશમાં ડિજિટલ દાદા-દાદી અને સિલ્વર સ્કીલ્સ - સિનિયર્સ એઝ મેન્ટર્સ જેવી પહેલો પણ સામેલ છે. ભારતની 60 અને તેથી વધુ વયની વસ્તી 2036 સુધીમાં 23 કરોડ સુધી પહોંચવાનો અંદાજ છે."
+      }
+    },
+    {
+      "id": "2026-11-09-4",
+      "date": "2026-11-09",
+      "qno": 4,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is National Legal Services Day observed every year in India to promote awareness about free legal aid and equal access to justice?",
+        "options": {
+          "A": "November 9",
+          "B": "November 14",
+          "C": "December 10",
+          "D": "October 2"
+        },
+        "explanation": "November 9 is observed as National Legal Services Day every year in India to promote awareness about free legal aid and equal access to justice. The day commemorates the commencement of the Legal Services Authorities Act, 1987, which came into effect on November 9, 1995. The Act established a structured system of legal services authorities at the national, state and district levels. The National Legal Services Authority (NALSA) plays a key role in providing free legal assistance to eligible and disadvantaged sections of society. The day highlights the importance of ensuring that no individual is denied justice due to financial or social disadvantages."
+      },
+      "hi": {
+        "question": "मुफ़्त कानूनी सहायता और न्याय तक समान पहुंच के बारे में जागरूकता को बढ़ावा देने के लिए भारत में हर साल राष्ट्रीय कानूनी सेवा दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "9 नवंबर",
+          "B": "14 नवंबर",
+          "C": "10 दिसंबर",
+          "D": "2 अक्टूबर"
+        },
+        "explanation": "मुफ्त कानूनी सहायता और न्याय तक समान पहुंच के बारे में जागरूकता को बढ़ावा देने के लिए भारत में हर साल 9 नवंबर को राष्ट्रीय कानूनी सेवा दिवस के रूप में मनाया जाता है। यह दिन कानूनी सेवा प्राधिकरण अधिनियम, 1987 की शुरुआत का जश्न मनाता है, जो 9 नवंबर, 1995 को लागू हुआ। इस अधिनियम ने राष्ट्रीय, राज्य और जिला स्तर पर कानूनी सेवा प्राधिकरणों की एक संरचित प्रणाली स्थापित की। राष्ट्रीय कानूनी सेवा प्राधिकरण (एनएएलएसए) समाज के पात्र और वंचित वर्गों को मुफ्त कानूनी सहायता प्रदान करने में महत्वपूर्ण भूमिका निभाता है। यह दिन यह सुनिश्चित करने के महत्व पर प्रकाश डालता है कि वित्तीय या सामाजिक नुकसान के कारण किसी भी व्यक्ति को न्याय से वंचित न किया जाए।"
+      },
+      "gu": {
+        "question": "મફત કાનૂની સહાય અને ન્યાયની સમાન પહોંચ વિશે જાગૃતિ લાવવા ભારતમાં દર વર્ષે રાષ્ટ્રીય કાનૂની સેવા દિવસ ક્યારે ઉજવવામાં આવે છે?",
+        "options": {
+          "A": "9 નવેમ્બર",
+          "B": "નવેમ્બર 14",
+          "C": "10 ડિસેમ્બર",
+          "D": "2 ઓક્ટોબર"
+        },
+        "explanation": "મફત કાનૂની સહાય અને ન્યાયની સમાન પહોંચ વિશે જાગૃતિને પ્રોત્સાહન આપવા ભારતમાં દર વર્ષે 9 નવેમ્બરને રાષ્ટ્રીય કાનૂની સેવા દિવસ તરીકે ઉજવવામાં આવે છે. આ દિવસ કાનૂની સેવા સત્તાધિકારી અધિનિયમ, 1987ની શરૂઆતની યાદમાં ઉજવવામાં આવે છે, જે 9 નવેમ્બર, 1995ના રોજ અમલમાં આવ્યો હતો. આ કાયદાએ રાષ્ટ્રીય, રાજ્ય અને જિલ્લા સ્તરે કાનૂની સેવાઓ સત્તાધિકારીઓની સંરચિત વ્યવસ્થાની સ્થાપના કરી હતી. નેશનલ લીગલ સર્વિસીસ ઓથોરિટી (NALSA) સમાજના પાત્ર અને વંચિત વર્ગોને મફત કાનૂની સહાય પૂરી પાડવામાં મુખ્ય ભૂમિકા ભજવે છે. આ દિવસ એ સુનિશ્ચિત કરવાના મહત્વને પ્રકાશિત કરે છે કે નાણાકીય અથવા સામાજિક ગેરફાયદાને કારણે કોઈપણ વ્યક્તિ ન્યાયથી વંચિત ન રહે."
+      }
+    },
+    {
+      "id": "2026-11-09-5",
+      "date": "2026-11-09",
+      "qno": 5,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the Managing Director and Chief Executive Officer of NPCI Tech Solutions Limited (NTSL), a wholly owned subsidiary of NPCI?",
+        "options": {
+          "A": "Dilip Asbe",
+          "B": "Shaktikanta Das",
+          "C": "Nandan Nilekani",
+          "D": "Vishal Kanvaty"
+        },
+        "explanation": "Vishal Kanvaty has been appointed as the Managing Director (MD) and Chief Executive Officer (CEO) of NPCI Tech Solutions Limited (NTSL), a wholly owned subsidiary of the National Payments Corporation of India (NPCI), established in November 2026. NTSL will function as the specialised technology and innovation arm of the NPCI Group. Its major focus areas include artificial intelligence, blockchain technology, digital financial infrastructure and Global Capability Centre services. The company will also provide technology support for eKYC Setu, the Unified Ticketing Platform and Digital Public Infrastructure programmes. NPCI was established in 2008 as a joint initiative of the RBI and Indian Banks' Association."
+      },
+      "hi": {
+        "question": "एनपीसीआई की पूर्ण स्वामित्व वाली सहायक कंपनी एनपीसीआई टेक सॉल्यूशंस लिमिटेड (एनटीएसएल) के प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "दिलीप अस्बे",
+          "B": "शक्तिकांत दास",
+          "C": "नंदन नीलेकणि",
+          "D": "विशाल कनावटी"
+        },
+        "explanation": "विशाल कनावटी को नवंबर 2026 में स्थापित नेशनल पेमेंट्स कॉरपोरेशन ऑफ इंडिया (एनपीसीआई) की पूर्ण स्वामित्व वाली सहायक कंपनी एनपीसीआई टेक सॉल्यूशंस लिमिटेड (एनटीएसएल) के प्रबंध निदेशक (एमडी) और मुख्य कार्यकारी अधिकारी (सीईओ) के रूप में नियुक्त किया गया है। एनटीएसएल एनपीसीआई समूह की विशेष प्रौद्योगिकी और नवाचार शाखा के रूप में कार्य करेगा। इसके प्रमुख फोकस क्षेत्रों में कृत्रिम बुद्धिमत्ता, ब्लॉकचेन तकनीक, डिजिटल वित्तीय बुनियादी ढाँचा और वैश्विक क्षमता केंद्र सेवाएँ शामिल हैं। कंपनी ईकेवाईसी सेतु, यूनिफाइड टिकटिंग प्लेटफॉर्म और डिजिटल पब्लिक इंफ्रास्ट्रक्चर कार्यक्रमों के लिए प्रौद्योगिकी सहायता भी प्रदान करेगी। NPCI की स्थापना 2008 में RBI और भारतीय बैंक संघ की संयुक्त पहल के रूप में की गई थी।"
+      },
+      "gu": {
+        "question": "NPCI ની સંપૂર્ણ માલિકીની પેટાકંપની NPCI ટેક સોલ્યુશન્સ લિમિટેડ (NTSL) ના મેનેજિંગ ડિરેક્ટર અને મુખ્ય કાર્યકારી અધિકારી તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "દિલીપ આસબે",
+          "B": "શક્તિકાંત દાસ",
+          "C": "નંદન નિલેકણી",
+          "D": "વિશાલ કનવટી"
+        },
+        "explanation": "NPCI ટેક સોલ્યુશન્સ લિમિટેડ (NTSL) ના મેનેજિંગ ડિરેક્ટર (MD) અને ચીફ એક્ઝિક્યુટિવ ઓફિસર (CEO) તરીકે વિશાલ કનવટીની નિમણૂક કરવામાં આવી છે, જે નવેમ્બર 2026માં સ્થપાયેલી નેશનલ પેમેન્ટ્સ કોર્પોરેશન ઓફ ઈન્ડિયા (NPCI) ની સંપૂર્ણ માલિકીની પેટાકંપની છે. NTSL NPCI ગ્રૂપની વિશિષ્ટ ટેકનોલોજી અને નવીનતા શાખા તરીકે કાર્ય કરશે. તેના મુખ્ય ફોકસ ક્ષેત્રોમાં આર્ટિફિશિયલ ઇન્ટેલિજન્સ, બ્લોકચેન ટેક્નોલોજી, ડિજિટલ ફાઇનાન્શિયલ ઇન્ફ્રાસ્ટ્રક્ચર અને વૈશ્વિક ક્ષમતા કેન્દ્ર સેવાઓનો સમાવેશ થાય છે. કંપની eKYC સેતુ, યુનિફાઇડ ટિકિટિંગ પ્લેટફોર્મ અને ડિજિટલ પબ્લિક ઇન્ફ્રાસ્ટ્રક્ચર પ્રોગ્રામ્સ માટે ટેક્નોલોજી સપોર્ટ પણ આપશે. NPCI ની સ્થાપના 2008 માં RBI અને ભારતીય બેંક એસોસિએશનની સંયુક્ત પહેલ તરીકે કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-11-09-6",
+      "date": "2026-11-09",
+      "qno": 6,
+      "answer": "C",
+      "category": "Persons",
+      "en": {
+        "question": "Who became India's 100th Chess Grandmaster after winning the 7th ASEAN Plus Individual Open Chess Championship in the Philippines?",
+        "options": {
+          "A": "V. S. Rathanvel",
+          "B": "S. Aswath",
+          "C": "Anuj Shrivatri",
+          "D": "Viswanathan Anand"
+        },
+        "explanation": "Anuj Shrivatri became India's 100th Chess Grandmaster after winning the 7th ASEAN Plus Individual Open Chess Championship held in the Philippines in November 2026. Hailing from Madhya Pradesh, he also became the first Grandmaster from the state. Despite losing his opening-round game, he made a strong comeback by winning the final two rounds and securing 7 points out of 9. His achievement marked an important milestone in Indian chess history. Viswanathan Anand became India's first Grandmaster in 1988, while S. Aswath and V. S. Rathanvel became India's 98th and 99th Grandmasters, respectively."
+      },
+      "hi": {
+        "question": "फिलीपींस में 7वीं आसियान प्लस व्यक्तिगत ओपन शतरंज चैंपियनशिप जीतने के बाद भारत के 100वें शतरंज ग्रैंडमास्टर कौन बने?",
+        "options": {
+          "A": "वी. एस. राथनवेल",
+          "B": "एस अश्वथ",
+          "C": "अनुज श्रीवात्री",
+          "D": "विश्वनाथन आनंद"
+        },
+        "explanation": "अनुज श्रीवात्री 1988 में भारत_ENG_THEME_TOKEN_0__ के पहले ग्रैंडमास्टर बने, जबकि एस. अश्वथ और वी. एस. राथनवेल क्रमशः भारत के 98वें और 99वें ग्रैंडमास्टर बने।"
+      },
+      "gu": {
+        "question": "ફિલિપાઇન્સમાં 7મી ASEAN પ્લસ વ્યક્તિગત ઓપન ચેસ ચેમ્પિયનશિપ જીતીને ભારતના 100મા ચેસ ગ્રાન્ડમાસ્ટર કોણ બન્યા?",
+        "options": {
+          "A": "વી.એસ. રથનવેલ",
+          "B": "એસ. અસ્વથ",
+          "C": "અનુજ શ્રીવાત્રી",
+          "D": "વિશ્વનાથન આનંદ"
+        },
+        "explanation": "અનુજ શ્રીવાત્રી 1988માં ભારતના's 100th Chess Grandmaster પછી winning  7th ASEAN Plus Individual Open Chess Championship યોજાયો માં  Philippines માં November 2026. Hailing થી Madhya Pradesh, he પણ became  પ્રથમ Grandmaster થી  રાજ્ય. Despite losing his opening-round game, he made એક strong comeback દ્વારા winning  final two rounds અને securing 7 points out નું 9. His achievement marked એક મહત્વપૂર્ણ milestone માં Indian chess history. Viswanathan Anand became India' પ્રથમ ગ્રાન્ડમાસ્ટર બન્યા, જ્યારે એસ. અસ્વથ અને વી.એસ. રથનવેલ અનુક્રમે ભારતના 98મા અને 99મા ગ્રાન્ડમાસ્ટર બન્યા."
+      }
+    },
+    {
+      "id": "2026-11-09-7",
+      "date": "2026-11-09",
+      "qno": 7,
+      "answer": "D",
+      "category": "Economy",
+      "en": {
+        "question": "What is India's overall rank among 139 economies in the Global Innovation Index 2026 released by the World Intellectual Property Organisation (WIPO)?",
+        "options": {
+          "A": "35th",
+          "B": "40th",
+          "C": "42nd",
+          "D": "38th"
+        },
+        "explanation": "38th is India's overall position among 139 economies in the Global Innovation Index (GII) 2026, released by the World Intellectual Property Organisation (WIPO). India retained its 2025 ranking and secured the first position among 36 lower-middle-income economies. It also ranked first among 11 economies in Central and Southern Asia. India has shown significant progress in innovation performance, improving from 48th position in 2020 to 38th in 2026. Its major strengths include ICT services exports, domestic market size, start-up financing and venture capital deals. Switzerland retained the top global position for the 16th consecutive year."
+      },
+      "hi": {
+        "question": "विश्व बौद्धिक संपदा संगठन (WIPO) द्वारा जारी ग्लोबल इनोवेशन इंडेक्स 2026 में 139 अर्थव्यवस्थाओं में भारत की समग्र रैंक क्या है?",
+        "options": {
+          "A": "35वां",
+          "B": "40वां",
+          "C": "42वां",
+          "D": "38वां"
+        },
+        "explanation": "विश्व बौद्धिक संपदा संगठन (डब्ल्यूआईपीओ) द्वारा जारी ग्लोबल इनोवेशन इंडेक्स (जीआईआई) 2026 में 139 अर्थव्यवस्थाओं में भारत का समग्र स्थान 38वां है। भारत ने अपनी 2025 रैंकिंग बरकरार रखी और 36 निम्न-मध्यम आय वाली अर्थव्यवस्थाओं में पहला स्थान हासिल किया। यह मध्य और दक्षिणी एशिया की 11 अर्थव्यवस्थाओं में भी पहले स्थान पर है। भारत ने नवाचार प्रदर्शन में महत्वपूर्ण प्रगति दिखाई है, जो 2020 में 48वें स्थान से सुधरकर 2026 में 38वें स्थान पर पहुंच गया है। इसकी प्रमुख ताकतों में आईसीटी सेवाओं के निर्यात, घरेलू बाजार का आकार, स्टार्ट-अप वित्तपोषण और उद्यम पूंजी सौदे शामिल हैं। स्विट्ज़रलैंड ने लगातार 16वें वर्ष शीर्ष वैश्विक स्थान बरकरार रखा।"
+      },
+      "gu": {
+        "question": "વર્લ્ડ ઈન્ટેલેક્ચ્યુઅલ પ્રોપર્ટી ઓર્ગેનાઈઝેશન (WIPO) દ્વારા બહાર પાડવામાં આવેલ ગ્લોબલ ઈનોવેશન ઈન્ડેક્સ 2026માં 139 અર્થતંત્રોમાં ભારતનો એકંદર ક્રમ શું છે?",
+        "options": {
+          "A": "35મી",
+          "B": "40મી",
+          "C": "42મી",
+          "D": "38મી"
+        },
+        "explanation": "વર્લ્ડ ઈન્ટેલેક્ચ્યુઅલ પ્રોપર્ટી ઓર્ગેનાઈઝેશન (WIPO) દ્વારા બહાર પાડવામાં આવેલ ગ્લોબલ ઈનોવેશન ઈન્ડેક્સ (GII) 2026માં 139 અર્થતંત્રોમાં ભારતનું એકંદર સ્થાન 38મું છે. ભારતે તેનું 2025 રેન્કિંગ જાળવી રાખ્યું છે અને 36 નીચી-મધ્યમ આવક ધરાવતા અર્થતંત્રોમાં પ્રથમ સ્થાન મેળવ્યું છે. તે મધ્ય અને દક્ષિણ એશિયાની 11 અર્થવ્યવસ્થાઓમાં પણ પ્રથમ ક્રમે છે. ભારતે 2020માં 48મા સ્થાનેથી 2026માં 38મા સ્થાને સુધરીને ઈનોવેશન કામગીરીમાં નોંધપાત્ર પ્રગતિ દર્શાવી છે. તેની મુખ્ય શક્તિઓમાં ICT સેવાઓની નિકાસ, સ્થાનિક બજારનું કદ, સ્ટાર્ટ-અપ ધિરાણ અને સાહસ મૂડીના સોદાનો સમાવેશ થાય છે. સ્વિત્ઝર્લેન્ડે સતત 16મા વર્ષે ટોચનું વૈશ્વિક સ્થાન જાળવી રાખ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-09-8",
+      "date": "2026-11-09",
+      "qno": 8,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "Which Indian state signed a three-year Memorandum of Understanding (MoU) with J-PAL South Asia to strengthen evidence-based policymaking and research-led interventions?",
+        "options": {
+          "A": "Jharkhand",
+          "B": "Chhattisgarh",
+          "C": "Odisha",
+          "D": "West Bengal"
+        },
+        "explanation": "Odisha signed a three-year Memorandum of Understanding (MoU) with J-PAL South Asia on November 4, 2026, to promote evidence-based policymaking and research-led interventions. The partnership aims to address important policy challenges and develop practical research recommendations. It also supports Odisha's long-term development visions, including Samruddha Odisha by 2036 and Viksit Odisha by 2047. One major initiative involves expanding the Barnali gender-equity curriculum across 23,000 government schools in collaboration with the Breakthrough Trust. A Steering Committee chaired by the Chief Secretary of Odisha will oversee the implementation and review project proposals every six months."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने साक्ष्य-आधारित नीति निर्धारण और अनुसंधान-आधारित हस्तक्षेपों को मजबूत करने के लिए J-PAL दक्षिण एशिया के साथ तीन साल के समझौता ज्ञापन (MoU) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "झारखंड",
+          "B": "छत्तीसगढ़",
+          "C": "ओडिशा",
+          "D": "पश्चिम बंगाल"
+        },
+        "explanation": "ओडिशा ने साक्ष्य-आधारित नीति निर्धारण और अनुसंधान-आधारित हस्तक्षेपों को बढ़ावा देने के लिए 4 नवंबर, 2026 को जे-पाल दक्षिण एशिया के साथ तीन साल के समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए। साझेदारी का उद्देश्य महत्वपूर्ण नीतिगत चुनौतियों का समाधान करना और व्यावहारिक अनुसंधान सिफारिशें विकसित करना है। यह ओडिशा के दीर्घकालिक विकास दृष्टिकोण का भी समर्थन करता है, जिसमें 2036 तक समृद्ध ओडिशा और 2047 तक विकसित ओडिशा शामिल है। एक प्रमुख पहल में ब्रेकथ्रू ट्रस्ट के सहयोग से 23,000 सरकारी स्कूलों में बरनाली लिंग-समानता पाठ्यक्रम का विस्तार करना शामिल है। ओडिशा के मुख्य सचिव की अध्यक्षता में एक संचालन समिति हर छह महीने में परियोजना प्रस्तावों के कार्यान्वयन और समीक्षा की निगरानी करेगी।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે પુરાવા-આધારિત નીતિ-નિર્માણ અને સંશોધન-આગળિત હસ્તક્ષેપોને મજબૂત કરવા J-PAL દક્ષિણ એશિયા સાથે ત્રણ વર્ષના સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ઝારખંડ",
+          "B": "છત્તીસગઢ",
+          "C": "ઓડિશા",
+          "D": "પશ્ચિમ બંગાળ"
+        },
+        "explanation": "ઓડિશાએ 4 નવેમ્બર, 2026ના રોજ J-PAL દક્ષિણ એશિયા સાથે ત્રણ વર્ષના સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા હતા, જેથી પુરાવા આધારિત નીતિ-નિર્માણ અને સંશોધન-આગળના હસ્તક્ષેપોને પ્રોત્સાહન મળે. ભાગીદારીનો હેતુ મહત્વપૂર્ણ નીતિગત પડકારોને ઉકેલવા અને વ્યવહારિક સંશોધન ભલામણો વિકસાવવાનો છે. તે 2036 સુધીમાં સમૃદ્ધ ઓડિશા અને 2047 સુધીમાં વિકસિત ઓડિશા સહિત ઓડિશાના લાંબા ગાળાના વિકાસના વિઝનને પણ સમર્થન આપે છે. એક મોટી પહેલમાં બ્રેકથ્રુ ટ્રસ્ટના સહયોગથી 23,000 સરકારી શાળાઓમાં બર્નાલી જાતિ-સમાન અભ્યાસક્રમનો વિસ્તાર કરવાનો સમાવેશ થાય છે. ઓડિશાના મુખ્ય સચિવની અધ્યક્ષતામાં એક સંચાલન સમિતિ અમલીકરણની દેખરેખ કરશે અને દર છ મહિને પ્રોજેક્ટ દરખાસ્તોની સમીક્ષા કરશે."
+      }
+    },
+    {
+      "id": "2026-11-09-9",
+      "date": "2026-11-09",
+      "qno": 9,
+      "answer": "A",
+      "category": "Defence",
+      "en": {
+        "question": "Where was the first edition of the India–Myanmar Tri-Services Humanitarian Assistance and Disaster Relief (HADR) Exercise RAHAT MITRA conducted?",
+        "options": {
+          "A": "Chennai",
+          "B": "New Delhi",
+          "C": "Visakhapatnam",
+          "D": "Port Blair"
+        },
+        "explanation": "Chennai, Tamil Nadu, hosted the first edition of the India–Myanmar Tri-Services Humanitarian Assistance and Disaster Relief (HADR) Exercise RAHAT MITRA on November 5 and 6, 2026. The bilateral exercise involved the Indian Army, Indian Navy, Indian Air Force and Myanmar Defence Forces. Its primary objective was to strengthen cooperation, improve interoperability and enhance coordination during humanitarian assistance and disaster relief operations. The exercise included joint planning, cyclone-related disaster scenarios, emergency communication demonstrations, flood relief activities, search and rescue operations and casualty evacuation. It marked an important step in strengthening disaster response cooperation between India and Myanmar."
+      },
+      "hi": {
+        "question": "भारत-म्यांमार त्रि-सेवा मानवीय सहायता और आपदा राहत (एचएडीआर) अभ्यास राहत मित्र का पहला संस्करण कहाँ आयोजित किया गया था?",
+        "options": {
+          "A": "चेन्नई",
+          "B": "नई दिल्ली",
+          "C": "विशाखापत्तनम",
+          "D": "पोर्ट ब्लेयर"
+        },
+        "explanation": "चेन्नई, तमिलनाडु ने 5 और 6 नवंबर, 2026 को भारत-म्यांमार त्रि-सेवा मानवीय सहायता और आपदा राहत (एचएडीआर) अभ्यास राहत मित्र के पहले संस्करण की मेजबानी की। द्विपक्षीय अभ्यास में भारतीय सेना, भारतीय नौसेना, भारतीय वायु सेना और म्यांमार रक्षा बल शामिल थे। इसका प्राथमिक उद्देश्य मानवीय सहायता और आपदा राहत कार्यों के दौरान सहयोग को मजबूत करना, अंतरसंचालनीयता में सुधार करना और समन्वय को बढ़ाना था। अभ्यास में संयुक्त योजना, चक्रवात से संबंधित आपदा परिदृश्य, आपातकालीन संचार प्रदर्शन, बाढ़ राहत गतिविधियां, खोज और बचाव अभियान और हताहत निकासी शामिल थे। यह भारत और म्यांमार के बीच आपदा प्रतिक्रिया सहयोग को मजबूत करने की दिशा में एक महत्वपूर्ण कदम है।"
+      },
+      "gu": {
+        "question": "ભારત-મ્યાનમાર ત્રિ-સેવા માનવતાવાદી સહાયતા અને આપત્તિ રાહત (HADR) કવાયત રાહત મિત્રની પ્રથમ આવૃત્તિ ક્યાં હાથ ધરવામાં આવી હતી?",
+        "options": {
+          "A": "ચેન્નાઈ",
+          "B": "નવી દિલ્હી",
+          "C": "વિશાખાપટ્ટનમ",
+          "D": "પોર્ટ બ્લેર"
+        },
+        "explanation": "ચેન્નાઈ, તમિલનાડુએ 5 અને 6 નવેમ્બર, 2026 ના રોજ ભારત-મ્યાનમાર ત્રિ-સેવા માનવતાવાદી સહાયતા અને આપત્તિ રાહત (HADR) કસરત રાહત મિત્રાની પ્રથમ આવૃત્તિનું આયોજન કર્યું હતું. દ્વિપક્ષીય કવાયતમાં ભારતીય સેના, ભારતીય નૌકાદળ, ભારતીય વાયુસેના અને મ્યાનમાર સંરક્ષણ દળો સામેલ હતા. તેનો પ્રાથમિક ઉદ્દેશ માનવતાવાદી સહાય અને આપત્તિ રાહત કામગીરી દરમિયાન સહકારને મજબૂત કરવાનો, આંતર કાર્યક્ષમતામાં સુધારો કરવાનો અને સંકલન વધારવાનો હતો. આ કવાયતમાં સંયુક્ત આયોજન, ચક્રવાત-સંબંધિત આપત્તિના દૃશ્યો, કટોકટી સંચાર પ્રદર્શન, પૂર રાહત પ્રવૃત્તિઓ, શોધ અને બચાવ કામગીરી અને જાનહાનિનું સ્થળાંતર સામેલ હતું. તે ભારત અને મ્યાનમાર વચ્ચે આપત્તિ પ્રતિભાવ સહયોગને મજબૂત કરવા માટે એક મહત્વપૂર્ણ પગલું તરીકે ચિહ્નિત થયેલ છે."
+      }
+    },
+    {
+      "id": "2026-11-09-10",
+      "date": "2026-11-09",
+      "qno": 10,
+      "answer": "B",
+      "category": "Science",
+      "en": {
+        "question": "In which year did Sir C. V. Raman discover the Raman Effect, which explains the scattering of light by molecules?",
+        "options": {
+          "A": "1930",
+          "B": "1928",
+          "C": "1932",
+          "D": "1925"
+        },
+        "explanation": "1928 was the year Sir Chandrasekhara Venkata Raman discovered the Raman Effect, a significant scientific breakthrough that explains the scattering of light by molecules. This discovery made an important contribution to the field of spectroscopy and helped scientists understand the interaction between light and matter. For this remarkable achievement, he received the Nobel Prize in Physics in 1930, becoming the first Indian physicist to receive this prestigious honour. Born on November 7, 1888, in Tiruchirappalli, Tamil Nadu, Raman also made important contributions to acoustics, chemistry and materials science. His discovery is commemorated every year through National Science Day in India."
+      },
+      "hi": {
+        "question": "सर सी. वी. रमन ने किस वर्ष रमन प्रभाव की खोज की, जो अणुओं द्वारा प्रकाश के प्रकीर्णन की व्याख्या करता है?",
+        "options": {
+          "A": "1930",
+          "B": "1928",
+          "C": "1932",
+          "D": "1925"
+        },
+        "explanation": "1928 वह वर्ष था जब सर चन्द्रशेखर वेंकट रमन ने रमन प्रभाव की खोज की थी, जो एक महत्वपूर्ण वैज्ञानिक सफलता थी जो अणुओं द्वारा प्रकाश के प्रकीर्णन की व्याख्या करती है। इस खोज ने स्पेक्ट्रोस्कोपी के क्षेत्र में महत्वपूर्ण योगदान दिया और वैज्ञानिकों को प्रकाश और पदार्थ के बीच की बातचीत को समझने में मदद की। इस उल्लेखनीय उपलब्धि के लिए, उन्हें 1930 में भौतिकी में नोबेल पुरस्कार मिला, और वह यह प्रतिष्ठित सम्मान पाने वाले पहले भारतीय भौतिक विज्ञानी बन गये। 7 नवंबर, 1888 को तमिलनाडु के तिरुचिरापल्ली में जन्मे रमन ने ध्वनिकी, रसायन विज्ञान और सामग्री विज्ञान में भी महत्वपूर्ण योगदान दिया। उनकी खोज को भारत में हर साल राष्ट्रीय विज्ञान दिवस के माध्यम से मनाया जाता है।"
+      },
+      "gu": {
+        "question": "સર સી.વી. રામને કયા વર્ષમાં રમણ અસરની શોધ કરી હતી, જે પરમાણુઓ દ્વારા પ્રકાશના વિખેરાઈને સમજાવે છે?",
+        "options": {
+          "A": "1930",
+          "B": "1928",
+          "C": "1932",
+          "D": "1925"
+        },
+        "explanation": "1928 એ વર્ષ હતું જે સર ચંદ્રશેખર વેંકટ રામને રામન અસરની શોધ કરી હતી, જે એક નોંધપાત્ર વૈજ્ઞાનિક સિદ્ધિ છે જે પરમાણુઓ દ્વારા પ્રકાશના વેરવિખેરતાને સમજાવે છે. આ શોધે સ્પેક્ટ્રોસ્કોપીના ક્ષેત્રમાં મહત્વપૂર્ણ યોગદાન આપ્યું અને વૈજ્ઞાનિકોને પ્રકાશ અને પદાર્થ વચ્ચેની ક્રિયાપ્રતિક્રિયા સમજવામાં મદદ કરી. આ નોંધપાત્ર સિદ્ધિ માટે, તેમને 1930 માં ભૌતિકશાસ્ત્રમાં નોબેલ પુરસ્કાર મળ્યો, આ પ્રતિષ્ઠિત સન્માન મેળવનાર પ્રથમ ભારતીય ભૌતિકશાસ્ત્રી બન્યા. 7 નવેમ્બર, 1888ના રોજ તમિલનાડુના તિરુચિરાપલ્લીમાં જન્મેલા રામને ધ્વનિશાસ્ત્ર, રસાયણશાસ્ત્ર અને સામગ્રી વિજ્ઞાનમાં પણ મહત્વપૂર્ણ યોગદાન આપ્યું હતું. તેમની શોધને દર વર્ષે ભારતમાં રાષ્ટ્રીય વિજ્ઞાન દિવસ દ્વારા યાદ કરવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-1",
+      "date": "2026-11-01",
+      "qno": 1,
       "answer": "B",
       "category": "Persons",
       "en": {
@@ -63901,40 +64235,77 @@
       }
     },
     {
+      "id": "2026-11-01-2",
+      "date": "2026-11-01",
+      "qno": 2,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+      }
+    },
+    {
       "id": "2026-11-01-3",
       "date": "2026-11-01",
       "qno": 3,
-      "answer": "C",
-      "category": "Festivity",
+      "answer": "A",
+      "category": "National",
       "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
         "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
+          "A": "December 31, 2026",
+          "B": "September 30, 2026",
+          "C": "March 31, 2027",
+          "D": "October 31, 2026"
         },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
       },
       "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
         "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
+          "A": "31 दिसंबर 2026",
+          "B": "30 सितंबर 2026",
+          "C": "31 मार्च 2027",
+          "D": "31 अक्टूबर 2026"
         },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
       },
       "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
         "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
+          "A": "ડિસેમ્બર 31, 2026",
+          "B": "30 સપ્ટેમ્બર, 2026",
+          "C": "માર્ચ 31, 2027",
+          "D": "ઑક્ટોબર 31, 2026"
         },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
       }
     },
     {
@@ -64015,74 +64386,74 @@
       "id": "2026-11-01-6",
       "date": "2026-11-01",
       "qno": 6,
-      "answer": "C",
-      "category": "Economy",
+      "answer": "D",
+      "category": "International",
       "en": {
-        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
         },
-        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
       },
       "hi": {
-        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
         },
-        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
       },
       "gu": {
-        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
         },
-        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
       }
     },
     {
       "id": "2026-11-01-7",
       "date": "2026-11-01",
       "qno": 7,
-      "answer": "A",
-      "category": "National",
+      "answer": "C",
+      "category": "Festivity",
       "en": {
-        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
         "options": {
-          "A": "December 31, 2026",
-          "B": "September 30, 2026",
-          "C": "March 31, 2027",
-          "D": "October 31, 2026"
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
         },
-        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
       },
       "hi": {
-        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
         "options": {
-          "A": "31 दिसंबर 2026",
-          "B": "30 सितंबर 2026",
-          "C": "31 मार्च 2027",
-          "D": "31 अक्टूबर 2026"
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
         },
-        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
       },
       "gu": {
-        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
         "options": {
-          "A": "ડિસેમ્બર 31, 2026",
-          "B": "30 સપ્ટેમ્બર, 2026",
-          "C": "માર્ચ 31, 2027",
-          "D": "ઑક્ટોબર 31, 2026"
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
         },
-        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
       }
     }
   ]
