@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-10",
     "2026-11-09",
     "2026-11-08",
     "2026-11-07",
@@ -64198,46 +64199,379 @@
       }
     },
     {
-      "id": "2026-11-01-1",
-      "date": "2026-11-01",
+      "id": "2026-11-10-1",
+      "date": "2026-11-10",
       "qno": 1,
-      "answer": "D",
-      "category": "International",
+      "answer": "B",
+      "category": "Defence",
       "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "question": "With which Indian Institute did the Indian Air Force's Software Development Institute (SDI) sign an agreement to develop indigenous secure communication systems?",
         "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
+          "A": "IIT Delhi",
+          "B": "IIT Madras",
+          "C": "IIT Bombay",
+          "D": "IIT Kanpur"
         },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+        "explanation": "IIT Madras partnered with the Indian Air Force's Software Development Institute (SDI) and IITM Pravartak Technologies Foundation through a Memorandum of Agreement signed on November 2026. The collaboration aims to design and develop an indigenous digital secure communication system specifically for airborne applications. It focuses on advanced communication algorithms and next-generation networking solutions. The initiative supports the Atmanirbhar Bharat vision by reducing India's dependence on imported communication technologies. It is also expected to strengthen the operational efficiency and technological capabilities of the Indian Air Force through the development of advanced indigenous digital solutions."
       },
       "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "question": "भारतीय वायु सेना के सॉफ्टवेयर डेवलपमेंट इंस्टीट्यूट (एसडीआई) ने स्वदेशी सुरक्षित संचार प्रणाली विकसित करने के लिए किस भारतीय संस्थान के साथ एक समझौते पर हस्ताक्षर किए?",
         "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
+          "A": "आईआईटी दिल्ली",
+          "B": "आईआईटी मद्रास",
+          "C": "आईआईटी बॉम्बे",
+          "D": "आईआईटी कानपुर"
         },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+        "explanation": "आईआईटी मद्रास ने आयातित संचार प्रौद्योगिकियों पर भारतीय वायु सेना की निर्भरता के साथ साझेदारी की। उन्नत स्वदेशी डिजिटल समाधानों के विकास के माध्यम से भारतीय वायु सेना की परिचालन दक्षता और तकनीकी क्षमताओं को मजबूत करने की भी उम्मीद है।"
       },
       "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "question": "ભારતીય વાયુસેનાની સોફ્ટવેર ડેવલપમેન્ટ સંસ્થા (SDI) એ કઈ ભારતીય સંસ્થા સાથે સ્વદેશી સુરક્ષિત સંચાર પ્રણાલી વિકસાવવા માટે કરાર પર હસ્તાક્ષર કર્યા હતા?",
         "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+          "A": "IIT દિલ્હી",
+          "B": "IIT મદ્રાસ",
+          "C": "IIT બોમ્બે",
+          "D": "IIT કાનપુર"
         },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+        "explanation": "IIT મદ્રાસે ભારતીય વાયુસેના's Software Development Institute (SDI) અને IITM Pravartak Technologies Foundation દ્વારા એક Memorandum નું Agreement સહી કરી પર November 2026.  collaboration aims ને design અને develop એક indigenous ડિજિટલ secure communication system specifically માટે airborne applications. It focuses પર advanced communication algorithms અને next-generation networking solutions.  initiative supports  Atmanirbhar Bharat vision દ્વારા reducing India'ની આયાતી સંચાર તકનીકો પર નિર્ભરતા સાથે ભાગીદારી કરી. અદ્યતન સ્વદેશી ડિજિટલ સોલ્યુશન્સના વિકાસ દ્વારા ભારતીય વાયુસેનાની ઓપરેશનલ કાર્યક્ષમતા અને તકનીકી ક્ષમતાઓને મજબૂત કરવાની પણ અપેક્ષા છે."
       }
     },
     {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
+      "id": "2026-11-10-2",
+      "date": "2026-11-10",
       "qno": 2,
+      "answer": "D",
+      "category": "Persons",
+      "en": {
+        "question": "Who was appointed as the Director General of Police (DGP) of Arunachal Pradesh in November 2026?",
+        "options": {
+          "A": "Shiv Darshan Singh Jamwal",
+          "B": "Sarabjit Singh",
+          "C": "M. John Harrison",
+          "D": "Rajesh Kumar"
+        },
+        "explanation": "Rajesh Kumar, a 1995-batch Indian Police Service (IPS) officer, was appointed as the Director General of Police (DGP) of Arunachal Pradesh. The Ministry of Home Affairs (MHA) issued his appointment on 3 November 2026, and he officially assumed charge on 6 November 2026. He succeeded Shiv Darshan Singh Jamwal, who was transferred to Delhi. His key priorities include strengthening community policing and intensifying operations against drug-related activities in the frontier state. His appointment comes at a time when the state is addressing security concerns and public protests related to major hydroelectric projects, including the Siang Upper Multipurpose Project."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में अरुणाचल प्रदेश के पुलिस महानिदेशक (DGP) के रूप में किसे नियुक्त किया गया?",
+        "options": {
+          "A": "शिव दर्शन सिंह जम्वाल",
+          "B": "सरबजीत सिंह",
+          "C": "एम. जॉन हैरिसन",
+          "D": "राजेश कुमार"
+        },
+        "explanation": "1995 बैच के भारतीय पुलिस सेवा (आईपीएस) अधिकारी राजेश कुमार को अरुणाचल प्रदेश के पुलिस महानिदेशक (डीजीपी) के रूप में नियुक्त किया गया था। गृह मंत्रालय (एमएचए) ने 3 नवंबर 2026 को उनकी नियुक्ति जारी की, और उन्होंने 6 नवंबर 2026 को आधिकारिक तौर पर कार्यभार ग्रहण किया। उन्होंने शिव दर्शन सिंह जामवाल का स्थान लिया, जिन्हें दिल्ली स्थानांतरित कर दिया गया था। उनकी प्रमुख प्राथमिकताओं में सामुदायिक पुलिसिंग को मजबूत करना और सीमावर्ती राज्य में नशीली दवाओं से संबंधित गतिविधियों के खिलाफ अभियान तेज करना शामिल है। उनकी नियुक्ति ऐसे समय में हुई है जब राज्य सियांग अपर बहुउद्देशीय परियोजना सहित प्रमुख जलविद्युत परियोजनाओं से संबंधित सुरक्षा चिंताओं और सार्वजनिक विरोध को संबोधित कर रहा है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 માં અરુણાચલ પ્રદેશના પોલીસ મહાનિર્દેશક (DGP) તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "શિવ દર્શન સિંહ જામવાલ",
+          "B": "સરબજીત સિંહ",
+          "C": "એમ. જોન હેરિસન",
+          "D": "રાજેશ કુમાર"
+        },
+        "explanation": "1995 બેચના ભારતીય પોલીસ સેવા (IPS) અધિકારી રાજેશ કુમારને અરુણાચલ પ્રદેશના પોલીસ મહાનિર્દેશક (DGP) તરીકે નિયુક્ત કરવામાં આવ્યા હતા. ગૃહ મંત્રાલય (MHA) એ 3 નવેમ્બર 2026 ના રોજ તેમની નિમણૂક જારી કરી, અને તેમણે સત્તાવાર રીતે 6 નવેમ્બર 2026 ના રોજ ચાર્જ સંભાળ્યો. તેઓ શિવ દર્શન સિંહ જામવાલના અનુગામી બન્યા, જેમની દિલ્હીમાં બદલી કરવામાં આવી હતી. તેમની મુખ્ય પ્રાથમિકતાઓમાં કોમ્યુનિટી પોલીસિંગને મજબૂત બનાવવા અને સરહદી રાજ્યમાં ડ્રગ-સંબંધિત પ્રવૃત્તિઓ સામેની કામગીરીને વધુ તીવ્ર બનાવવાનો સમાવેશ થાય છે. તેમની નિમણૂક એવા સમયે કરવામાં આવી છે જ્યારે રાજ્ય સિઆંગ અપર બહુહેતુક પ્રોજેક્ટ સહિત મુખ્ય હાઇડ્રોઇલેક્ટ્રિક પ્રોજેક્ટ્સ સંબંધિત સુરક્ષા ચિંતાઓ અને જાહેર વિરોધને સંબોધિત કરી રહ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-10-3",
+      "date": "2026-11-10",
+      "qno": 3,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed by the Supreme Court to head the special committee for scrutinising forest rights claims under the Forest Rights Act, 2006, in Tamil Nadu?",
+        "options": {
+          "A": "Bhushan R. Gavai",
+          "B": "D.Y. Chandrachud",
+          "C": "Sanjiv Khanna",
+          "D": "Surya Kant"
+        },
+        "explanation": "Former Chief Justice of India Bhushan R. Gavai was appointed by the Supreme Court to head a special committee responsible for scrutinising forest rights claims in Tamil Nadu under the Forest Rights Act (FRA), 2006. The committee will examine orders related to the rights of Forest-Dwelling Scheduled Tribes and Other Traditional Forest Dwellers. Its primary focus will be on the Agasthyamalai landscape and the Srivilliputhur-Megamalai Tiger Reserve. The committee also includes an officer from the Central Empowered Committee and Tamil Nadu's Principal Chief Conservator of Forests. It will review the implementation of forest rights procedures and submit its findings to the Supreme Court."
+      },
+      "hi": {
+        "question": "तमिलनाडु में वन अधिकार अधिनियम, 2006 के तहत वन अधिकार दावों की जांच के लिए विशेष समिति का नेतृत्व करने के लिए सर्वोच्च न्यायालय द्वारा किसे नियुक्त किया गया था?",
+        "options": {
+          "A": "भूषण आर गवई",
+          "B": "डी.वाई. चंद्रचूड़",
+          "C": "संजीव खन्ना",
+          "D": "सूर्यकान्त"
+        },
+        "explanation": "भारत के पूर्व मुख्य न्यायाधीश भूषण आर. गवई को वन अधिकार अधिनियम (एफआरए), 2006 के तहत तमिलनाडु में वन अधिकारों के दावों की जांच के लिए जिम्मेदार एक विशेष समिति का नेतृत्व करने के लिए सुप्रीम कोर्ट द्वारा नियुक्त किया गया था। समिति वन-निवास अनुसूचित जनजातियों और अन्य पारंपरिक वन निवासियों के अधिकारों से संबंधित आदेशों की जांच करेगी। इसका प्राथमिक ध्यान अगस्त्यमलाई परिदृश्य और श्रीविल्लिपुथुर-मेगामलाई टाइगर रिजर्व पर होगा। समिति में केंद्रीय अधिकार प्राप्त समिति के एक अधिकारी और तमिलनाडु के प्रधान मुख्य वन संरक्षक भी शामिल हैं। यह वन अधिकार प्रक्रियाओं के कार्यान्वयन की समीक्षा करेगा और अपने निष्कर्ष सर्वोच्च न्यायालय को प्रस्तुत करेगा।"
+      },
+      "gu": {
+        "question": "તમિલનાડુમાં ફોરેસ્ટ રાઈટ્સ એક્ટ, 2006 હેઠળ વન અધિકારના દાવાઓની ચકાસણી કરવા માટેની વિશેષ સમિતિના વડા તરીકે સર્વોચ્ચ અદાલતે કોની નિમણૂક કરી હતી?",
+        "options": {
+          "A": "ભૂષણ આર. ગવઈ",
+          "B": "ડી.વાય. ચંદ્રચુડ",
+          "C": "સંજીવ ખન્ના",
+          "D": "સૂર્યકાન્ત"
+        },
+        "explanation": "તમિલનાડુમાં ફોરેસ્ટ રાઈટ્સ એક્ટ (FRA), 2006 હેઠળ વન અધિકારના દાવાઓની તપાસ માટે જવાબદાર વિશેષ સમિતિના વડા તરીકે સુપ્રીમ કોર્ટ દ્વારા ભારતના ભૂતપૂર્વ મુખ્ય ન્યાયાધીશ ભૂષણ આર. ગવઈની નિમણૂક કરવામાં આવી હતી. આ સમિતિ વન-નિવાસ અનુસૂચિત જનજાતિ અને અન્ય પરંપરાગત વનવાસીઓના અધિકારો સંબંધિત આદેશોની તપાસ કરશે. તેનું પ્રાથમિક ધ્યાન અગસ્થ્યમલાઈ લેન્ડસ્કેપ અને શ્રીવિલ્લીપુથુર-મેગામલાઈ ટાઈગર રિઝર્વ પર રહેશે. આ કમિટીમાં સેન્ટ્રલ એમ્પાવર્ડ કમિટીના એક અધિકારી અને તમિલનાડુના પ્રિન્સિપલ ચીફ કન્ઝર્વેટર ઑફ ફોરેસ્ટનો પણ સમાવેશ થાય છે. તે વન અધિકાર પ્રક્રિયાઓના અમલીકરણની સમીક્ષા કરશે અને તેના તારણો સુપ્રીમ કોર્ટમાં રજૂ કરશે."
+      }
+    },
+    {
+      "id": "2026-11-10-4",
+      "date": "2026-11-10",
+      "qno": 4,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Science Day for Peace and Development observed every year?",
+        "options": {
+          "A": "November 10",
+          "B": "November 15",
+          "C": "October 24",
+          "D": "December 5"
+        },
+        "explanation": "November 10 is observed annually as World Science Day for Peace and Development. The day was declared by UNESCO in 2001, following the World Conference on Science held in 1999 in Budapest, Hungary. The first worldwide celebration took place in 2002. The main objective is to increase public engagement with science and highlight its importance in promoting peace and sustainable development. The 2026 theme is “Common ground through science diplomacy,” which emphasises international scientific cooperation, dialogue and collaboration to address global challenges such as climate change, biodiversity loss and public health."
+      },
+      "hi": {
+        "question": "शांति और विकास के लिए विश्व विज्ञान दिवस हर साल कब मनाया जाता है?",
+        "options": {
+          "A": "10 नवंबर",
+          "B": "15 नवंबर",
+          "C": "24 अक्टूबर",
+          "D": "5 दिसंबर"
+        },
+        "explanation": "10 नवंबर को प्रतिवर्ष शांति और विकास के लिए विश्व विज्ञान दिवस के रूप में मनाया जाता है। हंगरी के बुडापेस्ट में 1999 में आयोजित विज्ञान पर विश्व सम्मेलन के बाद 2001 में यूनेस्को द्वारा इस दिन की घोषणा की गई थी। पहला विश्वव्यापी उत्सव 2002 में हुआ था। इसका मुख्य उद्देश्य विज्ञान के साथ सार्वजनिक जुड़ाव बढ़ाना और शांति और सतत विकास को बढ़ावा देने में इसके महत्व को उजागर करना है। 2026 theme है “Common ground के माध्यम से science diplomacy, जो जलवायु परिवर्तन, जैव विविधता हानि और सार्वजनिक स्वास्थ्य जैसी वैश्विक चुनौतियों से निपटने के लिए अंतर्राष्ट्रीय वैज्ञानिक सहयोग, संवाद और सहयोग पर जोर देता है।"
+      },
+      "gu": {
+        "question": "શાંતિ અને વિકાસ માટે વિશ્વ વિજ્ઞાન દિવસ દર વર્ષે ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "10 નવેમ્બર",
+          "B": "નવેમ્બર 15",
+          "C": "24 ઓક્ટોબર",
+          "D": "5 ડિસેમ્બર"
+        },
+        "explanation": "10 નવેમ્બરને દર વર્ષે વિશ્વ વિજ્ઞાન દિવસ ફોર પીસ એન્ડ ડેવલપમેન્ટ તરીકે મનાવવામાં આવે છે. 1999માં બુડાપેસ્ટ, હંગેરીમાં યોજાયેલી વિજ્ઞાન પરની વિશ્વ પરિષદને પગલે 2001માં યુનેસ્કો દ્વારા આ દિવસની જાહેરાત કરવામાં આવી હતી. પ્રથમ વિશ્વવ્યાપી ઉજવણી 2002 માં થઈ હતી. મુખ્ય ઉદ્દેશ્ય વિજ્ઞાન સાથે જાહેર જોડાણ વધારવાનો અને શાંતિ અને ટકાઉ વિકાસને પ્રોત્સાહન આપવા માટે તેના મહત્વને પ્રકાશિત કરવાનો છે. 2026 theme છે “Common ground દ્વારા science diplomacy,\" જે આબોહવા પરિવર્તન, જૈવવિવિધતાની ખોટ અને જાહેર આરોગ્ય જેવા વૈશ્વિક પડકારોને પહોંચી વળવા આંતરરાષ્ટ્રીય વૈજ્ઞાનિક સહયોગ, સંવાદ અને સહયોગ પર ભાર મૂકે છે."
+      }
+    },
+    {
+      "id": "2026-11-10-5",
+      "date": "2026-11-10",
+      "qno": 5,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "With which state did the International Institute of Hotel Management (IIHM) sign a three-year strategic partnership MoU for hospitality skill development?",
+        "options": {
+          "A": "Andhra Pradesh",
+          "B": "Telangana",
+          "C": "Karnataka",
+          "D": "Tamil Nadu"
+        },
+        "explanation": "Andhra Pradesh signed a three-year Strategic Partnership Memorandum of Understanding (MoU) with the International Institute of Hotel Management (IIHM) on 7 November 2026. The agreement was finalised in Tirupati during the 31st CII Partnership Summit 2026. The partnership aims to strengthen hospitality education, develop professional skills in culinary arts, food production and hotel operations, and promote the state's tourism destinations and culinary heritage. It also focuses on sustainable tourism, local sourcing, farm-to-fork concepts and the application of Artificial Intelligence in hospitality education and tourism operations. A Joint Coordination Committee will oversee its implementation through regular reviews."
+      },
+      "hi": {
+        "question": "इंटरनेशनल इंस्टीट्यूट ऑफ होटल मैनेजमेंट (IIHM) ने किस राज्य के साथ आतिथ्य कौशल विकास के लिए तीन साल की रणनीतिक साझेदारी समझौता ज्ञापन पर हस्ताक्षर किए?",
+        "options": {
+          "A": "आंध्र प्रदेश",
+          "B": "तेलंगाना",
+          "C": "कर्नाटक",
+          "D": "तमिलनाडु"
+        },
+        "explanation": "आंध्र प्रदेश ने 7 नवंबर 2026 को इंटरनेशनल इंस्टीट्यूट ऑफ होटल मैनेजमेंट (IIHM) के साथ तीन साल के रणनीतिक साझेदारी समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। समझौते को 31वें CII पार्टनरशिप शिखर सम्मेलन 2026 के दौरान तिरुपति में अंतिम रूप दिया गया। साझेदारी का उद्देश्य आतिथ्य शिक्षा को मजबूत करना, पाक कला, खाद्य उत्पादन और होटल संचालन में पेशेवर कौशल विकसित करना और राज्य के पर्यटन स्थलों और पाक विरासत को बढ़ावा देना है। यह स्थायी पर्यटन, स्थानीय सोर्सिंग, फार्म-टू-फोर्क अवधारणाओं और आतिथ्य शिक्षा और पर्यटन संचालन में आर्टिफिशियल इंटेलिजेंस के अनुप्रयोग पर भी ध्यान केंद्रित करता है। एक संयुक्त समन्वय समिति नियमित समीक्षा के माध्यम से इसके कार्यान्वयन की निगरानी करेगी।"
+      },
+      "gu": {
+        "question": "હોસ્પિટાલિટી કૌશલ્ય વિકાસ માટે ઇન્ટરનેશનલ ઇન્સ્ટિટ્યૂટ ઑફ હોટેલ મેનેજમેન્ટ (IIHM) એ કયા રાજ્ય સાથે ત્રણ વર્ષની વ્યૂહાત્મક ભાગીદારી એમઓયુ પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "આંધ્ર પ્રદેશ",
+          "B": "તેલંગાણા",
+          "C": "કર્ણાટક",
+          "D": "તમિલનાડુ"
+        },
+        "explanation": "આંધ્ર પ્રદેશે 7 નવેમ્બર 2026ના રોજ ઇન્ટરનેશનલ ઇન્સ્ટિટ્યૂટ ઑફ હોટેલ મેનેજમેન્ટ (IIHM) સાથે ત્રણ વર્ષના વ્યૂહાત્મક ભાગીદારી મેમોરેન્ડમ (MoU) પર હસ્તાક્ષર કર્યા હતા. 31મી CII પાર્ટનરશિપ સમિટ 2026 દરમિયાન તિરુપતિમાં આ કરારને અંતિમ સ્વરૂપ આપવામાં આવ્યું હતું. આ ભાગીદારીનો ઉદ્દેશ હોસ્પિટાલિટી શિક્ષણને મજબૂત કરવા, હોસ્પિટાલિટી એજ્યુકેશન, ફૂડ કૌશલ્ય અને વ્યાવસાયિક કૌશલ્યના વિકાસને પ્રોત્સાહન આપવાનો છે. રાજ્યના પ્રવાસન સ્થળો અને રાંધણ વારસો. તે ટકાઉ પ્રવાસન, સ્થાનિક સોર્સિંગ, ફાર્મ-ટુ-ફોર્ક વિભાવનાઓ અને હોસ્પિટાલિટી એજ્યુકેશન અને પર્યટન કામગીરીમાં કૃત્રિમ બુદ્ધિના ઉપયોગ પર પણ ધ્યાન કેન્દ્રિત કરે છે. એક સંયુક્ત સંકલન સમિતિ નિયમિત સમીક્ષા દ્વારા તેના અમલીકરણની દેખરેખ રાખશે."
+      }
+    },
+    {
+      "id": "2026-11-10-6",
+      "date": "2026-11-10",
+      "qno": 6,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which country is set to become the first nation to completely skip the UN Human Rights Council's Universal Periodic Review?",
+        "options": {
+          "A": "Israel",
+          "B": "Russia",
+          "C": "China",
+          "D": "United States"
+        },
+        "explanation": "The United States is set to become the first country to completely skip the United Nations Human Rights Council's Universal Periodic Review (UPR). The review was initially scheduled for November 2025 but was postponed to 10 November 2026 after the US failed to send a delegation. The Trump administration refused to participate, expressing concerns that the UN Human Rights Council was biased against the United States and Israel. The UPR is a human rights monitoring mechanism established in 2006 to assess the human rights records of all 193 UN member states every four to five years."
+      },
+      "hi": {
+        "question": "कौन सा देश संयुक्त राष्ट्र मानवाधिकार परिषद की सार्वभौमिक आवधिक समीक्षा को पूरी तरह से छोड़ने वाला पहला देश बनने जा रहा है?",
+        "options": {
+          "A": "इजराइल",
+          "B": "रूस",
+          "C": "चीन",
+          "D": "संयुक्त राज्य अमेरिका"
+        },
+        "explanation": "संयुक्त राज्य अमेरिका संयुक्त राष्ट्र मानवाधिकार परिषद की सार्वभौमिक आवधिक समीक्षा (यूपीआर) को पूरी तरह से छोड़ने वाला पहला देश बनने जा रहा है। समीक्षा शुरू में नवंबर 2025 के लिए निर्धारित की गई थी, लेकिन अमेरिका द्वारा प्रतिनिधिमंडल भेजने में विफल रहने के बाद इसे 10 नवंबर 2026 तक के लिए स्थगित कर दिया गया था। ट्रम्प प्रशासन ने यह चिंता व्यक्त करते हुए भाग लेने से इनकार कर दिया कि संयुक्त राष्ट्र मानवाधिकार परिषद संयुक्त राज्य अमेरिका और इज़राइल के प्रति पक्षपाती है। यूपीआर एक मानवाधिकार निगरानी तंत्र है जिसे हर चार से पांच साल में सभी 193 संयुक्त राष्ट्र सदस्य देशों के मानवाधिकार रिकॉर्ड का आकलन करने के लिए 2006 में स्थापित किया गया था।"
+      },
+      "gu": {
+        "question": "કયો દેશ યુએન હ્યુમન રાઇટ્સ કાઉન્સિલની યુનિવર્સલ પીરિયડિક રિવ્યુને સંપૂર્ણપણે છોડી દેનાર પ્રથમ રાષ્ટ્ર બનવા માટે તૈયાર છે?",
+        "options": {
+          "A": "ઈઝરાયેલ",
+          "B": "રશિયા",
+          "C": "ચીન",
+          "D": "યુનાઇટેડ સ્ટેટ્સ"
+        },
+        "explanation": "યુનાઇટેડ સ્ટેટ્સ યુનાઇટેડ નેશન્સ હ્યુમન રાઇટ્સ કાઉન્સિલની યુનિવર્સલ પીરિયડિક રિવ્યુ (UPR) ને સંપૂર્ણપણે છોડી દેનાર પ્રથમ દેશ બનવા માટે તૈયાર છે. શરૂઆતમાં સમીક્ષા નવેમ્બર 2025 માટે નક્કી કરવામાં આવી હતી પરંતુ યુએસ પ્રતિનિધિમંડળ મોકલવામાં નિષ્ફળ ગયા બાદ 10 નવેમ્બર 2026 સુધી મુલતવી રાખવામાં આવી હતી. યુએન હ્યુમન રાઇટ્સ કાઉન્સિલ યુનાઇટેડ સ્ટેટ્સ અને ઇઝરાયેલ સામે પક્ષપાતી હોવાની ચિંતા વ્યક્ત કરીને ટ્રમ્પ વહીવટીતંત્રે ભાગ લેવાનો ઇનકાર કર્યો હતો. યુપીઆર એ 2006 માં સ્થપાયેલ માનવ અધિકારોની દેખરેખની પદ્ધતિ છે જે દર ચારથી પાંચ વર્ષે યુએનના તમામ 193 સભ્ય દેશોના માનવાધિકાર રેકોર્ડનું મૂલ્યાંકન કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-10-7",
+      "date": "2026-11-10",
+      "qno": 7,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "Which state government increased crop damage compensation by 25% to 30% and doubled financial assistance for disaster-related deaths in November 2026?",
+        "options": {
+          "A": "Madhya Pradesh",
+          "B": "Uttar Pradesh",
+          "C": "Rajasthan",
+          "D": "Bihar"
+        },
+        "explanation": "Uttar Pradesh announced a significant increase in financial assistance for farmers affected by crop damage and families impacted by natural disasters on 9 November 2026. The state government increased crop loss compensation by 25% to 30% across different categories. Compensation for irrigated crop losses was raised from ₹17,000 to ₹22,000 per hectare, while assistance for rain-fed crops increased from ₹8,500 to ₹11,000 per hectare. Additionally, financial assistance for families of people who die due to natural disasters was doubled from ₹4 lakh to ₹8 lakh. The revised measures aim to provide greater financial support to farmers and disaster-affected families."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में किस राज्य सरकार ने फसल क्षति मुआवजे को 25% से 30% तक बढ़ा दिया और आपदा से संबंधित मौतों के लिए वित्तीय सहायता दोगुनी कर दी?",
+        "options": {
+          "A": "मध्य प्रदेश",
+          "B": "उत्तर प्रदेश",
+          "C": "राजस्थान",
+          "D": "बिहार"
+        },
+        "explanation": "उत्तर प्रदेश ने 9 नवंबर 2026 को फसल क्षति से प्रभावित किसानों और प्राकृतिक आपदाओं से प्रभावित परिवारों के लिए वित्तीय सहायता में उल्लेखनीय वृद्धि की घोषणा की। राज्य सरकार ने विभिन्न श्रेणियों में फसल क्षति मुआवजे में 25% से 30% की वृद्धि की। सिंचित फसल के नुकसान के लिए मुआवजा ₹17,000 से बढ़ाकर ₹22,000 प्रति हेक्टेयर कर दिया गया, जबकि वर्षा आधारित फसलों के लिए सहायता ₹8,500 से बढ़ाकर ₹11,000 प्रति हेक्टेयर कर दी गई। इसके अतिरिक्त, प्राकृतिक आपदाओं के कारण मरने वाले लोगों के परिवारों के लिए वित्तीय सहायता ₹4 लाख से दोगुनी करके ₹8 लाख कर दी गई। संशोधित उपायों का उद्देश्य किसानों और आपदा प्रभावित परिवारों को अधिक वित्तीय सहायता प्रदान करना है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 માં કઈ રાજ્ય સરકારે પાક નુકસાન વળતરમાં 25% થી 30% વધારો કર્યો અને આપત્તિ-સંબંધિત મૃત્યુ માટે નાણાકીય સહાય બમણી કરી?",
+        "options": {
+          "A": "મધ્યપ્રદેશ",
+          "B": "ઉત્તર પ્રદેશ",
+          "C": "રાજસ્થાન",
+          "D": "બિહાર"
+        },
+        "explanation": "ઉત્તર પ્રદેશે 9 નવેમ્બર 2026 ના રોજ પાકના નુકસાનથી અસરગ્રસ્ત ખેડૂતો અને કુદરતી આફતોથી પ્રભાવિત પરિવારો માટે નાણાકીય સહાયમાં નોંધપાત્ર વધારાની જાહેરાત કરી. રાજ્ય સરકારે વિવિધ શ્રેણીઓમાં પાકના નુકસાનના વળતરમાં 25% થી 30% વધારો કર્યો. પિયત પાકના નુકસાન માટે વળતર પ્રતિ હેક્ટર ₹17,000 થી વધારીને ₹22,000 કરવામાં આવ્યું હતું, જ્યારે વરસાદ આધારિત પાક માટે સહાય ₹8,500 થી વધારીને ₹11,000 પ્રતિ હેક્ટર કરવામાં આવી હતી. વધુમાં, કુદરતી આફતોને કારણે મૃત્યુ પામેલા લોકોના પરિવાર માટે નાણાકીય સહાય ₹4 લાખથી બમણી કરીને ₹8 લાખ કરવામાં આવી હતી. સુધારેલા પગલાંનો ઉદ્દેશ્ય ખેડૂતો અને આપત્તિથી પ્રભાવિત પરિવારોને વધુ નાણાકીય સહાય પૂરી પાડવાનો છે."
+      }
+    },
+    {
+      "id": "2026-11-10-8",
+      "date": "2026-11-10",
+      "qno": 8,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who won the Booker Prize 2026 for the dystopian science fiction novel ‘The End of Everything’?",
+        "options": {
+          "A": "Margaret Atwood",
+          "B": "M. John Harrison",
+          "C": "Douglas Stuart",
+          "D": "Marlon James"
+        },
+        "explanation": "M. John Harrison, a British author, won the 2026 Booker Prize for his dystopian science fiction novel ‘The End of Everything’ on 9 November 2026. At the age of 81, he became the oldest winner in the history of the prestigious literary award. The novel was unanimously selected by the judging panel from 163 eligible entries. Harrison received prize money of £50,000 at the award ceremony held at Old Billingsgate in London. This victory also marked the first time a science fiction author had won the Booker Prize and the first win for the independent publishing house Serpent’s Tail."
+      },
+      "hi": {
+        "question": "डायस्टोपियन विज्ञान कथा उपन्यास 'द एंड ऑफ एवरीथिंग' के लिए बुकर पुरस्कार 2026 किसने जीता?",
+        "options": {
+          "A": "मार्गरेट एटवुड",
+          "B": "एम. जॉन हैरिसन",
+          "C": "डगलस स्टुअर्ट",
+          "D": "मार्लोन जेम्स"
+        },
+        "explanation": "ब्रिटिश लेखक एम. जॉन हैरिसन ने 9 नवंबर 2026 को अपने डायस्टोपियन विज्ञान कथा उपन्यास 'द एंड ऑफ एवरीथिंग' के लिए 2026 बुकर पुरस्कार जीता। 81 वर्ष की आयु में, वह प्रतिष्ठित साहित्यिक पुरस्कार के इतिहास में सबसे उम्रदराज विजेता बन गए। उपन्यास को 163 योग्य प्रविष्टियों में से निर्णायक पैनल द्वारा सर्वसम्मति से चुना गया था। लंदन के ओल्ड बिलिंग्सगेट में आयोजित पुरस्कार समारोह में हैरिसन को £50,000 की पुरस्कार राशि मिली। यह जीत पहली बार है जब किसी विज्ञान कथा लेखक ने बुकर पुरस्कार जीता है और स्वतंत्र प्रकाशन गृह सर्पेंट्स टेल के लिए भी यह पहली जीत है।"
+      },
+      "gu": {
+        "question": "ડિસ્ટોપિયન સાયન્સ ફિક્શન નવલકથા ‘ધ એન્ડ ઓફ એવરીથિંગ’ માટે બુકર પ્રાઈઝ 2026 કોણે જીત્યું?",
+        "options": {
+          "A": "માર્ગારેટ એટવુડ",
+          "B": "એમ. જોન હેરિસન",
+          "C": "ડગ્લાસ સ્ટુઅર્ટ",
+          "D": "માર્લોન જેમ્સ"
+        },
+        "explanation": "એમ. જ્હોન હેરિસન, એક બ્રિટિશ લેખક, 9 નવેમ્બર 2026 ના રોજ તેમની ડાયસ્ટોપિયન સાયન્સ ફિક્શન નવલકથા 'ધ એન્ડ ઓફ એવરીથિંગ' માટે 2026 બુકર પ્રાઈઝ જીત્યા. 81 વર્ષની ઉંમરે, તેઓ પ્રતિષ્ઠિત સાહિત્યિક પુરસ્કારના ઇતિહાસમાં સૌથી વૃદ્ધ વિજેતા બન્યા. 163 પાત્ર એન્ટ્રીઓમાંથી નિર્ણાયક પેનલ દ્વારા સર્વસંમતિથી નવલકથાની પસંદગી કરવામાં આવી હતી. હેરિસનને લંડનમાં ઓલ્ડ બિલિંગ્સગેટ ખાતે આયોજિત એવોર્ડ સમારંભમાં £50,000 ની ઈનામી રકમ મળી હતી. આ વિજયે પ્રથમ વખત વિજ્ઞાન સાહિત્ય લેખકે બુકર પ્રાઈઝ જીત્યું હતું અને સ્વતંત્ર પ્રકાશન ગૃહ સર્પન્ટ્સ ટેઈલની પ્રથમ જીત પણ ચિહ્નિત કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-10-9",
+      "date": "2026-11-10",
+      "qno": 9,
+      "answer": "C",
+      "category": "Defence",
+      "en": {
+        "question": "With which country is India conducting the 15th edition of the joint naval exercise Naseem Al Bahr 2026?",
+        "options": {
+          "A": "Bahrain",
+          "B": "Qatar",
+          "C": "Oman",
+          "D": "Saudi Arabia"
+        },
+        "explanation": "Oman is hosting the 15th edition of the bilateral naval exercise Naseem Al Bahr 2026, also known as Sea Breeze. The exercise began on 9 November 2026 in the Al Batinah maritime region and will continue until 12 November 2026. It involves the Indian Navy and the Royal Navy of Oman. The Indian Navy's INS Surat arrived in Muscat on 8 November to participate in the exercise. The main objectives are to strengthen maritime cooperation, improve operational coordination, enhance interoperability and promote mutual understanding between the two navies. The first edition of this exercise was conducted in 1993."
+      },
+      "hi": {
+        "question": "भारत किस देश के साथ संयुक्त नौसैनिक अभ्यास नसीम अल बह्र 2026 का 15वां संस्करण आयोजित कर रहा है?",
+        "options": {
+          "A": "बहरीन",
+          "B": "कतर",
+          "C": "ओमान",
+          "D": "सऊदी अरब"
+        },
+        "explanation": "ओमान द्विपक्षीय नौसैनिक अभ्यास नसीम अल बह्र 2026 के 15वें संस्करण की मेजबानी कर रहा है, जिसे सी ब्रीज़ के नाम से भी जाना जाता है। यह अभ्यास 9 नवंबर 2026 को अल बतिना समुद्री क्षेत्र में शुरू हुआ और 12 नवंबर 2026 तक जारी रहेगा। इसमें भारतीय नौसेना और ओमान की रॉयल नेवी शामिल है। भारतीय नौसेना का आईएनएस सूरत अभ्यास में भाग लेने के लिए 8 नवंबर को मस्कट पहुंचा। इसका मुख्य उद्देश्य समुद्री सहयोग को मजबूत करना, परिचालन समन्वय में सुधार करना, अंतरसंचालनीयता को बढ़ाना और दोनों नौसेनाओं के बीच आपसी समझ को बढ़ावा देना है। इस अभ्यास का पहला संस्करण 1993 में आयोजित किया गया था।"
+      },
+      "gu": {
+        "question": "ભારત કયા દેશ સાથે સંયુક્ત નૌકા કવાયત નસીમ અલ બહર 2026 ની 15મી આવૃત્તિનું આયોજન કરી રહ્યું છે?",
+        "options": {
+          "A": "બહેરીન",
+          "B": "કતાર",
+          "C": "ઓમાન",
+          "D": "સાઉદી અરેબિયા"
+        },
+        "explanation": "ઓમાન દ્વિપક્ષીય નૌકા કવાયત નસીમ અલ બહર 2026ની 15મી આવૃત્તિનું આયોજન કરી રહ્યું છે, જેને સી બ્રિઝ તરીકે પણ ઓળખવામાં આવે છે. આ કવાયત 9 નવેમ્બર 2026 ના રોજ અલ બાતિનાહ દરિયાઈ ક્ષેત્રમાં શરૂ થઈ હતી અને 12 નવેમ્બર 2026 સુધી ચાલુ રહેશે. તેમાં ભારતીય નૌકાદળ અને ઓમાનની રોયલ નેવી સામેલ છે. કવાયતમાં ભાગ લેવા માટે ભારતીય નૌકાદળનું INS સુરત 8 નવેમ્બરે મસ્કત પહોંચ્યું હતું. મુખ્ય ઉદ્દેશ્યો દરિયાઈ સહયોગને મજબૂત કરવા, ઓપરેશનલ કોઓર્ડિનેશનમાં સુધારો કરવા, આંતર-કાર્યક્ષમતા વધારવા અને બંને નૌકાદળો વચ્ચે પરસ્પર સમજણને પ્રોત્સાહન આપવાનો છે. આ કવાયતની પ્રથમ આવૃત્તિ 1993 માં હાથ ધરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-11-10-10",
+      "date": "2026-11-10",
+      "qno": 10,
+      "answer": "C",
+      "category": "Business",
+      "en": {
+        "question": "Which company partnered with the Ministry of MSME to promote industry-oriented technical skills and enhance youth employability?",
+        "options": {
+          "A": "LG Electronics",
+          "B": "Sony India",
+          "C": "Samsung",
+          "D": "Panasonic"
+        },
+        "explanation": "Samsung India Electronics partnered with the Ministry of Micro, Small and Medium Enterprises (MSME) through a Memorandum of Understanding signed on November 2026. The three-year partnership aims to improve youth employability by providing industry-oriented technical training across 15 MSME Technology Centres in India. The training programs focus on electronics, mobile phones and home appliances, including installation, servicing and repair. The initiative aims to train 1,600 individuals in its first year. Successful trainees will receive three-month internships with a monthly stipend of ₹12,000 through Direct Benefit Transfer (DBT). Special scholarships will also support women and persons with disabilities."
+      },
+      "hi": {
+        "question": "किस कंपनी ने उद्योग-उन्मुख तकनीकी कौशल को बढ़ावा देने और युवाओं की रोजगार क्षमता बढ़ाने के लिए एमएसएमई मंत्रालय के साथ साझेदारी की है?",
+        "options": {
+          "A": "एलजी इलेक्ट्रॉनिक्स",
+          "B": "सोनी इंडिया",
+          "C": "सैमसंग",
+          "D": "पैनासोनिक"
+        },
+        "explanation": "सैमसंग इंडिया इलेक्ट्रॉनिक्स ने नवंबर 2026 को हस्ताक्षरित एक समझौता ज्ञापन के माध्यम से सूक्ष्म, लघु और मध्यम उद्यम (एमएसएमई) मंत्रालय के साथ भागीदारी की। तीन साल की साझेदारी का उद्देश्य भारत में 15 एमएसएमई प्रौद्योगिकी केंद्रों में उद्योग-उन्मुख तकनीकी प्रशिक्षण प्रदान करके युवाओं की रोजगार क्षमता में सुधार करना है। प्रशिक्षण कार्यक्रम इंस्टॉलेशन, सर्विसिंग और मरम्मत सहित इलेक्ट्रॉनिक्स, मोबाइल फोन और घरेलू उपकरणों पर केंद्रित हैं। इस पहल का लक्ष्य अपने पहले वर्ष में 1,600 व्यक्तियों को प्रशिक्षित करना है। सफल प्रशिक्षुओं को प्रत्यक्ष लाभ अंतरण (डीबीटी) के माध्यम से ₹12,000 के मासिक वजीफे के साथ तीन महीने की इंटर्नशिप प्राप्त होगी। विशेष छात्रवृत्तियाँ महिलाओं और विकलांग व्यक्तियों को भी सहायता प्रदान करेंगी।"
+      },
+      "gu": {
+        "question": "કઈ કંપનીએ ઉદ્યોગ લક્ષી ટેકનિકલ કૌશલ્યોને પ્રોત્સાહન આપવા અને યુવાનોની રોજગાર ક્ષમતા વધારવા માટે MSME મંત્રાલય સાથે ભાગીદારી કરી છે?",
+        "options": {
+          "A": "એલજી ઇલેક્ટ્રોનિક્સ",
+          "B": "સોની ઈન્ડિયા",
+          "C": "સેમસંગ",
+          "D": "પેનાસોનિક"
+        },
+        "explanation": "સેમસંગ ઇન્ડિયા ઇલેક્ટ્રોનિક્સે નવેમ્બર 2026 ના રોજ હસ્તાક્ષર કરાયેલા સમજૂતી કરાર દ્વારા માઇક્રો, સ્મોલ એન્ડ મીડિયમ એન્ટરપ્રાઇઝિસ (MSME) મંત્રાલય સાથે ભાગીદારી કરી. ત્રણ વર્ષની ભાગીદારીનો હેતુ ભારતમાં 15 MSME ટેક્નોલોજી કેન્દ્રોમાં ઉદ્યોગ-લક્ષી ટેકનિકલ તાલીમ આપીને યુવાનોની રોજગાર ક્ષમતામાં સુધારો કરવાનો છે. તાલીમ કાર્યક્રમો ઇલેક્ટ્રોનિક્સ, મોબાઇલ ફોન અને ઘરનાં ઉપકરણો પર ધ્યાન કેન્દ્રિત કરે છે, જેમાં ઇન્સ્ટોલેશન, સર્વિસિંગ અને રિપેરનો સમાવેશ થાય છે. પહેલનો હેતુ તેના પ્રથમ વર્ષમાં 1,600 લોકોને તાલીમ આપવાનો છે. સફળ તાલીમાર્થીઓને ડાયરેક્ટ બેનિફિટ ટ્રાન્સફર (DBT) દ્વારા ₹12,000ના માસિક સ્ટાઈપેન્ડ સાથે ત્રણ મહિનાની ઈન્ટર્નશિપ મળશે. વિશેષ શિષ્યવૃત્તિ મહિલાઓ અને વિકલાંગ વ્યક્તિઓને પણ મદદ કરશે."
+      }
+    },
+    {
+      "id": "2026-11-01-1",
+      "date": "2026-11-01",
+      "qno": 1,
       "answer": "C",
       "category": "Economy",
       "en": {
@@ -64272,83 +64606,9 @@
       }
     },
     {
-      "id": "2026-11-01-3",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 3,
-      "answer": "B",
-      "category": "Persons",
-      "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
-        "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
-        },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
-      },
-      "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
-        "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
-        },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
-      },
-      "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
-        "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
-        },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "C",
-      "category": "Festivity",
-      "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
-        },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
-        },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
-      },
-      "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
-        },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
-      }
-    },
-    {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
-      "qno": 5,
+      "qno": 2,
       "answer": "B",
       "category": "Defence",
       "en": {
@@ -64383,46 +64643,83 @@
       }
     },
     {
-      "id": "2026-11-01-6",
+      "id": "2026-11-01-3",
       "date": "2026-11-01",
-      "qno": 6,
-      "answer": "A",
-      "category": "National",
+      "qno": 3,
+      "answer": "C",
+      "category": "Festivity",
       "en": {
-        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
         "options": {
-          "A": "December 31, 2026",
-          "B": "September 30, 2026",
-          "C": "March 31, 2027",
-          "D": "October 31, 2026"
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
         },
-        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
       },
       "hi": {
-        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
         "options": {
-          "A": "31 दिसंबर 2026",
-          "B": "30 सितंबर 2026",
-          "C": "31 मार्च 2027",
-          "D": "31 अक्टूबर 2026"
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
         },
-        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
       },
       "gu": {
-        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
         "options": {
-          "A": "ડિસેમ્બર 31, 2026",
-          "B": "30 સપ્ટેમ્બર, 2026",
-          "C": "માર્ચ 31, 2027",
-          "D": "ઑક્ટોબર 31, 2026"
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
         },
-        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-4",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 4,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
+        "options": {
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
+        },
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
+      },
+      "hi": {
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
+        "options": {
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
+        },
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
+      },
+      "gu": {
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
+        "options": {
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
+        },
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
       "answer": "A",
       "category": "Business",
       "en": {
@@ -64454,6 +64751,80 @@
           "D": "CII"
         },
         "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
+        "options": {
+          "A": "December 31, 2026",
+          "B": "September 30, 2026",
+          "C": "March 31, 2027",
+          "D": "October 31, 2026"
+        },
+        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
+      },
+      "hi": {
+        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
+        "options": {
+          "A": "31 दिसंबर 2026",
+          "B": "30 सितंबर 2026",
+          "C": "31 मार्च 2027",
+          "D": "31 अक्टूबर 2026"
+        },
+        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
+      },
+      "gu": {
+        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
+        "options": {
+          "A": "ડિસેમ્બર 31, 2026",
+          "B": "30 સપ્ટેમ્બર, 2026",
+          "C": "માર્ચ 31, 2027",
+          "D": "ઑક્ટોબર 31, 2026"
+        },
+        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
       }
     }
   ]
