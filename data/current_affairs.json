@@ -64572,37 +64572,37 @@
       "id": "2026-11-01-1",
       "date": "2026-11-01",
       "qno": 1,
-      "answer": "B",
-      "category": "Persons",
+      "answer": "A",
+      "category": "Business",
       "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
+        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
         "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
+          "A": "Nasscom",
+          "B": "FICCI",
+          "C": "ASSOCHAM",
+          "D": "CII"
         },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
+        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
       },
       "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
+        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
         "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
+          "A": "नैसकॉम",
+          "B": "फिक्की",
+          "C": "एसोचैम",
+          "D": "सीआईआई"
         },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
+        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
       },
       "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
+        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
         "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
+          "A": "નાસકોમ",
+          "B": "ફિક્કી",
+          "C": "એસોચેમ",
+          "D": "CII"
         },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
+        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
       }
     },
     {
@@ -64646,6 +64646,43 @@
       "id": "2026-11-01-3",
       "date": "2026-11-01",
       "qno": 3,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-4",
+      "date": "2026-11-01",
+      "qno": 4,
       "answer": "A",
       "category": "National",
       "en": {
@@ -64677,43 +64714,6 @@
           "D": "ઑક્ટોબર 31, 2026"
         },
         "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "A",
-      "category": "Business",
-      "en": {
-        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
-        "options": {
-          "A": "Nasscom",
-          "B": "FICCI",
-          "C": "ASSOCHAM",
-          "D": "CII"
-        },
-        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
-      },
-      "hi": {
-        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
-        "options": {
-          "A": "नैसकॉम",
-          "B": "फिक्की",
-          "C": "एसोचैम",
-          "D": "सीआईआई"
-        },
-        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
-      },
-      "gu": {
-        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
-        "options": {
-          "A": "નાસકોમ",
-          "B": "ફિક્કી",
-          "C": "એસોચેમ",
-          "D": "CII"
-        },
-        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
       }
     },
     {
@@ -64794,37 +64794,37 @@
       "id": "2026-11-01-7",
       "date": "2026-11-01",
       "qno": 7,
-      "answer": "D",
-      "category": "International",
+      "answer": "B",
+      "category": "Persons",
       "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
         "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
         },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
       },
       "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
         "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
         },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
       },
       "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
         "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
         },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
       }
     }
   ]
