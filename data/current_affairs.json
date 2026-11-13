@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-12",
     "2026-11-11",
     "2026-11-10",
     "2026-11-09",
@@ -64940,194 +64941,379 @@
       }
     },
     {
+      "id": "2026-11-12-1",
+      "date": "2026-11-12",
+      "qno": 1,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did India's net direct tax collections increase to ₹14.42 lakh crore during FY 2026–27 (up to November 10, 2026)?",
+        "options": {
+          "A": "14.02%",
+          "B": "17.84%",
+          "C": "11.8%",
+          "D": "5.30%"
+        },
+        "explanation": "India's net direct tax collections increased by approximately 11.8% to ₹14.42 lakh crore during FY 2026–27, up to November 10, 2026, compared with ₹12.90 lakh crore during the corresponding period of the previous financial year. The growth was supported by increases in corporate tax, non-corporate tax and Securities Transaction Tax (STT). Meanwhile, gross direct tax collections rose by 14.02% to ₹17.50 lakh crore. The Union Government has set a direct tax collection target of ₹26.97 lakh crore for FY 2026–27, of which approximately 53.5% had been achieved by November 10, 2026."
+      },
+      "hi": {
+        "question": "वित्त वर्ष 2026-27 (10 नवंबर, 2026 तक) के दौरान भारत का शुद्ध प्रत्यक्ष कर संग्रह कितने प्रतिशत बढ़कर ₹14.42 लाख करोड़ हो गया?",
+        "options": {
+          "A": "14.02%",
+          "B": "17.84%",
+          "C": "11.8%",
+          "D": "5.30%"
+        },
+        "explanation": "वित्त वर्ष 2026-27 के दौरान 10 नवंबर, 2026 तक भारत का शुद्ध प्रत्यक्ष कर संग्रह लगभग 11.8% बढ़कर ₹14.42 लाख करोड़ हो गया, जबकि पिछले वित्तीय वर्ष की इसी अवधि के दौरान यह ₹12.90 लाख करोड़ था। कॉर्पोरेट कर, गैर-कॉर्पोरेट कर और प्रतिभूति लेनदेन कर (एसटीटी) में वृद्धि से वृद्धि को समर्थन मिला। इस बीच, सकल प्रत्यक्ष कर संग्रह 14.02% बढ़कर ₹17.50 लाख करोड़ हो गया। केंद्र सरकार ने वित्त वर्ष 2026-27 के लिए ₹26.97 लाख करोड़ का प्रत्यक्ष कर संग्रह लक्ष्य निर्धारित किया है, जिसमें से लगभग 53.5% 10 नवंबर, 2026 तक हासिल कर लिया गया था।"
+      },
+      "gu": {
+        "question": "નાણાકીય વર્ષ 2026-27 (નવેમ્બર 10, 2026 સુધી) દરમિયાન ભારતનું નેટ ડાયરેક્ટ ટેક્સ કલેક્શન કેટલા ટકા વધીને ₹14.42 લાખ કરોડ થયું?",
+        "options": {
+          "A": "14.02%",
+          "B": "17.84%",
+          "C": "11.8%",
+          "D": "5.30%"
+        },
+        "explanation": "નાણાકીય વર્ષ 2026-27 દરમિયાન 10 નવેમ્બર, 2026 સુધી ભારતનું નેટ ડાયરેક્ટ ટેક્સ કલેક્શન અંદાજે 11.8% વધીને ₹14.42 લાખ કરોડ થયું છે, જે અગાઉના નાણાકીય વર્ષના સમાન સમયગાળા દરમિયાન ₹12.90 લાખ કરોડ હતું. વૃદ્ધિને કોર્પોરેટ ટેક્સ, નોન-કોર્પોરેટ ટેક્સ અને સિક્યોરિટીઝ ટ્રાન્ઝેક્શન ટેક્સ (STT) માં વધારા દ્વારા ટેકો મળ્યો હતો. દરમિયાન, ગ્રોસ ડાયરેક્ટ ટેક્સ કલેક્શન 14.02% વધીને ₹17.50 લાખ કરોડ થયું છે. કેન્દ્ર સરકારે નાણાકીય વર્ષ 2026-27 માટે ₹26.97 લાખ કરોડનો ડાયરેક્ટ ટેક્સ વસૂલાતનો લક્ષ્યાંક નક્કી કર્યો છે, જેમાંથી 10 નવેમ્બર, 2026 સુધીમાં અંદાજે 53.5% હાંસલ કરવામાં આવ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-11-12-2",
+      "date": "2026-11-12",
+      "qno": 2,
+      "answer": "B",
+      "category": "Important Days",
+      "en": {
+        "question": "When is World Pneumonia Day observed every year?",
+        "options": {
+          "A": "November 10",
+          "B": "November 12",
+          "C": "November 14",
+          "D": "November 15"
+        },
+        "explanation": "World Pneumonia Day is observed annually on November 12 to raise awareness about pneumonia, its prevention, early diagnosis and effective treatment. It was first celebrated in 2009 as part of the Stop Pneumonia Initiative, which brings together healthcare professionals, researchers and organisations to reduce pneumonia-related deaths. The day highlights the importance of vaccination, proper hygiene, good nutrition and access to quality healthcare. Pneumonia remains a major global health concern, particularly among children under five and older adults. The 2026 theme is \"A New Era of Pneumonia Control\", emphasising improved prevention, diagnosis and treatment worldwide."
+      },
+      "hi": {
+        "question": "प्रत्येक वर्ष विश्व निमोनिया दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "10 नवंबर",
+          "B": "12 नवंबर",
+          "C": "14 नवंबर",
+          "D": "15 नवंबर"
+        },
+        "explanation": "निमोनिया, इसकी रोकथाम, शीघ्र निदान और प्रभावी उपचार के बारे में जागरूकता बढ़ाने के लिए प्रतिवर्ष 12 नवंबर को विश्व निमोनिया दिवस मनाया जाता है। इसे पहली बार 2009 में स्टॉप निमोनिया पहल के हिस्से के रूप में मनाया गया था, जो निमोनिया से संबंधित मौतों को कम करने के लिए स्वास्थ्य पेशेवरों, शोधकर्ताओं और संगठनों को एक साथ लाता है। यह दिन टीकाकरण, उचित स्वच्छता, अच्छे पोषण और गुणवत्तापूर्ण स्वास्थ्य देखभाल तक पहुंच के महत्व पर प्रकाश डालता है। निमोनिया एक प्रमुख वैश्विक स्वास्थ्य चिंता बनी हुई है, विशेषकर पाँच वर्ष से कम उम्र के बच्चों और बड़े वयस्कों में। 2026 theme है \" निमोनिया नियंत्रण का एक नया युग\", दुनिया भर में बेहतर रोकथाम, निदान और उपचार पर जोर दिया गया।"
+      },
+      "gu": {
+        "question": "દર વર્ષે વિશ્વ ન્યુમોનિયા દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "10 નવેમ્બર",
+          "B": "નવેમ્બર 12",
+          "C": "નવેમ્બર 14",
+          "D": "નવેમ્બર 15"
+        },
+        "explanation": "ન્યુમોનિયા, તેની રોકથામ, વહેલું નિદાન અને અસરકારક સારવાર વિશે જાગૃતિ લાવવા માટે દર વર્ષે 12 નવેમ્બરે વિશ્વ ન્યુમોનિયા દિવસ મનાવવામાં આવે છે. તે સૌપ્રથમ 2009 માં સ્ટોપ ન્યુમોનિયા પહેલના ભાગ રૂપે ઉજવવામાં આવી હતી, જે ન્યુમોનિયા સંબંધિત મૃત્યુ ઘટાડવા માટે આરોગ્યસંભાળ વ્યવસાયિકો, સંશોધકો અને સંસ્થાઓને એકસાથે લાવે છે. આ દિવસ રસીકરણ, યોગ્ય સ્વચ્છતા, સારા પોષણ અને ગુણવત્તાયુક્ત આરોગ્યસંભાળની પહોંચના મહત્વ પર પ્રકાશ પાડે છે. ન્યુમોનિયા એ એક મુખ્ય વૈશ્વિક આરોગ્ય ચિંતા રહે છે, ખાસ કરીને પાંચ વર્ષથી ઓછી વયના બાળકો અને પુખ્ત વયના લોકોમાં. 2026 theme છે \"એક ન્યુમોનિયા નિયંત્રણનો નવો યુગ\", વિશ્વભરમાં સુધારેલ નિવારણ, નિદાન અને સારવાર પર ભાર મૂકે છે."
+      }
+    },
+    {
+      "id": "2026-11-12-3",
+      "date": "2026-11-12",
+      "qno": 3,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the Vice Chancellor of the Indian Maritime University (IMU)?",
+        "options": {
+          "A": "Dr. S. K. Mehta",
+          "B": "Dr. Rajendra Singh",
+          "C": "Dr. Arvind Kumar",
+          "D": "Dr. Venkata Ramana Akkaraju"
+        },
+        "explanation": "Dr. Venkata Ramana Akkaraju assumed office as the Vice Chancellor of the Indian Maritime University (IMU) on November 3, 2026. Before this appointment, he served as the Chairman of the New Mangalore Port Authority (NMPA). His professional experience includes port administration, maritime operations, and management. Established on November 14, 2008, IMU is a Central University headquartered in Chennai, Tamil Nadu. It functions under the Ministry of Ports, Shipping and Waterways and was formed by merging seven maritime institutes under the Indian Maritime University Act, 2008."
+      },
+      "hi": {
+        "question": "भारतीय समुद्री विश्वविद्यालय (IMU) के कुलपति के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "डॉ एस के मेहता",
+          "B": "डॉ. राजेंद्र सिंह",
+          "C": "डॉ. अरविन्द कुमार",
+          "D": "डॉ. वेंकट रमण अक्काराजू"
+        },
+        "explanation": "डॉ. वेंकट रमण अक्काराजू ने 3 नवंबर, 2026 को भारतीय समुद्री विश्वविद्यालय (आईएमयू) के कुलपति के रूप में पदभार ग्रहण किया। इस नियुक्ति से पहले, उन्होंने न्यू मैंगलोर पोर्ट अथॉरिटी (एनएमपीए) के अध्यक्ष के रूप में कार्य किया। उनके पेशेवर अनुभव में बंदरगाह प्रशासन, समुद्री संचालन और प्रबंधन शामिल हैं। 14 नवंबर 2008 को स्थापित, IMU एक केंद्रीय विश्वविद्यालय है जिसका मुख्यालय चेन्नई, तमिलनाडु में है। यह बंदरगाह, जहाजरानी और जलमार्ग मंत्रालय के तहत कार्य करता है और इसका गठन भारतीय समुद्री विश्वविद्यालय अधिनियम, 2008 के तहत सात समुद्री संस्थानों को विलय करके किया गया था।"
+      },
+      "gu": {
+        "question": "ઇન્ડિયન મેરીટાઇમ યુનિવર્સિટી (IMU) ના વાઇસ ચાન્સેલર તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "ડો.એસ.કે. મહેતા",
+          "B": "રાજેન્દ્રસિંહ ડો",
+          "C": "ડૉ.અરવિંદ કુમાર",
+          "D": "ડો. વેંકટ રમણા અક્કારાજુ"
+        },
+        "explanation": "ડૉ. વેંકટ રમણ અક્કરાજુએ 3 નવેમ્બર, 2026 ના રોજ ભારતીય મેરીટાઇમ યુનિવર્સિટી (IMU) ના કુલપતિ તરીકેનો કાર્યભાર સંભાળ્યો હતો. આ નિમણૂક પહેલાં, તેમણે ન્યૂ મેંગલોર પોર્ટ ઓથોરિટી (NMPA) ના અધ્યક્ષ તરીકે સેવા આપી હતી. તેમના વ્યાવસાયિક અનુભવમાં પોર્ટ એડમિનિસ્ટ્રેશન, મેરીટાઇમ ઓપરેશન્સ અને મેનેજમેન્ટનો સમાવેશ થાય છે. 14 નવેમ્બર, 2008 ના રોજ સ્થપાયેલ, IMU એ કેન્દ્રીય યુનિવર્સિટી છે જેનું મુખ્ય મથક ચેન્નાઈ, તમિલનાડુમાં છે. તે બંદરો, શિપિંગ અને જળમાર્ગ મંત્રાલય હેઠળ કાર્ય કરે છે અને ભારતીય મેરીટાઇમ યુનિવર્સિટી એક્ટ, 2008 હેઠળ સાત મેરીટાઇમ સંસ્થાઓને મર્જ કરીને તેની રચના કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-11-12-4",
+      "date": "2026-11-12",
+      "qno": 4,
+      "answer": "C",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the first-ever Chair of the Board of Directors at NVIDIA?",
+        "options": {
+          "A": "Colette Kress",
+          "B": "Jensen Huang",
+          "C": "Harvey Jones",
+          "D": "Kimberly Powell"
+        },
+        "explanation": "Harvey C. Jones has been appointed as the first-ever Chair of the Board of Directors at NVIDIA following the leadership changes announced on November 12, 2026. He is an experienced entrepreneur, technology executive and venture capitalist with more than 30 years of professional experience. Jones previously served as the CEO and Executive Chairman of Synopsys and was also a longstanding member of NVIDIA's board. The leadership restructuring followed Jensen Huang's resignation as President, CEO and Director. Colette Kress, NVIDIA's Executive Vice President and Chief Financial Officer, was appointed Interim CEO while the company searches for a permanent successor."
+      },
+      "hi": {
+        "question": "NVIDIA में निदेशक मंडल के पहले अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "कोलेट क्रेस",
+          "B": "जेन्सेन हुआंग",
+          "C": "हार्वे जोन्स",
+          "D": "किम्बर्ली पॉवेल"
+        },
+        "explanation": "12 नवंबर, 2026 को घोषित नेतृत्व परिवर्तन के बाद हार्वे सी. जोन्स को NVIDIA में निदेशक मंडल के पहले अध्यक्ष के रूप में नियुक्त किया गया है। वह 30 से अधिक वर्षों के पेशेवर अनुभव के साथ एक अनुभवी उद्यमी, प्रौद्योगिकी कार्यकारी और उद्यम पूंजीपति हैं। जोन्स ने पहले सिनोप्सिस के सीईओ और कार्यकारी अध्यक्ष के रूप में कार्य किया था और वह NVIDIA's board.  leadership restructuring followed Jensen Huang' के लंबे समय से सदस्य भी थे, जिन्होंने अध्यक्ष, सीईओ और निदेशक के पद से इस्तीफा दे दिया था। NVIDIA के कार्यकारी उपाध्यक्ष और मुख्य वित्तीय अधिकारी, कोलेट क्रेस को अंतरिम सीईओ नियुक्त किया गया, जबकि कंपनी एक स्थायी उत्तराधिकारी की तलाश कर रही है।"
+      },
+      "gu": {
+        "question": "NVIDIA ખાતે બોર્ડ ઓફ ડિરેક્ટર્સના પ્રથમ અધ્યક્ષ તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "કોલેટ ક્રેસ",
+          "B": "જેન્સન હુઆંગ",
+          "C": "હાર્વે જોન્સ",
+          "D": "કિમ્બર્લી પોવેલ"
+        },
+        "explanation": "હાર્વે સી. જોન્સને 12 નવેમ્બર, 2026ના રોજ જાહેર કરાયેલા નેતૃત્વ ફેરફારોને પગલે NVIDIA ખાતે બોર્ડ ઓફ ડિરેક્ટર્સના પ્રથમ અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા છે. તેઓ 30 વર્ષથી વધુ વ્યાવસાયિક અનુભવ ધરાવતા અનુભવી ઉદ્યોગસાહસિક, ટેક્નોલોજી એક્ઝિક્યુટિવ અને વેન્ચર કેપિટલિસ્ટ છે. જોન્સ અગાઉ Synopsys ના CEO અને એક્ઝિક્યુટિવ ચેરમેન તરીકે સેવા આપી હતી અને NVIDIA's board.  leadership restructuring followed Jensen Huang's ના પ્રમુખ, CEO અને નિયામક તરીકે રાજીનામું આપવાના લાંબા સમયથી સભ્ય પણ હતા. NVIDIA ના એક્ઝિક્યુટિવ વાઈસ પ્રેસિડેન્ટ અને ચીફ ફાયનાન્સિયલ ઓફિસર કોલેટ ક્રેસને વચગાળાના સીઈઓ તરીકે નિયુક્ત કરવામાં આવ્યા હતા જ્યારે કંપની કાયમી અનુગામીની શોધ કરી રહી હતી."
+      }
+    },
+    {
+      "id": "2026-11-12-5",
+      "date": "2026-11-12",
+      "qno": 5,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "In which Indian state will India's first Centre of Excellence for Solar Technology be established?",
+        "options": {
+          "A": "Madhya Pradesh",
+          "B": "Uttar Pradesh",
+          "C": "Rajasthan",
+          "D": "Gujarat"
+        },
+        "explanation": "Uttar Pradesh will become the location of India's first Centre of Excellence (CoE) for Solar Technology. The centre will be established in the Yamuna Expressway Industrial Development Authority (YEIDA) region through a partnership between Integrated Batteries India Pvt. Ltd. (IB Solar) and German technology companies. The agreement was signed at the Bharat Renewable Energy Summit 2026 in New Delhi. The centre aims to promote research and development, technological innovation, skill development and improvements in solar manufacturing efficiency. This initiative is expected to strengthen India's renewable energy sector and support the development of advanced solar technologies."
+      },
+      "hi": {
+        "question": "सौर प्रौद्योगिकी के लिए भारत का पहला उत्कृष्टता केंद्र किस भारतीय राज्य में स्थापित किया जाएगा?",
+        "options": {
+          "A": "मध्य प्रदेश",
+          "B": "उत्तर प्रदेश",
+          "C": "राजस्थान",
+          "D": "गुजरात"
+        },
+        "explanation": "उत्तर प्रदेश भारत_ENG_THEME_TOKEN_0__ के नवीकरणीय ऊर्जा क्षेत्र का स्थान बन जाएगा और उन्नत सौर प्रौद्योगिकियों के विकास का समर्थन करेगा।"
+      },
+      "gu": {
+        "question": "ભારતના કયા રાજ્યમાં સૌર ટેકનોલોજી માટે ભારતનું પ્રથમ સેન્ટર ઓફ એક્સેલન્સ સ્થપાશે?",
+        "options": {
+          "A": "મધ્યપ્રદેશ",
+          "B": "ઉત્તર પ્રદેશ",
+          "C": "રાજસ્થાન",
+          "D": "ગુજરાત"
+        },
+        "explanation": "ઉત્તર પ્રદેશ ભારત's પ્રથમ Centre નું Excellence (CoE) માટે Solar Technology.  centre થશે be established માં  Yamuna Expressway Industrial Development Authority (YEIDA) region દ્વારા એક partnership વચ્ચે Integrated Batteries India Pvt. Ltd. (IB Solar) અને German technology companies.  agreement હતું સહી કરી પર  Bharat Renewable Energy શિખર સંમેલન 2026 માં નવું Delhi.  centre aims ને promote research અને development, technological innovation, skill development અને improvements માં solar manufacturing efficiency. આ initiative છે expected ને strengthen India' ના પુનઃપ્રાપ્ય ઉર્જા ક્ષેત્રનું સ્થાન બનશે અને અદ્યતન સૌર તકનીકોના વિકાસને સમર્થન આપશે."
+      }
+    },
+    {
+      "id": "2026-11-12-6",
+      "date": "2026-11-12",
+      "qno": 6,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is Public Service Broadcasting Day observed annually in India?",
+        "options": {
+          "A": "November 12",
+          "B": "November 10",
+          "C": "November 14",
+          "D": "November 15"
+        },
+        "explanation": "Public Service Broadcasting Day, also known as Jan Prasaran Divas, is observed annually on November 12 in India. The day commemorates Mahatma Gandhi’s historic radio address delivered through All India Radio (AIR) on November 12, 1947. Gandhi addressed more than two lakh refugees staying in a camp at Kurukshetra, Haryana, following the Partition of India. As he could not meet them personally, he communicated with them through radio on the occasion of Deepavali. The day highlights the importance of public service broadcasting in providing accurate information, promoting education, preserving cultural diversity and strengthening national integration."
+      },
+      "hi": {
+        "question": "भारत में प्रतिवर्ष लोक सेवा प्रसारण दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "12 नवंबर",
+          "B": "10 नवंबर",
+          "C": "14 नवंबर",
+          "D": "15 नवंबर"
+        },
+        "explanation": "लोक सेवा प्रसारण दिवस, जिसे जन प्रसारण दिवस भी कहा जाता है, भारत में प्रतिवर्ष 12 नवंबर को मनाया जाता है। यह दिन 12 नवंबर, 1947 को ऑल इंडिया रेडियो (एआईआर) के माध्यम से दिए गए महात्मा गांधी के ऐतिहासिक रेडियो संबोधन की याद दिलाता है। गांधी ने भारत के विभाजन के बाद हरियाणा के कुरुक्षेत्र में एक शिविर में रहने वाले दो लाख से अधिक शरणार्थियों को संबोधित किया था। चूँकि वह उनसे व्यक्तिगत रूप से नहीं मिल सके, इसलिए उन्होंने दीपावली के अवसर पर रेडियो के माध्यम से उनसे संवाद किया। यह दिन सटीक जानकारी प्रदान करने, शिक्षा को बढ़ावा देने, सांस्कृतिक विविधता को संरक्षित करने और राष्ट्रीय एकता को मजबूत करने में सार्वजनिक सेवा प्रसारण के महत्व पर प्रकाश डालता है।"
+      },
+      "gu": {
+        "question": "ભારતમાં દર વર્ષે જાહેર સેવા પ્રસારણ દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "નવેમ્બર 12",
+          "B": "10 નવેમ્બર",
+          "C": "નવેમ્બર 14",
+          "D": "નવેમ્બર 15"
+        },
+        "explanation": "જાહેર સેવા પ્રસારણ દિવસ, જેને જન પ્રસારણ દિવસ તરીકે પણ ઓળખવામાં આવે છે, ભારતમાં દર વર્ષે 12 નવેમ્બરે ઉજવવામાં આવે છે. આ દિવસ 12 નવેમ્બર, 1947ના રોજ ઓલ ઈન્ડિયા રેડિયો (એઆઈઆર) દ્વારા આપવામાં આવેલા મહાત્મા ગાંધીના ઐતિહાસિક રેડિયો સંબોધનની યાદમાં છે. ગાંધીએ ભારતના ભાગલા પછી કુરુક્ષેત્ર, હરિયાણા ખાતેના કેમ્પમાં રહેતા બે લાખથી વધુ શરણાર્થીઓને સંબોધિત કર્યા હતા. તેઓ તેમને અંગત રીતે મળી શકતા ન હોવાથી તેમણે દીપાવલીના અવસર પર રેડિયો દ્વારા તેમની સાથે વાતચીત કરી. આ દિવસ સચોટ માહિતી પ્રદાન કરવા, શિક્ષણને પ્રોત્સાહન આપવા, સાંસ્કૃતિક વિવિધતાને બચાવવા અને રાષ્ટ્રીય એકીકરણને મજબૂત કરવા માટે જાહેર સેવા પ્રસારણના મહત્વને પ્રકાશિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-12-7",
+      "date": "2026-11-12",
+      "qno": 7,
+      "answer": "A",
+      "category": "International",
+      "en": {
+        "question": "With which country did India hold the 3rd Strategic Space Dialogue in Paris on November 9-10, 2026?",
+        "options": {
+          "A": "France",
+          "B": "Germany",
+          "C": "Japan",
+          "D": "Australia"
+        },
+        "explanation": "France is India's strategic partner in the 3rd India-France Strategic Space Dialogue held in Paris on November 9-10, 2026. The meeting was co-chaired by India's Foreign Secretary Vikram Misri and France's Secretary-General Martin Briens. Both countries reviewed progress in government-to-government and commercial space cooperation. Discussions also covered economic security, critical technologies, cybersecurity, supply chain vulnerabilities and the protection of essential technology supplies. The dialogue reflects the growing strategic partnership between India and France and supports their shared long-term objectives under the Horizon 2047 Roadmap."
+      },
+      "hi": {
+        "question": "भारत ने 9-10 नवंबर, 2026 को पेरिस में तीसरी रणनीतिक अंतरिक्ष वार्ता किस देश के साथ आयोजित की?",
+        "options": {
+          "A": "फ़्रांस",
+          "B": "जर्मनी",
+          "C": "जापान",
+          "D": "ऑस्ट्रेलिया"
+        },
+        "explanation": "फ्रांस भारत_ENG_THEME_TOKEN_0__ के विदेश सचिव विक्रम मिस्री और फ्रांस के महासचिव मार्टिन ब्रिएन्स हैं। दोनों देशों ने सरकार-से-सरकार और वाणिज्यिक अंतरिक्ष सहयोग में प्रगति की समीक्षा की। चर्चा में आर्थिक सुरक्षा, महत्वपूर्ण प्रौद्योगिकियों, साइबर सुरक्षा, आपूर्ति श्रृंखला की कमजोरियां और आवश्यक प्रौद्योगिकी आपूर्ति की सुरक्षा पर भी चर्चा हुई। यह संवाद भारत और फ्रांस के बीच बढ़ती रणनीतिक साझेदारी को दर्शाता है और क्षितिज 2047 रोडमैप के तहत उनके साझा दीर्घकालिक उद्देश्यों का समर्थन करता है।"
+      },
+      "gu": {
+        "question": "9-10 નવેમ્બર, 2026 ના રોજ પેરિસમાં ભારતે કયા દેશ સાથે ત્રીજો વ્યૂહાત્મક અવકાશ સંવાદ યોજ્યો હતો?",
+        "options": {
+          "A": "ફ્રાન્સ",
+          "B": "જર્મની",
+          "C": "જાપાન",
+          "D": "ઓસ્ટ્રેલિયા"
+        },
+        "explanation": "ફ્રાન્સ એ ભારત's strategic partner માં  3rd India-France Strategic Space Dialogue યોજાયો માં Paris પર November 9-10, 2026.  meeting હતું co-chaired દ્વારા India' ના વિદેશ સચિવ વિક્રમ મિસ્ત્રી અને ફ્રાન્સના સેક્રેટરી જનરલ માર્ટિન બ્રાયન્સ છે. બંને દેશોએ સરકાર-થી-સરકાર અને કોમર્શિયલ સ્પેસ સહકારમાં પ્રગતિની સમીક્ષા કરી. ચર્ચાઓમાં આર્થિક સુરક્ષા, નિર્ણાયક તકનીકો, સાયબર સુરક્ષા, સપ્લાય ચેઇન નબળાઈઓ અને આવશ્યક તકનીકી પુરવઠાની સુરક્ષાને પણ આવરી લેવામાં આવી હતી. આ સંવાદ ભારત અને ફ્રાન્સ વચ્ચે વધતી જતી વ્યૂહાત્મક ભાગીદારીને પ્રતિબિંબિત કરે છે અને હોરાઇઝન 2047 રોડમેપ હેઠળ તેમના લાંબા ગાળાના હેતુઓને સમર્થન આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-12-8",
+      "date": "2026-11-12",
+      "qno": 8,
+      "answer": "D",
+      "category": "Defence",
+      "en": {
+        "question": "Which edition of the Pan-India Coastal Defence Exercise Sea Vigil-26 is being conducted by the Indian Navy in November 2026?",
+        "options": {
+          "A": "2nd",
+          "B": "3rd",
+          "C": "4th",
+          "D": "5th"
+        },
+        "explanation": "The Indian Navy is coordinating the 5th edition of the Pan-India Coastal Defence Exercise, Sea Vigil-26, from November 11 to 19, 2026. The exercise aims to assess India's coastal defence and maritime security preparedness along the entire coastline and Exclusive Economic Zone (EEZ). It involves the Indian Navy, Indian Coast Guard, Coastal Security Police, Customs, coastal states, Union Territories and fishing communities. Sea Vigil was first conceived in 2018 following the 2008 Mumbai terrorist attacks to strengthen coastal security measures. It also serves as a preparatory exercise for the Indian Navy's Theatre Level Readiness Operational Exercise (TROPEX)."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में भारतीय नौसेना द्वारा अखिल भारतीय तटीय रक्षा अभ्यास सी विजिल-26 का कौन सा संस्करण आयोजित किया जा रहा है?",
+        "options": {
+          "A": "दूसरा",
+          "B": "तीसरा",
+          "C": "चौथा",
+          "D": "5वां"
+        },
+        "explanation": "भारतीय नौसेना 11 से 19 नवंबर, 2026 तक पैन-इंडिया कोस्टल डिफेंस एक्सरसाइज, सी विजिल-26 के 5वें संस्करण का समन्वय कर रही है। इस अभ्यास का उद्देश्य India's coastal defence और maritime security preparedness along  entire coastline और Exclusive Economic Zone (EEZ). It involves  Indian नौसेना, Indian Coast Guard, Coastal Security Police, Customs, coastal states, Union Territories और fishing communities. Sea Vigil था पहला conceived में 2018 following  2008 Mumbai terrorist attacks को strengthen coastal security measures. It भी serves as एक preparatory exercise के लिए  Indian नौसेना's थिएटर लेवल रेडीनेस ऑपरेशनल एक्सरसाइज (TROPEX) का आकलन करना है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026માં ભારતીય નૌકાદળ દ્વારા પાન-ઈન્ડિયા કોસ્ટલ ડિફેન્સ એક્સરસાઇઝ સી વિજિલ-26 ની કઈ આવૃત્તિ હાથ ધરવામાં આવી રહી છે?",
+        "options": {
+          "A": "2જી",
+          "B": "3જી",
+          "C": "4થી",
+          "D": "5મી"
+        },
+        "explanation": "ભારતીય નૌકાદળ 11 થી 19 નવેમ્બર, 2026 દરમિયાન પાન-ઈન્ડિયા કોસ્ટલ ડિફેન્સ એક્સરસાઇઝ, સી વિજિલ-26ની 5મી આવૃત્તિનું સંકલન કરી રહી છે. આ કવાયતનો હેતુ ભારત's coastal defence અને maritime security preparedness along  entire coastline અને Exclusive Economic Zone (EEZ). It involves  Indian નૌકાદળ, Indian Coast Guard, Coastal Security Police, Customs, coastal states, Union Territories અને fishing communities. Sea Vigil હતું પ્રથમ conceived માં 2018 following  2008 Mumbai terrorist attacks ને strengthen coastal security measures. It પણ serves as એક preparatory exercise માટે  Indian નૌકાદળ's થિયેટર લેવલ રેડીનેસ ઓપરેશનલ એક્સરસાઇઝ (TROPEX) નું મૂલ્યાંકન કરવાનો છે."
+      }
+    },
+    {
+      "id": "2026-11-12-9",
+      "date": "2026-11-12",
+      "qno": 9,
+      "answer": "B",
+      "category": "State",
+      "en": {
+        "question": "Which state cabinet approved the Bovine Breeding (Regulation) Bill, 2026?",
+        "options": {
+          "A": "Rajasthan",
+          "B": "Odisha",
+          "C": "Jharkhand",
+          "D": "Chhattisgarh"
+        },
+        "explanation": "The Odisha Cabinet, chaired by Chief Minister Mohan Charan Majhi, approved the draft Odisha Bovine Breeding (Regulation) Bill, 2026, on November 9, 2026. The bill aims to regulate cattle and buffalo breeding services, improve livestock productivity and increase milk production through scientific breeding practices. It proposes establishing the Odisha Bovine Breeding Regulatory Authority, a State Digital Livestock Breeding Registry and the Odisha Bovine Genetic Improvement Fund. These initiatives will ensure quality breeding materials, preserve native cattle breeds, promote modern reproductive technologies and improve farmers' income. The bill is proposed to be introduced during the winter session of the Odisha Legislative Assembly."
+      },
+      "hi": {
+        "question": "किस राज्य कैबिनेट ने गोजातीय प्रजनन (विनियमन) विधेयक, 2026 को मंजूरी दी?",
+        "options": {
+          "A": "राजस्थान",
+          "B": "ओडिशा",
+          "C": "झारखंड",
+          "D": "छत्तीसगढ़"
+        },
+        "explanation": "मुख्यमंत्री मोहन चरण माझी की अध्यक्षता में ओडिशा मंत्रिमंडल ने 9 नवंबर, 2026 को ओडिशा बोवाइन प्रजनन (विनियमन) विधेयक, 2026 के मसौदे को मंजूरी दे दी। विधेयक का उद्देश्य मवेशी और भैंस प्रजनन सेवाओं को विनियमित करना, पशुधन उत्पादकता में सुधार करना और वैज्ञानिक प्रजनन प्रथाओं के माध्यम से दूध उत्पादन में वृद्धि करना है। इसमें ओडिशा बोवाइन ब्रीडिंग रेगुलेटरी अथॉरिटी, एक राज्य डिजिटल पशुधन प्रजनन रजिस्ट्री और ओडिशा बोवाइन जेनेटिक इम्प्रूवमेंट फंड की स्थापना का प्रस्ताव है। ये पहल गुणवत्तापूर्ण प्रजनन सामग्री सुनिश्चित करेंगी, देशी मवेशियों की नस्लों को संरक्षित करेंगी, आधुनिक प्रजनन प्रौद्योगिकियों को बढ़ावा देंगी और किसानों की आय में सुधार करेंगी। इस विधेयक को ओडिशा विधानसभा के शीतकालीन सत्र के दौरान पेश करने का प्रस्ताव है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યની કેબિનેટે બોવાઇન બ્રીડિંગ (રેગ્યુલેશન) બિલ, 2026ને મંજૂરી આપી?",
+        "options": {
+          "A": "રાજસ્થાન",
+          "B": "ઓડિશા",
+          "C": "ઝારખંડ",
+          "D": "છત્તીસગઢ"
+        },
+        "explanation": "મુખ્ય પ્રધાન મોહન ચરણ માઝીની અધ્યક્ષતામાં ઓડિશા કેબિનેટે 9 નવેમ્બર, 2026ના રોજ ઓડિશા બોવાઇન બ્રીડિંગ (રેગ્યુલેશન) બિલ, 2026ના ડ્રાફ્ટને મંજૂરી આપી હતી. આ બિલનો ઉદ્દેશ્ય ગાય અને ભેંસ સંવર્ધન સેવાઓનું નિયમન, પશુધન ઉત્પાદકતામાં સુધારો અને વૈજ્ઞાનિક પ્રેક્ટિસ દ્વારા દૂધ ઉત્પાદન વધારવાનો છે. તે ઓડિશા બોવાઇન બ્રીડિંગ રેગ્યુલેટરી ઓથોરિટી, સ્ટેટ ડિજિટલ લાઇવસ્ટોક બ્રીડિંગ રજિસ્ટ્રી અને ઓડિશા બોવાઇન જિનેટિક ઇમ્પ્રૂવમેન્ટ ફંડની સ્થાપના કરવાની દરખાસ્ત કરે છે. આ પહેલ ગુણવત્તાયુક્ત સંવર્ધન સામગ્રીને સુનિશ્ચિત કરશે, સ્થાનિક પશુઓનું સંરક્ષણ કરશે, આધુનિક પ્રજનન તકનીકોને પ્રોત્સાહન આપશે અને ખેડૂતોની આવકમાં સુધારો કરશે. આ ખરડો ઓડિશા વિધાનસભાના શિયાળુ સત્ર દરમિયાન રજૂ કરવાનો પ્રસ્તાવ છે."
+      }
+    },
+    {
+      "id": "2026-11-12-10",
+      "date": "2026-11-12",
+      "qno": 10,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the new Chairman of Tata Investment Corporation Limited, succeeding Noel Tata?",
+        "options": {
+          "A": "Bahram Vakil",
+          "B": "Abizer Shabbir Diwanji",
+          "C": "N. Chandrasekaran",
+          "D": "Ratan Tata"
+        },
+        "explanation": "Bahram Vakil has been appointed as the Chairman of Tata Investment Corporation Limited, effective November 12, 2026, succeeding Noel N. Tata. Vakil is one of the co-founders of the prominent law firm AZB & Partners and has expertise in corporate law, restructuring, insolvency, infrastructure and project finance. He previously served as Vice Chairman of Tata Investment Corporation from March 2026. Noel Tata retired as Chairman and Director on November 11, 2026, after more than 16 years as Chairman. Following his retirement, he was elevated to the position of Chairman Emeritus."
+      },
+      "hi": {
+        "question": "नोएल टाटा के स्थान पर टाटा इन्वेस्टमेंट कॉर्पोरेशन लिमिटेड के नए अध्यक्ष के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "बहराम वकील",
+          "B": "अबाइज़र शब्बीर दीवानजी",
+          "C": "एन.चंद्रशेखरन",
+          "D": "रतन टाटा"
+        },
+        "explanation": "बहराम वकील को 12 नवंबर, 2026 से नोएल एन टाटा के स्थान पर टाटा इन्वेस्टमेंट कॉर्पोरेशन लिमिटेड का अध्यक्ष नियुक्त किया गया है। वकील प्रमुख लॉ फर्म एजेडबी एंड पार्टनर्स के सह-संस्थापकों में से एक हैं और उन्हें कॉर्पोरेट कानून, पुनर्गठन, दिवालियापन, बुनियादी ढांचे और परियोजना वित्त में विशेषज्ञता हासिल है। उन्होंने पहले मार्च 2026 से टाटा इन्वेस्टमेंट कॉरपोरेशन के उपाध्यक्ष के रूप में कार्य किया था। नोएल टाटा 16 साल से अधिक समय तक अध्यक्ष रहने के बाद 11 नवंबर, 2026 को अध्यक्ष और निदेशक के रूप में सेवानिवृत्त हुए। उनकी सेवानिवृत्ति के बाद, उन्हें एमेरिटस चेयरमैन के पद पर पदोन्नत किया गया।"
+      },
+      "gu": {
+        "question": "નોએલ ટાટાના અનુગામી ટાટા ઇન્વેસ્ટમેન્ટ કોર્પોરેશન લિમિટેડના નવા ચેરમેન તરીકે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "બહરામ વકીલ",
+          "B": "અબીઝર શબ્બીર દિવાનજી",
+          "C": "એન. ચંદ્રશેખરન",
+          "D": "રતન ટાટા"
+        },
+        "explanation": "નોએલ એન. ટાટાના અનુગામી, 12 નવેમ્બર, 2026 થી પ્રભાવી, ટાટા ઇન્વેસ્ટમેન્ટ કોર્પોરેશન લિમિટેડના ચેરમેન તરીકે બહરામ વકીલની નિમણૂક કરવામાં આવી છે. વકીલ અગ્રણી કાયદાકીય પેઢી AZB એન્ડ પાર્ટનર્સના સહ-સ્થાપકોમાંના એક છે અને તેઓ કોર્પોરેટ કાયદા, પુનર્ગઠન, નાદારી, ઈન્ફ્રાસ્ટ્રક્ચર અને પ્રોજેક્ટ ફાઇનાન્સમાં કુશળતા ધરાવે છે. તેઓ અગાઉ માર્ચ 2026 થી ટાટા ઇન્વેસ્ટમેન્ટ કોર્પોરેશનના વાઇસ ચેરમેન તરીકે સેવા આપતા હતા. નોએલ ટાટા ચેરમેન તરીકે 16 વર્ષથી વધુ સમય પછી 11 નવેમ્બર, 2026 ના રોજ ચેરમેન અને ડિરેક્ટર તરીકે નિવૃત્ત થયા હતા. તેમની નિવૃત્તિ પછી, તેઓ ચેરમેન એમેરિટસના પદ પર ઉન્નત થયા."
+      }
+    },
+    {
       "id": "2026-11-01-1",
       "date": "2026-11-01",
       "qno": 1,
-      "answer": "D",
-      "category": "International",
-      "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
-        "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
-        },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
-      },
-      "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
-        "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
-        },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
-      },
-      "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
-        "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
-        },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
-      "qno": 2,
-      "answer": "C",
-      "category": "Festivity",
-      "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
-        },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
-        },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
-      },
-      "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
-        },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
-      }
-    },
-    {
-      "id": "2026-11-01-3",
-      "date": "2026-11-01",
-      "qno": 3,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
-        "options": {
-          "A": "Samudra",
-          "B": "Srishti",
-          "C": "Samarth",
-          "D": "Saksham"
-        },
-        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
-      },
-      "hi": {
-        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
-        "options": {
-          "A": "समुद्र",
-          "B": "सृष्टि",
-          "C": "समर्थ",
-          "D": "सक्षम"
-        },
-        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
-      },
-      "gu": {
-        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
-        "options": {
-          "A": "સમુદ્ર",
-          "B": "સૃષ્ટિ",
-          "C": "સમર્થ",
-          "D": "સક્ષમ"
-        },
-        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "B",
-      "category": "Persons",
-      "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
-        "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
-        },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
-      },
-      "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
-        "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
-        },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
-      },
-      "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
-        "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
-        },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
-      }
-    },
-    {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
-      "qno": 5,
-      "answer": "A",
-      "category": "National",
-      "en": {
-        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
-        "options": {
-          "A": "December 31, 2026",
-          "B": "September 30, 2026",
-          "C": "March 31, 2027",
-          "D": "October 31, 2026"
-        },
-        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
-      },
-      "hi": {
-        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
-        "options": {
-          "A": "31 दिसंबर 2026",
-          "B": "30 सितंबर 2026",
-          "C": "31 मार्च 2027",
-          "D": "31 अक्टूबर 2026"
-        },
-        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
-      },
-      "gu": {
-        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
-        "options": {
-          "A": "ડિસેમ્બર 31, 2026",
-          "B": "30 સપ્ટેમ્બર, 2026",
-          "C": "માર્ચ 31, 2027",
-          "D": "ઑક્ટોબર 31, 2026"
-        },
-        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-6",
-      "date": "2026-11-01",
-      "qno": 6,
       "answer": "C",
       "category": "Economy",
       "en": {
@@ -65162,9 +65348,83 @@
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 2,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "options": {
+          "A": "Samudra",
+          "B": "Srishti",
+          "C": "Samarth",
+          "D": "Saksham"
+        },
+        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+      },
+      "hi": {
+        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "options": {
+          "A": "समुद्र",
+          "B": "सृष्टि",
+          "C": "समर्थ",
+          "D": "सक्षम"
+        },
+        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+      },
+      "gu": {
+        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સમુદ્ર",
+          "B": "સૃષ્ટિ",
+          "C": "સમર્થ",
+          "D": "સક્ષમ"
+        },
+        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-01-3",
+      "date": "2026-11-01",
+      "qno": 3,
+      "answer": "C",
+      "category": "Festivity",
+      "en": {
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+      }
+    },
+    {
+      "id": "2026-11-01-4",
+      "date": "2026-11-01",
+      "qno": 4,
       "answer": "A",
       "category": "Business",
       "en": {
@@ -65196,6 +65456,117 @@
           "D": "CII"
         },
         "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
+        "options": {
+          "A": "December 31, 2026",
+          "B": "September 30, 2026",
+          "C": "March 31, 2027",
+          "D": "October 31, 2026"
+        },
+        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
+      },
+      "hi": {
+        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
+        "options": {
+          "A": "31 दिसंबर 2026",
+          "B": "30 सितंबर 2026",
+          "C": "31 मार्च 2027",
+          "D": "31 अक्टूबर 2026"
+        },
+        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
+      },
+      "gu": {
+        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
+        "options": {
+          "A": "ડિસેમ્બર 31, 2026",
+          "B": "30 સપ્ટેમ્બર, 2026",
+          "C": "માર્ચ 31, 2027",
+          "D": "ઑક્ટોબર 31, 2026"
+        },
+        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "B",
+      "category": "Persons",
+      "en": {
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
+        "options": {
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
+        },
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
+      },
+      "hi": {
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
+        "options": {
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
+        },
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
+      },
+      "gu": {
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
+        "options": {
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
+        },
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
       }
     }
   ]
