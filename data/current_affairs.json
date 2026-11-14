@@ -65314,191 +65314,6 @@
       "id": "2026-11-01-1",
       "date": "2026-11-01",
       "qno": 1,
-      "answer": "C",
-      "category": "Economy",
-      "en": {
-        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
-        "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
-        },
-        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
-      },
-      "hi": {
-        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
-        "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
-        },
-        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
-      },
-      "gu": {
-        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
-        "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
-        },
-        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
-      }
-    },
-    {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
-      "qno": 2,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
-        "options": {
-          "A": "Samudra",
-          "B": "Srishti",
-          "C": "Samarth",
-          "D": "Saksham"
-        },
-        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
-      },
-      "hi": {
-        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
-        "options": {
-          "A": "समुद्र",
-          "B": "सृष्टि",
-          "C": "समर्थ",
-          "D": "सक्षम"
-        },
-        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
-      },
-      "gu": {
-        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
-        "options": {
-          "A": "સમુદ્ર",
-          "B": "સૃષ્ટિ",
-          "C": "સમર્થ",
-          "D": "સક્ષમ"
-        },
-        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
-      }
-    },
-    {
-      "id": "2026-11-01-3",
-      "date": "2026-11-01",
-      "qno": 3,
-      "answer": "C",
-      "category": "Festivity",
-      "en": {
-        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
-        "options": {
-          "A": "Arunachal Pradesh",
-          "B": "Himachal Pradesh",
-          "C": "Sikkim",
-          "D": "Uttarakhand"
-        },
-        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
-      },
-      "hi": {
-        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
-        "options": {
-          "A": "अरुणाचल प्रदेश",
-          "B": "हिमाचल प्रदेश",
-          "C": "सिक्किम",
-          "D": "उत्तराखंड"
-        },
-        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
-      },
-      "gu": {
-        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
-        "options": {
-          "A": "અરુણાચલ પ્રદેશ",
-          "B": "હિમાચલ પ્રદેશ",
-          "C": "સિક્કિમ",
-          "D": "ઉત્તરાખંડ"
-        },
-        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "A",
-      "category": "Business",
-      "en": {
-        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
-        "options": {
-          "A": "Nasscom",
-          "B": "FICCI",
-          "C": "ASSOCHAM",
-          "D": "CII"
-        },
-        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
-      },
-      "hi": {
-        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
-        "options": {
-          "A": "नैसकॉम",
-          "B": "फिक्की",
-          "C": "एसोचैम",
-          "D": "सीआईआई"
-        },
-        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
-      },
-      "gu": {
-        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
-        "options": {
-          "A": "નાસકોમ",
-          "B": "ફિક્કી",
-          "C": "એસોચેમ",
-          "D": "CII"
-        },
-        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
-      "qno": 5,
-      "answer": "D",
-      "category": "International",
-      "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
-        "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
-        },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
-      },
-      "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
-        "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
-        },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
-      },
-      "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
-        "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
-        },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-6",
-      "date": "2026-11-01",
-      "qno": 6,
       "answer": "A",
       "category": "National",
       "en": {
@@ -65533,9 +65348,9 @@
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 2,
       "answer": "B",
       "category": "Persons",
       "en": {
@@ -65567,6 +65382,191 @@
           "D": "વિક્ટર ગ્લોવર"
         },
         "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-01-3",
+      "date": "2026-11-01",
+      "qno": 3,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+      }
+    },
+    {
+      "id": "2026-11-01-4",
+      "date": "2026-11-01",
+      "qno": 4,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "options": {
+          "A": "Samudra",
+          "B": "Srishti",
+          "C": "Samarth",
+          "D": "Saksham"
+        },
+        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+      },
+      "hi": {
+        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "options": {
+          "A": "समुद्र",
+          "B": "सृष्टि",
+          "C": "समर्थ",
+          "D": "सक्षम"
+        },
+        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+      },
+      "gu": {
+        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સમુદ્ર",
+          "B": "સૃષ્ટિ",
+          "C": "સમર્થ",
+          "D": "સક્ષમ"
+        },
+        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
+      "answer": "C",
+      "category": "Festivity",
+      "en": {
+        "question": "Which Indian state hosted the first-ever Himalayan Yak Festival in Gnathang Valley?",
+        "options": {
+          "A": "Arunachal Pradesh",
+          "B": "Himachal Pradesh",
+          "C": "Sikkim",
+          "D": "Uttarakhand"
+        },
+        "explanation": "Sikkim hosted the first-ever Himalayan Yak Festival in Gnathang Valley to promote yak conservation and high-altitude tourism. The festival was organised by the Animal Husbandry and Veterinary Services Department of the Government of Sikkim. Its major objectives include implementing yak conservation strategies across the Himalayan region, supporting sustainable livelihoods for pastoral communities in border villages, and boosting the local economy through tourism. Sikkim became India's 22nd state through the 36th Constitutional Amendment Act, 1975. It is also recognised as the world's first 100% organic state, achieving this distinction in 2016."
+      },
+      "hi": {
+        "question": "किस भारतीय राज्य ने ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की?",
+        "options": {
+          "A": "अरुणाचल प्रदेश",
+          "B": "हिमाचल प्रदेश",
+          "C": "सिक्किम",
+          "D": "उत्तराखंड"
+        },
+        "explanation": "सिक्किम ने याक संरक्षण और उच्च ऊंचाई वाले पर्यटन को बढ़ावा देने के लिए ग्नथांग घाटी में पहले हिमालयी याक महोत्सव की मेजबानी की। इस महोत्सव का आयोजन सिक्किम सरकार के पशुपालन और पशु चिकित्सा सेवा विभाग द्वारा किया गया था। इसके प्रमुख उद्देश्यों में पूरे हिमालयी क्षेत्र में याक संरक्षण रणनीतियों को लागू करना, सीमावर्ती गांवों में देहाती समुदायों के लिए स्थायी आजीविका का समर्थन करना और पर्यटन के माध्यम से स्थानीय अर्थव्यवस्था को बढ़ावा देना शामिल है। सिक्किम 2016 में यह गौरव हासिल करके भारत का पहला 100% जैविक राज्य बन गया।"
+      },
+      "gu": {
+        "question": "કયા ભારતીય રાજ્યે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું?",
+        "options": {
+          "A": "અરુણાચલ પ્રદેશ",
+          "B": "હિમાચલ પ્રદેશ",
+          "C": "સિક્કિમ",
+          "D": "ઉત્તરાખંડ"
+        },
+        "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
+        "options": {
+          "A": "Nasscom",
+          "B": "FICCI",
+          "C": "ASSOCHAM",
+          "D": "CII"
+        },
+        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
+      },
+      "hi": {
+        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
+        "options": {
+          "A": "नैसकॉम",
+          "B": "फिक्की",
+          "C": "एसोचैम",
+          "D": "सीआईआई"
+        },
+        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
+      },
+      "gu": {
+        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
+        "options": {
+          "A": "નાસકોમ",
+          "B": "ફિક્કી",
+          "C": "એસોચેમ",
+          "D": "CII"
+        },
+        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
       }
     }
   ]
