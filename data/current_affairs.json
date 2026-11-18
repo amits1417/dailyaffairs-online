@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-17",
     "2026-11-16",
     "2026-11-15",
     "2026-11-14",
@@ -66869,40 +66870,410 @@
       }
     },
     {
+      "id": "2026-11-17-1",
+      "date": "2026-11-17",
+      "qno": 1,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "Which organisation operated the Vulcan rocket involved in the loss of Amazon LEO satellites?",
+        "options": {
+          "A": "NASA",
+          "B": "United Launch Alliance (ULA)",
+          "C": "ISRO",
+          "D": "SpaceX"
+        },
+        "explanation": "United Launch Alliance (ULA) operated the Vulcan rocket involved in the mission failure that resulted in the loss of 40 Amazon LEO satellites. ULA is an American aerospace company formed as a joint venture between Boeing and Lockheed Martin. It provides launch services for commercial, civil and national security missions. The Vulcan rocket was developed to replace ULA's Atlas V and Delta IV launch vehicles. The incident highlighted the challenges involved in launching satellites and maintaining reliable access to space."
+      },
+      "hi": {
+        "question": "अमेज़ॅन LEO उपग्रहों के नुकसान में शामिल वल्कन रॉकेट का संचालन किस संगठन ने किया था?",
+        "options": {
+          "A": "नासा",
+          "B": "यूनाइटेड लॉन्च अलायंस (ULA)",
+          "C": "इसरो",
+          "D": "स्पेसएक्स"
+        },
+        "explanation": "यूनाइटेड लॉन्च एलायंस (ULA) ने मिशन विफलता में शामिल वल्कन रॉकेट का संचालन किया, जिसके परिणामस्वरूप 40 अमेज़ॅन LEO उपग्रह नष्ट हो गए। ULA एक अमेरिकी एयरोस्पेस कंपनी है जो बोइंग और लॉकहीड मार्टिन के संयुक्त उद्यम के रूप में बनाई गई है। यह वाणिज्यिक, नागरिक और राष्ट्रीय सुरक्षा मिशनों के लिए लॉन्च सेवाएँ प्रदान करता है। वल्कन रॉकेट को ULA के एटलस V और डेल्टा IV लॉन्च वाहनों को बदलने के लिए विकसित किया गया था। इस घटना ने उपग्रहों को लॉन्च करने और अंतरिक्ष तक विश्वसनीय पहुंच बनाए रखने में शामिल चुनौतियों पर प्रकाश डाला।"
+      },
+      "gu": {
+        "question": "એમેઝોન LEO ઉપગ્રહોના નુકસાનમાં સામેલ વલ્કન રોકેટનું સંચાલન કઈ સંસ્થાએ કર્યું હતું?",
+        "options": {
+          "A": "નાસા",
+          "B": "યુનાઇટેડ લોન્ચ એલાયન્સ (યુએલએ)",
+          "C": "ઈસરો",
+          "D": "SpaceX"
+        },
+        "explanation": "યુનાઈટેડ લોંચ એલાયન્સ (યુએલએ) એ મિશનની નિષ્ફળતામાં સામેલ વલ્કન રોકેટનું સંચાલન કર્યું જેના પરિણામે 40 એમેઝોન LEO ઉપગ્રહો ખોવાઈ ગયા. ULA એ અમેરિકન એરોસ્પેસ કંપની છે જે બોઇંગ અને લોકહીડ માર્ટિન વચ્ચેના સંયુક્ત સાહસ તરીકે રચાયેલી છે. તે વ્યાપારી, નાગરિક અને રાષ્ટ્રીય સુરક્ષા મિશન માટે લોન્ચ સેવાઓ પ્રદાન કરે છે. વલ્કન રોકેટ ULA ના એટલાસ V અને ડેલ્ટા IV લોન્ચ વાહનોને બદલવા માટે વિકસાવવામાં આવ્યું હતું. આ ઘટનાએ ઉપગ્રહો લોન્ચ કરવા અને અવકાશમાં વિશ્વસનીય પ્રવેશ જાળવવામાં સામેલ પડકારોને પ્રકાશિત કર્યા."
+      }
+    },
+    {
+      "id": "2026-11-17-2",
+      "date": "2026-11-17",
+      "qno": 2,
+      "answer": "C",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed as the Chairperson of the National Sports Board in November 2026?",
+        "options": {
+          "A": "Pushpendra Kumar Garg",
+          "B": "Anurag Thakur",
+          "C": "Devesh Chaturvedi",
+          "D": "Rajeev Mehta"
+        },
+        "explanation": "Devesh Chaturvedi, a retired Indian Administrative Service (IAS) officer, was appointed as the Chairperson of the National Sports Board (NSB) on 16 November 2026. Commodore (Retd.) Pushpendra Kumar Garg was appointed as a Member of the board. Both appointments were made by the Appointments Committee of the Cabinet (ACC). The NSB is a statutory body established under the National Sports Governance Act, 2025, and functions under the Ministry of Youth Affairs and Sports. Its primary responsibilities include recognising national sports bodies, ensuring transparency in their administration and monitoring governance, financial and ethical standards."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में राष्ट्रीय खेल बोर्ड के अध्यक्ष के रूप में किसे नियुक्त किया गया?",
+        "options": {
+          "A": "पुष्पेंद्र कुमार गर्ग",
+          "B": "अनुराग ठाकुर",
+          "C": "देवेश चतुवेर्दी",
+          "D": "राजीव मेहता"
+        },
+        "explanation": "सेवानिवृत्त भारतीय प्रशासनिक सेवा (आईएएस) अधिकारी देवेश चतुर्वेदी को 16 नवंबर 2026 को राष्ट्रीय खेल बोर्ड (एनएसबी) के अध्यक्ष के रूप में नियुक्त किया गया था। कमोडोर (सेवानिवृत्त) पुष्पेंद्र कुमार गर्ग को बोर्ड के सदस्य के रूप में नियुक्त किया गया था। दोनों नियुक्तियाँ कैबिनेट की नियुक्ति समिति (एसीसी) द्वारा की गईं। एनएसबी राष्ट्रीय खेल प्रशासन अधिनियम, 2025 के तहत स्थापित एक वैधानिक निकाय है, और युवा मामले और खेल मंत्रालय के तहत कार्य करता है। इसकी प्राथमिक जिम्मेदारियों में राष्ट्रीय खेल निकायों को मान्यता देना, उनके प्रशासन में पारदर्शिता सुनिश्चित करना और शासन, वित्तीय और नैतिक मानकों की निगरानी करना शामिल है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 માં રાષ્ટ્રીય રમતગમત બોર્ડના અધ્યક્ષ તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "પુષ્પેન્દ્ર કુમાર ગર્ગ",
+          "B": "અનુરાગ ઠાકુર",
+          "C": "દેવેશ ચતુર્વેદી",
+          "D": "રાજીવ મહેતા"
+        },
+        "explanation": "નિવૃત્ત ભારતીય વહીવટી સેવા (IAS) અધિકારી દેવેશ ચતુર્વેદીની 16 નવેમ્બર 2026 ના રોજ રાષ્ટ્રીય રમતગમત બોર્ડ (NSB) ના અધ્યક્ષ તરીકે નિમણૂક કરવામાં આવી હતી. કોમોડોર (નિવૃત્ત) પુષ્પેન્દ્ર કુમાર ગર્ગને બોર્ડના સભ્ય તરીકે નિયુક્ત કરવામાં આવ્યા હતા. બંને નિમણૂંકો કેબિનેટની નિમણૂક સમિતિ (ACC) દ્વારા કરવામાં આવી હતી. NSB એ નેશનલ સ્પોર્ટ્સ ગવર્નન્સ એક્ટ, 2025 હેઠળ સ્થાપિત એક વૈધાનિક સંસ્થા છે અને યુવા બાબતો અને રમતગમત મંત્રાલય હેઠળ કાર્ય કરે છે. તેની પ્રાથમિક જવાબદારીઓમાં રાષ્ટ્રીય રમતગમત સંસ્થાઓને માન્યતા આપવી, તેમના વહીવટમાં પારદર્શિતા સુનિશ્ચિત કરવી અને શાસન, નાણાકીય અને નૈતિક ધોરણોનું નિરીક્ષણ કરવું શામેલ છે."
+      }
+    },
+    {
+      "id": "2026-11-17-3",
+      "date": "2026-11-17",
+      "qno": 3,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Where will the 57th International Film Festival of India (IFFI) be held?",
+        "options": {
+          "A": "Goa",
+          "B": "Kerala",
+          "C": "Maharashtra",
+          "D": "Karnataka"
+        },
+        "explanation": "Goa will host the 57th International Film Festival of India (IFFI) from November 20 to 28, 2026. The festival has been held annually at its permanent venue in Goa since 2004. Spain has been designated as the Country of Honour for this edition, featuring four contemporary Spanish films, including world and regional premieres. The festival will follow the theme #StoriesWithoutBorders, promoting global cinematic exchange. IFFI was established in 1952 and is organised by the Ministry of Information and Broadcasting in collaboration with the National Film Development Corporation (NFDC) and the Government of Goa."
+      },
+      "hi": {
+        "question": "57वां भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (IFFI) कहाँ आयोजित किया जाएगा?",
+        "options": {
+          "A": "गोवा",
+          "B": "केरल",
+          "C": "महाराष्ट्र",
+          "D": "कर्नाटक"
+        },
+        "explanation": "गोवा 20 से 28 नवंबर, 2026 तक 57वें भारतीय अंतर्राष्ट्रीय फिल्म महोत्सव (आईएफएफआई) की मेजबानी करेगा। यह महोत्सव 2004 से हर साल गोवा में अपने स्थायी स्थल पर आयोजित किया जाता है। स्पेन को इस संस्करण के लिए सम्मान के देश के रूप में नामित किया गया है, जिसमें विश्व और क्षेत्रीय प्रीमियर सहित चार समकालीन स्पेनिश फिल्में शामिल हैं। यह महोत्सव theme #StoriesWithoutBorders का अनुसरण करेगा, जो वैश्विक सिनेमाई आदान-प्रदान को बढ़ावा देगा। IFFI की स्थापना 1952 में हुई थी और इसका आयोजन सूचना और प्रसारण मंत्रालय द्वारा राष्ट्रीय फिल्म विकास निगम (NFDC) और गोवा सरकार के सहयोग से किया जाता है।"
+      },
+      "gu": {
+        "question": "57મો ઈન્ટરનેશનલ ફિલ્મ ફેસ્ટિવલ ઓફ ઈન્ડિયા (IFFI) ક્યાં યોજાશે?",
+        "options": {
+          "A": "ગોવા",
+          "B": "કેરળ",
+          "C": "મહારાષ્ટ્ર",
+          "D": "કર્ણાટક"
+        },
+        "explanation": "ગોવા 20 થી 28 નવેમ્બર, 2026 દરમિયાન 57મો ઈન્ટરનેશનલ ફિલ્મ ફેસ્ટિવલ ઓફ ઈન્ડિયા (IFFI) નું આયોજન કરશે. આ ફેસ્ટિવલ 2004 થી ગોવામાં તેના સ્થાયી સ્થળ પર વાર્ષિક ધોરણે યોજવામાં આવે છે. આ એડિશન માટે સ્પેનને કન્ટ્રી ઓફ ઓનર તરીકે નિયુક્ત કરવામાં આવ્યું છે, જેમાં ચાર સમકાલીન સ્પેનિશ ફિલ્મોનો સમાવેશ થાય છે, જેમાં વિશ્વ અને પ્રાદેશિક પૂર્વેની ફિલ્મોનો સમાવેશ થાય છે. આ ફેસ્ટિવલ theme #StoriesWithoutBorders ને અનુસરશે, વૈશ્વિક સિનેમેટિક વિનિમયને પ્રોત્સાહન આપશે. IFFI ની સ્થાપના 1952 માં કરવામાં આવી હતી અને તેનું આયોજન માહિતી અને પ્રસારણ મંત્રાલય દ્વારા નેશનલ ફિલ્મ ડેવલપમેન્ટ કોર્પોરેશન (NFDC) અને ગોવા સરકારના સહયોગથી કરવામાં આવે છે."
+      }
+    },
+    {
+      "id": "2026-11-17-4",
+      "date": "2026-11-17",
+      "qno": 4,
+      "answer": "A",
+      "category": "Sports",
+      "en": {
+        "question": "Who retired from the Indian Premier League as a player and was appointed Team Mentor of Chennai Super Kings for the 2027 season?",
+        "options": {
+          "A": "MS Dhoni",
+          "B": "Rohit Sharma",
+          "C": "Suresh Raina",
+          "D": "Ravindra Jadeja"
+        },
+        "explanation": "MS Dhoni, former captain of Chennai Super Kings (CSK), announced his retirement from playing in the Indian Premier League on 17 November 2026 after 18 seasons. However, he will continue his association with CSK as the team's mentor from the 2027 season. Dhoni joined CSK during the inaugural IPL season in 2008 and established himself as one of the most successful captains in the tournament's history. Under his leadership, CSK won five IPL titles in 2010, 2011, 2018, 2021 and 2023. He scored 5,439 IPL runs and made significant contributions as a wicketkeeper and leader."
+      },
+      "hi": {
+        "question": "एक खिलाड़ी के रूप में इंडियन प्रीमियर लीग से कौन सेवानिवृत्त हुआ और 2027 सीज़न के लिए चेन्नई सुपर किंग्स का टीम मेंटर नियुक्त किया गया?",
+        "options": {
+          "A": "एमएस धोनी",
+          "B": "रोहित शर्मा",
+          "C": "सुरेश रैना",
+          "D": "रवीन्द्र जड़ेजा"
+        },
+        "explanation": "चेन्नई सुपर किंग्स (सीएसके) के पूर्व कप्तान एमएस धोनी ने 18 सीज़न के बाद 17 नवंबर 2026 को इंडियन प्रीमियर लीग में खेलने से संन्यास की घोषणा की। हालाँकि, वह टीम's mentor से  2027 season. Dhoni joined CSK के दौरान  inaugural IPL season में 2008 और established himself as one का  सबसे successful captains में  tournament' के इतिहास के अनुसार CSK के साथ अपना जुड़ाव जारी रखेंगे। उनके नेतृत्व में, सीएसके ने 2010, 2011, 2018, 2021 और 2023 में पांच आईपीएल खिताब जीते। उन्होंने 5,439 आईपीएल रन बनाए और एक विकेटकीपर और नेता के रूप में महत्वपूर्ण योगदान दिया।"
+      },
+      "gu": {
+        "question": "ઈન્ડિયન પ્રીમિયર લીગમાંથી ખેલાડી તરીકે કોણ નિવૃત્ત થયું અને 2027 સીઝન માટે ચેન્નાઈ સુપર કિંગ્સના ટીમ મેન્ટર તરીકે નિયુક્ત થયા?",
+        "options": {
+          "A": "એમએસ ધોની",
+          "B": "રોહિત શર્મા",
+          "C": "સુરેશ રૈના",
+          "D": "રવિન્દ્ર જાડેજા"
+        },
+        "explanation": "ચેન્નાઈ સુપર કિંગ્સ (CSK) ના ભૂતપૂર્વ કેપ્ટન એમએસ ધોનીએ 18 સીઝન પછી 17 નવેમ્બર 2026 ના રોજ ઈન્ડિયન પ્રીમિયર લીગમાં રમવામાંથી નિવૃત્તિ જાહેર કરી. જો કે, તે ટીમ's mentor થી  2027 season. Dhoni joined CSK દરમિયાન  inaugural IPL season માં 2008 અને established himself as one નું  સૌથી successful captains માં  tournament' ના ઇતિહાસ તરીકે CSK સાથે તેમનું જોડાણ ચાલુ રાખશે. તેમના નેતૃત્વ હેઠળ, CSK એ 2010, 2011, 2018, 2021 અને 2023 માં પાંચ IPL ટાઇટલ જીત્યા. તેણે 5,439 IPL રન બનાવ્યા અને વિકેટકીપર અને લીડર તરીકે મહત્વપૂર્ણ યોગદાન આપ્યું."
+      }
+    },
+    {
+      "id": "2026-11-17-5",
+      "date": "2026-11-17",
+      "qno": 5,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is International Students Day observed every year?",
+        "options": {
+          "A": "November 17",
+          "B": "October 15",
+          "C": "December 10",
+          "D": "September 5"
+        },
+        "explanation": "International Students Day is observed annually on November 17 to honour the bravery and sacrifices of Czech students who faced Nazi persecution in 1939. On this day, Nazi forces shut down Czech universities, executed nine student leaders and detained more than 1,200 students. The day was officially declared International Students Day in 1941 by student representatives from various countries who gathered in London. It highlights the importance of students' rights, freedom of speech, democracy, equal access to education and international unity. It also commemorates the role of students in bringing about social and political change."
+      },
+      "hi": {
+        "question": "हर वर्ष अंतर्राष्ट्रीय छात्र दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "17 नवंबर",
+          "B": "15 अक्टूबर",
+          "C": "10 दिसंबर",
+          "D": "5 सितंबर"
+        },
+        "explanation": "1939 में नाजी उत्पीड़न का सामना करने वाले चेक छात्रों की बहादुरी और बलिदान का सम्मान करने के लिए हर साल 17 नवंबर को अंतर्राष्ट्रीय छात्र दिवस मनाया जाता है। इस दिन, नाजी बलों ने चेक विश्वविद्यालयों को बंद कर दिया, नौ छात्र नेताओं को मार डाला और 1,200 से अधिक छात्रों को हिरासत में लिया। 1941 में लंदन में एकत्र हुए विभिन्न देशों के छात्र प्रतिनिधियों द्वारा इस दिन को आधिकारिक तौर पर अंतर्राष्ट्रीय छात्र दिवस घोषित किया गया था। यह छात्रों के अधिकारों, बोलने की स्वतंत्रता, लोकतंत्र, शिक्षा तक समान पहुंच और अंतर्राष्ट्रीय एकता के महत्व पर प्रकाश डालता है। यह सामाजिक और राजनीतिक परिवर्तन लाने में छात्रों की भूमिका को भी याद करता है।"
+      },
+      "gu": {
+        "question": "દર વર્ષે આંતરરાષ્ટ્રીય વિદ્યાર્થી દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "નવેમ્બર 17",
+          "B": "15 ઓક્ટોબર",
+          "C": "10 ડિસેમ્બર",
+          "D": "5 સપ્ટેમ્બર"
+        },
+        "explanation": "1939માં નાઝીઓના અત્યાચારનો સામનો કરનારા ચેક વિદ્યાર્થીઓની બહાદુરી અને બલિદાનને માન આપવા દર વર્ષે 17 નવેમ્બરે આંતરરાષ્ટ્રીય વિદ્યાર્થી દિવસ ઉજવવામાં આવે છે. આ દિવસે, નાઝી દળોએ ચેક યુનિવર્સિટીઓને બંધ કરી દીધી, નવ વિદ્યાર્થી નેતાઓને ફાંસી આપી અને 1,200 થી વધુ વિદ્યાર્થીઓની અટકાયત કરી. લંડનમાં એકત્ર થયેલા વિવિધ દેશોના વિદ્યાર્થી પ્રતિનિધિઓ દ્વારા 1941માં આ દિવસને સત્તાવાર રીતે આંતરરાષ્ટ્રીય વિદ્યાર્થી દિવસ તરીકે જાહેર કરવામાં આવ્યો હતો. તે વિદ્યાર્થીઓના અધિકારો, વાણી સ્વાતંત્ર્ય, લોકશાહી, શિક્ષણની સમાન પહોંચ અને આંતરરાષ્ટ્રીય એકતાના મહત્વ પર પ્રકાશ પાડે છે. તે સામાજિક અને રાજકીય પરિવર્તન લાવવામાં વિદ્યાર્થીઓની ભૂમિકાને પણ યાદ કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-17-6",
+      "date": "2026-11-17",
+      "qno": 6,
+      "answer": "C",
+      "category": "Sports",
+      "en": {
+        "question": "Who was elected to the ISSF Athletes Committee for the 2026–2030 term?",
+        "options": {
+          "A": "Sift Kaur Samra",
+          "B": "Anjum Moudgil",
+          "C": "Manu Bhaker",
+          "D": "Elavenil Valarivan"
+        },
+        "explanation": "Manu Bhaker, India's double Olympic medallist in shooting, was elected to the International Shooting Sport Federation (ISSF) Athletes Committee for the 2026–2030 term. The National Rifle Association of India (NRAI) announced her election on 17 November 2026. She was one of six athletes elected from 22 candidates representing 20 member federations. The committee represents athletes from three shooting disciplines: rifle, pistol and shotgun. Manu Bhaker won two bronze medals at the Paris 2024 Olympics, becoming the first Indian athlete since independence to win two medals in a single Olympic edition. She also became India's first female shooter to win an Olympic medal."
+      },
+      "hi": {
+        "question": "2026-2030 कार्यकाल के लिए ISSF एथलीट समिति के लिए किसे चुना गया?",
+        "options": {
+          "A": "सिफ्त कौर समरा",
+          "B": "अंजुम मौदगिल",
+          "C": "मनु भाकर",
+          "D": "एलावेनिल वलारिवान"
+        },
+        "explanation": "मनु भाकर, भारत's double Olympic medallist में shooting, था elected को  अंतर्राष्ट्रीय Shooting Sport Federation (ISSF) Athletes Committee के लिए  2026–2030 term.  राष्ट्रीय Rifle Association का India (NRAI) announced her election पर 17 November 2026. She था one का six athletes elected से 22 candidates representing 20 member federations.  committee represents athletes से three shooting disciplines: rifle, pistol और shotgun. Manu Bhaker जीता two bronze medals पर  Paris 2024 Olympics, becoming  पहला Indian athlete since independence को win two medals में एक single Olympic edition. She भी became India'ओलंपिक पदक जीतने वाली पहली महिला निशानेबाज।"
+      },
+      "gu": {
+        "question": "2026-2030 ટર્મ માટે ISSF એથ્લેટ્સ કમિટીમાં કોણ ચૂંટાયા?",
+        "options": {
+          "A": "કૌર સમરાને ચાળીને",
+          "B": "અંજુમ મુદગીલ",
+          "C": "મનુ ભાકર",
+          "D": "ઇલાવેનિલ વાલારિવાન"
+        },
+        "explanation": "મનુ ભાકર, ઓલિમ્પિક મેડલ જીતનાર ભારત's double Olympic medallist માં shooting, હતું elected ને  આંતરરાષ્ટ્રીય Shooting Sport Federation (ISSF) Athletes Committee માટે  2026–2030 term.  રાષ્ટ્રીય Rifle Association નું India (NRAI) announced her election પર 17 November 2026. She હતું one નું six athletes elected થી 22 candidates representing 20 member federations.  committee represents athletes થી three shooting disciplines: rifle, pistol અને shotgun. Manu Bhaker જીત્યો two bronze medals પર  Paris 2024 Olympics, becoming  પ્રથમ Indian athlete since independence ને win two medals માં એક single Olympic edition. She પણ became India'ની પ્રથમ મહિલા શૂટર."
+      }
+    },
+    {
+      "id": "2026-11-17-7",
+      "date": "2026-11-17",
+      "qno": 7,
+      "answer": "D",
+      "category": "Places",
+      "en": {
+        "question": "Where was the 31st CII Partnership Summit 2026 held?",
+        "options": {
+          "A": "Hyderabad",
+          "B": "Chennai",
+          "C": "Amaravati",
+          "D": "Visakhapatnam"
+        },
+        "explanation": "Visakhapatnam, Andhra Pradesh, hosted the 31st CII Partnership Summit 2026 from 12 to 13 November 2026. The event was organised by the Confederation of Indian Industry (CII), in collaboration with the Department for Promotion of Industry and Internal Trade (DPIIT) and the Government of Andhra Pradesh. It focused on strengthening global trade and manufacturing under the theme “Navigating the New World Order: Trade | Technology | Trust | Thought Leadership.” The summit also highlighted industrial development initiatives, including three Greenfield Industrial Smart City nodes at Krishnapatnam, Orvakal and Kopparthy."
+      },
+      "hi": {
+        "question": "31वाँ CII पार्टनरशिप शिखर सम्मेलन 2026 कहाँ आयोजित किया गया था?",
+        "options": {
+          "A": "हैदराबाद",
+          "B": "चेन्नई",
+          "C": "अमरावती",
+          "D": "विशाखापत्तनम"
+        },
+        "explanation": "विशाखापत्तनम, आंध्र प्रदेश ने 12 से 13 नवंबर 2026 तक 31वें सीआईआई साझेदारी शिखर सम्मेलन 2026 की मेजबानी की। यह कार्यक्रम उद्योग और आंतरिक व्यापार संवर्धन विभाग (डीपीआईआईटी) और आंध्र प्रदेश सरकार के सहयोग से भारतीय उद्योग परिसंघ (सीआईआई) द्वारा आयोजित किया गया था। इसने theme “Navigating  नया World Order: Trade | Technology | Trust | Thought Leadership के तहत वैश्विक व्यापार और विनिर्माण को मजबूत करने पर ध्यान केंद्रित किया। शिखर सम्मेलन में औद्योगिक विकास पहलों पर भी प्रकाश डाला गया, जिसमें कृष्णापट्टनम, ओर्वाकल और कोप्पर्थी में तीन ग्रीनफील्ड औद्योगिक स्मार्ट सिटी नोड शामिल हैं।"
+      },
+      "gu": {
+        "question": "31મી CII પાર્ટનરશિપ સમિટ 2026 ક્યાં યોજાઈ હતી?",
+        "options": {
+          "A": "હૈદરાબાદ",
+          "B": "ચેન્નાઈ",
+          "C": "અમરાવતી",
+          "D": "વિશાખાપટ્ટનમ"
+        },
+        "explanation": "વિશાખાપટ્ટનમ, આંધ્રપ્રદેશે 12 થી 13 નવેમ્બર 2026 દરમિયાન 31મી CII પાર્ટનરશિપ સમિટ 2026 નું આયોજન કર્યું હતું. આ કાર્યક્રમનું આયોજન ભારતીય ઉદ્યોગ સંઘ (CII) દ્વારા, ડિપાર્ટમેન્ટ ફોર પ્રમોશન ઑફ ઈન્ડસ્ટ્રી એન્ડ ઈન્ટરનલ ટ્રેડ (DPIIT) અને આંધ્ર પ્રદેશ સરકારના સહયોગથી કરવામાં આવ્યું હતું. તે theme “Navigating  નવું World Order: Trade | Technology | Trust | Thought Leadership હેઠળ વૈશ્વિક વેપાર અને ઉત્પાદનને મજબૂત કરવા પર ધ્યાન કેન્દ્રિત કરે છે.\" સમિટમાં કૃષ્ણપટ્ટનમ, ઓરવાકલ અને કોપ્પાર્થી ખાતે ત્રણ ગ્રીનફિલ્ડ ઈન્ડસ્ટ્રીયલ સ્માર્ટ સિટી નોડ્સ સહિત ઔદ્યોગિક વિકાસની પહેલોને પણ પ્રકાશિત કરવામાં આવી હતી."
+      }
+    },
+    {
+      "id": "2026-11-17-8",
+      "date": "2026-11-17",
+      "qno": 8,
+      "answer": "B",
+      "category": "International",
+      "en": {
+        "question": "Which country was re-elected to the International Telecommunication Union (ITU) Council for the 2027–2030 term?",
+        "options": {
+          "A": "Japan",
+          "B": "India",
+          "C": "Australia",
+          "D": "China"
+        },
+        "explanation": "India was re-elected to the Council of the International Telecommunication Union (ITU) for the 2027–2030 term on 16 November 2026. The election took place during the ITU Plenipotentiary Conference held in Doha, Qatar. The ITU Council consists of 48 Member States and serves as the governing body between Plenipotentiary Conferences. It oversees the organisation's policies, strategies, financial management and implementation of decisions. India was among the 13 countries elected from Region E, which represents Asia and Australasia. This re-election strengthens India's role in international cooperation on telecommunications and information and communication technologies (ICT)."
+      },
+      "hi": {
+        "question": "किस देश को 2027-2030 कार्यकाल के लिए अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) परिषद के लिए फिर से चुना गया?",
+        "options": {
+          "A": "जापान",
+          "B": "भारत",
+          "C": "ऑस्ट्रेलिया",
+          "D": "चीन"
+        },
+        "explanation": "भारत को 16 नवंबर 2026 को 2027-2030 कार्यकाल के लिए अंतर्राष्ट्रीय दूरसंचार संघ (आईटीयू) की परिषद के लिए फिर से चुना गया। यह चुनाव कतर के दोहा में आयोजित आईटीयू पूर्णाधिकारी सम्मेलन के दौरान हुआ। आईटीयू परिषद में 48 सदस्य देश शामिल हैं और यह पूर्णाधिकारी सम्मेलनों के बीच शासी निकाय के रूप में कार्य करता है। यह दूरसंचार और सूचना और संचार प्रौद्योगिकियों (आईसीटी) पर अंतर्राष्ट्रीय सहयोग में संगठन's policies, strategies, financial management और implementation का decisions. India था among  13 countries elected से Region E, कौन सा represents Asia और Australasia. यह re-election strengthens India' की भूमिका की देखरेख करता है।"
+      },
+      "gu": {
+        "question": "કયો દેશ 2027-2030 ટર્મ માટે ઇન્ટરનેશનલ ટેલિકોમ્યુનિકેશન યુનિયન (ITU) કાઉન્સિલ માટે ફરીથી ચૂંટાયો હતો?",
+        "options": {
+          "A": "જાપાન",
+          "B": "ભારત",
+          "C": "ઓસ્ટ્રેલિયા",
+          "D": "ચીન"
+        },
+        "explanation": "16 નવેમ્બર 2026ના રોજ 2027-2030ની મુદત માટે કાઉન્સિલ ઓફ ઈન્ટરનેશનલ ટેલિકોમ્યુનિકેશન યુનિયન (ITU) માટે ભારત ફરીથી ચૂંટાઈ આવ્યું. આ ચૂંટણી કતારના દોહામાં યોજાયેલી ITU પ્લેનિપોટેન્શિરી કોન્ફરન્સ દરમિયાન થઈ હતી. ITU કાઉન્સિલમાં 48 સભ્ય રાજ્યોનો સમાવેશ થાય છે અને તે પ્લેનિપોટેંશરી કોન્ફરન્સ વચ્ચે સંચાલક મંડળ તરીકે સેવા આપે છે. તે ટેલિકોમ્યુનિકેશન્સ અને ઇન્ફોર્મેશન એન્ડ કોમ્યુનિકેશન ટેક્નોલોજી (ICT) પર આંતરરાષ્ટ્રીય સહકારમાં સંસ્થા's policies, strategies, financial management અને implementation નું decisions. India હતું among  13 countries elected થી Region E, કયું represents Asia અને Australasia. આ re-election strengthens India'ની ભૂમિકાની દેખરેખ રાખે છે."
+      }
+    },
+    {
+      "id": "2026-11-17-9",
+      "date": "2026-11-17",
+      "qno": 9,
+      "answer": "B",
+      "category": "Economy",
+      "en": {
+        "question": "What was India's Female Labour Force Participation Rate (LFPR) in October 2026?",
+        "options": {
+          "A": "34.6%",
+          "B": "35%",
+          "C": "39.5%",
+          "D": "33.3%"
+        },
+        "explanation": "India's Female Labour Force Participation Rate (LFPR) increased to 35% in October 2026, marking the highest level recorded since February 2026. According to the Periodic Labour Force Survey (PLFS) monthly bulletin released by the Ministry of Statistics and Programme Implementation (MoSPI), the rate rose from 34.6% in September 2026. Rural female participation increased to 39.5%, while urban female participation remained at 25.9%. The year-on-year increase in female LFPR was 0.8 percentage points. This improvement indicates growing participation of women in India's labour force and reflects positive developments in employment opportunities."
+      },
+      "hi": {
+        "question": "अक्टूबर 2026 में भारत की महिला श्रम बल भागीदारी दर (एलएफपीआर) क्या थी?",
+        "options": {
+          "A": "34.6%",
+          "B": "35%",
+          "C": "39.5%",
+          "D": "33.3%"
+        },
+        "explanation": "भारत_ENG_THEME_TOKEN_0__ की श्रम शक्ति और रोजगार के अवसरों में सकारात्मक विकास को दर्शाता है।"
+      },
+      "gu": {
+        "question": "ઓક્ટોબર 2026 માં ભારતનો સ્ત્રી શ્રમ દળ સહભાગિતા દર (LFPR) કેટલો હતો?",
+        "options": {
+          "A": "34.6%",
+          "B": "35%",
+          "C": "39.5%",
+          "D": "33.3%"
+        },
+        "explanation": "ભારત's Female Labour Force Participation Rate (LFPR) increased ને 35% માં October 2026, marking  highest level recorded since February 2026. According ને  Periodic Labour Force Survey (PLFS) monthly bulletin released દ્વારા  Ministry નું Statistics અને Programme Implementation (MoSPI),  rate rose થી 34.6% માં September 2026. Rural female participation increased ને 39.5%, while urban female participation remained પર 25.9%.  વર્ષ-પર-વર્ષ increase માં female LFPR હતું 0.8 percentage points. આ improvement indicates growing participation નું women માં India'નું શ્રમ દળ અને રોજગારની તકોમાં હકારાત્મક વિકાસને પ્રતિબિંબિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-17-10",
+      "date": "2026-11-17",
+      "qno": 10,
+      "answer": "D",
+      "category": "Science",
+      "en": {
+        "question": "Which hospital performed India's first open fetal surgery to repair a spinal defect before birth?",
+        "options": {
+          "A": "Safdarjung Hospital",
+          "B": "PGIMER Chandigarh",
+          "C": "CMC Vellore",
+          "D": "AIIMS Delhi"
+        },
+        "explanation": "AIIMS Delhi (All India Institute of Medical Sciences, New Delhi) performed India's first open fetal surgery on 12 November 2026 to repair myelomeningocele, a severe form of spina bifida, in an unborn baby. The six-hour procedure was conducted when the mother was 25 weeks pregnant at the AIIMS Neurosciences Centre. More than 30 doctors, clinicians and nurses from different medical specialities participated in the operation. The surgery was performed using advanced microscopes and continuous ultrasound guidance. The procedure was provided free of charge under the Government's Janani Shishu Suraksha Karyakram (JSSK), marking a major milestone in India's advanced fetal medicine."
+      },
+      "hi": {
+        "question": "जन्म से पहले रीढ़ की हड्डी की खराबी को ठीक करने के लिए किस अस्पताल ने भारत की पहली ओपन भ्रूण सर्जरी की?",
+        "options": {
+          "A": "सफदरजंग अस्पताल",
+          "B": "पीजीआईएमईआर चंडीगढ़",
+          "C": "सीएमसी वेल्लोर",
+          "D": "एम्स दिल्ली"
+        },
+        "explanation": "एम्स दिल्ली (अखिल भारतीय आयुर्विज्ञान संस्थान, नई दिल्ली) ने भारत_ENG_THEME_TOKEN_0__s जननी शिशु सुरक्षा कार्यक्रम (JSSK) का प्रदर्शन किया, जो भारत की उन्नत भ्रूण चिकित्सा में एक प्रमुख मील का पत्थर है।"
+      },
+      "gu": {
+        "question": "જન્મ પહેલાં કરોડરજ્જુની ખામીને સુધારવા માટે કઈ હોસ્પિટલમાં ભારતની પ્રથમ ઓપન ફેટલ સર્જરી કરવામાં આવી હતી?",
+        "options": {
+          "A": "સફદરજંગ હોસ્પિટલ",
+          "B": "PGIMER ચંદીગઢ",
+          "C": "સીએમસી વેલ્લોર",
+          "D": "એઈમ્સ દિલ્હી"
+        },
+        "explanation": "એઈમ્સ દિલ્હી (ઓલ ઈન્ડિયા ઈન્સ્ટીટ્યુટ ઓફ મેડિકલ સાયન્સ, નવી દિલ્હી) એ ભારતની અદ્યતન ગર્ભ ચિકિત્સા માટે એક મુખ્ય સીમાચિહ્નરૂપ તરીકે ભારત's પ્રથમ open fetal surgery પર 12 November 2026 ને repair myelomeningocele, એક severe form નું spina bifida, માં એક unborn baby.  six-hour procedure હતું conducted ક્યારે  mother હતું 25 weeks pregnant પર  AIIMS Neurosciences Centre. વધુ than 30 doctors, clinicians અને nurses થી different medical specialities participated માં  operation.  surgery હતું performed using advanced microscopes અને continuous ultrasound guidance.  procedure હતું provided free નું charge હેઠળ  સરકાર's જનની શિશુ સુરક્ષા કાર્યક્રમ (JSSK) નું પ્રદર્શન કર્યું."
+      }
+    },
+    {
       "id": "2026-11-01-1",
       "date": "2026-11-01",
       "qno": 1,
-      "answer": "B",
-      "category": "Persons",
+      "answer": "D",
+      "category": "International",
       "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
         "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
         },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
       },
       "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
         "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
         },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
       },
       "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
         "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
         },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
       }
     },
     {
@@ -66947,36 +67318,36 @@
       "date": "2026-11-01",
       "qno": 3,
       "answer": "A",
-      "category": "Business",
+      "category": "National",
       "en": {
-        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
+        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
         "options": {
-          "A": "Nasscom",
-          "B": "FICCI",
-          "C": "ASSOCHAM",
-          "D": "CII"
+          "A": "December 31, 2026",
+          "B": "September 30, 2026",
+          "C": "March 31, 2027",
+          "D": "October 31, 2026"
         },
-        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
+        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
       },
       "hi": {
-        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
+        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
         "options": {
-          "A": "नैसकॉम",
-          "B": "फिक्की",
-          "C": "एसोचैम",
-          "D": "सीआईआई"
+          "A": "31 दिसंबर 2026",
+          "B": "30 सितंबर 2026",
+          "C": "31 मार्च 2027",
+          "D": "31 अक्टूबर 2026"
         },
-        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
+        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
       },
       "gu": {
-        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
+        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
         "options": {
-          "A": "નાસકોમ",
-          "B": "ફિક્કી",
-          "C": "એસોચેમ",
-          "D": "CII"
+          "A": "ડિસેમ્બર 31, 2026",
+          "B": "30 સપ્ટેમ્બર, 2026",
+          "C": "માર્ચ 31, 2027",
+          "D": "ઑક્ટોબર 31, 2026"
         },
-        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
+        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
       }
     },
     {
@@ -67020,80 +67391,43 @@
       "id": "2026-11-01-5",
       "date": "2026-11-01",
       "qno": 5,
-      "answer": "A",
-      "category": "National",
+      "answer": "B",
+      "category": "Persons",
       "en": {
-        "question": "Until which date has the ESIC extended the New Amnesty Scheme 2025?",
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
         "options": {
-          "A": "December 31, 2026",
-          "B": "September 30, 2026",
-          "C": "March 31, 2027",
-          "D": "October 31, 2026"
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
         },
-        "explanation": "December 31, 2026, is the extended deadline for the ESIC New Amnesty Scheme 2025. The Employees’ State Insurance Corporation (ESIC), functioning under the Ministry of Labour & Employment, extended the scheme by an additional three months beyond its original closing date of September 30, 2026. The scheme aims to help employers and insured persons settle pending disputes under the Employees’ State Insurance (ESI) Act. It provides an opportunity for out-of-court settlements, reduces litigation backlogs, and promotes ease of doing business by offering relief from damages under specified settlement conditions."
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
       },
       "hi": {
-        "question": "ईएसआईसी ने न्यू एमनेस्टी स्कीम 2025 को किस तारीख तक बढ़ा दिया है?",
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
         "options": {
-          "A": "31 दिसंबर 2026",
-          "B": "30 सितंबर 2026",
-          "C": "31 मार्च 2027",
-          "D": "31 अक्टूबर 2026"
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
         },
-        "explanation": "31 दिसंबर, 2026, ईएसआईसी न्यू एमनेस्टी स्कीम 2025 के लिए विस्तारित समय सीमा है। श्रम और रोजगार मंत्रालय के तहत कार्यरत कर्मचारी राज्य बीमा निगम (ईएसआईसी) ने इस योजना को 30 सितंबर, 2026 की मूल समापन तिथि से अतिरिक्त तीन महीने के लिए बढ़ा दिया है। इस योजना का उद्देश्य नियोक्ताओं और बीमित व्यक्तियों को कर्मचारी राज्य बीमा (ईएसआई) अधिनियम के तहत लंबित विवादों को निपटाने में मदद करना है। यह अदालत से बाहर निपटान का अवसर प्रदान करता है, मुकदमेबाजी के बैकलॉग को कम करता है, और निर्दिष्ट निपटान शर्तों के तहत नुकसान से राहत प्रदान करके व्यापार करने में आसानी को बढ़ावा देता है।"
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
       },
       "gu": {
-        "question": "ESIC એ કઈ તારીખ સુધી નવી એમ્નેસ્ટી સ્કીમ 2025 લંબાવી છે?",
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
         "options": {
-          "A": "ડિસેમ્બર 31, 2026",
-          "B": "30 સપ્ટેમ્બર, 2026",
-          "C": "માર્ચ 31, 2027",
-          "D": "ઑક્ટોબર 31, 2026"
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
         },
-        "explanation": "31 ડિસેમ્બર, 2026, ESIC નવી એમ્નેસ્ટી સ્કીમ 2025 માટે વિસ્તૃત સમયમર્યાદા છે. શ્રમ અને રોજગાર મંત્રાલય હેઠળ કાર્યરત કર્મચારી રાજ્ય વીમા નિગમ (ESIC), 30 સપ્ટેમ્બર, 2026ની તેની મૂળ અંતિમ તારીખથી વધુ ત્રણ મહિના માટે યોજનાને લંબાવી છે. એમ્પ્લોઈઝ સ્ટેટ ઈન્સ્યોરન્સ (ESI) એક્ટ. તે કોર્ટની બહાર પતાવટની તક પૂરી પાડે છે, મુકદ્દમાના બેકલોગને ઘટાડે છે અને નિર્દિષ્ટ પતાવટની શરતો હેઠળ નુકસાનમાંથી રાહત આપીને વ્યવસાય કરવાની સરળતાને પ્રોત્સાહન આપે છે."
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
       }
     },
     {
       "id": "2026-11-01-6",
       "date": "2026-11-01",
       "qno": 6,
-      "answer": "D",
-      "category": "International",
-      "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
-        "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
-        },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
-      },
-      "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
-        "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
-        },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
-      },
-      "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
-        "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
-        },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
-      }
-    },
-    {
-      "id": "2026-11-01-7",
-      "date": "2026-11-01",
-      "qno": 7,
       "answer": "C",
       "category": "Economy",
       "en": {
@@ -67125,6 +67459,43 @@
           "D": "5%"
         },
         "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "A",
+      "category": "Business",
+      "en": {
+        "question": "Which IT industry body partnered with CAIT to launch the Tech Connect for Traders and MSMEs program?",
+        "options": {
+          "A": "Nasscom",
+          "B": "FICCI",
+          "C": "ASSOCHAM",
+          "D": "CII"
+        },
+        "explanation": "Nasscom partnered with the Confederation of All India Traders (CAIT) to launch the \"Tech Connect for Traders and MSMEs – Accelerating Digital Transformation\" program. The initiative aims to equip traders across India with essential digital skills and improve their global competitiveness. The training focuses on key areas such as Artificial Intelligence (AI), cybersecurity, and digital marketing. The programme primarily targets small traders and Micro, Small, and Medium Enterprises (MSMEs) to support their digital transformation. NASSCOM was established in 1988 and serves as the apex non-profit industry association representing India's Information Technology and Business Process Management (IT-BPM) sector."
+      },
+      "hi": {
+        "question": "व्यापारियों और एमएसएमई कार्यक्रम के लिए टेक कनेक्ट लॉन्च करने के लिए किस आईटी उद्योग निकाय ने CAIT के साथ साझेदारी की?",
+        "options": {
+          "A": "नैसकॉम",
+          "B": "फिक्की",
+          "C": "एसोचैम",
+          "D": "सीआईआई"
+        },
+        "explanation": "नैसकॉम ने \"Tech Connect के लिए Traders और MSMEs – Accelerating डिजिटल Transformation\" कार्यक्रम लॉन्च करने के लिए कन्फेडरेशन ऑफ ऑल इंडिया ट्रेडर्स (CAIT) के साथ साझेदारी की। इस पहल का उद्देश्य पूरे भारत में व्यापारियों को आवश्यक डिजिटल कौशल से लैस करना और उनकी वैश्विक प्रतिस्पर्धात्मकता में सुधार करना है। प्रशिक्षण आर्टिफिशियल इंटेलिजेंस (एआई), साइबर सुरक्षा और डिजिटल मार्केटिंग जैसे प्रमुख क्षेत्रों पर केंद्रित है। कार्यक्रम मुख्य रूप से छोटे व्यापारियों और सूक्ष्म, लघु और मध्यम उद्यमों (एमएसएमई) को उनके डिजिटल परिवर्तन का समर्थन करने के लिए लक्षित करता है। NASSCOM की स्थापना 1988 में हुई थी और यह भारत के सूचना प्रौद्योगिकी और व्यवसाय प्रक्रिया प्रबंधन (IT-BPM) क्षेत्र का प्रतिनिधित्व करने वाले शीर्ष गैर-लाभकारी उद्योग संघ के रूप में कार्य करता है।"
+      },
+      "gu": {
+        "question": "કઈ IT ઉદ્યોગ સંસ્થાએ CAIT સાથે ટેક કનેક્ટ ફોર ટ્રેડર્સ અને MSMEs પ્રોગ્રામ શરૂ કરવા માટે ભાગીદારી કરી છે?",
+        "options": {
+          "A": "નાસકોમ",
+          "B": "ફિક્કી",
+          "C": "એસોચેમ",
+          "D": "CII"
+        },
+        "explanation": "Nasscom એ \"Tech Connect માટે Traders અને MSMEs – Accelerating ડિજિટલ Transformation\" પ્રોગ્રામ શરૂ કરવા માટે કોન્ફેડરેશન ઓફ ઓલ ઇન્ડિયા ટ્રેડર્સ (CAIT) સાથે ભાગીદારી કરી. પહેલનો ઉદ્દેશ્ય સમગ્ર ભારતના વેપારીઓને આવશ્યક ડિજિટલ કૌશલ્યોથી સજ્જ કરવાનો અને તેમની વૈશ્વિક સ્પર્ધાત્મકતામાં સુધારો કરવાનો છે. આ તાલીમ આર્ટિફિશિયલ ઈન્ટેલિજન્સ (AI), સાયબર સિક્યુરિટી અને ડિજિટલ માર્કેટિંગ જેવા મુખ્ય ક્ષેત્રો પર ધ્યાન કેન્દ્રિત કરે છે. આ પ્રોગ્રામ મુખ્યત્વે નાના વેપારીઓ અને માઇક્રો, સ્મોલ અને મીડીયમ એન્ટરપ્રાઇઝિસ (MSME) ને તેમના ડિજિટલ ટ્રાન્સફોર્મેશનને ટેકો આપવા માટે લક્ષ્ય બનાવે છે. NASSCOM ની સ્થાપના 1988 માં કરવામાં આવી હતી અને તે ભારતના ઇન્ફોર્મેશન ટેક્નોલોજી અને બિઝનેસ પ્રોસેસ મેનેજમેન્ટ (IT-BPM) ક્ષેત્રનું પ્રતિનિધિત્વ કરતા સર્વોચ્ચ બિન-લાભકારી ઉદ્યોગ સંગઠન તરીકે સેવા આપે છે."
       }
     }
   ]
