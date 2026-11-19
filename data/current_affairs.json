@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-18",
     "2026-11-17",
     "2026-11-16",
     "2026-11-15",
@@ -67240,46 +67241,379 @@
       }
     },
     {
-      "id": "2026-11-01-1",
-      "date": "2026-11-01",
+      "id": "2026-11-18-1",
+      "date": "2026-11-18",
       "qno": 1,
       "answer": "C",
-      "category": "Economy",
+      "category": "International",
       "en": {
-        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "question": "What facility did Prime Minister Narendra Modi propose for ASEAN tourists at the 23rd ASEAN–India Summit 2026?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "Free travel insurance",
+          "B": "Visa-on-arrival facility",
+          "C": "Free e-visas",
+          "D": "Long-term work permits"
         },
-        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+        "explanation": "Free e-visas were proposed by Prime Minister Narendra Modi for tourists from ASEAN member countries during the 23rd ASEAN–India Summit held in Manila, Philippines, on 17 November 2026. This initiative aims to strengthen tourism and people-to-people connections between India and ASEAN nations. It is one of the nine major initiatives announced to deepen the Comprehensive Strategic Partnership. Other initiatives include maritime cooperation, youth exchanges, increased scholarships at Nalanda University, nuclear energy collaboration, space technology cooperation and joint cyber forensics training. These measures aim to strengthen cooperation in tourism, education, technology, security and culture."
       },
       "hi": {
-        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "question": "23वें आसियान-भारत शिखर सम्मेलन 2026 में प्रधान मंत्री नरेंद्र मोदी ने आसियान पर्यटकों के लिए क्या सुविधा का प्रस्ताव रखा?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "मुफ़्त यात्रा बीमा",
+          "B": "आगमन पर वीज़ा की सुविधा",
+          "C": "निःशुल्क ई-वीजा",
+          "D": "दीर्घकालिक कार्य परमिट"
         },
-        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+        "explanation": "17 नवंबर 2026 को फिलीपींस के मनीला में आयोजित 23वें आसियान-भारत शिखर सम्मेलन के दौरान प्रधान मंत्री नरेंद्र मोदी द्वारा आसियान सदस्य देशों के पर्यटकों के लिए मुफ्त ई-वीजा का प्रस्ताव दिया गया था। इस पहल का उद्देश्य भारत और आसियान देशों के बीच पर्यटन और लोगों से लोगों के बीच संबंधों को मजबूत करना है। यह व्यापक रणनीतिक साझेदारी को गहरा करने के लिए घोषित नौ प्रमुख पहलों में से एक है। अन्य पहलों में समुद्री सहयोग, युवा आदान-प्रदान, नालंदा विश्वविद्यालय में बढ़ी हुई छात्रवृत्ति, परमाणु ऊर्जा सहयोग, अंतरिक्ष प्रौद्योगिकी सहयोग और संयुक्त साइबर फोरेंसिक प्रशिक्षण शामिल हैं। इन उपायों का उद्देश्य पर्यटन, शिक्षा, प्रौद्योगिकी, सुरक्षा और संस्कृति में सहयोग को मजबूत करना है।"
       },
       "gu": {
-        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "question": "વડા પ્રધાન નરેન્દ્ર મોદીએ 23મી ASEAN-ભારત સમિટ 2026માં ASEAN પ્રવાસીઓ માટે કઈ સુવિધાનો પ્રસ્તાવ મૂક્યો હતો?",
         "options": {
-          "A": "2%",
-          "B": "4%",
-          "C": "3%",
-          "D": "5%"
+          "A": "મફત મુસાફરી વીમો",
+          "B": "વિઝા-ઓન-અરાઈવલ સુવિધા",
+          "C": "મફત ઈ-વિઝા",
+          "D": "લાંબા ગાળાની વર્ક પરમિટ"
         },
-        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+        "explanation": "17 નવેમ્બર 2026ના રોજ ફિલિપાઈન્સના મનીલામાં આયોજિત 23મી ASEAN-ભારત સમિટ દરમિયાન વડાપ્રધાન નરેન્દ્ર મોદી દ્વારા ASEAN સભ્ય દેશોના પ્રવાસીઓ માટે મફત ઈ-વિઝાની દરખાસ્ત કરવામાં આવી હતી. આ પહેલનો હેતુ ભારત અને ASEAN રાષ્ટ્રો વચ્ચે પ્રવાસન અને લોકો વચ્ચેના જોડાણને મજબૂત કરવાનો છે. તે વ્યાપક વ્યૂહાત્મક ભાગીદારીને વધુ ગાઢ બનાવવા માટે જાહેર કરાયેલી નવ મુખ્ય પહેલોમાંની એક છે. અન્ય પહેલોમાં દરિયાઈ સહયોગ, યુવા વિનિમય, નાલંદા યુનિવર્સિટીમાં શિષ્યવૃત્તિમાં વધારો, પરમાણુ ઉર્જા સહયોગ, અવકાશ ટેકનોલોજી સહકાર અને સંયુક્ત સાયબર ફોરેન્સિક તાલીમનો સમાવેશ થાય છે. આ પગલાંનો ઉદ્દેશ પ્રવાસન, શિક્ષણ, ટેકનોલોજી, સુરક્ષા અને સંસ્કૃતિમાં સહકારને મજબૂત કરવાનો છે."
       }
     },
     {
-      "id": "2026-11-01-2",
-      "date": "2026-11-01",
+      "id": "2026-11-18-2",
+      "date": "2026-11-18",
       "qno": 2,
+      "answer": "B",
+      "category": "Science",
+      "en": {
+        "question": "Which country is set to dedicate its first indigenous inactivated H5N1 vaccine for chickens on 20 November 2026?",
+        "options": {
+          "A": "Bangladesh",
+          "B": "India",
+          "C": "Nepal",
+          "D": "Sri Lanka"
+        },
+        "explanation": "India is set to dedicate its first indigenous inactivated H5N1 vaccine for chickens on 20 November 2026. The vaccine has been developed by the ICAR-National Institute of High Security Animal Diseases (ICAR-NIHSAD), located in Bhopal, Madhya Pradesh. It targets the highly pathogenic avian influenza virus (H5N1), specifically Clade 2.3.2.1a, which has been responsible for several bird flu outbreaks in India. Union Agriculture Minister Shivraj Singh Chouhan will dedicate the vaccine to the nation. This development is expected to strengthen bird flu prevention, protect poultry populations, reduce farmers' economic losses and improve animal disease preparedness."
+      },
+      "hi": {
+        "question": "कौन सा देश 20 नवंबर 2026 को मुर्गियों के लिए अपना पहला स्वदेशी निष्क्रिय H5N1 वैक्सीन समर्पित करने के लिए तैयार है?",
+        "options": {
+          "A": "बांग्लादेश",
+          "B": "भारत",
+          "C": "नेपाल",
+          "D": "श्रीलंका"
+        },
+        "explanation": "भारत 20 नवंबर 2026 को मुर्गियों के लिए अपना पहला स्वदेशी निष्क्रिय H5N1 वैक्सीन समर्पित करने के लिए तैयार है। इस वैक्सीन को मध्य प्रदेश के भोपाल में स्थित ICAR-राष्ट्रीय उच्च सुरक्षा पशु रोग संस्थान (ICAR-NIHSAD) द्वारा विकसित किया गया है। यह अत्यधिक रोगजनक एवियन इन्फ्लूएंजा वायरस (H5N1) को लक्षित करता है, विशेष रूप से क्लैड 2.3.2.1a, जो भारत में कई बर्ड फ्लू के प्रकोप के लिए जिम्मेदार है। केंद्रीय कृषि मंत्री शिवराज सिंह चौहान वैक्सीन देश को समर्पित करेंगे. इस विकास से बर्ड फ्लू की रोकथाम को मजबूत करने, पोल्ट्री आबादी की रक्षा करने, किसानों के आर्थिक नुकसान को कम करने और पशु रोग तैयारियों में सुधार की उम्मीद है।"
+      },
+      "gu": {
+        "question": "કયો દેશ 20 નવેમ્બર 2026 ના રોજ ચિકન માટે તેની પ્રથમ સ્વદેશી નિષ્ક્રિય H5N1 રસી સમર્પિત કરવા માટે તૈયાર છે?",
+        "options": {
+          "A": "બાંગ્લાદેશ",
+          "B": "ભારત",
+          "C": "નેપાળ",
+          "D": "શ્રીલંકા"
+        },
+        "explanation": "ભારત 20 નવેમ્બર 2026 ના રોજ ચિકન માટે તેની પ્રથમ સ્વદેશી નિષ્ક્રિય H5N1 રસી સમર્પિત કરવા માટે તૈયાર છે. આ રસી ICAR-નેશનલ ઇન્સ્ટિટ્યૂટ ઑફ હાઇ સિક્યુરિટી એનિમલ ડિસીઝ (ICAR-NIHSAD) દ્વારા વિકસાવવામાં આવી છે, જે ભોપાલ, મધ્ય પ્રદેશમાં સ્થિત છે. તે અત્યંત પેથોજેનિક એવિયન ઈન્ફલ્યુએન્ઝા વાયરસ (H5N1), ખાસ કરીને ક્લેડ 2.3.2.1a ને લક્ષ્યાંકિત કરે છે, જે ભારતમાં અનેક બર્ડ ફ્લૂ ફાટી નીકળવા માટે જવાબદાર છે. કેન્દ્રીય કૃષિ મંત્રી શિવરાજ સિંહ ચૌહાણ આ રસી રાષ્ટ્રને સમર્પિત કરશે. આ વિકાસથી બર્ડ ફ્લૂની રોકથામને મજબૂત બનાવવા, મરઘાંની વસ્તીનું રક્ષણ કરવા, ખેડૂતોના આર્થિક નુકસાનને ઘટાડવા અને પ્રાણીઓના રોગની તૈયારીમાં સુધારો થવાની અપેક્ષા છે."
+      }
+    },
+    {
+      "id": "2026-11-18-3",
+      "date": "2026-11-18",
+      "qno": 3,
+      "answer": "B",
+      "category": "Technology",
+      "en": {
+        "question": "What is the central theme of the 29th Bengaluru Tech Summit (BTS) 2026?",
+        "options": {
+          "A": "Digital India",
+          "B": "AI & Beyond",
+          "C": "Technology for Tomorrow",
+          "D": "Innovation and Sustainability"
+        },
+        "explanation": "AI & Beyond is the central theme of the 29th Bengaluru Tech Summit (BTS) 2026, which commenced on 17 November 2026 at the Bangalore International Exhibition Centre (BIEC), Karnataka. The summit is organised by the Department of Electronics, IT and Biotechnology, Karnataka, and co-hosted by the Software Technology Parks of India (STPI). It brings together participants from over 65 countries, including 1,000 startups and 10,000 delegates. The event showcases advancements in artificial intelligence, robotics, quantum technology and cybersecurity. Sweden is the official country partner, while Italy, Australia and Poland are supporting countries."
+      },
+      "hi": {
+        "question": "केंद्रीय theme का  29th Bengaluru Tech शिखर सम्मेलन (BTS) 2026? क्या है",
+        "options": {
+          "A": "डिजिटल इंडिया",
+          "B": "एआई और परे",
+          "C": "कल के लिए प्रौद्योगिकी",
+          "D": "नवाचार और स्थिरता"
+        },
+        "explanation": "AI & Beyond केंद्रीय theme का  29th Bengaluru Tech शिखर सम्मेलन (BTS) 2026 है, जो 17 नवंबर 2026 को बेंगलुरु अंतर्राष्ट्रीय प्रदर्शनी केंद्र (BIEC), कर्नाटक में शुरू हुआ। शिखर सम्मेलन का आयोजन इलेक्ट्रॉनिक्स, आईटी और जैव प्रौद्योगिकी विभाग, कर्नाटक द्वारा किया जाता है और सॉफ्टवेयर टेक्नोलॉजी पार्क ऑफ इंडिया (एसटीपीआई) द्वारा सह-मेजबानी की जाती है। यह 1,000 स्टार्टअप और 10,000 प्रतिनिधियों सहित 65 से अधिक देशों के प्रतिभागियों को एक साथ लाता है। यह कार्यक्रम कृत्रिम बुद्धिमत्ता, रोबोटिक्स, क्वांटम प्रौद्योगिकी और साइबर सुरक्षा में प्रगति को प्रदर्शित करता है। स्वीडन आधिकारिक देश भागीदार है, जबकि इटली, ऑस्ट्रेलिया और पोलैंड सहयोगी देश हैं।"
+      },
+      "gu": {
+        "question": "કેન્દ્રિય theme નું  29th Bengaluru Tech શિખર સંમેલન (BTS) 2026? શું છે",
+        "options": {
+          "A": "ડિજિટલ ઈન્ડિયા",
+          "B": "AI અને બિયોન્ડ",
+          "C": "ટેક્નોલોજી ફોર ટુમોરો",
+          "D": "નવીનતા અને ટકાઉપણું"
+        },
+        "explanation": "AI અને બિયોન્ડ એ કેન્દ્રીય theme નું  29th Bengaluru Tech શિખર સંમેલન (BTS) 2026 છે, જે 17 નવેમ્બર 2026 ના રોજ બેંગ્લોર ઇન્ટરનેશનલ એક્ઝિબિશન સેન્ટર (BIEC), કર્ણાટક ખાતે શરૂ થયું હતું. સમિટનું આયોજન કર્ણાટકના ઈલેક્ટ્રોનિક્સ, આઈટી અને બાયોટેક્નોલોજી વિભાગ દ્વારા કરવામાં આવ્યું છે અને સોફ્ટવેર ટેક્નોલોજી પાર્ક્સ ઓફ ઈન્ડિયા (STPI) દ્વારા સહ યજમાન છે. તે 1,000 સ્ટાર્ટઅપ્સ અને 10,000 પ્રતિનિધિઓ સહિત 65 થી વધુ દેશોના સહભાગીઓને એકસાથે લાવે છે. આ ઇવેન્ટ આર્ટિફિશિયલ ઇન્ટેલિજન્સ, રોબોટિક્સ, ક્વોન્ટમ ટેક્નોલોજી અને સાયબર સિક્યુરિટીમાં પ્રગતિ દર્શાવે છે. સ્વીડન ઓફિશિયલ કન્ટ્રી પાર્ટનર છે, જ્યારે ઈટાલી, ઓસ્ટ્રેલિયા અને પોલેન્ડ દેશોને સપોર્ટ કરી રહ્યા છે."
+      }
+    },
+    {
+      "id": "2026-11-18-4",
+      "date": "2026-11-18",
+      "qno": 4,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Where was the GST and Customs Pavilion inaugurated during the 45th India International Trade Fair (IITF) 2026?",
+        "options": {
+          "A": "New Delhi",
+          "B": "Mumbai",
+          "C": "Hyderabad",
+          "D": "Bengaluru"
+        },
+        "explanation": "New Delhi was the location where the GST and Customs Pavilion was inaugurated at the 45th India International Trade Fair (IITF) on 16 November 2026. The inauguration took place at Bharat Mandapam and was conducted by CBIC Chairman Vivek Chaturvedi. The pavilion highlights Next-Gen GST process reforms and the updated Baggage Rules, 2026. It also provides assistance with GST registration, return filing and refunds. Digital facilities such as GSTN, IRP, ICEGATE and CPGRAMS are showcased to improve trade facilitation and grievance redressal. The theme of the 45th IITF is 'Vikas aur Virasat'."
+      },
+      "hi": {
+        "question": "45वें भारत अंतर्राष्ट्रीय व्यापार मेले (आईआईटीएफ) 2026 के दौरान जीएसटी और सीमा शुल्क मंडप का उद्घाटन कहाँ किया गया?",
+        "options": {
+          "A": "नई दिल्ली",
+          "B": "मुंबई",
+          "C": "हैदराबाद",
+          "D": "बेंगलुरु"
+        },
+        "explanation": "नई दिल्ली वह स्थान था जहां 16 नवंबर 2026 को 45वें भारत अंतर्राष्ट्रीय व्यापार मेले (आईआईटीएफ) में जीएसटी और सीमा शुल्क मंडप का उद्घाटन किया गया था। उद्घाटन भारत मंडपम में हुआ और इसका संचालन सीबीआईसी के अध्यक्ष विवेक चतुर्वेदी ने किया। मंडप नेक्स्ट-जेन जीएसटी प्रक्रिया सुधारों और अद्यतन बैगेज नियम, 2026 पर प्रकाश डालता है। यह जीएसटी पंजीकरण, रिटर्न फाइलिंग और रिफंड में सहायता भी प्रदान करता है। व्यापार सुविधा और शिकायत निवारण में सुधार के लिए जीएसटीएन, आईआरपी, आईसीईजीएटीई और सीपीजीआरएएमएस जैसी डिजिटल सुविधाएं प्रदर्शित की जाती हैं। theme का  45th IITF है 'विकास और विरासत'।"
+      },
+      "gu": {
+        "question": "45મા ઈન્ડિયા ઈન્ટરનેશનલ ટ્રેડ ફેર (IITF) 2026 દરમિયાન GST અને કસ્ટમ્સ પેવેલિયનનું ઉદ્ઘાટન ક્યાં થયું હતું?",
+        "options": {
+          "A": "નવી દિલ્હી",
+          "B": "મુંબઈ",
+          "C": "હૈદરાબાદ",
+          "D": "બેંગલુરુ"
+        },
+        "explanation": "નવી દિલ્હી તે સ્થાન હતું જ્યાં 16 નવેમ્બર 2026ના રોજ 45મા ઈન્ડિયા ઈન્ટરનેશનલ ટ્રેડ ફેર (IITF)માં GST અને કસ્ટમ્સ પેવેલિયનનું ઉદ્ઘાટન કરવામાં આવ્યું હતું. ઉદઘાટન ભારત મંડપમ ખાતે થયું હતું અને CBICના અધ્યક્ષ વિવેક ચતુર્વેદીએ તેનું સંચાલન કર્યું હતું. આ પેવેલિયન નેક્સ્ટ-જનલ GST પ્રક્રિયા સુધારાઓ અને અપડેટ કરાયેલા સામાન નિયમો, 2026 પર પ્રકાશ પાડે છે. તે GST નોંધણી, રિટર્ન ફાઇલિંગ અને રિફંડમાં પણ સહાય પૂરી પાડે છે. GSTN, IRP, ICEGATE અને CPGRAMS જેવી ડિજિટલ સુવિધાઓ વેપારની સુવિધા અને ફરિયાદ નિવારણને સુધારવા માટે પ્રદર્શિત કરવામાં આવી છે. theme નું  45th IITF છે 'વિકાસ ઔર વિરાસત'."
+      }
+    },
+    {
+      "id": "2026-11-18-5",
+      "date": "2026-11-18",
+      "qno": 5,
+      "answer": "A",
+      "category": "Important Days",
+      "en": {
+        "question": "When is Naturopathy Day observed every year in India?",
+        "options": {
+          "A": "November 18",
+          "B": "November 19",
+          "C": "November 20",
+          "D": "November 21"
+        },
+        "explanation": "November 18 is observed as Naturopathy Day every year in India to promote awareness of naturopathy and encourage healthy living. The date commemorates an important event in the history of natural healthcare in India. On November 18, 1945, Mahatma Gandhi became the Lifetime Chairman of the All India Nature Cure Foundation Trust in Pune and signed its trust deed. The Ministry of AYUSH has been celebrating Naturopathy Day annually since 2018. The observance promotes natural healthcare practices, including balanced nutrition, yoga, exercise, stress management and preventive healthcare."
+      },
+      "hi": {
+        "question": "भारत में हर वर्ष प्राकृतिक चिकित्सा दिवस कब मनाया जाता है?",
+        "options": {
+          "A": "18 नवंबर",
+          "B": "19 नवंबर",
+          "C": "20 नवंबर",
+          "D": "21 नवंबर"
+        },
+        "explanation": "प्राकृतिक चिकित्सा के बारे में जागरूकता को बढ़ावा देने और स्वस्थ जीवन को प्रोत्साहित करने के लिए भारत में हर साल 18 नवंबर को प्राकृतिक चिकित्सा दिवस के रूप में मनाया जाता है। यह तारीख भारत में प्राकृतिक स्वास्थ्य देखभाल के इतिहास में एक महत्वपूर्ण घटना की याद दिलाती है। 18 नवंबर, 1945 को, महात्मा गांधी पुणे में ऑल इंडिया नेचर क्योर फाउंडेशन ट्रस्ट के आजीवन अध्यक्ष बने और इसके ट्रस्ट डीड पर हस्ताक्षर किए। आयुष मंत्रालय 2018 से प्रतिवर्ष प्राकृतिक चिकित्सा दिवस मना रहा है। यह उत्सव संतुलित पोषण, योग, व्यायाम, तनाव प्रबंधन और निवारक स्वास्थ्य देखभाल सहित प्राकृतिक स्वास्थ्य देखभाल प्रथाओं को बढ़ावा देता है।"
+      },
+      "gu": {
+        "question": "ભારતમાં દર વર્ષે નેચરોપેથી દિવસ ક્યારે મનાવવામાં આવે છે?",
+        "options": {
+          "A": "18 નવેમ્બર",
+          "B": "19 નવેમ્બર",
+          "C": "20 નવેમ્બર",
+          "D": "21 નવેમ્બર"
+        },
+        "explanation": "નિસર્ગોપચારની જાગૃતિ અને સ્વસ્થ જીવનને પ્રોત્સાહિત કરવા ભારતમાં દર વર્ષે 18 નવેમ્બરને નેચરોપેથી દિવસ તરીકે મનાવવામાં આવે છે. આ તારીખ ભારતમાં કુદરતી સ્વાસ્થ્ય સંભાળના ઈતિહાસમાં એક મહત્વની ઘટનાને યાદ કરે છે. 18 નવેમ્બર, 1945ના રોજ, મહાત્મા ગાંધી પૂણેમાં ઓલ ઈન્ડિયા નેચર ક્યોર ફાઉન્ડેશન ટ્રસ્ટના આજીવન અધ્યક્ષ બન્યા અને તેના ટ્રસ્ટ ડીડ પર હસ્તાક્ષર કર્યા. આયુષ મંત્રાલય 2018 થી દર વર્ષે નેચરોપેથી દિવસની ઉજવણી કરી રહ્યું છે. આ પાલન સંતુલિત પોષણ, યોગ, કસરત, તણાવ વ્યવસ્થાપન અને નિવારક આરોગ્યસંભાળ સહિત કુદરતી આરોગ્યસંભાળ પ્રથાઓને પ્રોત્સાહન આપે છે."
+      }
+    },
+    {
+      "id": "2026-11-18-6",
+      "date": "2026-11-18",
+      "qno": 6,
+      "answer": "A",
+      "category": "Places",
+      "en": {
+        "question": "Which Indian city has become the country's first MCR2030 Resilience Hub recognised by UNDRR Asia-Pacific?",
+        "options": {
+          "A": "GIFT City",
+          "B": "Smart City Bhubaneswar",
+          "C": "Surat",
+          "D": "Gandhinagar"
+        },
+        "explanation": "GIFT City (Gujarat International Finance Tec-City), located in Gujarat, has become India's first Making Cities Resilient 2030 (MCR2030) Resilience Hub, recognised by UNDRR Asia-Pacific in November 2026. This recognition acknowledges its efforts in disaster preparedness, urban risk reduction and maintaining essential services during emergencies. GIFT City joined the MCR2030 initiative in July 2022 with support from the Gujarat Institute of Disaster Management. It completed its disaster resilience scorecard in June 2023 and prepared a Resilience Action Plan in March 2024. The city is implementing measures such as emergency response systems, disaster simulations and early warning mechanisms."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय शहर UNDRR एशिया-प्रशांत द्वारा मान्यता प्राप्त देश का पहला MCR2030 रेजिलिएंस हब बन गया है?",
+        "options": {
+          "A": "गिफ्ट सिटी",
+          "B": "स्मार्ट सिटी भुवनेश्वर",
+          "C": "सूरत",
+          "D": "गांधीनगर"
+        },
+        "explanation": "गुजरात में स्थित GIFT सिटी (गुजरात इंटरनेशनल फाइनेंस टेक-सिटी), भारत का पहला मेकिंग सिटीज़ रेजिलिएंट 2030 (MCR2030) रेजिलिएंस हब बन गया है, जिसे नवंबर 2026 में UNDRR एशिया-पैसिफिक द्वारा मान्यता प्राप्त है। यह मान्यता आपदा तैयारियों, शहरी जोखिम में कमी और आपात स्थिति के दौरान आवश्यक सेवाओं को बनाए रखने में इसके प्रयासों को स्वीकार करती है। GIFT सिटी गुजरात आपदा प्रबंधन संस्थान के समर्थन से जुलाई 2022 में MCR2030 पहल में शामिल हुई। इसने जून 2023 में अपना आपदा लचीलापन स्कोरकार्ड पूरा किया और मार्च 2024 में एक लचीलापन कार्य योजना तैयार की। शहर आपातकालीन प्रतिक्रिया प्रणाली, आपदा सिमुलेशन और प्रारंभिक चेतावनी तंत्र जैसे उपायों को लागू कर रहा है।"
+      },
+      "gu": {
+        "question": "કયું ભારતીય શહેર UNDRR એશિયા-પેસિફિક દ્વારા માન્યતા પ્રાપ્ત દેશનું પ્રથમ MCR2030 રેઝિલિયન્સ હબ બન્યું છે?",
+        "options": {
+          "A": "ગિફ્ટ સિટી",
+          "B": "સ્માર્ટ સિટી ભુવનેશ્વર",
+          "C": "સુરત",
+          "D": "ગાંધીનગર"
+        },
+        "explanation": "ગિફ્ટ સિટી (ગુજરાત ઇન્ટરનેશનલ ફાઇનાન્સ ટેક-સિટી), ગુજરાતમાં સ્થિત છે, તે ભારતનું પ્રથમ મેકિંગ સિટીઝ રેઝિલિએન્ટ 2030 (MCR2030) રેઝિલિયન્સ હબ બન્યું છે, જેને UNDRR એશિયા-પેસિફિક દ્વારા નવેમ્બર 2026માં માન્યતા આપવામાં આવી છે. આ માન્યતા આપત્તિની તૈયારીઓ અને આવશ્યક સેવાઓ દરમિયાન જોખમની તૈયારીઓ અને પુનઃપ્રાપ્તિ સેવાઓ જાળવવામાં તેના પ્રયાસોને સ્વીકારે છે. ગિફ્ટ સિટી જુલાઈ 2022માં ગુજરાત ઇન્સ્ટિટ્યૂટ ઑફ ડિઝાસ્ટર મેનેજમેન્ટના સમર્થનથી MCR2030 પહેલમાં જોડાઈ. તેણે જૂન 2023 માં તેનું ડિઝાસ્ટર રેઝિલિયન્સ સ્કોરકાર્ડ પૂર્ણ કર્યું અને માર્ચ 2024 માં એક સ્થિતિસ્થાપકતા એક્શન પ્લાન તૈયાર કર્યો. શહેર કટોકટી પ્રતિભાવ સિસ્ટમ્સ, આપત્તિ સિમ્યુલેશન્સ અને પ્રારંભિક ચેતવણી પદ્ધતિઓ જેવા પગલાં અમલમાં મૂકી રહ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-18-7",
+      "date": "2026-11-18",
+      "qno": 7,
+      "answer": "D",
+      "category": "Technology",
+      "en": {
+        "question": "Which NASA spacecraft is set to become the first artificial object to reach a distance of one light-day from Earth on November 18, 2026?",
+        "options": {
+          "A": "Voyager 2",
+          "B": "Pioneer 10",
+          "C": "New Horizons",
+          "D": "Voyager 1"
+        },
+        "explanation": "Voyager 1 is NASA’s deep-space spacecraft expected to reach a distance of one light-day from Earth on November 18, 2026. Launched on 5 September 1977 from Cape Canaveral, Florida, it was originally designed to explore Jupiter and Saturn. One light-day is the distance that light travels in 24 hours, approximately 25.9 billion kilometres. At this distance, a radio signal from Earth will take nearly 24 hours to reach the spacecraft, and its reply will require another 24 hours. Voyager 1 also became the first artificial object to enter interstellar space in August 2012."
+      },
+      "hi": {
+        "question": "नासा का कौन सा अंतरिक्ष यान 18 नवंबर, 2026 को पृथ्वी से एक प्रकाश-दिवस की दूरी तक पहुंचने वाला पहला कृत्रिम वस्तु बनने के लिए तैयार है?",
+        "options": {
+          "A": "मल्लाह 2",
+          "B": "पायनियर 10",
+          "C": "नये क्षितिज",
+          "D": "मल्लाह 1"
+        },
+        "explanation": "वोयाजर 1 नासा का गहन-अंतरिक्ष अंतरिक्ष यान है जिसके 18 नवंबर, 2026 को पृथ्वी से एक प्रकाश-दिवस की दूरी तक पहुंचने की उम्मीद है। 5 सितंबर 1977 को केप कैनावेरल, फ्लोरिडा से लॉन्च किया गया, इसे मूल रूप से बृहस्पति और शनि का पता लगाने के लिए डिज़ाइन किया गया था। एक प्रकाश-दिवस वह दूरी है जो प्रकाश 24 घंटों में तय करता है, लगभग 25.9 बिलियन किलोमीटर। इस दूरी पर, पृथ्वी से एक रेडियो सिग्नल को अंतरिक्ष यान तक पहुंचने में लगभग 24 घंटे लगेंगे, और इसके उत्तर के लिए 24 घंटे और लगेंगे। वोयाजर 1 अगस्त 2012 में अंतरतारकीय अंतरिक्ष में प्रवेश करने वाली पहली कृत्रिम वस्तु भी बन गई।"
+      },
+      "gu": {
+        "question": "નાસાનું કયું અવકાશયાન 18 નવેમ્બર, 2026 ના રોજ પૃથ્વીથી એક પ્રકાશ-દિવસના અંતરે પહોંચનાર પ્રથમ કૃત્રિમ પદાર્થ બનવા માટે તૈયાર છે?",
+        "options": {
+          "A": "વોયેજર 2",
+          "B": "પાયોનિયર 10",
+          "C": "ન્યૂ હોરાઇઝન્સ",
+          "D": "વોયેજર 1"
+        },
+        "explanation": "વોયેજર 1 એ NASAનું ડીપ-સ્પેસ સ્પેસક્રાફ્ટ છે જે 18 નવેમ્બર, 2026ના રોજ પૃથ્વીથી એક પ્રકાશ-દિવસના અંતરે પહોંચવાની ધારણા છે. 5 સપ્ટેમ્બર 1977ના રોજ કેપ કેનાવેરલ, ફ્લોરિડાથી લોન્ચ કરવામાં આવ્યું હતું, તે મૂળ રીતે ગુરુ અને શનિનું અન્વેષણ કરવા માટે ડિઝાઇન કરવામાં આવ્યું હતું. એક પ્રકાશ-દિવસ એ અંતર છે જે પ્રકાશ 24 કલાકમાં પસાર કરે છે, લગભગ 25.9 અબજ કિલોમીટર. આ અંતરે, પૃથ્વી પરથી રેડિયો સિગ્નલને અવકાશયાન સુધી પહોંચવામાં લગભગ 24 કલાક લાગશે, અને તેના જવાબ માટે બીજા 24 કલાકનો સમય લાગશે. વોયેજર 1 પણ ઓગસ્ટ 2012માં ઇન્ટરસ્ટેલર સ્પેસમાં પ્રવેશનાર પ્રથમ કૃત્રિમ પદાર્થ બન્યો."
+      }
+    },
+    {
+      "id": "2026-11-18-8",
+      "date": "2026-11-18",
+      "qno": 8,
+      "answer": "D",
+      "category": "National",
+      "en": {
+        "question": "Under which project has Ladakh approved the construction of 97 new water bodies?",
+        "options": {
+          "A": "Jal Jeevan Mission",
+          "B": "Atal Bhujal Yojana",
+          "C": "Pradhan Mantri Krishi Sinchayee Yojana",
+          "D": "Project Amrit Sarovar"
+        },
+        "explanation": "Project Amrit Sarovar is the initiative under which Ladakh has approved the construction of 97 additional water bodies to address water scarcity. The approval was granted by Lieutenant Governor Vinai Kumar Saxena on 15 November 2026. With the completion of these ponds, the total number of operationalised water bodies is expected to reach 163 by January 2027. Together, these water bodies will provide a storage capacity of approximately 550 million litres and cover 163 villages across the Union Territory. The project focuses on conserving water, addressing declining groundwater levels and reducing the impact of receding glaciers through community participation and scientific methods."
+      },
+      "hi": {
+        "question": "लद्दाख ने किस परियोजना के तहत 97 नए जल निकायों के निर्माण को मंजूरी दी है?",
+        "options": {
+          "A": "जल जीवन मिशन",
+          "B": "अटल भूजल योजना",
+          "C": "प्रधानमंत्री कृषि सिंचाई योजना",
+          "D": "प्रोजेक्ट अमृत सरोवर"
+        },
+        "explanation": "प्रोजेक्ट अमृत सरोवर वह पहल है जिसके तहत लद्दाख ने पानी की कमी को दूर करने के लिए 97 अतिरिक्त जल निकायों के निर्माण को मंजूरी दी है। मंजूरी 15 नवंबर 2026 को उपराज्यपाल विनय कुमार सक्सेना द्वारा दी गई थी। इन तालाबों के पूरा होने के साथ, जनवरी 2027 तक चालू जल निकायों की कुल संख्या 163 तक पहुंचने की उम्मीद है। साथ में, ये जल निकाय लगभग 550 मिलियन लीटर की भंडारण क्षमता प्रदान करेंगे और पूरे केंद्र शासित प्रदेश में 163 गांवों को कवर करेंगे। यह परियोजना जल संरक्षण, गिरते भूजल स्तर को संबोधित करने और सामुदायिक भागीदारी और वैज्ञानिक तरीकों के माध्यम से घटते ग्लेशियरों के प्रभाव को कम करने पर केंद्रित है।"
+      },
+      "gu": {
+        "question": "લદ્દાખે કયા પ્રોજેક્ટ હેઠળ 97 નવા જળાશયોના નિર્માણને મંજૂરી આપી છે?",
+        "options": {
+          "A": "જલ જીવન મિશન",
+          "B": "અટલ ભુજલ યોજના",
+          "C": "પ્રધાનમંત્રી કૃષિ સિંચાઈ યોજના",
+          "D": "પ્રોજેક્ટ અમૃત સરોવર"
+        },
+        "explanation": "અમૃત સરોવર પ્રોજેક્ટ એ પહેલ છે જેના હેઠળ લદ્દાખે પાણીની અછતને પહોંચી વળવા 97 વધારાના જળાશયોના નિર્માણને મંજૂરી આપી છે. લેફ્ટનન્ટ ગવર્નર વિનય કુમાર સક્સેના દ્વારા 15 નવેમ્બર 2026 ના રોજ મંજૂરી આપવામાં આવી હતી. આ તળાવો પૂર્ણ થવાથી, જાન્યુઆરી 2027 સુધીમાં કાર્યરત જળ સંસ્થાઓની કુલ સંખ્યા 163 સુધી પહોંચવાની ધારણા છે. એકસાથે, આ જળસંગ્રહો આશરે 550 મિલિયન લીટર સમગ્ર સંઘના ગામોને આવરી લેશે અને લગભગ 550 મિલિયન લિટરની સંગ્રહ ક્ષમતા પ્રદાન કરશે. આ પ્રોજેક્ટ પાણીના સંરક્ષણ પર ધ્યાન કેન્દ્રિત કરે છે, ભૂગર્ભજળના ઘટતા સ્તરને સંબોધિત કરે છે અને સમુદાયની ભાગીદારી અને વૈજ્ઞાનિક પદ્ધતિઓ દ્વારા ઘટતા ગ્લેશિયર્સની અસરને ઘટાડે છે."
+      }
+    },
+    {
+      "id": "2026-11-18-9",
+      "date": "2026-11-18",
+      "qno": 9,
+      "answer": "C",
+      "category": "Technology",
+      "en": {
+        "question": "Which supercomputer retained the world's No. 1 position in the November 2026 TOP500 rankings?",
+        "options": {
+          "A": "El Capitan",
+          "B": "Frontier",
+          "C": "LineShine",
+          "D": "Aurora"
+        },
+        "explanation": "LineShine, developed by the Shenzhen Cloud Computing Centre in China, retained the world's No. 1 position in the November 2026 TOP500 rankings. The rankings were announced on 16 November 2026 at the SC26 computing conference in Chicago, United States. It achieved an impressive performance of 2.198 exaflops on the High Performance Linpack (HPL) benchmark, surpassing the American supercomputer El Capitan, which recorded 1.809 exaflops. LineShine also secured the first position in the High-Performance Conjugate Gradient (HPCG) rankings with 22 petaflops. Notably, it delivers over 2 exaflops of sustained performance using a CPU-only architecture without high-end GPU accelerators."
+      },
+      "hi": {
+        "question": "नवंबर 2026 की TOP500 रैंकिंग में किस सुपरकंप्यूटर ने दुनिया का नंबर 1 स्थान बरकरार रखा?",
+        "options": {
+          "A": "एल कैपिटन",
+          "B": "सीमांत",
+          "C": "लाइनशाइन",
+          "D": "अरोड़ा"
+        },
+        "explanation": "चीन में शेन्ज़ेन क्लाउड कंप्यूटिंग सेंटर द्वारा विकसित लाइनशाइन ने नवंबर 2026 TOP500 रैंकिंग में दुनिया का नंबर 1 स्थान बरकरार रखा। रैंकिंग की घोषणा 16 नवंबर 2026 को शिकागो, संयुक्त राज्य अमेरिका में SC26 कंप्यूटिंग सम्मेलन में की गई थी। इसने हाई परफॉर्मेंस लिनपैक (एचपीएल) बेंचमार्क पर 2.198 एक्साफ्लॉप्स का प्रभावशाली प्रदर्शन हासिल किया, और अमेरिकी सुपरकंप्यूटर एल कैपिटन को पीछे छोड़ दिया, जिसने 1.809 एक्साफ्लॉप्स रिकॉर्ड किया था। लाइनशाइन ने 22 पेटाफ्लॉप्स के साथ हाई-परफॉर्मेंस कंजुगेट ग्रेडिएंट (एचपीसीजी) रैंकिंग में भी पहला स्थान हासिल किया। विशेष रूप से, यह हाई-एंड जीपीयू एक्सेलेरेटर के बिना केवल सीपीयू आर्किटेक्चर का उपयोग करके निरंतर प्रदर्शन के 2 एक्साफ्लॉप प्रदान करता है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 TOP500 રેન્કિંગમાં કયા સુપર કોમ્પ્યુટરે વિશ્વનું નંબર 1 સ્થાન જાળવી રાખ્યું છે?",
+        "options": {
+          "A": "એલ કેપિટન",
+          "B": "સરહદી",
+          "C": "લાઈનશાઈન",
+          "D": "અરોરા"
+        },
+        "explanation": "ચીનમાં શેનઝેન ક્લાઉડ કમ્પ્યુટિંગ સેન્ટર દ્વારા વિકસિત LineShine એ નવેમ્બર 2026 TOP500 રેન્કિંગમાં વિશ્વનું નંબર 1 સ્થાન જાળવી રાખ્યું છે. 16 નવેમ્બર 2026 ના રોજ શિકાગો, યુનાઇટેડ સ્ટેટ્સમાં SC26 કમ્પ્યુટિંગ કોન્ફરન્સમાં રેન્કિંગની જાહેરાત કરવામાં આવી હતી. તેણે હાઈ પરફોર્મન્સ લિનપેક (HPL) બેન્ચમાર્ક પર 2.198 એક્સાફ્લોપ્સનું પ્રભાવશાળી પ્રદર્શન હાંસલ કર્યું, જે અમેરિકન સુપર કોમ્પ્યુટર અલ કેપિટનને વટાવી ગયું, જેણે 1.809 એક્સાફ્લોપ્સ રેકોર્ડ કર્યા. LineShine એ 22 પેટાફ્લોપ્સ સાથે હાઈ-પર્ફોર્મન્સ કન્જુગેટ ગ્રેડિયન્ટ (HPCG) રેન્કિંગમાં પણ પ્રથમ સ્થાન મેળવ્યું છે. નોંધનીય રીતે, તે હાઇ-એન્ડ GPU એક્સિલરેટર વિના માત્ર CPU આર્કિટેક્ચરનો ઉપયોગ કરીને સાતત્યપૂર્ણ પ્રદર્શનના 2 એક્ઝાફ્લોપ્સ પહોંચાડે છે."
+      }
+    },
+    {
+      "id": "2026-11-18-10",
+      "date": "2026-11-18",
+      "qno": 10,
+      "answer": "B",
+      "category": "Sports",
+      "en": {
+        "question": "Which country won the SAFF Championship 2026 title by defeating Pakistan in the final?",
+        "options": {
+          "A": "Bangladesh",
+          "B": "India",
+          "C": "Nepal",
+          "D": "Maldives"
+        },
+        "explanation": "India won the SAFF Championship 2026 title by defeating Pakistan 2–1 in the final held on 17 November 2026 at the National Stadium in Dhaka, Bangladesh. Pakistan took the lead through Alamgir Ghazi in the first-half stoppage time. India made a strong comeback in the second half, with Suhail Ahmad Bhat scoring the equaliser in the 60th minute and Sandip Mandi scoring the winning goal in the 88th minute. With this victory, India secured its 10th SAFF Championship title and became the first team to win the competition three consecutive times."
+      },
+      "hi": {
+        "question": "किस देश ने फाइनल में पाकिस्तान को हराकर SAFF चैम्पियनशिप 2026 का खिताब जीता?",
+        "options": {
+          "A": "बांग्लादेश",
+          "B": "भारत",
+          "C": "नेपाल",
+          "D": "मालदीव"
+        },
+        "explanation": "भारत ने 17 नवंबर 2026 को बांग्लादेश के ढाका के नेशनल स्टेडियम में आयोजित फाइनल में पाकिस्तान को 2-1 से हराकर SAFF चैंपियनशिप 2026 का खिताब जीता। पाकिस्तान ने पहले हाफ के स्टॉपेज टाइम में आलमगीर गाजी की मदद से बढ़त बना ली। भारत ने दूसरे हाफ में जोरदार वापसी की, सुहैल अहमद भट ने 60वें मिनट में बराबरी का गोल किया और संदीप मंडी ने 88वें मिनट में विजयी गोल किया। इस जीत के साथ, भारत ने अपना 10वां SAFF चैम्पियनशिप खिताब हासिल किया और लगातार तीन बार प्रतियोगिता जीतने वाली पहली टीम बन गई।"
+      },
+      "gu": {
+        "question": "કયા દેશે ફાઇનલમાં પાકિસ્તાનને હરાવીને SAFF ચેમ્પિયનશિપ 2026નો ખિતાબ જીત્યો?",
+        "options": {
+          "A": "બાંગ્લાદેશ",
+          "B": "ભારત",
+          "C": "નેપાળ",
+          "D": "માલદીવ"
+        },
+        "explanation": "બાંગ્લાદેશના ઢાકામાં નેશનલ સ્ટેડિયમ ખાતે 17 નવેમ્બર 2026ના રોજ યોજાયેલી ફાઇનલમાં પાકિસ્તાનને 2-1થી હરાવીને ભારતે SAFF ચેમ્પિયનશિપ 2026નું ટાઇટલ જીત્યું હતું. પાકિસ્તાને પહેલા હાફના સ્ટોપેજ ટાઈમમાં આલમગીર ગાઝી દ્વારા લીડ મેળવી હતી. ભારતે બીજા હાફમાં જોરદાર વાપસી કરી હતી, જેમાં સુહેલ અહમદ ભટે 60મી મિનિટે બરાબરીનો ગોલ કર્યો હતો અને સંદિપ મંડીએ 88મી મિનિટે વિજયી ગોલ કર્યો હતો. આ જીત સાથે, ભારતે તેનું 10મું SAFF ચેમ્પિયનશિપ ટાઇટલ મેળવ્યું અને સતત ત્રણ વખત સ્પર્ધા જીતનાર પ્રથમ ટીમ બની."
+      }
+    },
+    {
+      "id": "2026-11-01-1",
+      "date": "2026-11-01",
+      "qno": 1,
       "answer": "A",
       "category": "National",
       "en": {
@@ -67314,83 +67648,9 @@
       }
     },
     {
-      "id": "2026-11-01-3",
+      "id": "2026-11-01-2",
       "date": "2026-11-01",
-      "qno": 3,
-      "answer": "B",
-      "category": "Defence",
-      "en": {
-        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
-        "options": {
-          "A": "Samudra",
-          "B": "Srishti",
-          "C": "Samarth",
-          "D": "Saksham"
-        },
-        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
-      },
-      "hi": {
-        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
-        "options": {
-          "A": "समुद्र",
-          "B": "सृष्टि",
-          "C": "समर्थ",
-          "D": "सक्षम"
-        },
-        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
-      },
-      "gu": {
-        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
-        "options": {
-          "A": "સમુદ્ર",
-          "B": "સૃષ્ટિ",
-          "C": "સમર્થ",
-          "D": "સક્ષમ"
-        },
-        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
-      }
-    },
-    {
-      "id": "2026-11-01-4",
-      "date": "2026-11-01",
-      "qno": 4,
-      "answer": "B",
-      "category": "Persons",
-      "en": {
-        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
-        "options": {
-          "A": "Joshua Kutryk",
-          "B": "Anil Menon",
-          "C": "Raja Chari",
-          "D": "Victor Glover"
-        },
-        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
-      },
-      "hi": {
-        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
-        "options": {
-          "A": "जोशुआ कुट्रीक",
-          "B": "अनिल मेनन",
-          "C": "राजा चारी",
-          "D": "विक्टर ग्लोवर"
-        },
-        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
-      },
-      "gu": {
-        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
-        "options": {
-          "A": "જોશુઆ કુટ્રિક",
-          "B": "અનિલ મેનન",
-          "C": "રાજા ચારી",
-          "D": "વિક્ટર ગ્લોવર"
-        },
-        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
-      }
-    },
-    {
-      "id": "2026-11-01-5",
-      "date": "2026-11-01",
-      "qno": 5,
+      "qno": 2,
       "answer": "A",
       "category": "Business",
       "en": {
@@ -67425,46 +67685,120 @@
       }
     },
     {
-      "id": "2026-11-01-6",
+      "id": "2026-11-01-3",
       "date": "2026-11-01",
-      "qno": 6,
-      "answer": "D",
-      "category": "International",
+      "qno": 3,
+      "answer": "B",
+      "category": "Persons",
       "en": {
-        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "question": "Which NASA astronaut conducted the 100th US spacewalk at the International Space Station?",
         "options": {
-          "A": "Reserve Bank of India",
-          "B": "European Central Bank",
-          "C": "International Monetary Fund",
-          "D": "Bank of England"
+          "A": "Joshua Kutryk",
+          "B": "Anil Menon",
+          "C": "Raja Chari",
+          "D": "Victor Glover"
         },
-        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+        "explanation": "Anil Menon, an Indian-origin NASA astronaut, conducted his fourth career spacewalk at the International Space Station (ISS), marking the 100th US spacewalk at the orbital laboratory. He performed the mission alongside Canadian Space Agency astronaut Joshua Kutryk. Their primary objective was to install a new roll-out solar array to enhance the ISS's power-generation capabilities. Menon was selected as part of NASA's 2021 Astronaut Candidate Class and reported for active duty in January 2022. He previously served as a flight surgeon for NASA and SpaceX and has accumulated over 1,000 hours as a certified flight pilot."
       },
       "hi": {
-        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "question": "नासा के किस अंतरिक्ष यात्री ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन पर 100वां अमेरिकी स्पेसवॉक किया?",
         "options": {
-          "A": "भारतीय रिज़र्व बैंक",
-          "B": "यूरोपीय सेंट्रल बैंक",
-          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
-          "D": "बैंक ऑफ इंग्लैंड"
+          "A": "जोशुआ कुट्रीक",
+          "B": "अनिल मेनन",
+          "C": "राजा चारी",
+          "D": "विक्टर ग्लोवर"
         },
-        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+        "explanation": "भारतीय मूल के नासा अंतरिक्ष यात्री अनिल मेनन ने अंतर्राष्ट्रीय अंतरिक्ष स्टेशन (आईएसएस) में अपना चौथा करियर स्पेसवॉक किया, जो कक्षीय प्रयोगशाला में 100वां अमेरिकी स्पेसवॉक था। उन्होंने कनाडाई अंतरिक्ष एजेंसी के अंतरिक्ष यात्री जोशुआ कुट्रीक के साथ मिशन को अंजाम दिया। उनका प्राथमिक उद्देश्य ISS's power-generation capabilities. Menon था selected as part का NASA's 2021 अंतरिक्ष यात्री उम्मीदवार वर्ग को बढ़ाने के लिए एक नया रोल-आउट सौर सरणी स्थापित करना था और जनवरी 2022 में सक्रिय ड्यूटी के लिए रिपोर्ट किया गया था। उन्होंने पहले नासा और स्पेसएक्स के लिए फ्लाइट सर्जन के रूप में कार्य किया था और प्रमाणित उड़ान पायलट के रूप में 1,000 से अधिक घंटे जमा किए हैं।"
       },
       "gu": {
-        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "question": "નાસાના કયા અવકાશયાત્રીએ ઇન્ટરનેશનલ સ્પેસ સ્ટેશન પર 100મું યુએસ સ્પેસવોક કર્યું?",
         "options": {
-          "A": "ભારતીય રિઝર્વ બેંક",
-          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
-          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
-          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+          "A": "જોશુઆ કુટ્રિક",
+          "B": "અનિલ મેનન",
+          "C": "રાજા ચારી",
+          "D": "વિક્ટર ગ્લોવર"
         },
-        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
+        "explanation": "ભારતીય મૂળના NASA અવકાશયાત્રી અનિલ મેનન, ઇન્ટરનેશનલ સ્પેસ સ્ટેશન (ISS) ખાતે તેમની કારકિર્દીનું ચોથું સ્પેસવોક કર્યું, જે ઓર્બિટલ લેબોરેટરીમાં યુએસના 100મા સ્પેસવોકને ચિહ્નિત કરે છે. તેણે કેનેડિયન સ્પેસ એજન્સીના અવકાશયાત્રી જોશુઆ કુટ્રિક સાથે મિશન કર્યું. તેમનો પ્રાથમિક ઉદ્દેશ ISS's power-generation capabilities. Menon હતું selected as part નું NASA's 2021 અવકાશયાત્રી ઉમેદવાર વર્ગને વધારવા માટે એક નવો રોલ-આઉટ સોલર એરે સ્થાપિત કરવાનો હતો અને જાન્યુઆરી 2022 માં સક્રિય ફરજ માટે જાણ કરવામાં આવી હતી. તેણે અગાઉ NASA અને SpaceX માટે ફ્લાઇટ સર્જન તરીકે સેવા આપી હતી અને 100 કલાક કરતાં વધુ ફ્લાઇટ એકત્રિત કરી હતી."
       }
     },
     {
-      "id": "2026-11-01-7",
+      "id": "2026-11-01-4",
       "date": "2026-11-01",
-      "qno": 7,
+      "qno": 4,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which name was given to the Next Generation Offshore Patrol Vessel launched at Goa Shipyard Limited?",
+        "options": {
+          "A": "Samudra",
+          "B": "Srishti",
+          "C": "Samarth",
+          "D": "Saksham"
+        },
+        "explanation": "Srishti is the name of the Next Generation Offshore Patrol Vessel (NGOPV), Yard 1283, launched at Goa Shipyard Limited (GSL). The vessel is indigenously designed and constructed by GSL as part of India's efforts to strengthen its naval capabilities and promote self-reliance in defence manufacturing. The Sanskrit word “Srishti” means “Creation” or “Act of Creating”. The vessel is designed to perform maritime surveillance, Search and Rescue (SAR), anti-piracy operations, and protection of offshore assets. It can also undertake Humanitarian Assistance and Disaster Relief (HADR) missions, supporting India's maritime security objectives."
+      },
+      "hi": {
+        "question": "गोवा शिपयार्ड लिमिटेड में लॉन्च किए गए अगली पीढ़ी के ऑफशोर गश्ती जहाज को क्या नाम दिया गया था?",
+        "options": {
+          "A": "समुद्र",
+          "B": "सृष्टि",
+          "C": "समर्थ",
+          "D": "सक्षम"
+        },
+        "explanation": "सृष्टि अगली पीढ़ी के ऑफशोर पेट्रोल वेसल (एनजीओपीवी), यार्ड 1283 का नाम है, जिसे गोवा शिपयार्ड लिमिटेड (जीएसएल) में लॉन्च किया गया है। जहाज को भारत's efforts को strengthen its naval capabilities और promote self-reliance में defence manufacturing.  Sanskrit word “Srishti” means “Creation” या “Act का Creating”.  vessel है designed को perform maritime surveillance, Search और Rescue (SAR), anti-piracy operations, और protection का offshore assets. It सकता है भी undertake Humanitarian Assistance और Disaster Relief (HADR) missions, supporting India' के समुद्री सुरक्षा उद्देश्यों के हिस्से के रूप में जीएसएल द्वारा स्वदेशी रूप से डिजाइन और निर्मित किया गया है।"
+      },
+      "gu": {
+        "question": "ગોવા શિપયાર્ડ લિમિટેડમાં શરૂ કરાયેલ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલને કયું નામ આપવામાં આવ્યું હતું?",
+        "options": {
+          "A": "સમુદ્ર",
+          "B": "સૃષ્ટિ",
+          "C": "સમર્થ",
+          "D": "સક્ષમ"
+        },
+        "explanation": "સૃષ્ટિ એ નેક્સ્ટ જનરેશન ઓફશોર પેટ્રોલ વેસેલ (NGOPV), યાર્ડ 1283નું નામ છે, જે ગોવા શિપયાર્ડ લિમિટેડ (GSL) ખાતે લોન્ચ કરવામાં આવ્યું છે. ભારત's efforts ને strengthen its naval capabilities અને promote self-reliance માં defence manufacturing.  Sanskrit word “Srishti” means “Creation” અથવા “Act નું Creating”.  vessel છે designed ને perform maritime surveillance, Search અને Rescue (SAR), anti-piracy operations, અને protection નું offshore assets. It શકે છે પણ undertake Humanitarian Assistance અને Disaster Relief (HADR) missions, supporting India'ના દરિયાઈ સુરક્ષા ઉદ્દેશ્યોના ભાગરૂપે GSL દ્વારા જહાજ સ્વદેશી રીતે ડિઝાઇન અને નિર્માણ કરવામાં આવ્યું છે."
+      }
+    },
+    {
+      "id": "2026-11-01-5",
+      "date": "2026-11-01",
+      "qno": 5,
+      "answer": "C",
+      "category": "Economy",
+      "en": {
+        "question": "By what percentage did the Union Cabinet approve an increase in Dearness Allowance (DA) and Dearness Relief (DR) for Central Government employees and pensioners?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "3% is the additional increase in Dearness Allowance (DA) for Central Government employees and Dearness Relief (DR) for pensioners approved by the Union Cabinet. The revision is effective from July 1, 2026, and aims to compensate beneficiaries for rising living costs due to inflation. The increase is calculated based on the accepted formula of the 7th Central Pay Commission, raising the existing DA and DR rate of 60% of Basic Pay or Pension by 3 percentage points to 63%. The decision benefits approximately 48.54 lakh employees and 68.71 lakh pensioners, with an estimated annual financial impact of ₹10,016.10 crore."
+      },
+      "hi": {
+        "question": "केंद्रीय मंत्रिमंडल ने केंद्र सरकार के कर्मचारियों और पेंशनभोगियों के लिए महंगाई भत्ते (डीए) और महंगाई राहत (डीआर) में कितने प्रतिशत की वृद्धि को मंजूरी दी?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "केंद्रीय मंत्रिमंडल द्वारा अनुमोदित केंद्र सरकार के कर्मचारियों के लिए महंगाई भत्ते (डीए) और पेंशनभोगियों के लिए महंगाई राहत (डीआर) में 3% की अतिरिक्त वृद्धि है। संशोधन 1 जुलाई, 2026 से प्रभावी है, और इसका उद्देश्य मुद्रास्फीति के कारण बढ़ती जीवन लागत के लिए लाभार्थियों को मुआवजा देना है। वृद्धि की गणना 7वें केंद्रीय वेतन आयोग के स्वीकृत फॉर्मूले के आधार पर की जाती है, जिससे मूल वेतन या पेंशन के 60% की मौजूदा डीए और डीआर दर को 3 प्रतिशत अंक बढ़ाकर 63% कर दिया जाता है। इस निर्णय से लगभग 48.54 लाख कर्मचारियों और 68.71 लाख पेंशनभोगियों को लाभ होगा, जिसका अनुमानित वार्षिक वित्तीय प्रभाव ₹10,016.10 करोड़ होगा।"
+      },
+      "gu": {
+        "question": "કેન્દ્રીય કેબિનેટે કેન્દ્ર સરકારના કર્મચારીઓ અને પેન્શનરો માટે મોંઘવારી ભથ્થું (DA) અને મોંઘવારી રાહત (DR)માં કેટલા ટકા વધારાને મંજૂરી આપી?",
+        "options": {
+          "A": "2%",
+          "B": "4%",
+          "C": "3%",
+          "D": "5%"
+        },
+        "explanation": "કેન્દ્ર સરકારના કર્મચારીઓ માટે મોંઘવારી ભથ્થું (DA) અને કેન્દ્રીય કેબિનેટ દ્વારા મંજૂર કરાયેલ પેન્શનરો માટે મોંઘવારી રાહત (DR)માં 3% વધારાનો વધારો છે. સુધારો 1 જુલાઈ, 2026 થી અમલી છે અને તેનો ઉદ્દેશ્ય ફુગાવાના કારણે વધતા જીવન ખર્ચ માટે લાભાર્થીઓને વળતર આપવાનો છે. વધારાની ગણતરી 7મા સેન્ટ્રલ પે કમિશનના સ્વીકૃત ફોર્મ્યુલાના આધારે કરવામાં આવે છે, જે મૂળભૂત પગાર અથવા પેન્શનના 60%ના હાલના DA અને DR દરને 3 ટકાથી વધારીને 63% કરે છે. આ નિર્ણયથી અંદાજે 48.54 લાખ કર્મચારીઓ અને 68.71 લાખ પેન્શનરોને ફાયદો થશે, જેની અંદાજિત વાર્ષિક નાણાકીય અસર ₹10,016.10 કરોડ છે."
+      }
+    },
+    {
+      "id": "2026-11-01-6",
+      "date": "2026-11-01",
+      "qno": 6,
       "answer": "C",
       "category": "Festivity",
       "en": {
@@ -67496,6 +67830,43 @@
           "D": "ઉત્તરાખંડ"
         },
         "explanation": "સિક્કિમે યાક સંરક્ષણ અને ઊંચાઈ પરના પ્રવાસનને પ્રોત્સાહન આપવા માટે ગનાથંગ ખીણમાં પ્રથમવાર હિમાલયન યાક ફેસ્ટિવલનું આયોજન કર્યું હતું. આ ઉત્સવનું આયોજન સિક્કિમ સરકારના પશુપાલન અને પશુચિકિત્સા સેવા વિભાગ દ્વારા કરવામાં આવ્યું હતું. તેના મુખ્ય ઉદ્દેશ્યોમાં સમગ્ર હિમાલય પ્રદેશમાં યાક સંરક્ષણ વ્યૂહરચનાઓ અમલમાં મૂકવા, સરહદી ગામોમાં પશુપાલન સમુદાયો માટે ટકાઉ આજીવિકાને ટેકો આપવા અને પ્રવાસન દ્વારા સ્થાનિક અર્થતંત્રને વેગ આપવાનો સમાવેશ થાય છે. સિક્કિમ ભારત's 22nd રાજ્ય દ્વારા  36th Constitutional Amendment Act, 1975. It છે પણ recognised as  world'નું પ્રથમ 100% ઓર્ગેનિક રાજ્ય બન્યું, જેણે 2016 માં આ વિશિષ્ટતા હાંસલ કરી."
+      }
+    },
+    {
+      "id": "2026-11-01-7",
+      "date": "2026-11-01",
+      "qno": 7,
+      "answer": "D",
+      "category": "International",
+      "en": {
+        "question": "Which institution signed a Memorandum of Understanding (MoU) with SEBI to enhance regulatory cooperation regarding clearing corporations?",
+        "options": {
+          "A": "Reserve Bank of India",
+          "B": "European Central Bank",
+          "C": "International Monetary Fund",
+          "D": "Bank of England"
+        },
+        "explanation": "The Bank of England (BoE), the central bank of the United Kingdom, signed a Memorandum of Understanding (MoU) with the Securities and Exchange Board of India (SEBI) to strengthen regulatory cooperation concerning clearing corporations. The agreement establishes a framework for cooperation and information exchange regarding Central Counterparties (CCPs) recognised by SEBI. It also allows the Bank of England to rely on SEBI's regulatory and supervisory activities while safeguarding the financial stability of the UK. Established in 1694 and headquartered in London, the Bank of England plays an important role in the UK's financial system."
+      },
+      "hi": {
+        "question": "किस संस्था ने क्लियरिंग कॉरपोरेशन के संबंध में नियामक सहयोग बढ़ाने के लिए सेबी के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय रिज़र्व बैंक",
+          "B": "यूरोपीय सेंट्रल बैंक",
+          "C": "अंतर्राष्ट्रीय मुद्रा कोष",
+          "D": "बैंक ऑफ इंग्लैंड"
+        },
+        "explanation": "यूनाइटेड किंगडम के केंद्रीय बैंक, बैंक ऑफ इंग्लैंड (BoE) ने समाशोधन निगमों से संबंधित नियामक सहयोग को मजबूत करने के लिए भारतीय प्रतिभूति और विनिमय बोर्ड (SEBI) के साथ एक समझौता ज्ञापन (MoU) पर हस्ताक्षर किए। यह समझौता सेबी द्वारा मान्यता प्राप्त केंद्रीय प्रतिपक्षों (सीसीपी) के संबंध में सहयोग और सूचना के आदान-प्रदान के लिए एक रूपरेखा स्थापित करता है। यह बैंक ऑफ इंग्लैंड को SEBI's regulatory और supervisory activities while safeguarding  financial stability का  UK. Established में 1694 और headquartered में London,  बैंक का England plays एक महत्वपूर्ण role में  UK's वित्तीय प्रणाली पर भरोसा करने की भी अनुमति देता है।"
+      },
+      "gu": {
+        "question": "કઇ સંસ્થાએ ક્લીયરિંગ કોર્પોરેશનો અંગે નિયમનકારી સહકાર વધારવા માટે સેબી સાથે સમજૂતી પત્ર (એમઓયુ) પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય રિઝર્વ બેંક",
+          "B": "યુરોપિયન સેન્ટ્રલ બેંક",
+          "C": "ઇન્ટરનેશનલ મોનેટરી ફંડ",
+          "D": "બેંક ઓફ ઈંગ્લેન્ડ"
+        },
+        "explanation": "યુનાઇટેડ કિંગડમની સેન્ટ્રલ બેંક બેંક ઓફ ઇંગ્લેન્ડ (BoE) એ ક્લીયરિંગ કોર્પોરેશનો સંબંધિત નિયમનકારી સહકારને મજબૂત કરવા માટે સિક્યોરિટીઝ એન્ડ એક્સચેન્જ બોર્ડ ઓફ ઇન્ડિયા (SEBI) સાથે સમજૂતી કરાર (MoU) પર હસ્તાક્ષર કર્યા. આ કરાર સેબી દ્વારા માન્યતા પ્રાપ્ત સેન્ટ્રલ કાઉન્ટરપાર્ટીઝ (સીસીપી) સંબંધિત સહકાર અને માહિતીના વિનિમય માટેનું માળખું સ્થાપિત કરે છે. તે બેંક ઓફ ઈંગ્લેન્ડને SEBI's regulatory અને supervisory activities while safeguarding  financial stability નું  UK. Established માં 1694 અને headquartered માં London,  બેંક નું England plays એક મહત્વપૂર્ણ role માં  UK' ની નાણાકીય સિસ્ટમ પર આધાર રાખવાની પણ મંજૂરી આપે છે."
       }
     }
   ]
