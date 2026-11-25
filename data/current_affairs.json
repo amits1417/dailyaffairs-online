@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-11-24",
     "2026-11-23",
     "2026-11-22",
     "2026-11-21",
@@ -69355,46 +69356,379 @@
       }
     },
     {
-      "id": "2026-11-22-1",
-      "date": "2026-11-22",
+      "id": "2026-11-24-1",
+      "date": "2026-11-24",
       "qno": 1,
       "answer": "B",
-      "category": "Defence",
+      "category": "International",
       "en": {
-        "question": "Which organisation signed a Memorandum of Understanding with Central Sanskrit University to provide structured Yoga learning and certification for Agniveervayu personnel?",
+        "question": "Which position did Bangladesh achieve globally after synchronising the first unit of the Rooppur Nuclear Power Plant with its national grid?",
         "options": {
-          "A": "Indian Army",
-          "B": "Indian Air Force",
-          "C": "Indian Navy",
-          "D": "Indian Coast Guard"
+          "A": "31st",
+          "B": "33rd",
+          "C": "35th",
+          "D": "37th"
         },
-        "explanation": "The Indian Air Force (IAF) signed a Memorandum of Understanding (MoU) with Central Sanskrit University on November 19, 2026, to provide structured Yoga learning and formal certification opportunities for Agniveervayu personnel. The agreement aims to promote capacity building and skill enhancement through collaboration with higher education institutions. The MoU was signed at Air Headquarters in New Delhi. The IAF was established on October 8, 1932, and is headquartered in New Delhi. The President of India serves as the Supreme Commander of the Indian Air Force."
+        "explanation": "Bangladesh became the world's 33rd nuclear-powered nation in November 2026, after successfully synchronising the first unit of the Rooppur Nuclear Power Plant with its national electricity grid. Located in Ishwardi, Pabna district, Rooppur is Bangladesh's first nuclear power facility and was developed in collaboration with a Russian contractor. The plant consists of two units, each with a generation capacity of 1,200 MW, providing a total installed capacity of 2,400 MW. Before regular commercial electricity supply begins, the first unit will undergo a 10-month trial operation phase under the required regulatory and safety supervision."
       },
       "hi": {
-        "question": "अग्निवीरवायु कर्मियों के लिए संरचित योग शिक्षा और प्रमाणन प्रदान करने के लिए किस संगठन ने केंद्रीय संस्कृत विश्वविद्यालय के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?",
+        "question": "रूपपुर परमाणु ऊर्जा संयंत्र की पहली इकाई को अपने राष्ट्रीय ग्रिड के साथ सिंक्रनाइज़ करने के बाद बांग्लादेश ने विश्व स्तर पर कौन सा स्थान हासिल किया?",
         "options": {
-          "A": "भारतीय सेना",
-          "B": "भारतीय वायु सेना",
-          "C": "भारतीय नौसेना",
-          "D": "भारतीय तट रक्षक"
+          "A": "31वां",
+          "B": "33वाँ",
+          "C": "35वां",
+          "D": "37वां"
         },
-        "explanation": "भारतीय वायु सेना (आईएएफ) ने अग्निवीरवायु कर्मियों के लिए संरचित योग सीखने और औपचारिक प्रमाणन अवसर प्रदान करने के लिए 19 नवंबर, 2026 को केंद्रीय संस्कृत विश्वविद्यालय के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए। समझौते का उद्देश्य उच्च शिक्षा संस्थानों के साथ सहयोग के माध्यम से क्षमता निर्माण और कौशल वृद्धि को बढ़ावा देना है। नई दिल्ली में वायु सेना मुख्यालय में समझौता ज्ञापन पर हस्ताक्षर किए गए। IAF की स्थापना 8 अक्टूबर, 1932 को हुई थी और इसका मुख्यालय नई दिल्ली में है। भारत के राष्ट्रपति भारतीय वायु सेना के सर्वोच्च कमांडर के रूप में कार्य करते हैं।"
+        "explanation": "बांग्लादेश दुनिया की पहली परमाणु ऊर्जा सुविधा बन गया और इसे एक रूसी ठेकेदार के सहयोग से विकसित किया गया था। संयंत्र में दो इकाइयाँ हैं, जिनमें से प्रत्येक की उत्पादन क्षमता 1,200 मेगावाट है, जो कुल स्थापित क्षमता 2,400 मेगावाट प्रदान करती है। नियमित वाणिज्यिक बिजली आपूर्ति शुरू होने से पहले, पहली इकाई को आवश्यक नियामक और सुरक्षा पर्यवेक्षण के तहत 10 महीने के परीक्षण संचालन चरण से गुजरना होगा।"
       },
       "gu": {
-        "question": "અગ્નિવીરવાયુ કર્મચારીઓ માટે સંરચિત યોગ શિક્ષણ અને પ્રમાણપત્ર પ્રદાન કરવા માટે કઈ સંસ્થાએ કેન્દ્રીય સંસ્કૃત યુનિવર્સિટી સાથે સમજૂતી કરાર પર હસ્તાક્ષર કર્યા?",
+        "question": "રૂપપુર ન્યુક્લિયર પાવર પ્લાન્ટના પ્રથમ યુનિટને તેના રાષ્ટ્રીય ગ્રીડ સાથે સુમેળ કર્યા પછી બાંગ્લાદેશે વૈશ્વિક સ્તરે કયું સ્થાન પ્રાપ્ત કર્યું?",
         "options": {
-          "A": "ભારતીય સેના",
-          "B": "ભારતીય વાયુસેના",
-          "C": "ભારતીય નૌકાદળ",
-          "D": "ભારતીય કોસ્ટ ગાર્ડ"
+          "A": "31મી",
+          "B": "33મી",
+          "C": "35મી",
+          "D": "37મી"
         },
-        "explanation": "ભારતીય વાયુસેના (IAF) એ 19 નવેમ્બર, 2026 ના રોજ કેન્દ્રીય સંસ્કૃત યુનિવર્સિટી સાથે અગ્નિવીરવાયુ કર્મચારીઓ માટે સંરચિત યોગ શીખવાની અને ઔપચારિક પ્રમાણપત્રની તકો પૂરી પાડવા માટે એક સમજૂતી કરાર (એમઓયુ) પર હસ્તાક્ષર કર્યા. કરારનો હેતુ ઉચ્ચ શિક્ષણ સંસ્થાઓ સાથે સહયોગ દ્વારા ક્ષમતા નિર્માણ અને કૌશલ્ય વૃદ્ધિને પ્રોત્સાહન આપવાનો છે. નવી દિલ્હીમાં એર હેડક્વાર્ટર ખાતે એમઓયુ પર હસ્તાક્ષર કરવામાં આવ્યા હતા. IAF ની સ્થાપના 8 ઓક્ટોબર, 1932ના રોજ કરવામાં આવી હતી અને તેનું મુખ્ય મથક નવી દિલ્હીમાં છે. ભારતના રાષ્ટ્રપતિ ભારતીય વાયુસેનાના સર્વોચ્ચ કમાન્ડર તરીકે સેવા આપે છે."
+        "explanation": "બાંગ્લાદેશ વિશ્વની's 33rd nuclear-powered nation માં November 2026, પછી successfully synchronising  પ્રથમ unit નું  Rooppur Nuclear Power Plant સાથે its રાષ્ટ્રીય electricity grid. Located માં Ishwardi, Pabna district, Rooppur છે Bangladesh'ની પ્રથમ પરમાણુ ઉર્જા સુવિધા બની હતી અને તેને રશિયન કોન્ટ્રાક્ટરના સહયોગથી વિકસાવવામાં આવી હતી. પ્લાન્ટમાં બે એકમોનો સમાવેશ થાય છે, દરેકની ઉત્પાદન ક્ષમતા 1,200 મેગાવોટ છે, જે 2,400 મેગાવોટની કુલ સ્થાપિત ક્ષમતા પૂરી પાડે છે. નિયમિત વાણિજ્યિક વીજ પુરવઠો શરૂ થાય તે પહેલાં, પ્રથમ યુનિટ જરૂરી નિયમનકારી અને સલામતી દેખરેખ હેઠળ 10-મહિનાના ટ્રાયલ ઓપરેશન તબક્કામાંથી પસાર થશે."
       }
     },
     {
-      "id": "2026-11-22-2",
-      "date": "2026-11-22",
+      "id": "2026-11-24-2",
+      "date": "2026-11-24",
       "qno": 2,
+      "answer": "A",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who has been appointed as the Managing Director and Chief Executive Officer (MD & CEO) of Karnataka Bank for a three-year term?",
+        "options": {
+          "A": "Udaya Kumar Hebbar",
+          "B": "Rajkiran Rai",
+          "C": "Atanu Chakraborty",
+          "D": "Sandeep Bakhshi"
+        },
+        "explanation": "Udaya Kumar Hebbar has been appointed as the new Managing Director and Chief Executive Officer (MD & CEO) of Karnataka Bank for a fixed tenure of three years. The appointment received approval from the Reserve Bank of India (RBI), communicated officially in November 2026. Karnataka Bank will announce the specific date on which Hebbar formally assumes charge and will notify the stock exchanges after completing the leadership transition. Karnataka Bank was established in 1924 and is headquartered in Mangaluru, Karnataka. It is a major A-Class Scheduled Commercial Bank in the private sector and operates with the tagline \"Your Family Bank, Across India\"."
+      },
+      "hi": {
+        "question": "तीन साल की अवधि के लिए कर्नाटक बैंक के प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी (एमडी और सीईओ) के रूप में किसे नियुक्त किया गया है?",
+        "options": {
+          "A": "उदय कुमार हेब्बर",
+          "B": "राजकिरण राय",
+          "C": "अतानु चक्रवर्ती",
+          "D": "संदीप बख्शी"
+        },
+        "explanation": "उदय कुमार हेब्बार को तीन साल के निश्चित कार्यकाल के लिए कर्नाटक बैंक के नए प्रबंध निदेशक और मुख्य कार्यकारी अधिकारी (एमडी और सीईओ) के रूप में नियुक्त किया गया है। नियुक्ति को भारतीय रिजर्व बैंक (आरबीआई) से मंजूरी मिल गई, नवंबर 2026 में आधिकारिक तौर पर सूचित किया गया। कर्नाटक बैंक उस विशिष्ट तारीख की घोषणा करेगा जिस दिन हेब्बार औपचारिक रूप से कार्यभार ग्रहण करेगा और नेतृत्व परिवर्तन पूरा करने के बाद स्टॉक एक्सचेंजों को सूचित करेगा। कर्नाटक बैंक की स्थापना 1924 में हुई थी और इसका मुख्यालय मंगलुरु, कर्नाटक में है। यह निजी क्षेत्र का एक प्रमुख ए-क्लास अनुसूचित वाणिज्यिक बैंक है और टैगलाइन \"Your Family बैंक, Across India\" के साथ संचालित होता है।"
+      },
+      "gu": {
+        "question": "કર્ણાટક બેંકના મેનેજિંગ ડિરેક્ટર અને ચીફ એક્ઝિક્યુટિવ ઓફિસર (MD અને CEO) તરીકે ત્રણ વર્ષની મુદત માટે કોની નિમણૂક કરવામાં આવી છે?",
+        "options": {
+          "A": "ઉદય કુમાર હેબ્બર",
+          "B": "રાજકિરણ રાય",
+          "C": "અતનુ ચક્રવર્તી",
+          "D": "સંદીપ બક્ષી"
+        },
+        "explanation": "ઉદય કુમાર હેબ્બરને ત્રણ વર્ષના નિશ્ચિત કાર્યકાળ માટે કર્ણાટક બેંકના નવા મેનેજિંગ ડિરેક્ટર અને ચીફ એક્ઝિક્યુટિવ ઓફિસર (MD અને CEO) તરીકે નિયુક્ત કરવામાં આવ્યા છે. નિમણૂકને રિઝર્વ બેંક ઓફ ઈન્ડિયા (RBI) તરફથી મંજૂરી મળી હતી, જેની સત્તાવાર રીતે નવેમ્બર 2026માં જાણ કરવામાં આવી હતી. કર્ણાટક બેંક ચોક્કસ તારીખ જાહેર કરશે કે જેના પર હેબ્બર ઔપચારિક રીતે ચાર્જ સંભાળે છે અને નેતૃત્વ સંક્રમણ પૂર્ણ કર્યા પછી સ્ટોક એક્સચેન્જોને સૂચિત કરશે. કર્ણાટક બેંકની સ્થાપના 1924 માં કરવામાં આવી હતી અને તેનું મુખ્ય મથક મેંગલુરુ, કર્ણાટકમાં છે. તે ખાનગી ક્ષેત્રની મુખ્ય એક-વર્ગની અનુસૂચિત વાણિજ્યિક બેંક છે અને \"Your Family બેંક, Across India\" ટેગલાઇન સાથે કાર્ય કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-24-3",
+      "date": "2026-11-24",
+      "qno": 3,
+      "answer": "A",
+      "category": "National",
+      "en": {
+        "question": "Which new name has the West Bengal Cabinet proposed for the state in 2026?",
+        "options": {
+          "A": "Paschim Banga",
+          "B": "Bangla",
+          "C": "Bengal",
+          "D": "Bangal"
+        },
+        "explanation": "Paschim Banga is the proposed new name for West Bengal, which the state Cabinet approved on November 23, 2026. The proposed name is intended to be used in both English and Bengali, replacing the existing English name, West Bengal. The state government is scheduled to submit a resolution to the Legislative Assembly on December 9, 2026, during the winter session. However, the Cabinet's approval and Assembly resolution alone cannot officially change the state's name. The final decision requires the constitutional procedure under Article 3 of the Indian Constitution and the necessary legislation passed by Parliament."
+      },
+      "hi": {
+        "question": "पश्चिम बंगाल कैबिनेट ने 2026 में राज्य के लिए कौन सा नया नाम प्रस्तावित किया है?",
+        "options": {
+          "A": "पश्चिम बंग",
+          "B": "बांग्ला",
+          "C": "बंगाल",
+          "D": "बंगाल"
+        },
+        "explanation": "पश्चिम बंगा पश्चिम बंगाल के लिए प्रस्तावित नया नाम है, जिसे राज्य मंत्रिमंडल ने 23 नवंबर, 2026 को मंजूरी दे दी। प्रस्तावित नाम का उपयोग मौजूदा अंग्रेजी नाम, पश्चिम बंगाल की जगह, अंग्रेजी और बंगाली दोनों में किया जाना है। राज्य सरकार शीतकालीन सत्र के दौरान 9 दिसंबर, 2026 को विधानसभा में एक प्रस्ताव प्रस्तुत करने वाली है। हालाँकि, कैबिनेट_ENG_THEME_TOKEN_0__ का नाम। अंतिम निर्णय के लिए भारतीय संविधान के अनुच्छेद 3 के तहत संवैधानिक प्रक्रिया और संसद द्वारा पारित आवश्यक कानून की आवश्यकता होती है।"
+      },
+      "gu": {
+        "question": "2026 માં પશ્ચિમ બંગાળ કેબિનેટે રાજ્ય માટે કયા નવા નામની દરખાસ્ત કરી છે?",
+        "options": {
+          "A": "પશ્ચિમ બંગા",
+          "B": "બાંગ્લા",
+          "C": "બંગાળ",
+          "D": "બંગાલ"
+        },
+        "explanation": "પશ્ચિમ બંગાળ માટે પશ્ચિમ બંગા એ પ્રસ્તાવિત નવું નામ છે, જેને રાજ્ય કેબિનેટે નવેમ્બર 23, 2026 ના રોજ મંજૂરી આપી હતી. સૂચિત નામનો હેતુ હાલના અંગ્રેજી નામ, પશ્ચિમ બંગાળને બદલે અંગ્રેજી અને બંગાળી બંનેમાં ઉપયોગમાં લેવાનો છે. રાજ્ય સરકાર શિયાળુ સત્ર દરમિયાન 9 ડિસેમ્બર, 2026ના રોજ વિધાનસભામાં ઠરાવ રજૂ કરવાની છે. જો કે, કેબિનેટ's approval અને Assembly resolution alone cannot officially change  રાજ્ય'નું નામ. અંતિમ નિર્ણય માટે ભારતીય બંધારણની કલમ 3 હેઠળ બંધારણીય પ્રક્રિયા અને સંસદ દ્વારા પસાર કરાયેલ જરૂરી કાયદાની જરૂર છે."
+      }
+    },
+    {
+      "id": "2026-11-24-4",
+      "date": "2026-11-24",
+      "qno": 4,
+      "answer": "C",
+      "category": "State",
+      "en": {
+        "question": "In which Indian state will GAIL, KRIBHCO and APEDB establish a gas-based urea manufacturing plant with an annual capacity of 1.27 million metric tonnes?",
+        "options": {
+          "A": "Telangana",
+          "B": "Odisha",
+          "C": "Andhra Pradesh",
+          "D": "Tamil Nadu"
+        },
+        "explanation": "Andhra Pradesh has been selected for the establishment of a gas-based urea manufacturing plant through a collaboration between GAIL (India) Limited, KRIBHCO and the Andhra Pradesh Economic Development Board (APEDB). The Memorandum of Understanding (MoU) was signed on November 23, 2026. The proposed facility will be located at Mulapeta in Srikakulam district, along the Srikakulam–Angul Natural Gas Pipeline operated by GAIL. The plant is designed to produce 1.27 million metric tonnes of urea annually. The project is expected to be implemented through a Joint Venture (JV) between GAIL and KRIBHCO."
+      },
+      "hi": {
+        "question": "गेल, कृभको और एपीईडीबी किस भारतीय राज्य में 1.27 मिलियन मीट्रिक टन की वार्षिक क्षमता वाला गैस आधारित यूरिया विनिर्माण संयंत्र स्थापित करेंगे?",
+        "options": {
+          "A": "तेलंगाना",
+          "B": "ओडिशा",
+          "C": "आंध्र प्रदेश",
+          "D": "तमिलनाडु"
+        },
+        "explanation": "गेल (इंडिया) लिमिटेड, कृभको और आंध्र प्रदेश आर्थिक विकास बोर्ड (एपीईडीबी) के बीच सहयोग के माध्यम से गैस आधारित यूरिया विनिर्माण संयंत्र की स्थापना के लिए आंध्र प्रदेश का चयन किया गया है। समझौता ज्ञापन (एमओयू) पर 23 नवंबर, 2026 को हस्ताक्षर किए गए थे। प्रस्तावित सुविधा गेल द्वारा संचालित श्रीकाकुलम-अंगुल प्राकृतिक गैस पाइपलाइन के साथ श्रीकाकुलम जिले के मुलापेटा में स्थित होगी। संयंत्र को सालाना 1.27 मिलियन मीट्रिक टन यूरिया का उत्पादन करने के लिए डिज़ाइन किया गया है। इस परियोजना को गेल और कृभको के बीच एक संयुक्त उद्यम (जेवी) के माध्यम से कार्यान्वित किए जाने की उम्मीद है।"
+      },
+      "gu": {
+        "question": "GAIL, KRIBHCO અને APEDB કયા ભારતીય રાજ્યમાં 1.27 મિલિયન મેટ્રિક ટનની વાર્ષિક ક્ષમતા સાથે ગેસ આધારિત યુરિયા ઉત્પાદન પ્લાન્ટ સ્થાપશે?",
+        "options": {
+          "A": "તેલંગાણા",
+          "B": "ઓડિશા",
+          "C": "આંધ્ર પ્રદેશ",
+          "D": "તમિલનાડુ"
+        },
+        "explanation": "GAIL (India) Limited, KRIBHCO અને આંધ્ર પ્રદેશ ઇકોનોમિક ડેવલપમેન્ટ બોર્ડ (APEDB) વચ્ચેના સહયોગ દ્વારા ગેસ આધારિત યુરિયા ઉત્પાદન પ્લાન્ટની સ્થાપના માટે આંધ્રપ્રદેશની પસંદગી કરવામાં આવી છે. 23 નવેમ્બર, 2026 ના રોજ મેમોરેન્ડમ ઓફ અન્ડરસ્ટેન્ડિંગ (એમઓયુ) પર હસ્તાક્ષર કરવામાં આવ્યા હતા. પ્રસ્તાવિત સુવિધા GAIL દ્વારા સંચાલિત શ્રીકાકુલમ-અંગુલ નેચરલ ગેસ પાઇપલાઇન સાથે શ્રીકાકુલમ જિલ્લાના મુલાપેટા ખાતે સ્થિત હશે. આ પ્લાન્ટ વાર્ષિક 1.27 મિલિયન મેટ્રિક ટન યુરિયાનું ઉત્પાદન કરવા માટે રચાયેલ છે. આ પ્રોજેક્ટને GAIL અને KRIBHCO વચ્ચેના સંયુક્ત સાહસ (JV) દ્વારા અમલમાં મૂકવાની અપેક્ષા છે."
+      }
+    },
+    {
+      "id": "2026-11-24-5",
+      "date": "2026-11-24",
+      "qno": 5,
+      "answer": "C",
+      "category": "Banking",
+      "en": {
+        "question": "Who has been named as the successor to Ravi Mittal for the post of Chairperson of the Insolvency and Bankruptcy Board of India (IBBI)?",
+        "options": {
+          "A": "Jayanti Prasad",
+          "B": "Pallavi Jain Govil",
+          "C": "Rahul Madan",
+          "D": "Ravi Mittal"
+        },
+        "explanation": "Rahul Madan has been named as the next Chairperson of the Insolvency and Bankruptcy Board of India (IBBI), succeeding Ravi Mittal. He previously served as the Managing Director of the Indian Institute of Insolvency Professionals of ICAI (IIIPI). His key priorities include promoting facilitative regulation, addressing cross-border and group insolvency matters, and introducing the Creditor Initiated Insolvency Resolution Process (CIIRP). He is a qualified chartered accountant and cost and management accountant. The announcement was made by Pallavi Jain Govil, Secretary of the Ministry of Corporate Affairs, during the IIIPI 10th Foundation Day function."
+      },
+      "hi": {
+        "question": "भारतीय दिवाला और दिवालियापन बोर्ड (आईबीबीआई) के अध्यक्ष पद के लिए रवि मित्तल के उत्तराधिकारी के रूप में किसे नामित किया गया है?",
+        "options": {
+          "A": "जयंती प्रसाद",
+          "B": "पल्लवी जैन गोविल",
+          "C": "राहुल मदान",
+          "D": "रवि मित्तल"
+        },
+        "explanation": "राहुल मदान को रवि मित्तल के स्थान पर भारतीय दिवाला और दिवालियापन बोर्ड (आईबीबीआई) के अगले अध्यक्ष के रूप में नामित किया गया है। उन्होंने पहले ICAI (IIIPI) के इंडियन इंस्टीट्यूट ऑफ इनसॉल्वेंसी प्रोफेशनल्स के प्रबंध निदेशक के रूप में कार्य किया था। उनकी प्रमुख प्राथमिकताओं में सुविधाजनक विनियमन को बढ़ावा देना, सीमा पार और समूह दिवालियापन मामलों को संबोधित करना और ऋणदाता द्वारा शुरू की गई दिवालियापन समाधान प्रक्रिया (सीआईआईआरपी) शुरू करना शामिल है। वह एक योग्य चार्टर्ड अकाउंटेंट और लागत और प्रबंधन अकाउंटेंट हैं। यह घोषणा कॉर्पोरेट मामलों के मंत्रालय की सचिव पल्लवी जैन गोविल ने IIIPI के 10वें स्थापना दिवस समारोह के दौरान की।"
+      },
+      "gu": {
+        "question": "ઈન્સોલ્વન્સી એન્ડ બેન્કરપ્સી બોર્ડ ઓફ ઈન્ડિયા (IBBI) ના અધ્યક્ષ પદ માટે રવિ મિત્તલના અનુગામી તરીકે કોનું નામ આપવામાં આવ્યું છે?",
+        "options": {
+          "A": "જયંતિ પ્રસાદ",
+          "B": "પલ્લવી જૈન ગોવિલ",
+          "C": "રાહુલ મદન",
+          "D": "રવિ મિત્તલ"
+        },
+        "explanation": "રવિ મિત્તલના સ્થાને રાહુલ મદનને ઈન્સોલ્વન્સી એન્ડ બેન્કરપ્સી બોર્ડ ઓફ ઈન્ડિયા (IBBI)ના આગામી અધ્યક્ષ તરીકે નિયુક્ત કરવામાં આવ્યા છે. તેઓ અગાઉ ICAI (IIIPI) ના ઇન્ડિયન ઇન્સ્ટિટ્યૂટ ઓફ ઇન્સોલ્વન્સી પ્રોફેશનલ્સના મેનેજિંગ ડિરેક્ટર તરીકે સેવા આપી હતી. તેમની મુખ્ય પ્રાથમિકતાઓમાં સુવિધાયુક્ત નિયમનને પ્રોત્સાહન આપવું, ક્રોસ-બોર્ડર અને જૂથ નાદારીની બાબતોને સંબોધિત કરવી અને ક્રેડિટર ઇનિશિયેટેડ ઇન્સોલ્વન્સી રિઝોલ્યુશન પ્રોસેસ (CIIRP)નો સમાવેશ થાય છે. તે એક લાયક ચાર્ટર્ડ એકાઉન્ટન્ટ અને કોસ્ટ એન્ડ મેનેજમેન્ટ એકાઉન્ટન્ટ છે. IIIPI 10મા સ્થાપના દિવસના કાર્યક્રમ દરમિયાન કોર્પોરેટ બાબતોના મંત્રાલયના સચિવ પલ્લવી જૈન ગોવિલે આ જાહેરાત કરી હતી."
+      }
+    },
+    {
+      "id": "2026-11-24-6",
+      "date": "2026-11-24",
+      "qno": 6,
+      "answer": "D",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed as the Senior Advisor to the Global Board of the US-India Strategic Partnership Forum (USISPF) in November 2026?",
+        "options": {
+          "A": "Rajiv Kumar",
+          "B": "Amitabh Kant",
+          "C": "Ajay Bhalla",
+          "D": "Bharat Lal"
+        },
+        "explanation": "Bharat Lal was appointed as the Senior Advisor to the Global Board of the US-India Strategic Partnership Forum (USISPF) on November, 2026. He is a former Secretary General of the National Human Rights Commission (NHRC) and served as the founding Mission Director of the Jal Jeevan Mission, launched in August 2019. He also held important administrative positions, including Director General of the National Centre for Good Governance (NCGG) and Secretary to the Lokpal of India. He received the United Nations Public Service Award and the Prime Minister’s Civil Services Award for Excellence in Public Service for his contributions to water management."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में यूएस-इंडिया स्ट्रैटेजिक पार्टनरशिप फोरम (USISPF) के ग्लोबल बोर्ड के वरिष्ठ सलाहकार के रूप में किसे नियुक्त किया गया था?",
+        "options": {
+          "A": "राजीव कुमार",
+          "B": "अमिताभ कांत",
+          "C": "अजय भल्ला",
+          "D": "भरत लाल"
+        },
+        "explanation": "भरत लाल को नवंबर, 2026 को यूएस-इंडिया स्ट्रैटेजिक पार्टनरशिप फोरम (यूएसआईएसपीएफ) के वैश्विक बोर्ड के वरिष्ठ सलाहकार के रूप में नियुक्त किया गया था। वह राष्ट्रीय मानवाधिकार आयोग (एनएचआरसी) के पूर्व महासचिव हैं और उन्होंने अगस्त 2019 में शुरू किए गए जल जीवन मिशन के संस्थापक मिशन निदेशक के रूप में कार्य किया। उन्होंने राष्ट्रीय सुशासन केंद्र (एनसीजीजी) के महानिदेशक और भारत के लोकपाल के सचिव सहित महत्वपूर्ण प्रशासनिक पदों पर भी काम किया। जल प्रबंधन में उनके योगदान के लिए उन्हें संयुक्त राष्ट्र लोक सेवा पुरस्कार और सार्वजनिक सेवा में उत्कृष्टता के लिए प्रधान मंत्री का सिविल सेवा पुरस्कार मिला।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 માં યુએસ-ઈન્ડિયા સ્ટ્રેટેજિક પાર્ટનરશિપ ફોરમ (USISPF) ના ગ્લોબલ બોર્ડના વરિષ્ઠ સલાહકાર તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "રાજીવ કુમાર",
+          "B": "અમિતાભ કાન્ત",
+          "C": "અજય ભલ્લા",
+          "D": "ભરત લાલ"
+        },
+        "explanation": "ભરત લાલની નવેમ્બર, 2026 ના રોજ યુએસ-ઈન્ડિયા સ્ટ્રેટેજિક પાર્ટનરશિપ ફોરમ (USISPF) ના ગ્લોબલ બોર્ડના વરિષ્ઠ સલાહકાર તરીકે નિમણૂક કરવામાં આવી હતી. તેઓ રાષ્ટ્રીય માનવાધિકાર આયોગ (NHRC) ના ભૂતપૂર્વ મહાસચિવ છે અને ઓગસ્ટ 2019 માં શરૂ કરાયેલ જલ જીવન મિશનના સ્થાપક મિશન ડિરેક્ટર તરીકે સેવા આપી હતી, તેઓ રાષ્ટ્રીય એડમિનિ સેન્ટરના મહત્વના એડમિનિ જનરલ હોદ્દા પર પણ હતા. ગવર્નન્સ (NCGG) અને ભારતના લોકપાલના સચિવ. પાણી વ્યવસ્થાપનમાં તેમના યોગદાન માટે તેમને સંયુક્ત રાષ્ટ્ર જાહેર સેવા પુરસ્કાર અને જાહેર સેવામાં શ્રેષ્ઠતા માટે વડાપ્રધાનનો સિવિલ સર્વિસિસ એવોર્ડ મળ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-11-24-7",
+      "date": "2026-11-24",
+      "qno": 7,
+      "answer": "A",
+      "category": "Technology",
+      "en": {
+        "question": "Which Indian aerospace company partnered with Exolaunch, OhmSpace and HEX20 for the second orbital test flight of the Vikram-1 rocket?",
+        "options": {
+          "A": "Skyroot Aerospace",
+          "B": "Agnikul Cosmos",
+          "C": "Bellatrix Aerospace",
+          "D": "Dhruva Space"
+        },
+        "explanation": "Skyroot Aerospace is the Indian private space technology company that announced a collaboration with Exolaunch, OhmSpace and HEX20 on November 20, 2026, for the second orbital test flight of its Vikram-1 rocket. Headquartered in Hyderabad, Telangana, the company was founded in 2018 by Pawan Kumar Chandana and Naga Bharath Daka. The mission will carry two Indian 4U CubeSats, NILA III and SCOPE, using an 8U deployer system provided by Exolaunch. The flight will also demonstrate advanced electric propulsion technology developed by OhmSpace and is scheduled for execution by the end of 2026."
+      },
+      "hi": {
+        "question": "विक्रम-1 रॉकेट की दूसरी कक्षीय परीक्षण उड़ान के लिए किस भारतीय एयरोस्पेस कंपनी ने एक्सोलांच, ओमस्पेस और HEX20 के साथ साझेदारी की?",
+        "options": {
+          "A": "स्काईरूट एयरोस्पेस",
+          "B": "अग्निकुल ब्रह्मांड",
+          "C": "बेलाट्रिक्स एयरोस्पेस",
+          "D": "ध्रुव अंतरिक्ष"
+        },
+        "explanation": "स्काईरूट एयरोस्पेस भारतीय निजी अंतरिक्ष प्रौद्योगिकी कंपनी है जिसने 20 नवंबर, 2026 को अपने विक्रम -1 रॉकेट की दूसरी कक्षीय परीक्षण उड़ान के लिए एक्सोलांच, ओमस्पेस और एचईएक्स20 के साथ सहयोग की घोषणा की। हैदराबाद, तेलंगाना में मुख्यालय वाली कंपनी की स्थापना 2018 में पवन कुमार चंदना और नागा भरत डाका द्वारा की गई थी। मिशन दो भारतीय 4यू क्यूबसैट, एनआईएलए III और स्कोप ले जाएगा, जो एक्सोलांच द्वारा प्रदान किए गए 8यू डिप्लॉयर सिस्टम का उपयोग करेंगे। उड़ान ओमस्पेस द्वारा विकसित उन्नत विद्युत प्रणोदन तकनीक का भी प्रदर्शन करेगी और 2026 के अंत तक निष्पादन के लिए निर्धारित है।"
+      },
+      "gu": {
+        "question": "કઈ ભારતીય એરોસ્પેસ કંપનીએ વિક્રમ-1 રોકેટની બીજી ઓર્બિટલ ટેસ્ટ ફ્લાઇટ માટે Exolaunch, OhmSpace અને HEX20 સાથે ભાગીદારી કરી હતી?",
+        "options": {
+          "A": "સ્કાયરૂટ એરોસ્પેસ",
+          "B": "અગ્નિકુલ કોસ્મોસ",
+          "C": "બેલાટ્રિક્સ એરોસ્પેસ",
+          "D": "ધ્રુવ અવકાશ"
+        },
+        "explanation": "સ્કાયરૂટ એરોસ્પેસ એ ભારતીય ખાનગી અવકાશ ટેકનોલોજી કંપની છે જેણે તેના વિક્રમ-1 રોકેટની બીજી ઓર્બિટલ ટેસ્ટ ફ્લાઇટ માટે 20 નવેમ્બર, 2026ના રોજ Exolaunch, OhmSpace અને HEX20 સાથે સહયોગની જાહેરાત કરી હતી. હૈદરાબાદ, તેલંગાણામાં મુખ્ય મથક ધરાવતી, કંપનીની સ્થાપના પવન કુમાર ચંદના અને નાગા ભરથ ડાકા દ્વારા 2018 માં કરવામાં આવી હતી. આ મિશન બે ભારતીય 4U ક્યુબસેટ્સ, NILA III અને SCOPE વહન કરશે, Exolaunch દ્વારા પ્રદાન કરવામાં આવેલી 8U ડિપ્લોયર સિસ્ટમનો ઉપયોગ કરીને. ફ્લાઇટ ઓહ્મસ્પેસ દ્વારા વિકસિત અદ્યતન ઇલેક્ટ્રિક પ્રોપલ્શન ટેક્નોલોજીનું પણ નિદર્શન કરશે અને 2026 ના અંત સુધીમાં અમલ માટે સુનિશ્ચિત થયેલ છે."
+      }
+    },
+    {
+      "id": "2026-11-24-8",
+      "date": "2026-11-24",
+      "qno": 8,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was appointed as the new National Cyber Director of the United States in November 2026?",
+        "options": {
+          "A": "Sean Cairncross",
+          "B": "Kirsten Davies",
+          "C": "Harvey C. Jones",
+          "D": "Colette Kress"
+        },
+        "explanation": "Kirsten Davies was appointed as the new National Cyber Director of the United States by the White House in November 2026, replacing Sean Cairncross. Before this appointment, she served as the Chief Information Officer (CIO) at the US Department of Defence, also known as the Pentagon. She is recognised for her expertise in analogue, digital and quantum technologies. Her key responsibilities include modernising digital infrastructure, strengthening the resilience of critical infrastructure against technology outages, and developing skilled cybersecurity professionals to address emerging cyber threats."
+      },
+      "hi": {
+        "question": "नवंबर 2026 में संयुक्त राज्य अमेरिका के नए राष्ट्रीय साइबर निदेशक के रूप में किसे नियुक्त किया गया?",
+        "options": {
+          "A": "शॉन केयर्नक्रॉस",
+          "B": "कर्स्टन डेविस",
+          "C": "हार्वे सी. जोन्स",
+          "D": "कोलेट क्रेस"
+        },
+        "explanation": "नवंबर 2026 में व्हाइट हाउस द्वारा शॉन केयर्नक्रॉस की जगह कर्स्टन डेविस को संयुक्त राज्य अमेरिका का नया राष्ट्रीय साइबर निदेशक नियुक्त किया गया था। इस नियुक्ति से पहले, उन्होंने अमेरिकी रक्षा विभाग, जिसे पेंटागन के नाम से भी जाना जाता है, में मुख्य सूचना अधिकारी (सीआईओ) के रूप में कार्य किया। वह एनालॉग, डिजिटल और क्वांटम प्रौद्योगिकियों में अपनी विशेषज्ञता के लिए पहचानी जाती हैं। उनकी प्रमुख जिम्मेदारियों में डिजिटल बुनियादी ढांचे का आधुनिकीकरण, प्रौद्योगिकी आउटेज के खिलाफ महत्वपूर्ण बुनियादी ढांचे की लचीलापन को मजबूत करना और उभरते साइबर खतरों से निपटने के लिए कुशल साइबर सुरक्षा पेशेवरों को विकसित करना शामिल है।"
+      },
+      "gu": {
+        "question": "નવેમ્બર 2026 માં યુનાઇટેડ સ્ટેટ્સના નવા નેશનલ સાયબર ડિરેક્ટર તરીકે કોની નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "સીન કેર્નક્રોસ",
+          "B": "કર્સ્ટન ડેવિસ",
+          "C": "હાર્વે સી. જોન્સ",
+          "D": "કોલેટ ક્રેસ"
+        },
+        "explanation": "વ્હાઇટ હાઉસ દ્વારા નવેમ્બર 2026માં સીન કેર્નક્રોસની જગ્યાએ કર્સ્ટન ડેવિસને યુનાઇટેડ સ્ટેટ્સના નવા નેશનલ સાયબર ડિરેક્ટર તરીકે નિયુક્ત કરવામાં આવ્યા હતા. આ નિમણૂક પહેલા, તેણીએ યુએસ ડિપાર્ટમેન્ટ ઓફ ડિફેન્સમાં મુખ્ય માહિતી અધિકારી (CIO) તરીકે સેવા આપી હતી, જેને પેન્ટાગોન તરીકે પણ ઓળખવામાં આવે છે. તેણીને એનાલોગ, ડીજીટલ અને ક્વોન્ટમ ટેકનોલોજીમાં તેની કુશળતા માટે ઓળખવામાં આવે છે. તેણીની મુખ્ય જવાબદારીઓમાં ડિજિટલ ઈન્ફ્રાસ્ટ્રક્ચરનું આધુનિકીકરણ, ટેક્નોલોજી આઉટેજ સામે નિર્ણાયક ઈન્ફ્રાસ્ટ્રક્ચરની સ્થિતિસ્થાપકતાને મજબૂત બનાવવી અને ઉભરતા સાયબર જોખમોને સંબોધવા માટે કુશળ સાયબર સુરક્ષા વ્યાવસાયિકો વિકસાવવાનો સમાવેશ થાય છે."
+      }
+    },
+    {
+      "id": "2026-11-24-9",
+      "date": "2026-11-24",
+      "qno": 9,
+      "answer": "D",
+      "category": "Sports",
+      "en": {
+        "question": "Who created history by scoring the fastest double century in List A cricket, reaching 200 runs in just 52 balls?",
+        "options": {
+          "A": "Rinku Singh",
+          "B": "Chad Bowes",
+          "C": "Kumar Kushagra",
+          "D": "Vaibhav Sooryavanshi"
+        },
+        "explanation": "Vaibhav Sooryavanshi created history by scoring the fastest double century in List A cricket on November 24, 2026, during the ACC Men’s Rising Stars Asia Cup match between India A and the UAE in Doha, Qatar. The 15-year-old batter reached his double century in just 52 balls, breaking the previous record of 103 balls held by Chad Bowes. He scored 204 runs with the help of 28 sixes. He also registered the fastest List A century, reaching 100 runs in just 28 deliveries. India A successfully chased the target of 250 runs and won the match by seven wickets."
+      },
+      "hi": {
+        "question": "लिस्ट ए क्रिकेट में सबसे तेज़ दोहरा शतक लगाकर, केवल 52 गेंदों में 200 रन बनाकर इतिहास किसने रचा?",
+        "options": {
+          "A": "रिंकू सिंह",
+          "B": "चाड बोवेस",
+          "C": "कुमार कुशाग्र",
+          "D": "वैभव सूर्यवंशी"
+        },
+        "explanation": "वैभव सूर्यवंशी ने 24 नवंबर, 2026 को दोहा, कतर में भारत ए और यूएई के बीच एसीसी मेन्स राइजिंग स्टार्स एशिया कप मैच के दौरान लिस्ट ए क्रिकेट में सबसे तेज़ दोहरा शतक बनाकर इतिहास रच दिया। 15 वर्षीय बल्लेबाज ने केवल 52 गेंदों में अपना दोहरा शतक पूरा किया और चाड बोवेस के 103 गेंदों के पिछले रिकॉर्ड को तोड़ दिया। उन्होंने 28 छक्कों की मदद से 204 रन बनाए. उन्होंने केवल 28 गेंदों में 100 रन बनाकर सबसे तेज लिस्ट ए शतक भी दर्ज किया। भारत ए ने 250 रनों के लक्ष्य का सफलतापूर्वक पीछा किया और सात विकेट से मैच जीत लिया।"
+      },
+      "gu": {
+        "question": "લિસ્ટ A ક્રિકેટમાં માત્ર 52 બોલમાં 200 રન પૂરા કરીને સૌથી ઝડપી બેવડી સદી ફટકારીને ઈતિહાસ કોણે રચ્યો?",
+        "options": {
+          "A": "રિંકુ સિંહ",
+          "B": "ચાડ બોવ્સ",
+          "C": "કુમાર કુશાગ્ર",
+          "D": "વૈભવ સૂર્યવંશી"
+        },
+        "explanation": "વૈભવ સૂર્યવંશીએ 24 નવેમ્બર, 2026ના રોજ કતારના દોહામાં ભારત એક અને UAE વચ્ચે ACC મેન્સ રાઇઝિંગ સ્ટાર્સ એશિયા કપ મેચ દરમિયાન લિસ્ટ એક ક્રિકેટમાં સૌથી ઝડપી બેવડી સદી ફટકારીને ઇતિહાસ રચ્યો હતો. 15 વર્ષીય બેટરે માત્ર 52 બોલમાં તેની બેવડી સદી પૂરી કરી હતી, જેણે ચાડ બોવ્સના અગાઉના 103 બોલના રેકોર્ડને તોડી નાખ્યો હતો. તેણે 28 છગ્ગાની મદદથી 204 રન બનાવ્યા હતા. તેણે માત્ર 28 બોલમાં 100 રન પૂરા કરીને સૌથી ઝડપી લિસ્ટ એક સદી પણ નોંધાવી હતી. ભારત એક એ 250 રનના લક્ષ્યાંકનો સફળતાપૂર્વક પીછો કર્યો અને મેચ સાત વિકેટે જીતી લીધી."
+      }
+    },
+    {
+      "id": "2026-11-24-10",
+      "date": "2026-11-24",
+      "qno": 10,
+      "answer": "B",
+      "category": "Awards and Honours",
+      "en": {
+        "question": "Who was reappointed as the President, Chief Executive Officer and Board Director of NVIDIA on November 23, 2026?",
+        "options": {
+          "A": "Harvey C. Jones",
+          "B": "Jensen Huang",
+          "C": "Colette Kress",
+          "D": "Elon Musk"
+        },
+        "explanation": "Jensen Huang was unanimously reappointed as the President, Chief Executive Officer (CEO) and Board Director of NVIDIA on November 23, 2026. The decision was taken by NVIDIA’s board after consultations with Huang and senior members of the U.S. government. The board expressed confidence in his honesty and leadership abilities and concluded that his reappointment did not create any national security concerns. Harvey C. Jones continues as the Board Chairman, while Colette Kress remains the Chief Financial Officer (CFO). The independent inquiry into alleged foreign intelligence activity involving Huang will continue until its completion."
+      },
+      "hi": {
+        "question": "23 नवंबर, 2026 को NVIDIA के अध्यक्ष, मुख्य कार्यकारी अधिकारी और बोर्ड निदेशक के रूप में किसे पुनः नियुक्त किया गया?",
+        "options": {
+          "A": "हार्वे सी. जोन्स",
+          "B": "जेन्सेन हुआंग",
+          "C": "कोलेट क्रेस",
+          "D": "एलोन मस्क"
+        },
+        "explanation": "जेन्सेन हुआंग को 23 नवंबर, 2026 को सर्वसम्मति से NVIDIA के अध्यक्ष, मुख्य कार्यकारी अधिकारी (सीईओ) और बोर्ड निदेशक के रूप में फिर से नियुक्त किया गया। हुआंग और अमेरिकी सरकार के वरिष्ठ सदस्यों के साथ परामर्श के बाद NVIDIA के बोर्ड ने यह निर्णय लिया। बोर्ड ने उनकी ईमानदारी और नेतृत्व क्षमताओं पर भरोसा जताया और निष्कर्ष निकाला कि उनकी पुनर्नियुक्ति ने कोई राष्ट्रीय सुरक्षा चिंता पैदा नहीं की है। हार्वे सी. जोन्स बोर्ड के अध्यक्ष बने हुए हैं, जबकि कोलेट क्रेस मुख्य वित्तीय अधिकारी (सीएफओ) बने हुए हैं। हुआंग से जुड़ी कथित विदेशी खुफिया गतिविधि की स्वतंत्र जांच पूरी होने तक जारी रहेगी।"
+      },
+      "gu": {
+        "question": "23 નવેમ્બર, 2026 ના રોજ NVIDIA ના પ્રમુખ, મુખ્ય કાર્યકારી અધિકારી અને બોર્ડ ડિરેક્ટર તરીકે કોની પુનઃ નિમણૂક કરવામાં આવી હતી?",
+        "options": {
+          "A": "હાર્વે સી. જોન્સ",
+          "B": "જેન્સન હુઆંગ",
+          "C": "કોલેટ ક્રેસ",
+          "D": "એલોન મસ્ક"
+        },
+        "explanation": "NVIDIA ના પ્રેસિડેન્ટ, ચીફ એક્ઝિક્યુટિવ ઓફિસર (CEO) અને બોર્ડ ડાયરેક્ટર તરીકે 23 નવેમ્બર, 2026 ના રોજ જેન્સન હુઆંગની સર્વસંમતિથી પુનઃ નિમણૂક કરવામાં આવી હતી. NVIDIA ના બોર્ડ દ્વારા હુઆંગ અને યુએસ સરકારના વરિષ્ઠ સભ્યો સાથે પરામર્શ કર્યા પછી નિર્ણય લેવામાં આવ્યો હતો. બોર્ડે તેમની પ્રામાણિકતા અને નેતૃત્વ ક્ષમતામાં વિશ્વાસ વ્યક્ત કર્યો હતો અને તારણ કાઢ્યું હતું કે તેમની પુનઃનિયુક્તિથી રાષ્ટ્રીય સુરક્ષાની કોઈ ચિંતા ઊભી થઈ નથી. હાર્વે સી. જોન્સ બોર્ડના અધ્યક્ષ તરીકે ચાલુ રહે છે, જ્યારે કોલેટ ક્રેસ મુખ્ય નાણાકીય અધિકારી (CFO) તરીકે ચાલુ રહે છે. હુઆંગ સાથે સંકળાયેલી કથિત વિદેશી ગુપ્તચર પ્રવૃત્તિની સ્વતંત્ર તપાસ તેની પૂર્ણતા સુધી ચાલુ રહેશે."
+      }
+    },
+    {
+      "id": "2026-11-22-1",
+      "date": "2026-11-22",
+      "qno": 1,
       "answer": "B",
       "category": "Education",
       "en": {
@@ -69429,83 +69763,9 @@
       }
     },
     {
-      "id": "2026-11-22-3",
+      "id": "2026-11-22-2",
       "date": "2026-11-22",
-      "qno": 3,
-      "answer": "C",
-      "category": "Sports",
-      "en": {
-        "question": "Which Indian organisation became the first to win the World Sailing 11th Hour Racing Impact Award in 2026?",
-        "options": {
-          "A": "Indian Sailing Federation",
-          "B": "Royal Madras Yacht Club",
-          "C": "Yacht Club of Hyderabad",
-          "D": "Mumbai Yacht Club"
-        },
-        "explanation": "Yacht Club of Hyderabad (YCH) became the first Indian organisation to receive the prestigious World Sailing 11th Hour Racing Impact Award on November 18, 2026, in Qingdao, China. The award recognizes initiatives that contribute to World Sailing's Sustainability Agenda 2030. The club's flagship programme, Project Naavika, focuses on training girls from marginalised backgrounds and preparing them for international competitions such as the Asian Games and World Championships. Founded in 2009 by Suheim Sheikh, the club has also helped 32 sailors join the Indian Navy and Indian Army. It has won 332 national medals and 29 international medals."
-      },
-      "hi": {
-        "question": "कौन सा भारतीय संगठन 2026 में वर्ल्ड सेलिंग 11वें आवर रेसिंग इम्पैक्ट अवार्ड जीतने वाला पहला संगठन बना?",
-        "options": {
-          "A": "भारतीय नौकायन संघ",
-          "B": "रॉयल मद्रास यॉट क्लब",
-          "C": "हैदराबाद का यॉट क्लब",
-          "D": "मुंबई यॉट क्लब"
-        },
-        "explanation": "यॉट क्लब ऑफ हैदराबाद (YCH) 18 नवंबर, 2026 को क़िंगदाओ, चीन में प्रतिष्ठित वर्ल्ड सेलिंग 11वें ऑवर रेसिंग इम्पैक्ट अवार्ड प्राप्त करने वाला पहला भारतीय संगठन बन गया। यह पुरस्कार उन पहलों को मान्यता देता है जो वर्ल्ड सेलिंग's Sustainability Agenda 2030.  club' के प्रमुख कार्यक्रम, प्रोजेक्ट नाविका में योगदान करते हैं, जो हाशिए की पृष्ठभूमि से लड़कियों को प्रशिक्षण देने और उन्हें एशियाई खेलों और विश्व चैंपियनशिप जैसी अंतरराष्ट्रीय प्रतियोगिताओं के लिए तैयार करने पर केंद्रित है। 2009 में सुहेम शेख द्वारा स्थापित, क्लब ने 32 नाविकों को भारतीय नौसेना और भारतीय सेना में शामिल होने में भी मदद की है। इसने 332 राष्ट्रीय पदक और 29 अंतर्राष्ट्रीय पदक जीते हैं।"
-      },
-      "gu": {
-        "question": "કઈ ભારતીય સંસ્થા 2026 માં વર્લ્ડ સેલિંગ 11મી અવર રેસિંગ ઈમ્પેક્ટ એવોર્ડ જીતનાર પ્રથમ બની હતી?",
-        "options": {
-          "A": "ભારતીય સેલિંગ ફેડરેશન",
-          "B": "રોયલ મદ્રાસ યાટ ક્લબ",
-          "C": "હૈદરાબાદની યાટ ક્લબ",
-          "D": "મુંબઈ યાટ ક્લબ"
-        },
-        "explanation": "યાટ ક્લબ ઓફ હૈદરાબાદ (YCH) 18 નવેમ્બર, 2026ના રોજ ચીનના કિંગદાઓ ખાતે પ્રતિષ્ઠિત વર્લ્ડ સેલિંગ 11મી અવર રેસિંગ ઈમ્પેક્ટ એવોર્ડ મેળવનાર પ્રથમ ભારતીય સંસ્થા બની. આ એવોર્ડ વર્લ્ડ સેઇલિંગ's Sustainability Agenda 2030.  club' ના ફ્લેગશિપ પ્રોગ્રામ પ્રોજેક્ટ નાવિકામાં યોગદાન આપતી પહેલોને માન્યતા આપે છે, જે હાંસિયામાં ધકેલાઈ ગયેલી પશ્ચાદભૂની છોકરીઓને તાલીમ આપવા અને તેમને એશિયન ગેમ્સ અને વર્લ્ડ ચેમ્પિયનશિપ જેવી આંતરરાષ્ટ્રીય સ્પર્ધાઓ માટે તૈયાર કરવા પર ધ્યાન કેન્દ્રિત કરે છે. સુહેમ શેખ દ્વારા 2009 માં સ્થપાયેલ, ક્લબએ 32 ખલાસીઓને ભારતીય નૌકાદળ અને ભારતીય સેનામાં જોડાવામાં પણ મદદ કરી છે. તેણે 332 રાષ્ટ્રીય મેડલ અને 29 આંતરરાષ્ટ્રીય મેડલ જીત્યા છે."
-      }
-    },
-    {
-      "id": "2026-11-22-4",
-      "date": "2026-11-22",
-      "qno": 4,
-      "answer": "A",
-      "category": "State",
-      "en": {
-        "question": "Which state signed Shareholders' Agreements worth ₹1,011 crore for the transformation of four Industrial Training Institute (ITI) clusters under the PM-SETU scheme?",
-        "options": {
-          "A": "Telangana",
-          "B": "Andhra Pradesh",
-          "C": "Karnataka",
-          "D": "Maharashtra"
-        },
-        "explanation": "Telangana signed Shareholders' Agreements (SHAs) worth ₹1,011 crore for the transformation of four Industrial Training Institute (ITI) clusters under the PM-SETU scheme. The Ministry of Skill Development and Entrepreneurship (MSDE) signed these agreements with industry partners on November 19, 2026. The four clusters are Old City, Sangareddy, Medchal and Patancheru. The initiative aims to modernise ITI infrastructure, upgrade laboratories with industry-relevant equipment and improve vocational training. It also focuses on aligning training curricula with industry requirements to enhance employment opportunities and strengthen skill development in the state."
-      },
-      "hi": {
-        "question": "किस राज्य ने PM-SETU योजना के तहत चार औद्योगिक प्रशिक्षण संस्थान (ITI) समूहों के परिवर्तन के लिए ₹1,011 करोड़ के शेयरधारक समझौतों पर हस्ताक्षर किए?",
-        "options": {
-          "A": "तेलंगाना",
-          "B": "आंध्र प्रदेश",
-          "C": "कर्नाटक",
-          "D": "महाराष्ट्र"
-        },
-        "explanation": "तेलंगाना ने PM-SETU योजना के तहत चार औद्योगिक प्रशिक्षण संस्थान (ITI) समूहों के परिवर्तन के लिए ₹1,011 करोड़ के शेयरधारक समझौतों (SHAs) पर हस्ताक्षर किए। कौशल विकास और उद्यमिता मंत्रालय (एमएसडीई) ने 19 नवंबर, 2026 को उद्योग भागीदारों के साथ इन समझौतों पर हस्ताक्षर किए। चार क्लस्टर ओल्ड सिटी, संगारेड्डी, मेडचल और पाटनचेरु हैं। इस पहल का उद्देश्य आईटीआई बुनियादी ढांचे का आधुनिकीकरण करना, उद्योग-प्रासंगिक उपकरणों के साथ प्रयोगशालाओं को उन्नत करना और व्यावसायिक प्रशिक्षण में सुधार करना है। यह राज्य में रोजगार के अवसरों को बढ़ाने और कौशल विकास को मजबूत करने के लिए उद्योग की आवश्यकताओं के साथ प्रशिक्षण पाठ्यक्रम को संरेखित करने पर भी ध्यान केंद्रित करता है।"
-      },
-      "gu": {
-        "question": "કયા રાજ્યે PM-SETU યોજના હેઠળ ચાર ઔદ્યોગિક તાલીમ સંસ્થા (ITI) ક્લસ્ટરના પરિવર્તન માટે ₹1,011 કરોડના શેરધારકોના કરાર પર હસ્તાક્ષર કર્યા?",
-        "options": {
-          "A": "તેલંગાણા",
-          "B": "આંધ્ર પ્રદેશ",
-          "C": "કર્ણાટક",
-          "D": "મહારાષ્ટ્ર"
-        },
-        "explanation": "તેલંગાણાએ PM-SETU યોજના હેઠળ ચાર ઔદ્યોગિક તાલીમ સંસ્થા (ITI) ક્લસ્ટરના પરિવર્તન માટે ₹1,011 કરોડના શેરધારકોના કરારો (SHAs) પર હસ્તાક્ષર કર્યા. કૌશલ્ય વિકાસ અને સાહસિકતા મંત્રાલય (MSDE) એ 19 નવેમ્બર, 2026 ના રોજ ઉદ્યોગ ભાગીદારો સાથે આ કરારો પર હસ્તાક્ષર કર્યા હતા. ચાર ક્લસ્ટર ઓલ્ડ સિટી, સંગારેડ્ડી, મેડચલ અને પટંચેરુ છે. પહેલનો ઉદ્દેશ ITI ઈન્ફ્રાસ્ટ્રક્ચરને આધુનિક બનાવવા, ઉદ્યોગ-સંબંધિત સાધનો સાથે પ્રયોગશાળાઓને અપગ્રેડ કરવાનો અને વ્યાવસાયિક તાલીમમાં સુધારો કરવાનો છે. તે રાજ્યમાં રોજગારીની તકો વધારવા અને કૌશલ્ય વિકાસને મજબૂત કરવા ઉદ્યોગની જરૂરિયાતો સાથે તાલીમ અભ્યાસક્રમને સંરેખિત કરવા પર પણ ધ્યાન કેન્દ્રિત કરે છે."
-      }
-    },
-    {
-      "id": "2026-11-22-5",
-      "date": "2026-11-22",
-      "qno": 5,
+      "qno": 2,
       "answer": "C",
       "category": "Agriculture",
       "en": {
@@ -69540,9 +69800,83 @@
       }
     },
     {
-      "id": "2026-11-22-6",
+      "id": "2026-11-22-3",
       "date": "2026-11-22",
-      "qno": 6,
+      "qno": 3,
+      "answer": "A",
+      "category": "State",
+      "en": {
+        "question": "Which state signed Shareholders' Agreements worth ₹1,011 crore for the transformation of four Industrial Training Institute (ITI) clusters under the PM-SETU scheme?",
+        "options": {
+          "A": "Telangana",
+          "B": "Andhra Pradesh",
+          "C": "Karnataka",
+          "D": "Maharashtra"
+        },
+        "explanation": "Telangana signed Shareholders' Agreements (SHAs) worth ₹1,011 crore for the transformation of four Industrial Training Institute (ITI) clusters under the PM-SETU scheme. The Ministry of Skill Development and Entrepreneurship (MSDE) signed these agreements with industry partners on November 19, 2026. The four clusters are Old City, Sangareddy, Medchal and Patancheru. The initiative aims to modernise ITI infrastructure, upgrade laboratories with industry-relevant equipment and improve vocational training. It also focuses on aligning training curricula with industry requirements to enhance employment opportunities and strengthen skill development in the state."
+      },
+      "hi": {
+        "question": "किस राज्य ने PM-SETU योजना के तहत चार औद्योगिक प्रशिक्षण संस्थान (ITI) समूहों के परिवर्तन के लिए ₹1,011 करोड़ के शेयरधारक समझौतों पर हस्ताक्षर किए?",
+        "options": {
+          "A": "तेलंगाना",
+          "B": "आंध्र प्रदेश",
+          "C": "कर्नाटक",
+          "D": "महाराष्ट्र"
+        },
+        "explanation": "तेलंगाना ने PM-SETU योजना के तहत चार औद्योगिक प्रशिक्षण संस्थान (ITI) समूहों के परिवर्तन के लिए ₹1,011 करोड़ के शेयरधारक समझौतों (SHAs) पर हस्ताक्षर किए। कौशल विकास और उद्यमिता मंत्रालय (एमएसडीई) ने 19 नवंबर, 2026 को उद्योग भागीदारों के साथ इन समझौतों पर हस्ताक्षर किए। चार क्लस्टर ओल्ड सिटी, संगारेड्डी, मेडचल और पाटनचेरु हैं। इस पहल का उद्देश्य आईटीआई बुनियादी ढांचे का आधुनिकीकरण करना, उद्योग-प्रासंगिक उपकरणों के साथ प्रयोगशालाओं को उन्नत करना और व्यावसायिक प्रशिक्षण में सुधार करना है। यह राज्य में रोजगार के अवसरों को बढ़ाने और कौशल विकास को मजबूत करने के लिए उद्योग की आवश्यकताओं के साथ प्रशिक्षण पाठ्यक्रम को संरेखित करने पर भी ध्यान केंद्रित करता है।"
+      },
+      "gu": {
+        "question": "કયા રાજ્યે PM-SETU યોજના હેઠળ ચાર ઔદ્યોગિક તાલીમ સંસ્થા (ITI) ક્લસ્ટરના પરિવર્તન માટે ₹1,011 કરોડના શેરધારકોના કરાર પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "તેલંગાણા",
+          "B": "આંધ્ર પ્રદેશ",
+          "C": "કર્ણાટક",
+          "D": "મહારાષ્ટ્ર"
+        },
+        "explanation": "તેલંગાણાએ PM-SETU યોજના હેઠળ ચાર ઔદ્યોગિક તાલીમ સંસ્થા (ITI) ક્લસ્ટરના પરિવર્તન માટે ₹1,011 કરોડના શેરધારકોના કરારો (SHAs) પર હસ્તાક્ષર કર્યા. કૌશલ્ય વિકાસ અને સાહસિકતા મંત્રાલય (MSDE) એ 19 નવેમ્બર, 2026 ના રોજ ઉદ્યોગ ભાગીદારો સાથે આ કરારો પર હસ્તાક્ષર કર્યા હતા. ચાર ક્લસ્ટર ઓલ્ડ સિટી, સંગારેડ્ડી, મેડચલ અને પટંચેરુ છે. પહેલનો ઉદ્દેશ ITI ઈન્ફ્રાસ્ટ્રક્ચરને આધુનિક બનાવવા, ઉદ્યોગ-સંબંધિત સાધનો સાથે પ્રયોગશાળાઓને અપગ્રેડ કરવાનો અને વ્યાવસાયિક તાલીમમાં સુધારો કરવાનો છે. તે રાજ્યમાં રોજગારીની તકો વધારવા અને કૌશલ્ય વિકાસને મજબૂત કરવા ઉદ્યોગની જરૂરિયાતો સાથે તાલીમ અભ્યાસક્રમને સંરેખિત કરવા પર પણ ધ્યાન કેન્દ્રિત કરે છે."
+      }
+    },
+    {
+      "id": "2026-11-22-4",
+      "date": "2026-11-22",
+      "qno": 4,
+      "answer": "C",
+      "category": "Sports",
+      "en": {
+        "question": "Which Indian organisation became the first to win the World Sailing 11th Hour Racing Impact Award in 2026?",
+        "options": {
+          "A": "Indian Sailing Federation",
+          "B": "Royal Madras Yacht Club",
+          "C": "Yacht Club of Hyderabad",
+          "D": "Mumbai Yacht Club"
+        },
+        "explanation": "Yacht Club of Hyderabad (YCH) became the first Indian organisation to receive the prestigious World Sailing 11th Hour Racing Impact Award on November 18, 2026, in Qingdao, China. The award recognizes initiatives that contribute to World Sailing's Sustainability Agenda 2030. The club's flagship programme, Project Naavika, focuses on training girls from marginalised backgrounds and preparing them for international competitions such as the Asian Games and World Championships. Founded in 2009 by Suheim Sheikh, the club has also helped 32 sailors join the Indian Navy and Indian Army. It has won 332 national medals and 29 international medals."
+      },
+      "hi": {
+        "question": "कौन सा भारतीय संगठन 2026 में वर्ल्ड सेलिंग 11वें आवर रेसिंग इम्पैक्ट अवार्ड जीतने वाला पहला संगठन बना?",
+        "options": {
+          "A": "भारतीय नौकायन संघ",
+          "B": "रॉयल मद्रास यॉट क्लब",
+          "C": "हैदराबाद का यॉट क्लब",
+          "D": "मुंबई यॉट क्लब"
+        },
+        "explanation": "यॉट क्लब ऑफ हैदराबाद (YCH) 18 नवंबर, 2026 को क़िंगदाओ, चीन में प्रतिष्ठित वर्ल्ड सेलिंग 11वें ऑवर रेसिंग इम्पैक्ट अवार्ड प्राप्त करने वाला पहला भारतीय संगठन बन गया। यह पुरस्कार उन पहलों को मान्यता देता है जो वर्ल्ड सेलिंग's Sustainability Agenda 2030.  club' के प्रमुख कार्यक्रम, प्रोजेक्ट नाविका में योगदान करते हैं, जो हाशिए की पृष्ठभूमि से लड़कियों को प्रशिक्षण देने और उन्हें एशियाई खेलों और विश्व चैंपियनशिप जैसी अंतरराष्ट्रीय प्रतियोगिताओं के लिए तैयार करने पर केंद्रित है। 2009 में सुहेम शेख द्वारा स्थापित, क्लब ने 32 नाविकों को भारतीय नौसेना और भारतीय सेना में शामिल होने में भी मदद की है। इसने 332 राष्ट्रीय पदक और 29 अंतर्राष्ट्रीय पदक जीते हैं।"
+      },
+      "gu": {
+        "question": "કઈ ભારતીય સંસ્થા 2026 માં વર્લ્ડ સેલિંગ 11મી અવર રેસિંગ ઈમ્પેક્ટ એવોર્ડ જીતનાર પ્રથમ બની હતી?",
+        "options": {
+          "A": "ભારતીય સેલિંગ ફેડરેશન",
+          "B": "રોયલ મદ્રાસ યાટ ક્લબ",
+          "C": "હૈદરાબાદની યાટ ક્લબ",
+          "D": "મુંબઈ યાટ ક્લબ"
+        },
+        "explanation": "યાટ ક્લબ ઓફ હૈદરાબાદ (YCH) 18 નવેમ્બર, 2026ના રોજ ચીનના કિંગદાઓ ખાતે પ્રતિષ્ઠિત વર્લ્ડ સેલિંગ 11મી અવર રેસિંગ ઈમ્પેક્ટ એવોર્ડ મેળવનાર પ્રથમ ભારતીય સંસ્થા બની. આ એવોર્ડ વર્લ્ડ સેઇલિંગ's Sustainability Agenda 2030.  club' ના ફ્લેગશિપ પ્રોગ્રામ પ્રોજેક્ટ નાવિકામાં યોગદાન આપતી પહેલોને માન્યતા આપે છે, જે હાંસિયામાં ધકેલાઈ ગયેલી પશ્ચાદભૂની છોકરીઓને તાલીમ આપવા અને તેમને એશિયન ગેમ્સ અને વર્લ્ડ ચેમ્પિયનશિપ જેવી આંતરરાષ્ટ્રીય સ્પર્ધાઓ માટે તૈયાર કરવા પર ધ્યાન કેન્દ્રિત કરે છે. સુહેમ શેખ દ્વારા 2009 માં સ્થપાયેલ, ક્લબએ 32 ખલાસીઓને ભારતીય નૌકાદળ અને ભારતીય સેનામાં જોડાવામાં પણ મદદ કરી છે. તેણે 332 રાષ્ટ્રીય મેડલ અને 29 આંતરરાષ્ટ્રીય મેડલ જીત્યા છે."
+      }
+    },
+    {
+      "id": "2026-11-22-5",
+      "date": "2026-11-22",
+      "qno": 5,
       "answer": "A",
       "category": "Sports",
       "en": {
@@ -69574,6 +69908,43 @@
           "D": "ઈલાવેનિલ વાલારિવાન"
         },
         "explanation": "મનુ ભાકર, ભારત's double Olympic medallist માં shooting, હતું elected ને  આંતરરાષ્ટ્રીય Shooting Sport Federation (ISSF) Athletes Committee માટે  2026–2030 term. Her four-વર્ષ appointment provides her સાથે એક opportunity ને represent athletes માં વૈશ્વિક shooting sports administration. Her priorities include retaining  men'ની 25મી રેપિડ ફાયર પિસ્તોલ સ્પર્ધા ઓલિમ્પિક કાર્યક્રમમાં, ISSF વર્લ્ડ કપમાં ઈનામી રકમમાં વધારો અને સ્પર્ધાના સ્પષ્ટ નિયમો રજૂ કર્યા. તે વિશ્વભરમાં ઉભરતા શૂટર્સ માટે મજબૂત સમર્થનની પણ હિમાયત કરશે. મનુ ભાકરે પેરિસ 2024 ઓલિમ્પિકમાં એક જ ઓલિમ્પિક એડિશનમાં બે મેડલ જીતનાર સ્વતંત્રતા પછીના યુગમાં પ્રથમ ભારતીય એથ્લેટ બનીને ઈતિહાસ રચ્યો હતો."
+      }
+    },
+    {
+      "id": "2026-11-22-6",
+      "date": "2026-11-22",
+      "qno": 6,
+      "answer": "B",
+      "category": "Defence",
+      "en": {
+        "question": "Which organisation signed a Memorandum of Understanding with Central Sanskrit University to provide structured Yoga learning and certification for Agniveervayu personnel?",
+        "options": {
+          "A": "Indian Army",
+          "B": "Indian Air Force",
+          "C": "Indian Navy",
+          "D": "Indian Coast Guard"
+        },
+        "explanation": "The Indian Air Force (IAF) signed a Memorandum of Understanding (MoU) with Central Sanskrit University on November 19, 2026, to provide structured Yoga learning and formal certification opportunities for Agniveervayu personnel. The agreement aims to promote capacity building and skill enhancement through collaboration with higher education institutions. The MoU was signed at Air Headquarters in New Delhi. The IAF was established on October 8, 1932, and is headquartered in New Delhi. The President of India serves as the Supreme Commander of the Indian Air Force."
+      },
+      "hi": {
+        "question": "अग्निवीरवायु कर्मियों के लिए संरचित योग शिक्षा और प्रमाणन प्रदान करने के लिए किस संगठन ने केंद्रीय संस्कृत विश्वविद्यालय के साथ एक समझौता ज्ञापन पर हस्ताक्षर किए?",
+        "options": {
+          "A": "भारतीय सेना",
+          "B": "भारतीय वायु सेना",
+          "C": "भारतीय नौसेना",
+          "D": "भारतीय तट रक्षक"
+        },
+        "explanation": "भारतीय वायु सेना (आईएएफ) ने अग्निवीरवायु कर्मियों के लिए संरचित योग सीखने और औपचारिक प्रमाणन अवसर प्रदान करने के लिए 19 नवंबर, 2026 को केंद्रीय संस्कृत विश्वविद्यालय के साथ एक समझौता ज्ञापन (एमओयू) पर हस्ताक्षर किए। समझौते का उद्देश्य उच्च शिक्षा संस्थानों के साथ सहयोग के माध्यम से क्षमता निर्माण और कौशल वृद्धि को बढ़ावा देना है। नई दिल्ली में वायु सेना मुख्यालय में समझौता ज्ञापन पर हस्ताक्षर किए गए। IAF की स्थापना 8 अक्टूबर, 1932 को हुई थी और इसका मुख्यालय नई दिल्ली में है। भारत के राष्ट्रपति भारतीय वायु सेना के सर्वोच्च कमांडर के रूप में कार्य करते हैं।"
+      },
+      "gu": {
+        "question": "અગ્નિવીરવાયુ કર્મચારીઓ માટે સંરચિત યોગ શિક્ષણ અને પ્રમાણપત્ર પ્રદાન કરવા માટે કઈ સંસ્થાએ કેન્દ્રીય સંસ્કૃત યુનિવર્સિટી સાથે સમજૂતી કરાર પર હસ્તાક્ષર કર્યા?",
+        "options": {
+          "A": "ભારતીય સેના",
+          "B": "ભારતીય વાયુસેના",
+          "C": "ભારતીય નૌકાદળ",
+          "D": "ભારતીય કોસ્ટ ગાર્ડ"
+        },
+        "explanation": "ભારતીય વાયુસેના (IAF) એ 19 નવેમ્બર, 2026 ના રોજ કેન્દ્રીય સંસ્કૃત યુનિવર્સિટી સાથે અગ્નિવીરવાયુ કર્મચારીઓ માટે સંરચિત યોગ શીખવાની અને ઔપચારિક પ્રમાણપત્રની તકો પૂરી પાડવા માટે એક સમજૂતી કરાર (એમઓયુ) પર હસ્તાક્ષર કર્યા. કરારનો હેતુ ઉચ્ચ શિક્ષણ સંસ્થાઓ સાથે સહયોગ દ્વારા ક્ષમતા નિર્માણ અને કૌશલ્ય વૃદ્ધિને પ્રોત્સાહન આપવાનો છે. નવી દિલ્હીમાં એર હેડક્વાર્ટર ખાતે એમઓયુ પર હસ્તાક્ષર કરવામાં આવ્યા હતા. IAF ની સ્થાપના 8 ઓક્ટોબર, 1932ના રોજ કરવામાં આવી હતી અને તેનું મુખ્ય મથક નવી દિલ્હીમાં છે. ભારતના રાષ્ટ્રપતિ ભારતીય વાયુસેનાના સર્વોચ્ચ કમાન્ડર તરીકે સેવા આપે છે."
       }
     },
     {
